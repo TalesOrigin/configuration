@@ -31,14 +31,6 @@ jobs:
     - name: Run Config script and save output to file
       run: cd scripts && python app.py
       
-    - name: Run Warp script and save output to file
-      run: cd scripts && python warp.py
-      
-    - name: Run Splitter script and save output to file
-      run: cd scripts && python sort.py
-
-    - name: Run the script to get the actual subscription link of vmess port 80
-      run: cd scripts && python create_subscription_link.py
 
     - name: Check changes
       run: |
