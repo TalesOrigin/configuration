@@ -42,10 +42,9 @@ def main():
         if is_valid_vmess(vmess_data):
             encoded_data = encode_base64(vmess_data)
             append_to_file(output_file, f"vmess://{encoded_data}")
-           # print(f"Valid VMess link encoded and appended to {output_file}")
+            print(f"Valid VMess link encoded and appended to {output_file}")
         else:
-            #print("Invalid VMess link:", vmess_data)
-            pass
+            print("Invalid VMess link:", vmess_data)
             
 if __name__ == "__main__":
     main()
