@@ -9221,3 +9221,4 @@ vless://3a695ef0-5a70-4c29-b244-e7bb82db7f68@151.101.2.228:80??security=none&typ
 vless://3a695ef0-5a70-4c29-b244-e7bb82db7f68@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://3a695ef0-5a70-4c29-b244-e7bb82db7f68@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://2752d4ae-8a46-4b24-9368-d6c4f7c4fe91@www.speedtest.net:80??path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c60c5eb9-702d-4c76-aa7d-e3d549d428b1@95.85.95.85:80??security=none&type=ws&host=91.241.94.160&path=%2Fbypronk#🔒 VL-WS-NONE 🇱🇺 LU-95.85.95.85:80
