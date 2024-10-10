@@ -170,26 +170,6 @@
         "tls": ""
     },
     {
-        "headertype": "",
-        "path": "/racevpn?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn",
-        "seed": "",
-        "servicename": "none",
-        "id": "b40aefd2-4431-41a0-8623-4d552a730070",
-        "add": "151.101.65.29",
-        "type": "none",
-        "ps": "\ud83d\udd12 VM-WS-NONE \ud83c\uddfa\ud83c\uddf8 US-151.101.65.29:80",
-        "alpn": "",
-        "deviceid": "",
-        "sni": "",
-        "v": "2",
-        "host": "91.341.94.160",
-        "port": "80",
-        "net": "ws",
-        "fp": "",
-        "aid": "0",
-        "tls": "none"
-    },
-    {
         "v": "2",
         "ps": "US61",
         "add": "cfcdn3.sanfencdn9.com",
