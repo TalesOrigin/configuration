@@ -1,23 +1,23 @@
 [
     {
         "v": "2",
-        "ps": "US61",
-        "add": "cfcdn3.sanfencdn9.com",
+        "ps": "\u672a\u77e575",
+        "add": "104.21.71.88",
         "port": "80",
-        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
+        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "none",
+        "type": "",
         "host": "91.341.94.160",
-        "path": "/video/ibCT6z55",
+        "path": "/us2ekjds3nay",
         "tls": "",
         "sni": "",
-        "test_name": "US61"
+        "test_name": "75"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e5101",
+        "ps": "\u672a\u77e589",
         "add": "104.17.148.22",
         "port": "80",
         "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
@@ -29,7 +29,7 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "101"
+        "test_name": "89"
     },
     {
         "add": "172.64.155.209",
@@ -282,23 +282,23 @@
     },
     {
         "v": "2",
-        "ps": "US61",
-        "add": "cfcdn3.sanfencdn9.com",
+        "ps": "\u672a\u77e575",
+        "add": "104.21.71.88",
         "port": "80",
-        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
+        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "none",
+        "type": "",
         "host": "91.341.94.160",
-        "path": "/video/ibCT6z55",
+        "path": "/us2ekjds3nay",
         "tls": "",
         "sni": "",
-        "test_name": "US61"
+        "test_name": "75"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e5101",
+        "ps": "\u672a\u77e589",
         "add": "104.17.148.22",
         "port": "80",
         "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
@@ -310,7 +310,7 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "101"
+        "test_name": "89"
     },
     {
         "v": "2",
