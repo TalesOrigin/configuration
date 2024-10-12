@@ -9266,3 +9266,4 @@ vless://e43e06ff-6a94-4383-adb8-ff7116a9a518@151.101.3.8:80??security=none&sni=w
 vless://26da0427-6253-4585-b6a2-fd34c32d77b7@104.17.148.22:80??security=none&type=ws&host=91.241.94.160&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
 vless://0bc60732-14fc-4ba0-aa60-c2b5e52261fc@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://0bc60732-14fc-4ba0-aa60-c2b5e52261fc@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
+vless://3a695ef0-5a70-4c29-b244-e7bb82db7f68@151.101.2.228:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
