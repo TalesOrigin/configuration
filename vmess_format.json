@@ -1,15 +1,15 @@
 [
     {
-        "add": "151.101.195.10",
+        "add": "www.Kayak.com",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "c0b05000-23dd-4de9-9041-ec130166ff1a",
+        "id": "0c32c3dc-e7f3-482c-b3b1-b68fd8cda65a",
         "net": "ws",
-        "path": "/aries?ed=2048",
+        "path": "/RACEVPN?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn",
         "port": "80",
-        "ps": "Wifi--@V2ray_Alpha-15",
+        "ps": "[\ud83c\uddeb\ud83c\uddf7]t.me/ConfigsHub",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -17,21 +17,21 @@
         "v": "2"
     },
     {
-        "add": "104.22.58.63",
+        "add": "172.66.168.173",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "fd200446-f7f8-4549-b4d8-4a23baea04bf",
+        "id": "83452b53-dabc-4d13-b2e6-b904ffee8f5b",
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
+        "ps": "\u2699\ufe0f5@oneclickvpnkeys",
         "scy": "auto",
         "sni": "",
         "tls": "",
         "type": "",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
+        "v": "2"
     },
     {
         "v": "2",
@@ -123,6 +123,23 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "add": "151.101.193.29",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "7f3e901c-76eb-4480-8803-947e4674ecaa",
+        "net": "ws",
+        "path": "/RACEVPN?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.193.29:80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "v": "2",
