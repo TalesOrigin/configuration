@@ -115,21 +115,30 @@
         "tls": ""
     },
     {
-        "add": "104.26.15.148",
+        "v": "2",
+        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 V2CROSS.COM",
+        "add": "go.alipay.ovh",
+        "port": "80",
+        "type": "none",
+        "id": "a94171be-b387-4f02-a5ef-a1b4b7a26c04",
         "aid": "0",
-        "alpn": "",
-        "fp": "",
+        "net": "ws",
+        "path": "/aries?ed=2048",
         "host": "91.341.94.160",
-        "id": "947cb385-54b4-4453-ac92-63c95ef32a6a",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "172.66.168.173",
+        "port": "80",
+        "type": "none",
+        "id": "83452b53-dabc-4d13-b2e6-b904ffee8f5b",
+        "aid": "0",
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "none",
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.26.15.148:80"
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "v": "2",
