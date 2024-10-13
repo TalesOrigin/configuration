@@ -9315,3 +9315,4 @@ vless://4a9e4e0d-461d-42b0-8105-623220ab7582@151.101.130.228:80??security=none&t
 vless://b3a313ec-7bea-5315-93ee-38ada6002bd8@188.114.97.2:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless-ws%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.2:80
 vless://37984e7a-ffb6-5ec1-87c8-b0a3b5e1d740@104.26.13.8:80??security=none&type=ws&host=91.241.94.160&path=%2FJOIN%2C%40ELiV2RY___JOIN%2C%40ELiV2RY___JOIN%2C%40ELiV2RY___JOIN%2C%40ELiV2RY___JOIN%2C%40ELiV2RY___JOIN%2C%40ELiV2RY___JOIN%2C%40ELiV2RY___JOIN%2C%40ELiV2RY%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.8:80
 vless://baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52@104.21.42.56:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2Bchannel%2B%3A%2B@pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.42.56:80
+vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@173.245.49.116:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.116:80
