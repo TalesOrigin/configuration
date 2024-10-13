@@ -9326,3 +9326,6 @@ vless://5141c571-0bfd-447d-a2e2-0f4aab7e7563@151.101.2.228:80??security=none&typ
 vless://5141c571-0bfd-447d-a2e2-0f4aab7e7563@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://34122889-900a-42dc-a5c0-a570556e6a1a@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2FAOagIIfbJJ0hbXIwCE6mq#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
 vless://5141c571-0bfd-447d-a2e2-0f4aab7e7563@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
+vless://4a0dcc17-98a8-4db7-b4b5-4828487c8226@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://4a0dcc17-98a8-4db7-b4b5-4828487c8226@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://4a0dcc17-98a8-4db7-b4b5-4828487c8226@NUFiLTER.fastly80.hosting-ip.com:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
