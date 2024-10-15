@@ -9418,3 +9418,4 @@ vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@104.19.208.45:80??security=none&sni
 vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@45.85.118.146:80??security=none&sni=30279.olielielie.store.&type=ws&path=/vless&host=91.241.94.160#🔒 VL-WS-NONE 🇷🇴 RO-45.85.118.146:80
 vless://c0259a71-9059-4ba3-9004-17e0b831f023@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://571f64c7-bff0-4d33-8765-56ad2334cb55@104.21.63.51:80??security=none&sni=ca.ailicf.us.kg&type=ws&path=/ascb&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.63.51:80
+vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@23.227.38.114:80??security=none&sni=30279.olielielie.store.&type=ws&path=/vless&host=91.241.94.160#🔒 VL-WS-NONE 🇨🇦 CA-23.227.38.114:80
