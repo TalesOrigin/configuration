@@ -1,23 +1,7 @@
 [
     {
         "v": "2",
-        "ps": "US16",
-        "add": "deji.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US16"
-    },
-    {
-        "v": "2",
-        "ps": "US31",
+        "ps": "US70",
         "add": "blang.kcapsys.com",
         "port": "80",
         "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
@@ -29,7 +13,7 @@
         "path": "/",
         "tls": "",
         "sni": "",
-        "test_name": "US31"
+        "test_name": "US70"
     },
     {
         "add": "151.101.195.10",
@@ -92,41 +76,25 @@
         "tls": ""
     },
     {
-        "add": "104.26.15.148",
+        "add": "172.66.168.173",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "947cb385-54b4-4453-ac92-63c95ef32a6a",
+        "id": "f1fb28e5-e5b6-450c-972c-13235c94285c",
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.66.168.173:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "none",
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.26.15.148:80"
-    },
-    {
-        "v": "2",
-        "ps": "US16",
-        "add": "deji.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
         "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US16"
+        "v": "2"
     },
     {
         "v": "2",
-        "ps": "US31",
+        "ps": "US70",
         "add": "blang.kcapsys.com",
         "port": "80",
         "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
@@ -138,7 +106,7 @@
         "path": "/",
         "tls": "",
         "sni": "",
-        "test_name": "US31"
+        "test_name": "US70"
     },
     {
         "v": "2",
