@@ -29,23 +29,6 @@
         "tls": ""
     },
     {
-        "add": "185.146.173.52",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "e2b683fe-5b91-5f62-906a-e720ba96cf97",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddf8\ud83c\uddea SE-185.146.173.52:80",
-        "scy": "none",
-        "sni": "fr2.vmess.site",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "US53",
         "add": "blang.kcapsys.com",
