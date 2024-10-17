@@ -9504,3 +9504,4 @@ vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@151.101.194.228:80??security=none&t
 vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
 vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://52871f85-496e-47a2-a6cd-48cfda5952e5@151.101.2.216:80??path=%2Ftelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
