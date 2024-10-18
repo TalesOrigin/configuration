@@ -9529,3 +9529,6 @@ vless://66726565-7670-4e2e-b573-2d686a713172@172.67.1.191:80??security=none&type
 vless://eb68a74a-f1b2-576f-97db-d851cb651194@104.21.12.90:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.90:80
 vless://66726565-7670-4e2e-b573-2d686a713172@104.20.6.134:80??security=none&type=ws&host=91.241.94.160&path=%2Ffreevpn%2Ffreevpn.us-hjq1rg1%2FHK#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.6.134:80
 vless://66726565-7670-4e2e-b573-2d686a713172@104.20.5.134:80??security=none&type=ws&host=91.241.94.160&path=%2Ffreevpn%2Ffreevpn.us-hjq1rg1%2FHK#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.5.134:80
+vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@151.101.194.228:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
+vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@151.101.130.228:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
+vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@151.101.2.228:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
