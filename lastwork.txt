@@ -9546,3 +9546,5 @@ vless://eb68a74a-f1b2-576f-97db-d851cb651194@104.21.12.90:80??security=none&type
 vless://80913718-f452-4fe1-8353-68bdfba40c74@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://d00d39f2-9e46-5ce3-a4e0-cca3bf8ba2d6@172.67.169.56:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.169.56:80
 vless://3eef6f0a-d63e-4a29-af16-494154a2a4ae@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
+vless://6a653d76-cefb-4822-b419-0731ac15728e@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://6a653d76-cefb-4822-b419-0731ac15728e@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
