@@ -17,6 +17,19 @@
     },
     {
         "v": "2",
+        "ps": "\u745e\u5178 v2rayfree.eu.org",
+        "add": "185.146.173.52",
+        "port": "80",
+        "type": "none",
+        "id": "e2b683fe-5b91-5f62-906a-e720ba96cf97",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmess",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 V2CROSS.COM",
         "add": "go.alipay.ovh",
         "port": "80",
