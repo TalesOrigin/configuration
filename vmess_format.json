@@ -97,7 +97,7 @@
         "tls": ""
     },
     {
-        "add": "151.101.130.133",
+        "add": "151.101.2.133",
         "aid": "0",
         "alpn": "",
         "fp": "",
@@ -106,7 +106,7 @@
         "net": "ws",
         "path": "/racevpn",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.130.133:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.133:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -658,48 +658,6 @@
         "tls": "",
         "type": "",
         "v": "2"
-    },
-    {
-        "add": "172.67.116.48",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "tls": "",
-        "type": "",
-        "v": 2,
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
-    },
-    {
-        "add": "172.67.116.48",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "tls": "",
-        "type": "",
-        "v": 2,
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
-    },
-    {
-        "add": "172.67.116.48",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "tls": "",
-        "type": "",
-        "v": 2,
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
     },
     {
         "add": "172.67.116.48",
