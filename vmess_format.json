@@ -1,7 +1,7 @@
 [
     {
         "v": "2",
-        "ps": "US18",
+        "ps": "US38",
         "add": "deji.kcapsys.com",
         "port": "80",
         "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
@@ -13,11 +13,11 @@
         "path": "/",
         "tls": "",
         "sni": "",
-        "test_name": "US18"
+        "test_name": "US38"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e598",
+        "ps": "\u672a\u77e573",
         "add": "104.17.148.22",
         "port": "80",
         "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
@@ -29,7 +29,7 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "98"
+        "test_name": "73"
     },
     {
         "v": "2",
@@ -63,7 +63,7 @@
     },
     {
         "v": "2",
-        "ps": "US18",
+        "ps": "US38",
         "add": "deji.kcapsys.com",
         "port": "80",
         "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
@@ -75,11 +75,11 @@
         "path": "/",
         "tls": "",
         "sni": "",
-        "test_name": "US18"
+        "test_name": "US38"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e598",
+        "ps": "\u672a\u77e573",
         "add": "104.17.148.22",
         "port": "80",
         "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
@@ -91,7 +91,7 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "98"
+        "test_name": "73"
     },
     {
         "v": "2",
