@@ -9828,3 +9828,4 @@ vless://c3a94d50-faea-4e95-8224-482d00897f98@151.101.3.8:80??security=none&type=
 vless://b7dc61b1-5ff2-429b-a02e-08f178bc5eeb@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
 vless://a9b97fe6-b428-4522-93e3-456b7c10a9e0@151.101.2.216:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
 vless://b7dc61b1-5ff2-429b-a02e-08f178bc5eeb@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b7dc61b1-5ff2-429b-a02e-08f178bc5eeb@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
