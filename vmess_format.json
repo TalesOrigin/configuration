@@ -16,32 +16,6 @@
         "test_name": "22"
     },
     {
-        "v": "2",
-        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 V2CROSS.COM",
-        "add": "go.alipay.ovh",
-        "port": "80",
-        "type": "none",
-        "id": "a94171be-b387-4f02-a5ef-a1b4b7a26c04",
-        "aid": "0",
-        "net": "ws",
-        "path": "/aries?ed=2048",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd Fastly\u5168\u7403Anycast\u8282\u70b9",
-        "add": "151.101.2.133",
-        "port": "80",
-        "type": "none",
-        "id": "a888b89a-08ac-40e6-8ad7-cfce9569f967",
-        "aid": "0",
-        "net": "ws",
-        "path": "/racevpn",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "151.101.130.133",
         "aid": "0",
         "alpn": "",
