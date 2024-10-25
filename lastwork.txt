@@ -9876,3 +9876,4 @@ vless://7cf91257-983e-4254-b604-06b8026f2f35@151.101.64.155:80??security=none&ty
 vless://c604a918-7a77-4361-afda-95e38f0587fd@151.101.2.216:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-Xv2ry2-6%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://b49cb14c-de45-406e-be43-2df45c37681c@151.101.2.216:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&path=%2Fhttp&host=91.241.94.160#🔒 VL-WS-NONE 🇬🇧 GB-162.19.228.119:80
