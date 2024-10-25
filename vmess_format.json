@@ -74,6 +74,7 @@
     },
     {
         "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.133:80",
         "add": "151.101.2.133",
         "port": "80",
         "aid": 0,
@@ -84,8 +85,7 @@
         "id": "a888b89a-08ac-40e6-8ad7-cfce9569f967",
         "sni": "",
         "host": "91.341.94.160",
-        "path": "/racevpn",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.133:80"
+        "path": "/racevpn"
     },
     {
         "v": "2",
