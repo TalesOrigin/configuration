@@ -988,11 +988,13 @@ def main():
     # Append the filtered lines to the output file
     append_to_file(output_file_path, filtered_lines)
 
-    keywords_to_search = ["#%E6%B3%95%E5%9B%BD"] 
+    keywords_to_search = ["#%E6%B3%95%E5%9B%BD","FR_speednode"] 
     filtered_lines = filter_lines(output_file_path, keywords_to_search)
 
         # Append the filtered lines to the output file
     append_to_file(output_file_path2, filtered_lines)
+    main_file = '../Grand.txt'  # Replace with the path to your output file
+    remove_duplicates(output_file_path2, main_file)
 
 if __name__ == "__main__":
     main()
