@@ -1,20 +1,29 @@
 [
     {
-        "add": "151.101.2.133",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "a888b89a-08ac-40e6-8ad7-cfce9569f967",
-        "net": "ws",
-        "path": "/racevpn",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
         "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.133:80"
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "hsj.lbxjc.online",
+        "port": "80",
+        "type": "auto",
+        "id": "e6543319-0574-42ac-b778-1c4325d626f5",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 v2rayfree.eu.org",
+        "add": "go.alipay.ovh",
+        "port": "80",
+        "type": "none",
+        "id": "a94171be-b387-4f02-a5ef-a1b4b7a26c04",
+        "aid": "0",
+        "net": "ws",
+        "path": "/aries?ed=2048",
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "add": "108.162.193.143",
