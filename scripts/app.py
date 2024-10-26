@@ -976,17 +976,20 @@ def main():
 
     input_file_path = '../finalwork2.txt'  # Replace with the path to your input file
     output_file_path = '../lastwork.txt'  # Replace with the path to your output file
+    output_file_path2 = '../lastwork2.txt'  # Replace with the path to your output file
     keywords_to_search = ['VL-WS-NONE', 'vvkj11', 'speednode','configs_pool']  # Replace with words/texts you're filtering for
 
     # Get the filtered lines in an array
     filtered_lines = filter_lines(input_file_path, keywords_to_search)
 
     # Check single or multiple filtered lines (you can print them or perform further checks)
-    print(f"Filtered lines: {filtered_lines}")
+    #print(f"Filtered lines: {filtered_lines}")
 
     # Append the filtered lines to the output file
     append_to_file(output_file_path, filtered_lines)
 
+    keywords_to_search = ["#%E6%B3%95%E5%9B%BD"] 
+    filtered_lines = filter_lines(output_file_path2, keywords_to_search)
 
 if __name__ == "__main__":
     main()
