@@ -988,7 +988,7 @@ def main():
     # Append the filtered lines to the output file
     append_to_file(output_file_path, filtered_lines)
 
-    keywords_to_search = ["FR_speednode","France","FR-","DE-","DE"] 
+    keywords_to_search = ["FR_speednode","France","FR-"] 
     filtered_lines = filter_lines(output_file_path, keywords_to_search)
 
         # Append the filtered lines to the output file
