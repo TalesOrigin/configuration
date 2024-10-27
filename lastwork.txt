@@ -9968,3 +9968,5 @@ vless://27016d6e-1f62-5805-a7e6-32c32006c307@151.101.2.219:80??security=none&typ
 vless://9c026691-b79d-4e6d-b408-6a1ef928855f@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
 vless://9c026691-b79d-4e6d-b408-6a1ef928855f@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://9c026691-b79d-4e6d-b408-6a1ef928855f@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
+vless://27016d6e-1f62-5805-a7e6-32c32006c307@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=/Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
+vless://9c026691-b79d-4e6d-b408-6a1ef928855f@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
