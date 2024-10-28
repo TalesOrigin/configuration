@@ -10022,3 +10022,4 @@ vless://a94f7067-4854-4718-8032-feadb4543eff@151.101.2.216:80??security=none&typ
 vless://2b00a438-d2df-5896-87a0-a55c7fb837a4@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%2F@ELiV2ray-@ELiV2ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://2b00a438-d2df-5896-87a0-a55c7fb837a4@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=%2F@ELiV2ray-@ELiV2ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
 vless://2b00a438-d2df-5896-87a0-a55c7fb837a4@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2F@ELiV2ray-@ELiV2ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
+vless://2b00a438-d2df-5896-87a0-a55c7fb837a4@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=%2F@ELiV2ray-@ELiV2ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
