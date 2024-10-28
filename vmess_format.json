@@ -1,20 +1,20 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd_66",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd",
         "add": "speed.cloudflare.com",
         "port": "80",
         "type": "none",
         "id": "76221bfb-e92f-4e80-81c5-6fe48f50ac0b",
         "aid": "0",
         "net": "ws",
-        "path": "/",
+        "path": "/glweidf.sbs/linkws",
         "host": "91.341.94.160",
         "tls": ""
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd_67",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd",
         "add": "hsj.lbxjc.online",
         "port": "80",
         "type": "none",
@@ -27,7 +27,7 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd_68",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd",
         "add": "usnew.lbxjc.site",
         "port": "80",
         "type": "none",
@@ -133,7 +133,7 @@
         "net": "ws",
         "path": "/racevpn",
         "port": "80",
-        "ps": "@Vip_Security join us - 103\n",
+        "ps": "@Vip_Security join us - 418\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
