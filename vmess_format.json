@@ -1,10 +1,10 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd",
-        "add": "usnew.lbxjc.site",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "hsj.lbxjc.online",
         "port": "80",
-        "type": "none",
+        "type": "auto",
         "id": "e6543319-0574-42ac-b778-1c4325d626f5",
         "aid": "0",
         "net": "ws",
@@ -116,7 +116,7 @@
         "net": "ws",
         "path": "/racevpn",
         "port": "80",
-        "ps": "@Vip_Security join us - 541\n",
+        "ps": "@Vip_Security join us - 543\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
