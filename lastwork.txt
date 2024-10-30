@@ -10130,3 +10130,6 @@ vless://%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52@151.101.2.216:80??pa
 vless://8e200129-f030-488e-8976-4ca835e05672@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
 vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
 vless://befb1e37-4777-5224-b435-330c0bc05227@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=/@ELiV2RaY-@ELiV2RaY%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
+vless://befb1e37-4777-5224-b435-330c0bc05227@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=/@ELiV2RaY-@ELiV2RaY%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
+vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
