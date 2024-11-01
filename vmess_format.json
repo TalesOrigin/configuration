@@ -1,14 +1,27 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.17.213.241",
+        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 v2rayfree.eu.org",
+        "add": "195.85.59.95",
         "port": "80",
         "type": "none",
-        "id": "e6543319-0574-42ac-b778-1c4325d626f5",
+        "id": "a94171be-b387-4f02-a5ef-a1b4b7a26c04",
         "aid": "0",
         "net": "ws",
-        "path": "/",
+        "path": "/aries?ed=2048",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "104.16.60.8",
+        "port": "80",
+        "type": "none",
+        "id": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/obdii.cfd/linkws",
         "host": "91.341.94.160",
         "tls": ""
     },
