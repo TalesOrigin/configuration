@@ -10216,3 +10216,4 @@ vless://19b3cbba-e6ac-485a-9481-926a0415eab2@172.67.189.174:80??path=%2F&securit
 vless://e78d9575-2052-4d32-bc80-4435b1045a3b@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://fdb65f69-2bf5-434c-92b7-e547aa6af08b@151.101.194.133:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80
 vless://2bb0714c-6d82-525d-a934-bfda300d61e3@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=/@ELiV2RaY-@ELiV2RaY%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
+vless://2eb5b712-118b-4c15-8d31-ec77a9c3b028@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FVLESS%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
