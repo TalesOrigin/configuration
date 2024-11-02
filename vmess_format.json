@@ -145,23 +145,6 @@
         "v": "2"
     },
     {
-        "add": "plex.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "a888b89a-08ac-40e6-8ad7-cfce9569f967",
-        "net": "ws",
-        "path": "/racevpn",
-        "port": "80",
-        "ps": "@Vip_Security join us - 454\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "172.67.221.19",
         "aid": "0",
         "alpn": "",
