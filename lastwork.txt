@@ -10370,3 +10370,4 @@ vless://9867495d-e46b-40c6-96ee-fa705afcacdf@151.101.128.155:80??security=none&t
 vless://9867495d-e46b-40c6-96ee-fa705afcacdf@151.101.192.155:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.204:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇸🇬 SG-206.238.236.204:80
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80??security=&type=ws&path=/Telegram-Xv2ry2-7?ed%3D2048&host=91.241.94.160&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2310f6ba-9e7f-4989-8f51-2125591f6c81@151.101.2.228:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
