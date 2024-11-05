@@ -10398,3 +10398,5 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@199.34.228.143:80??security=none&ty
 vless://a4480b26-f3c1-480e-bac5-8a3f44ea3cc0@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2FVLESS%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
 vless://8b79be53-c9e8-45ce-8434-51f6cce1c741@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80??path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.34.188:80
+vless://TELEGRAM-NUFiLTER@151.101.0.155:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
