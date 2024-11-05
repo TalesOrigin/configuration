@@ -10413,3 +10413,5 @@ vless://714b013c-0721-4900-8f8b-4f0cb1f62b88@151.101.64.155:80??security=none&ty
 vless://ce69b108-1ef2-4ad8-a7a8-ff0409956762@85.133.201.143:80??security=none&type=ws&path=%2FDr&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-85.133.201.143:80
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@172.67.130.66:80??encryption=none&type=ws&path=%2F&host=91.241.94.160&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.#158-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.130.66%3A80
 vless://c0abcd58-3595-4e49-9593-b05a5f0f306d@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
+vless://4639cda7-0742-4bcd-ab1e-b7c879c2189c@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2Fv2pedia%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://714b013c-0721-4900-8f8b-4f0cb1f62b88@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
