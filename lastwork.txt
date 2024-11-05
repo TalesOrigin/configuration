@@ -10415,3 +10415,4 @@ vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@172.67.130.66:80??encryption=none&t
 vless://c0abcd58-3595-4e49-9593-b05a5f0f306d@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://4639cda7-0742-4bcd-ab1e-b7c879c2189c@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2Fv2pedia%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
 vless://714b013c-0721-4900-8f8b-4f0cb1f62b88@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
+vless://9d82150f-54ad-4cb5-a390-91d94398f5f0@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
