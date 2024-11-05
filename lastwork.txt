@@ -10395,3 +10395,5 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.218.7:80??security=none&type
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.37.15:80??security=none&type=ws&host=91.241.94.160&path=%2FBCXzvAcvSB7JzMWj%3Fed#🔒 VL-WS-NONE 🇺🇸 US-199.232.37.15:80
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.95:80??security=none&type=ws&host=91.241.94.160&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-NONE 🇺🇸 US-69.84.182.95:80
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@199.34.228.143:80??security=none&type=ws&host=91.241.94.160&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-NONE 🇺🇸 US-199.34.228.143:80
+vless://a4480b26-f3c1-480e-bac5-8a3f44ea3cc0@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2FVLESS%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://8b79be53-c9e8-45ce-8434-51f6cce1c741@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
