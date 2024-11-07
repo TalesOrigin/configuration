@@ -1,14 +1,14 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 V2CROSS.COM",
-        "add": "195.85.59.161",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd",
+        "add": "speed.cloudflare.com",
         "port": "80",
         "type": "none",
-        "id": "a94171be-b387-4f02-a5ef-a1b4b7a26c04",
+        "id": "76221bfb-e92f-4e80-81c5-6fe48f50ac0b",
         "aid": "0",
         "net": "ws",
-        "path": "/aries?ed=2048",
+        "path": "/glweidf.sbs/linkws",
         "host": "91.341.94.160",
         "tls": ""
     },
@@ -115,6 +115,23 @@
         "v": "2"
     },
     {
+        "add": "172.64.155.209",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ea7747d7-0f2b-4bce-89c8-3b1c65450bf2",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "@Vip_Security join us - 382\n",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "162.159.136.98",
         "aid": "0",
         "alpn": "",
@@ -124,7 +141,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 381\n",
+        "ps": "@Vip_Security join us - 380\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
