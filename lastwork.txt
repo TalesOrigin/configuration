@@ -10543,3 +10543,4 @@ vless://e10bc536-93c2-4aa3-81db-d8b9ad67b7a4@151.101.64.155:80??security=none&ty
 vless://e10bc536-93c2-4aa3-81db-d8b9ad67b7a4@151.101.128.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
 vless://f2ac1b7c-2fce-4d2f-afee-1dc33baa85aa@151.101.2.216:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
 vless://e10bc536-93c2-4aa3-81db-d8b9ad67b7a4@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
+vless://ab8a989e-ccce-4e0d-9aa7-8ae87928858c@185.146.173.58:80??security=none&type=ws&host=91.241.94.160&path=%2Fservernett#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.58:80
