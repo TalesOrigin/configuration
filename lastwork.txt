@@ -10587,3 +10587,6 @@ vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@www.speedtest.net:80??allowInsecure
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80??allowInsecure=0&sni=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws&host=91.241.94.160&path=/Telegram-Xv2ry2?ed=512fp=chromefp=chromefp=chrome#15|US_speednode_0167
 vless://818e71d2-d243-46fc-94d2-10f3ea9d2d56@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://84c99d36-5f84-4f45-97b9-547f4d6b83d2@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://9cbe7791-7d04-5d71-89c9-92d4cff083cc@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://9cbe7791-7d04-5d71-89c9-92d4cff083cc@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://49699004-a1ba-4621-9744-3d41e98040a9@92.118.190.131:80??security=none&type=ws&host=91.241.94.160&path=%2Ftf3gqdlcz4d9ATYNtIiFQxNPNVWGh#🔒 VL-WS-NONE 🇩🇪 DE-92.118.190.131:80
