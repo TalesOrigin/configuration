@@ -1,58 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "172.67.221.19",
-        "port": "80",
-        "type": "none",
-        "id": "20017157-c258-4aba-8f66-efb5d0b92f6c",
-        "aid": "0",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.18.84.104",
-        "port": "80",
-        "type": "none",
-        "id": "211d8a34-9c48-4435-b4bf-343ae1cbda0e",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "172.67.64.120",
-        "port": "80",
-        "type": "none",
-        "id": "b4495b97-bc8a-4b3b-a1e8-aae1d503e8ca",
-        "aid": "0",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "162.159.128.248",
-        "port": "80",
-        "type": "auto",
-        "id": "211d8a34-9c48-4435-b4bf-343ae1cbda0e",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\u7535\u62a5\u7fa4\uff1ahttps://t.me/vvkj11",
         "add": "pq-brazil1.09vpn.com",
         "port": "80",
