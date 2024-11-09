@@ -10561,3 +10561,4 @@ vless://fd8bb8f2-3f01-4c43-8cf4-7b43f9304219@151.101.66.228:80??security=none&sn
 vless://fd8bb8f2-3f01-4c43-8cf4-7b43f9304219@151.101.194.228:80??security=none&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://60865e84-af76-4132-b488-78c9c584d0d1@172.67.66.177:80??security=none&type=ws&host=91.241.94.160&path=%2FnekooOo%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.177:80
 vless://60865e84-af76-4132-b488-78c9c584d0d1@104.24.197.20:80??security=none&type=ws&host=91.241.94.160&path=%2FnekooOo%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.197.20:80
+vless://60865e84-af76-4132-b488-78c9c584d0d1@104.24.196.20:80??security=none&type=ws&host=91.241.94.160&path=%2FnekooOo%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.196.20:80
