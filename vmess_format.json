@@ -13,23 +13,6 @@
         "tls": ""
     },
     {
-        "add": "104.18.20.153",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "7e0eec71-4bf0-4841-a083-4201226d0616",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.18.20.153:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "188.114.96.221",
         "aid": "0",
         "alpn": "",
