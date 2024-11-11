@@ -10649,3 +10649,5 @@ vless://40168c82-d975-4cdb-867b-59d5e8f42f26@199.232.0.18:80??security=none&type
 vless://c4ce9f87-b7b1-4e49-b06c-f726be2a0f70@151.101.66.228:80??security=none&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://c4ce9f87-b7b1-4e49-b06c-f726be2a0f70@151.101.194.228:80??security=none&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://74b26995-c62a-4a7b-88ea-ecd5f55519c4@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://64a86831-b399-4dca-9c5f-244fbab0353b@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
+vless://64a86831-b399-4dca-9c5f-244fbab0353b@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
