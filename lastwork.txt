@@ -10692,3 +10692,14 @@ vless://07b73107-f52d-54f1-8010-b9c8d1751a31@151.101.194.219:80??security=none&t
 vless://07b73107-f52d-54f1-8010-b9c8d1751a31@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
 vless://ffd4d63d-9482-488e-9f20-96bd3db3c705@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://d7b32d7d-b7cf-4cc2-86e6-24cc0964ae5d@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
+vless://ab8a989e-ccce-4e0d-9aa7-8ae87928858c@185.146.173.58:80??allowInsecure=0&sni=lc74.lebasnoo.ir.&type=ws&host=91.241.94.160&path=/servernettfp=chrome#15|SE_speednode_0034
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=0&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=chrome#15|US_speednode_0051
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=0&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=chromefp=chrome#15|US_speednode_0054
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=1&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=ios#15|US_speednode_0056
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=1&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=chromefp=chromefp=chromefp=chrome#15|US_speednode_0058
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=1&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=chromefp=chromefp=chrome#15|US_speednode_0070
+vless://41bc353e-bda3-5e7f-a755-fbb5d98b1dce@185.146.173.94:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.94:80
+vless://edeca314-5a2c-5936-a14e-f9b103103883@172.67.171.49:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.49:80
+vless://51741fc6-b3f4-5da8-9d46-314062a620a5@185.146.173.99:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.99:80
+vless://a1160a61-2703-5c7a-8e70-ddaf0bc9e0fc@185.146.173.92:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.92:80
+vless://fe945275-51a2-5c3c-8669-2c112ed35cec@185.146.173.24:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.24:80
