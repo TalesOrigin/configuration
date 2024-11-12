@@ -1,5 +1,18 @@
 [
     {
+        "v": "2",
+        "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
+        "add": "185.146.173.59",
+        "port": "80",
+        "type": "none",
+        "id": "1052f24e-7b09-45eb-b0c5-d858eb124192",
+        "aid": "0",
+        "net": "ws",
+        "path": "/glweidf.cfd/linkws",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "104.22.58.63",
         "aid": "0",
         "alpn": "",
@@ -78,6 +91,23 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
         "ps": "\ud83d\udd14ConfigV2RayNG",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
+        "add": "104.22.58.63",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "fb1151f9-0d11-452a-aab2-c9f904a6ab30",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "@Vip_Security join us - 363\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
