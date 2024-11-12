@@ -10706,3 +10706,4 @@ vless://fe945275-51a2-5c3c-8669-2c112ed35cec@185.146.173.24:80??security=none&ty
 vless://1ffadc0e-009e-4ad8-99a3-d0d2eb2f9a24@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://1ffadc0e-009e-4ad8-99a3-d0d2eb2f9a24@151.101.128.155:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
 vless://5f6e1662-ba89-4d92-9e7b-73e491eaed8a@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://1ffadc0e-009e-4ad8-99a3-d0d2eb2f9a24@151.101.192.155:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
