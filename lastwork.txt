@@ -10724,3 +10724,13 @@ vless://14fe6ac2-ecd0-4d91-be99-fd8b1c556255@151.101.3.8:80??security=none&type=
 vless://cd0a48f0-b40f-4aca-931a-704d6f1ace2c@151.101.2.216:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
 vless://cd0a48f0-b40f-4aca-931a-704d6f1ace2c@151.101.3.8:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://cd0a48f0-b40f-4aca-931a-704d6f1ace2c@151.101.2.165:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://fe945275-51a2-5c3c-8669-2c112ed35cec@185.146.173.24:80??allowInsecure=0&sni=Nl1.vless.site.&type=ws&host=91.241.94.160&path=/vlessfp=chrome#15|SE_speednode_0033
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=0&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=chrome#15|US_speednode_0037
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80??allowInsecure=0&sni=www.speedtest.net.nl1.78.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws&host=91.241.94.160&path=/Telegram-Xv2ry2?ed=512fp=chrome#15|US_speednode_0038
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=1&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=chromefp=chromefp=chromefp=chrome#15|US_speednode_0039
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80??allowInsecure=0&sni=www.speedtest.net.nl1.78.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&alpn=http/1.1&type=ws&host=91.241.94.160&path=/Telegram-Xv2ry2?ed=512fp=chrome#15|US_speednode_0040
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=1&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=chromefp=chromefp=chromefp=chromefp=chrome#15|US_speednode_0042
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=1&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=chromefp=chromefp=chrome#15|US_speednode_0047
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=1&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560fp=iosfp=chrome#15|US_speednode_0048
+vless://1ffadc0e-009e-4ad8-99a3-d0d2eb2f9a24@spdnet.fastly80-2.hosting-ip.com:80??allowInsecure=0&sni=Siperspdservicefree.ir&type=ws&host=91.241.94.160&path=/Channel,SPDNET,SPDNET?ed=443fp=chrome#15|US_speednode_0052
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@104.19.48.236:80??encryption=none&type=ws&path=%2F%40VPNHTTPInjectorfree&host=91.241.94.160&security=none&alpn=h2%2Chttp%2F1.1&fp=edge&sni=v2ra1.ecrgpk.workers.dev#138-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
