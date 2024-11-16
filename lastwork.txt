@@ -10865,3 +10865,5 @@ vless://51741fc6-b3f4-5da8-9d46-314062a620a5@185.146.173.99:80??security=none&ty
 vless://5986d144-d618-46bd-9e51-14ecba270c68@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
 vless://5986d144-d618-46bd-9e51-14ecba270c68@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
 vless://5986d144-d618-46bd-9e51-14ecba270c68@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
+vless://5986d144-d618-46bd-9e51-14ecba270c68@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
+vless://%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52@151.101.194.133:80??path=%2Ftelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
