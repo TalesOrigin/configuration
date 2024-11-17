@@ -10930,3 +10930,6 @@ vless://9814e572-5eac-43bd-987a-77d59ed36575@151.101.3.8:80??path=%2FTelegram-ip
 vless://00c8ac22-505d-4229-9a71-7bd98f2eaead@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://1ce421d0-2f41-4420-82cc-386e5f51ea05@151.101.2.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.133:80
 vless://1ce421d0-2f41-4420-82cc-386e5f51ea05@151.101.194.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80
+vless://1ce421d0-2f41-4420-82cc-386e5f51ea05@151.101.130.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.133:80
+vless://e890d251-0ee6-5080-a43e-a77b9232f88e@speedtest.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80??security=&type=ws&path=/Telegram-Xv2ry2?ed%3D512&host=91.241.94.160&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
