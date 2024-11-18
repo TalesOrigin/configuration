@@ -11062,3 +11062,5 @@ vless://dd69e05a-5550-4805-ace9-504213d2e76a@151.101.130.133:80??security=none&t
 vless://c48f979c-ff35-4784-88b3-f54dca8215d6@104.17.148.22:80??security=none&type=ws&host=91.241.94.160&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
 vless://dd69e05a-5550-4805-ace9-504213d2e76a@151.101.2.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.133:80
 vless://dd69e05a-5550-4805-ace9-504213d2e76a@151.101.194.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80
+vless://4de436e7-0930-4766-ac2a-a6e40d414da3@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
+vless://SVNTEAM@svnteam.fastly80-2.hosting-ip.com:80??path=%2FSvnTeam-Channel%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
