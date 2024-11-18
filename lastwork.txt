@@ -11059,3 +11059,6 @@ vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:80??encryption=none&ty
 vless://dd69e05a-5550-4805-ace9-504213d2e76a@151.101.66.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.133:80
 vless://79fc4bf6-fd2d-4714-98d7-eadec83d7115@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://dd69e05a-5550-4805-ace9-504213d2e76a@151.101.130.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.133:80
+vless://c48f979c-ff35-4784-88b3-f54dca8215d6@104.17.148.22:80??security=none&type=ws&host=91.241.94.160&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
+vless://dd69e05a-5550-4805-ace9-504213d2e76a@151.101.2.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.133:80
+vless://dd69e05a-5550-4805-ace9-504213d2e76a@151.101.194.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80
