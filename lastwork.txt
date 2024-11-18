@@ -11056,3 +11056,6 @@ vless://8f0a5cdf-b2ab-4e35-8e38-cc13266306ef@151.101.2.216:80??security=none&typ
 vless://79fc4bf6-fd2d-4714-98d7-eadec83d7115@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://8f0a5cdf-b2ab-4e35-8e38-cc13266306ef@151.101.3.8:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:80??encryption=none&type=ws&path=%2F%3Fed%3D2048&host=91.241.94.160&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=private-codmhttp.teqqlzdw.workers.dev#128-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
+vless://dd69e05a-5550-4805-ace9-504213d2e76a@151.101.66.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.133:80
+vless://79fc4bf6-fd2d-4714-98d7-eadec83d7115@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
+vless://dd69e05a-5550-4805-ace9-504213d2e76a@151.101.130.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.133:80
