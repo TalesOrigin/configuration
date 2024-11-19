@@ -11113,3 +11113,4 @@ vless://fea4d9c0-1d37-4115-9495-b42f5c895e9f@151.101.0.155:80??security=none&typ
 vless://c8289bdc-dd20-4eaa-b929-ead4909c7c9e@104.31.16.104:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.104:80
 vless://fea4d9c0-1d37-4115-9495-b42f5c895e9f@151.101.194.133:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80
 vless://a1160a61-2703-5c7a-8e70-ddaf0bc9e0fc@185.146.173.92:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2F%24%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
