@@ -11081,3 +11081,4 @@ vless://491f5400-999c-47f1-bd9b-d76dc7f43846@151.101.3.8:80??path=%2FTelegram-ip
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=0&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560#15|US_speednode_0033
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.129.60:80
 vless://76780b88-84e9-464a-99bf-dbd6071eff23@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
+vless://a35455ae-1b58-4b62-bf8f-562dce2e0403@104.21.194.230:80??encryption=none&type=ws&path=%2FEgtmjve0wRi0ETyt%3Fed%3D2560&host=91.241.94.160&security=none&alpn=http%2F1.1&fp=firefox&sni=arkasurf.surfboardc16.workers.dev#134-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
