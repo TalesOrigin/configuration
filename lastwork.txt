@@ -11079,3 +11079,4 @@ vless://9814e572-5eac-43bd-987a-77d59ed36575@151.101.3.8:80??security=none&type=
 vless://175edc2a-1d86-4614-b550-3c56142c544c@151.101.3.8:80??path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://491f5400-999c-47f1-bd9b-d76dc7f43846@151.101.3.8:80??path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80??allowInsecure=0&sni=samane.ir&type=ws&host=91.241.94.160&path=/4u7lAS4nPLtz0xPz?ed=2560#15|US_speednode_0033
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.129.60:80

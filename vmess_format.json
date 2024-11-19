@@ -1,7 +1,7 @@
 [
     {
         "v": "2",
-        "ps": "\u672a\u77e5116",
+        "ps": "\u672a\u77e529",
         "add": "104.19.37.43",
         "port": "80",
         "id": "d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec",
@@ -13,7 +13,7 @@
         "path": "/d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec-vmess",
         "tls": "",
         "sni": "",
-        "test_name": "116"
+        "test_name": "29"
     },
     {
         "v": "2",
@@ -73,7 +73,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e5116",
+        "ps": "\u672a\u77e529",
         "add": "104.19.37.43",
         "port": "80",
         "id": "d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec",
@@ -85,7 +85,7 @@
         "path": "/d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec-vmess",
         "tls": "",
         "sni": "",
-        "test_name": "116"
+        "test_name": "29"
     },
     {
         "add": "188.114.96.221",
