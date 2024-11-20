@@ -157,23 +157,6 @@
         "v": "2"
     },
     {
-        "add": "172.67.73.174",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "f7e470ba-9012-4147-ac67-5ce0d482fc2e",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "@Vip_Security join us - 494\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "188.114.96.221",
         "aid": "0",
         "alpn": "",
