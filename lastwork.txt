@@ -11259,3 +11259,5 @@ vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80??path=%2Ftelegra
 vless://967de589-880a-4767-8645-19cf865a1e5b@151.101.128.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
 vless://42d5864f-d305-41c8-cd47-5f7b97b1aedc@109.122.244.132:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-109.122.244.132:80
 vless://c29374b3-e38d-4cd7-bdb6-5327e2798cdf@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://967de589-880a-4767-8645-19cf865a1e5b@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
+vless://b2e07c41-c240-5bf3-b904-dc40852c780e@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
