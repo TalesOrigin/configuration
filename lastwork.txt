@@ -11191,3 +11191,4 @@ vless://01dad6ef-3303-4fa8-abc4-8bf29f9809d3@VPNCSTOMIZE.fastly80-3.hosting-ip.c
 vless://a96d5002-b59e-4b14-ddf2-0ee0161b1668@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://a96d5002-b59e-4b14-ddf2-0ee0161b1668@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://43cf5a35-32ee-43cb-9c5d-7832a0d2534f@151.101.128.155:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
+vless://a96d5002-b59e-4b14-ddf2-0ee0161b1668@151.101.128.155:80??security=none&type=ws&host=91.241.94.160&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
