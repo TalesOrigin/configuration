@@ -4,7 +4,7 @@
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "198.41.209.70",
         "port": "80",
-        "type": "auto",
+        "type": "none",
         "id": "e6543319-0574-42ac-b778-1c4325d626f5",
         "aid": "0",
         "net": "ws",
