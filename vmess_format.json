@@ -43,23 +43,6 @@
         "v": "2"
     },
     {
-        "add": "www.speedtest.net",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "5f90dba2-8281-409d-810f-4975d0a4708a",
-        "net": "ws",
-        "path": "/tel@hormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpn",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\uddfa\ud83c\uddf8",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "t.me/v2Line | (1831) SG | VMESS | WS",
         "add": "172.67.73.174",
@@ -128,21 +111,21 @@
         "fp": ""
     },
     {
-        "v": "2",
-        "ps": "t.me/v2Line | (1819) NL | VMESS | WS",
-        "add": "104.18.20.153",
-        "port": "80",
-        "id": "7e0eec71-4bf0-4841-a083-4201226d0616",
+        "add": "www.speedtest.net",
         "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "tls": "",
-        "sni": "",
         "alpn": "",
-        "fp": ""
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "5f90dba2-8281-409d-810f-4975d0a4708a",
+        "net": "ws",
+        "path": "/tel@hormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpnhormozvpn@hormozvpn-@hoemozvpn",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\uddfa\ud83c\uddf8",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "add": "104.21.94.168",
