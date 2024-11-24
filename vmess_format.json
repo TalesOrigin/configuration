@@ -65,21 +65,21 @@
         "tls": ""
     },
     {
-        "add": "172.67.153.253",
+        "add": "104.17.147.22",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "377bf036-b6b2-4867-bf3a-dbeb24a90326",
+        "id": "cb8e4fb8-08b7-484d-ad5c-1b55fa539745",
         "net": "ws",
-        "path": "/",
+        "path": "/RACEVPN?telegram-@ISVvpn-telegram-@ISVvpn",
         "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.17.147.22:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.153.253:80"
+        "type": "---",
+        "v": "2"
     },
     {
         "v": "2",
