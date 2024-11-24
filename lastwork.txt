@@ -11512,3 +11512,7 @@ vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@104.22.52.235:80??allowInsecure=0&s
 vless://cbf90e43-a743-433c-9658-9266addebab3@151.101.0.155:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
 vless://92c15dc4-6e60-5603-8a13-a760e1e87f3a@151.101.66.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
 vless://802eee93-0701-4240-8e03-324397985d5a@spdnet.fastly80-2.hosting-ip.com:80??path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6ac07096-da0a-454a-a8b0-c7dc54a9f163@151.101.2.228:80??security=none&type=ws&host=91.241.94.160&path=ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
+vless://6ac07096-da0a-454a-a8b0-c7dc54a9f163@151.101.130.228:80??security=none&type=ws&host=91.241.94.160&path=ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
+vless://802eee93-0701-4240-8e03-324397985d5a@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
+vless://6ac07096-da0a-454a-a8b0-c7dc54a9f163@151.101.194.228:80??security=none&type=ws&host=91.241.94.160&path=ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
