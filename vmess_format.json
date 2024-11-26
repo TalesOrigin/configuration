@@ -65,23 +65,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "t.me/v2Line | (1831) SG | VMESS | WS",
-        "add": "172.67.73.174",
-        "port": "80",
-        "id": "f7e470ba-9012-4147-ac67-5ce0d482fc2e",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": ""
-    },
-    {
         "add": "104.16.67.38",
         "aid": "0",
         "alpn": "",
