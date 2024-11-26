@@ -92,19 +92,6 @@
     },
     {
         "v": "2",
-        "add": "104.17.221.248",
-        "port": "80",
-        "type": "auto",
-        "id": "e6543319-0574-42ac-b778-1c4325d626f5",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
-    },
-    {
-        "v": "2",
         "ps": "t.me/v2Line | (1831) SG | VMESS | WS",
         "add": "172.67.73.174",
         "port": "80",
