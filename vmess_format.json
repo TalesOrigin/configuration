@@ -80,21 +80,6 @@
         "tls": ""
     },
     {
-        "add": "104.16.60.8",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "4804f14b-c1f8-452d-a6ec-eff1490aeac9",
-        "net": "ws",
-        "path": "/lRkGCkYS9X5GDNJYMWXN7kCm3lL",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.16.60.8:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "auto",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "TG:@v2ray_sub",
         "add": "www.speedtest.net",
