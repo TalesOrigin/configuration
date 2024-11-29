@@ -16,21 +16,6 @@
     },
     {
         "v": "2",
-        "ps": "13,14|\u7f8e\u56fd|@ripaojiedian",
-        "add": "170.114.45.53",
-        "port": "80",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "3db2d115-1db9-457d-850f-818b73228f67",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "hsj.lbxjc.online",
         "port": "80",
