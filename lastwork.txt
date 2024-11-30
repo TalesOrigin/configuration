@@ -11973,3 +11973,5 @@ vless://9edecddf-9c45-4b62-9d5a-6eabba330e3f@151.101.128.155:80??security=none&t
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.24.112:80
 vless://03b5edf0-d90b-4880-b275-6c2bd31f783a@104.18.26.94:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.94:80
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80??security=none&type=ws&host=91.241.94.160&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80
+vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
+vless://6d62f776-5985-4d5f-8799-9f95c5e375cd@104.17.148.22:80??security=none&type=ws&host=91.241.94.160&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
