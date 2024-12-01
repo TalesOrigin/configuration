@@ -12022,3 +12022,6 @@ vless://bc65abda-c6a2-4fbe-b368-c741906a381f@151.101.130.219:80??security=none&t
 vless://3d0fdf8b-023c-46b2-92ef-ab117668d1c6@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2FVLESS%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://v2rayvpn___official@Zula.ir:80??path=%2F%3Fed%3D2053&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d10faf93-e251-4d16-89de-9b12ec6730a6@151.101.194.165:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.165:80
+vless://cfe1723e-887f-5184-a2de-3d23cc1ac09a@140.248.139.207:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
