@@ -12025,3 +12025,7 @@ vless://v2rayvpn___official@Zula.ir:80??path=%2F%3Fed%3D2053&security=none&encry
 vless://d10faf93-e251-4d16-89de-9b12ec6730a6@151.101.194.165:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.165:80
 vless://cfe1723e-887f-5184-a2de-3d23cc1ac09a@140.248.139.207:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6398dd44-9540-4b24-b0fb-3a98baad8d04@151.101.2.133:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.133:80
+vless://8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-199.232.79.51:80
+vless://cfe1723e-887f-5184-a2de-3d23cc1ac09a@140.248.139.207:80??host=ELiV2-ELENA.COM&type=ws&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:80??host=ELiV2-0.COM&type=ws&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
