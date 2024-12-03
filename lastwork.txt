@@ -12149,3 +12149,4 @@ vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.21.69.44:80??security=none&type
 vless://7c2c9bc7-d6f1-4556-91c4-b4a05066b8d1@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET-V2%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://bd1c2aac-e80d-46c5-bd18-f304b8dd8a27@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://03633612-cb32-46cc-8f93-7103d1511ade@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://16c95530-8276-5477-9e61-799542e502c7@140.248.139.207:80??allowInsecure=0&sni=ADOLF-ELENA.IR&type=ws&host=91.241.94.160&path=/#15|US_speednode_0050
