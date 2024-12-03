@@ -41,20 +41,20 @@
         "tls": ""
     },
     {
-        "add": "151.101.2.133",
+        "add": "95.164.4.88",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "a983c698-cae4-4254-d047-51898ccd8ee7",
+        "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
         "net": "ws",
-        "path": "/aries?ed=2048",
+        "path": "/vmess/",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.133:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udde7\ud83c\uddf7 BR-95.164.4.88:80",
         "scy": "auto",
-        "sni": "kim.gov.kp",
+        "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2"
     },
     {
