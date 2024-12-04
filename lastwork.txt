@@ -12277,3 +12277,6 @@ vless://1dc37235-84ae-5772-b0e1-d02d2c039268@151.101.66.219:80??security=none&ty
 vless://14000bb3-be40-49b6-abe1-fc77d5cd8de1@172.66.47.146:80??security=none&type=ws&host=91.241.94.160&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560&alpn=null#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.146:80
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@151.101.87.26:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇸🇪 SE-151.101.87.26:80
 vless://2a5db195-0d58-40a5-a4c2-432711b01057@151.101.130.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.133:80
+vless://1dc37235-84ae-5772-b0e1-d02d2c039268@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://043d66f3-2147-4e62-8503-5fd9626acb5f@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560&alpn=null#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
+vless://05cc8c17-5995-4d4c-8c94-e2aeee3704d7@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
