@@ -12239,3 +12239,6 @@ vless://9f44d4eb-384b-4b26-9533-a5a45709250f@151.101.2.165:80??security=none&typ
 vless://87aaaad5-5d93-4b6d-8785-7fdab80bdb2e@172.64.155.187:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.155.187:80
 vless://87aaaad5-5d93-4b6d-8785-7fdab80bdb2e@104.18.32.69:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:80
 vless://7835948c-ac97-5c9b-ab20-ce5941ff96b5@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@151.101.2.165:80??security=none&sni=video.mytiyab.xyz&type=ws&host=91.241.94.160&path=%2F&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://9f44d4eb-384b-4b26-9533-a5a45709250f@151.101.0.155:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
+vless://2a5db195-0d58-40a5-a4c2-432711b01057@151.101.194.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80
