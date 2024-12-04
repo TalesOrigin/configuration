@@ -12247,3 +12247,4 @@ vless://b2e07c41-c240-5bf3-b904-dc40852c780e@151.101.2.219:80??security=none&typ
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=%2F&alpn=null#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=%2F&alpn=null#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
 vless://b2e07c41-c240-5bf3-b904-dc40852c780e@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%2F&alpn=null#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://993155da-a56f-4fc5-b670-2d0dd7769c6e@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
