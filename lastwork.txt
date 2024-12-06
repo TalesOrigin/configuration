@@ -12432,3 +12432,6 @@ vless://993155da-a56f-4fc5-b670-2d0dd7769c6e@151.101.3.8:80??path=%2FTelegram-ip
 vless://7cc8fa86-8174-4239-b8d1-877bf39f9e07@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://166c1478-621a-4ab1-bad8-2fc523330f2a@116.203.108.70:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇩🇪 DE-116.203.108.70:80
 vless://80a840b8-7d4d-45be-8f53-b7c30116e2f7@49.13.166.52:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇩🇪 DE-49.13.166.52:80
+vless://7cc8fa86-8174-4239-b8d1-877bf39f9e07@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://f846c7b2-eca6-496a-9716-134e1b253be5@162.159.153.2:80??security=none&type=ws&host=91.241.94.160&path=%2F%40Hqv2RayNG%3Fed%3D2480#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
+vless://4f352dc9-827d-49f4-873e-5a972df24dbe@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2F%40custom_config%3Fed%3D2056#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
