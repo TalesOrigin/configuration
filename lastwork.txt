@@ -12398,3 +12398,4 @@ vless://7bb5f35d-0041-42eb-cacc-916a6b921023@151.101.194.165:80??security=none&t
 vless://3d9a546c-85fa-4e52-8510-d18c1e7ee522@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://80ce8c17-f249-471b-b78a-17a60f17b1be@104.21.19.124:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram%2Fid%2Fov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.124:80
 vless://1dffb1fd-09b3-4bbe-9631-a3ae6a9a57d1@104.18.78.200:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.78.200:80
+vless://2a5db195-0d58-40a5-a4c2-432711b01067@151.101.2.133:80??security=none&type=ws&host=91.241.94.160&path=%2Fws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
