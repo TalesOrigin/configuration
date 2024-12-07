@@ -12556,3 +12556,9 @@ vless://e6464498-c5a6-4216-a61a-0a4ac3c77e25@151.101.0.155:80??security=none&typ
 vless://7b83aa80-f235-474f-acc9-0e71445b39ef@151.101.64.155:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@join.VPNCUSTOMIZE.com:80??path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c784ab83-75c4-4a07-a35c-529e3237f6ab@151.101.194.228:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://82cd599d-83da-4baf-8b44-5df35977b11a@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.13.101:80??security=none&type=ws&host=91.241.94.160&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.101:80
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@162.159.153.2:80??security=none&type=ws&host=91.241.94.160&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:80??security=none&type=ws&host=91.241.94.160&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.70.123:80
+vless://5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
