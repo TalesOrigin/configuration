@@ -15,19 +15,6 @@
         "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8United States"
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "ParsVDS.ir",
-        "port": "80",
-        "type": "none",
-        "id": "4804f14b-c1f8-452d-a6ec-eff1490aeac9",
-        "aid": "0",
-        "net": "ws",
-        "path": "/lRkGCkYS9X5GDNJYMWXN7kCm3lL",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "104.21.71.88",
         "aid": "0",
         "alpn": "",
