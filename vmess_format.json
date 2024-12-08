@@ -15,6 +15,21 @@
         "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8United States"
     },
     {
+        "v": "2",
+        "ps": "13,14|\u7f8e\u56fd2|@ripaojiedian",
+        "add": "170.114.45.51",
+        "port": "80",
+        "aid": 0,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "8471e1f6-cfa0-4561-a83e-311253b01130",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/"
+    },
+    {
         "add": "104.21.71.88",
         "aid": "0",
         "alpn": "",
