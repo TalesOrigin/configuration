@@ -106,23 +106,6 @@
         "tls": ""
     },
     {
-        "add": "103.77.247.224",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0",
-        "net": "ws",
-        "path": "/viefast.vn",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfb\ud83c\uddf3 VN-103.77.247.224:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "185.146.173.59",
         "aid": "0",
         "alpn": "",
