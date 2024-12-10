@@ -12809,3 +12809,9 @@ vless://429b2da1-0510-4683-8962-3b719b8464bf@151.101.2.228:80??security=none&typ
 vless://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.194.228:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.66.228:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://39d5ea22-1c73-4b12-8b5b-2be82c78add8@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://429b2da1-0510-4683-8962-3b719b8464bf@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
+vless://429b2da1-0510-4683-8962-3b719b8464bf@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
+vless://ba6fa866-d85f-454d-ac3f-b707da55ab06@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://d66bb0ee-5f9e-5269-adb8-492d19241ed6@199.232.196.204:80??security=none&type=ws&sni=JOiN--E-L-i-V-2-R-A-Y.net&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://429b2da1-0510-4683-8962-3b719b8464bf@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@151.101.2.216:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
