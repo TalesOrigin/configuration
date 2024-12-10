@@ -114,23 +114,6 @@
         "v": "2"
     },
     {
-        "add": "15.204.67.50",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
-        "net": "ws",
-        "path": "/v149-dskds65",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\uddfa\ud83c\uddf8",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "162.159.136.98",
         "aid": "0",
         "alpn": "",
