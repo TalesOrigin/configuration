@@ -80,7 +80,7 @@
         "tls": ""
     },
     {
-        "add": "103.77.247.224",
+        "add": "103.77.247.225",
         "aid": "0",
         "alpn": "",
         "fp": "",
@@ -89,11 +89,11 @@
         "net": "ws",
         "path": "/viefast.vn",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfb\ud83c\uddf3 VN-103.77.247.224:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfb\ud83c\uddf3 VN-103.77.247.225:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2"
     },
     {
