@@ -41,6 +41,23 @@
         "tls": ""
     },
     {
+        "add": "root.mid.al",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "a983c698-cae4-4254-d047-51898ccd8ee7",
+        "net": "ws",
+        "path": "/aries?ed=2048",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\uddfa\ud83c\uddf8",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "104.16.67.38",
         "aid": "0",
         "alpn": "",
