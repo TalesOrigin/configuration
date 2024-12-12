@@ -13005,3 +13005,6 @@ vless://ded015bd-ba4d-4dfb-c3a6-25c572761f39@162.159.153.2:80??security=none&typ
 vless://9700eca9-c427-4c34-dff3-313b5114580c@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
 vless://59260bc4-8672-4573-b805-a372efc200b8@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://96bb4985-ef9a-45dd-9127-386516c64169@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
+vless://a5b1fa7c-3a28-4e23-8b13-cc1c98c8f151@151.101.194.133:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80
+vless://59260bc4-8672-4573-b805-a372efc200b8@151.101.128.155:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
+vless://3e529e36-f5a0-58a9-bd7b-4795ff426e9a@speedtest.net:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
