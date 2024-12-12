@@ -12999,3 +12999,4 @@ vless://071adfc4-b337-4a90-bdcc-e66a4d327c55@172.67.70.123:80??security=none&typ
 vless://59260bc4-8672-4573-b805-a372efc200b8@151.101.192.155:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://7aefe063-50bf-4536-9a3c-25ec69457e27@nl.fastly80-3.hosting-ip.com:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://7aefe063-50bf-4536-9a3c-25ec69457e27@nl.fastly80-3.hosting-ip.com:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://12d1f136-0997-4f80-9ff2-2223d0da1bf0@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
