@@ -13111,3 +13111,4 @@ vless://86e88bd4-bc19-4250-864a-e2902030a5ab@151.101.0.155:80??security=none&typ
 vless://85a8e680-103f-4448-87e4-2e320c80e5d5@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://ab99638d-1d04-451c-92a4-89364d0570f4@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://605599ea-5656-5292-9314-5a313cbce920@151.101.130.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
+vless://525a4932-fae2-fc18-5498-70066d16d533@151.101.128.223:80??security=none&type=ws&host=91.241.94.160&path=%2FFastLy%3Fed%3D1024#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
