@@ -13125,3 +13125,6 @@ vless://c22e74d5-578d-4578-8daf-14e10961f83a@151.101.3.8:80??allowInsecure=0&sni
 vless://59260bc4-8672-4573-b805-a372efc200b8@151.101.64.155:80??allowInsecure=0&sni=iranvpn.com.&type=ws&host=91.241.94.160&path=/?ed=1024#15|US_speednode_0040
 vless://ab99638d-1d04-451c-92a4-89364d0570f4@151.101.64.155:80??allowInsecure=0&sni=join-bede-CONFIGT.OrG&type=ws&host=91.241.94.160&path=/lW0tvTq4oSbHyKeRM?ed=2560#15|US_speednode_0048
 vless://605599ea-5656-5292-9314-5a313cbce920@speedtest.net:80??allowInsecure=0&sni=PABLO-MOSTAFAA.COM&type=ws&host=91.241.94.160&path=/#15|US_speednode_0053
+vless://e9f6766e-b137-5a7d-97d7-373ef67e46b2@sPeEdtEsT.nEt:80??host=ELI-V2-RAY.COM&type=ws&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://e9f6766e-b137-5a7d-97d7-373ef67e46b2@sPeEdtEsT.nEt:80??host=ELI-V2-RAY.COM&type=ws&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://16f76e48-b7ca-4540-a3b1-3a7c5eea2468@bg.com:80??path=%2F%3Fed%3D2056&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
