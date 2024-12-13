@@ -13166,3 +13166,9 @@ vless://3db9e150-3ce2-46e0-9075-3adc1fa06a18@151.101.3.8:80??security=none&type=
 vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://0c42afca-b950-4cb8-a622-501f5e5a925e@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://telegram-id-ArV2ray@A36.fastly80-2.hosting-ip.com:80??path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://e9f6766e-b137-5a7d-97d7-373ef67e46b2@151.101.2.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
+vless://e9f6766e-b137-5a7d-97d7-373ef67e46b2@151.101.130.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
+vless://527f6f28-237b-4dd8-88be-36e915cdad81@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://d74acf2c-2148-4343-891c-627c4b5d690b@ISVvpn.fastly80-2.hosting-ip.com:80??path=%2FVLESS%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://34013e01-4f88-40d4-befc-4b3f6a98cf19@151.101.3.8:80??path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d74acf2c-2148-4343-891c-627c4b5d690b@ISVvpn.fastly80-2.hosting-ip.com:80??path=%2FVLESS%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
