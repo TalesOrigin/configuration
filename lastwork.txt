@@ -13204,3 +13204,4 @@ vless://19019158-bdab-407c-a002-3d7e9a032aec@151.101.2.165:80??security=none&typ
 vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@151.101.130.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://fb527cc3-5a3f-43f8-ac5b-de1b1cc23c6c@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%40proxy_mtm%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://TELEGRAM-NUFiLTER@R.fastly80.hosting-ip.com:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@151.101.194.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
