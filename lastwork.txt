@@ -13315,3 +13315,4 @@ vless://809d1f81-09fe-4ed9-8d6f-0daf1287428d@151.101.192.155:80??security=none&t
 vless://99ece951-d623-4fcd-adac-021b97d0f887@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
 vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.81.174:80
 vless://99ece951-d623-4fcd-adac-021b97d0f887@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
+vless://99ece951-d623-4fcd-adac-021b97d0f887@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
