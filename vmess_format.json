@@ -1,5 +1,22 @@
 [
     {
+        "add": "6ernu3zmhsv7s95fm.lovebaipiao.net",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "9ca78a86-07bb-4eaf-a47d-1a7bb40928e3",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "Ir-@@V2ray_Alpha-10",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "de1e-q6Fzg413C9.v2freevpn.com",
         "aid": "0",
         "alpn": "",
