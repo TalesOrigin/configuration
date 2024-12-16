@@ -13443,3 +13443,4 @@ vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@154.92.9.30:80??security=none&type=
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@154.92.9.95:80??security=none&type=ws&host=91.241.94.160&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🇨🇾 CY-154.92.9.95:80
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@154.92.9.46:80??security=none&type=ws&host=91.241.94.160&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🇨🇾 CY-154.92.9.46:80
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@154.92.9.176:80??security=none&type=ws&host=91.241.94.160&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🇨🇾 CY-154.92.9.176:80
+vless://6d420083-4bb5-4a50-ad4a-44e35da0a26f@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
