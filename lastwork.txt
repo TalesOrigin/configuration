@@ -13540,3 +13540,7 @@ vless://c55ceb81-ded6-5f51-b960-08223fecb4dd@151.101.193.6:80??allowInsecure=0&s
 vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.24.254.125:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.254.125:80
 vless://52a842ac-8985-44eb-8208-2190579842e4@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
 vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.178.96:80
+vless://52a842ac-8985-44eb-8208-2190579842e4@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
+vless://a95ab655-b1c7-4bbf-9a93-df6a364a6969@151.101.3.8:80??security=none&sni=hajlab.ucdavis.edu&type=ws&host=91.241.94.160&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://52a842ac-8985-44eb-8208-2190579842e4@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
+vless://52a842ac-8985-44eb-8208-2190579842e4@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
