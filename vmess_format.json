@@ -34,20 +34,18 @@
         "v": "2"
     },
     {
-        "add": "95.179.128.114",
+        "add": "162.55.218.33",
         "aid": "0",
-        "alpn": "",
-        "fp": "chrome",
         "host": "91.341.94.160",
-        "id": "a6292090-afe1-4640-97a7-4f1d1d877cf1",
+        "id": "2aac77de-b3e4-4017-845c-ca1380f2e8d0",
         "net": "ws",
-        "path": "/Av8czorIlYicU6D349brWUw6a",
+        "path": "/telegram-id-@privatevpns",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddf3\ud83c\uddf1 NL-95.179.128.114:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udde9\ud83c\uddea DE-162.55.218.33:80",
         "scy": "auto",
-        "sni": "google.com",
+        "sni": "",
         "tls": "",
-        "type": "---",
+        "type": "",
         "v": "2"
     },
     {
