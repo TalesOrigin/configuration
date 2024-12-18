@@ -13590,3 +13590,5 @@ vless://f6a036f7-9437-4c90-8320-80200afe84b8@199.232.5.46:80??security=none&type
 vless://a59a941f-aea6-40f0-a4b0-e439a932aa3a@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-proxy_mtm%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
 vless://e1a5e8c0-4995-4724-af32-7caeba01abda@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://f6a036f7-9437-4c90-8320-80200afe84b8@151.101.3.163:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.163:80
+vless://654538ef-5726-4076-82e3-af10f02debf2@151.101.194.133:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2056#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80
+vless://f6a036f7-9437-4c90-8320-80200afe84b8@199.232.110.60:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-199.232.110.60:80
