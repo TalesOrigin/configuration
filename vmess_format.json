@@ -47,6 +47,23 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddef\ud83c\uddf5 JP-89.187.28.126:80",
+        "add": "89.187.28.126",
+        "port": "80",
+        "id": "18659a31-add9-4b9f-af57-77ffaf0396c9",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/vmess/#",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "fp": ""
+    },
+    {
         "add": "fr2e-tl7wr888kg8882h3.v2freevpn.com",
         "aid": "0",
         "alpn": "",
