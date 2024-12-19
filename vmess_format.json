@@ -34,22 +34,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "\u672a\u77e53",
-        "add": "de1e-q6Fzg413C9.v2freevpn.com",
-        "port": "80",
-        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/v1893293Py",
-        "tls": "",
-        "sni": "",
-        "test_name": "3"
-    },
-    {
         "add": "fr2e-tl7wr888kg8882h3.v2freevpn.com",
         "aid": "0",
         "alpn": "",
