@@ -34,20 +34,20 @@
         "v": "2"
     },
     {
-        "add": "188.114.96.221",
+        "add": "108.181.10.17",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "9ac947aa-de86-41c3-9a60-4c061c7c95f0",
+        "id": "81877c80-b97d-11ef-b234-205c6d5f5d78",
         "net": "ws",
-        "path": "/vmess",
+        "path": "/ami5e9jl",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-188.114.96.221:80",
-        "scy": "none",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-108.181.10.17:80",
+        "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2"
     },
     {
