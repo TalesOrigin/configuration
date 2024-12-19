@@ -13646,3 +13646,5 @@ vless://b4a16d3b-e9ba-4d25-b81b-f2c2b4e6b744@151.101.130.219:80??security=none&t
 vless://5c3c0524-dcb5-4355-ab16-6fb2da080aa1@151.101.66.133:80??security=none&type=ws&host=91.241.94.160&path=%2F%40grizzlyvpn%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.133:80
 vless://66c85596-f209-4660-a900-492f95b31c59@104.17.147.22:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@151.101.2.165:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://ef212c2d-86a9-42b3-88af-26c73849008e@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
+vless://ef212c2d-86a9-42b3-88af-26c73849008e@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
