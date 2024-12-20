@@ -34,22 +34,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "\u672a\u77e5140",
-        "add": "6ernu3zmhsv7s95fm.lovebaipiao.net",
-        "port": "80",
-        "id": "9ca78a86-07bb-4eaf-a47d-1a7bb40928e3",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "140"
-    },
-    {
         "add": "104.16.67.38",
         "aid": "0",
         "alpn": "",
