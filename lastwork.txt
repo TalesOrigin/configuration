@@ -13701,3 +13701,4 @@ vless://2c79b667-b103-4d22-86d0-5ef23f303c06@45.67.214.53:80??security=none&sni=
 vless://6d47d0cf-4ef8-4101-a3b9-9126b6875dc0@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://6d47d0cf-4ef8-4101-a3b9-9126b6875dc0@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://6d47d0cf-4ef8-4101-a3b9-9126b6875dc0@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
+vless://69814381-8366-4774-8bac-2dcee5a37eff@151.101.194.133:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80

@@ -35,6 +35,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 _\u7f8e\u56fd",
+        "add": "speed.cloudflare.com",
+        "port": "80",
+        "type": "none",
+        "id": "76221bfb-e92f-4e80-81c5-6fe48f50ac0b",
+        "aid": "0",
+        "net": "ws",
+        "path": "/glweidf.sbs/linkws",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "US47 32.2MB/s",
         "add": "108.181.10.17",
         "port": "80",
