@@ -13706,3 +13706,4 @@ vless://045db66f-067d-56c5-82f6-3ace5603a53c@151.101.130.219:80??security=none&t
 vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.24.138.64:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.138.64:80
 vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.16.76.55:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.76.55:80
 vless://75fb9cc3-c304-4f5c-8435-c0d940a31341@65.109.217.75:80??security=none&type=ws&path=%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%3Fed%3D2048&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇮 FI-65.109.217.75:80
+vless://087520b8-c1ce-4046-9d11-40e254efcaee@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=/?ed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
