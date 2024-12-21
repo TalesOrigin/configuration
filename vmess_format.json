@@ -1,22 +1,5 @@
 [
     {
-        "add": "6ernu3zmhsv7s95fm.lovebaipiao.net",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "9ca78a86-07bb-4eaf-a47d-1a7bb40928e3",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "Ir-@@V2ray_Alpha-10",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "de1e-q6Fzg413C9.v2freevpn.com",
         "aid": "0",
         "alpn": "",
@@ -45,6 +28,23 @@
         "path": "/glweidf.sbs/linkws",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "add": "176.120.64.17",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "819b91b0-294a-5069-a721-523b38a60bf5",
+        "net": "ws",
+        "path": "/vmess#t-me-DarkVPNpro?ed=2048",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\udde9\ud83c\uddf0",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "add": "104.16.67.38",
