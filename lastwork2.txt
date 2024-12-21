@@ -36,3 +36,4 @@ vless://e7828367-c273-446c-9d31-7363a5c066b6@92.223.84.84:80??security=none&sni=
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80??encryption=none&security=none&type=ws&path=%2Fhttp&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80??security=none&type=ws&host=91.241.94.160&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80
 vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@92.222.181.77:80??allowInsecure=0&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&type=ws&host=91.241.94.160&path=/websocket#15|FR_speednode_0006
+vless://aaa777c1-0940-49a4-bfea-5e7dd3ebe7ea@151.101.120.121:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇫🇷 FR-151.101.120.121:80
