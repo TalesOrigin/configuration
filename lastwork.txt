@@ -13914,3 +13914,4 @@ vless://ff45f39c-0055-48c5-962e-c2684e613e75@AT3.fast.hosting-ip.com:80??allowIn
 vless://2d8497b5-23dd-46de-b654-717452302700@151.101.0.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
 vless://8f9b3f34-b7e5-48cc-96d3-91ae26a8973f@151.101.194.133:80??security=none&sni=live.skornorth.com&type=ws&host=91.241.94.160&path=%2F%40grizzlyvpn%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.133:80
 vless://00efc48b-d68e-4e73-ab3b-60afa1bc72e6@151.101.158.204:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D64#🔒 VL-WS-NONE 🇮🇳 IN-151.101.158.204:80
+vless://a4f8e8e6-7910-4103-9bb2-8a1e7a25f6b6@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2F%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs%3Fed%3D2056#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
