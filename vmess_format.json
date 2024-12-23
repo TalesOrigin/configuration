@@ -17,32 +17,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.16.61.8",
-        "port": "80",
-        "type": "none",
-        "id": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
-        "aid": "0",
-        "net": "ws",
-        "path": "/hms02.fxiaomi.sbs/link",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.16.60.8",
-        "port": "80",
-        "type": "none",
-        "id": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
-        "aid": "0",
-        "net": "ws",
-        "path": "/obdii.cfd/linkws",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "us-21.hihu.net",
         "aid": "0",
         "alpn": "",
