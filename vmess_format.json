@@ -17,17 +17,21 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.25.0.0",
-        "port": "80",
-        "type": "none",
-        "id": "13ff895d-fa8a-4d59-fe92-f404e3b87e81",
+        "add": "188.114.96.221",
         "aid": "0",
-        "net": "ws",
-        "path": "/13ff895d",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "tls": ""
+        "id": "9ac947aa-de86-41c3-9a60-4c061c7c95f0",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-188.114.96.221:80",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "add": "176.120.64.17",
