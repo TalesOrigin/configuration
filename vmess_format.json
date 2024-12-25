@@ -32,6 +32,45 @@
         "path": "/?ed=2048"
     },
     {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "104.16.61.8",
+        "port": "80",
+        "type": "none",
+        "id": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/obdii.cfd/linkws",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddf8\ud83c\uddec 13,14|\u65b0\u52a0\u5761|@ripaojiedian",
+        "add": "www.aetv.com",
+        "port": "80",
+        "type": "none",
+        "id": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
+        "aid": "0",
+        "net": "ws",
+        "path": "/?ed=2048",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 _\u7f8e\u56fd",
+        "add": "www.aetv.com",
+        "port": "80",
+        "type": "none",
+        "id": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
+        "aid": "0",
+        "net": "ws",
+        "path": "/?ed=2048",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "188.114.96.221",
         "aid": "0",
         "alpn": "",
