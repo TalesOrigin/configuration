@@ -17,6 +17,21 @@
         "v": "2"
     },
     {
+        "v": "2",
+        "ps": "13,14|\u65b0\u52a0\u5761|@ripaojiedian",
+        "add": "www.aetv.com",
+        "port": "80",
+        "aid": 0,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/?ed=2048"
+    },
+    {
         "add": "188.114.96.221",
         "aid": "0",
         "alpn": "",
