@@ -14183,3 +14183,4 @@ vless://aa92cda8-e99d-4c66-951a-1f6274b2a1ca@151.101.192.155:80??security=none&t
 vless://cb549aa7-7b19-42ad-9968-2cffd7ed8c89@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://cb549aa7-7b19-42ad-9968-2cffd7ed8c89@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
 vless://cb549aa7-7b19-42ad-9968-2cffd7ed8c89@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
+vless://aa92cda8-e99d-4c66-951a-1f6274b2a1ca@151.101.128.155:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
