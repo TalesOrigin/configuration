@@ -157,20 +157,20 @@
         "tls": ""
     },
     {
-        "add": "151.101.2.168",
+        "add": "151.101.2.216",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
+        "id": "545485da-9ff4-48c5-ae94-45e6e4ee7d26",
         "net": "ws",
-        "path": "/?ed=2048",
+        "path": "/racevpn",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.168:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.216:80",
         "scy": "auto",
-        "sni": "",
+        "sni": "6606.com",
         "tls": "",
-        "type": "---",
+        "type": "",
         "v": "2"
     },
     {
