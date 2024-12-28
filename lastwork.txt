@@ -14238,3 +14238,7 @@ vless://abfccb05-adf7-4ff5-87d9-ac4472e9bf02@151.101.66.228:80??security=none&ty
 vless://e6e93d1d-d9e6-40ba-a583-04f7681d6be7@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
 vless://abfccb05-adf7-4ff5-87d9-ac4472e9bf02@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
 vless://e6e93d1d-d9e6-40ba-a583-04f7681d6be7@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@scp-fasttttly.tencent.su:80??allowInsecure=0&sni=scp-only.ws.com&type=ws&host=91.241.94.160&path=/wsfp=chrome#15|JP_speednode_0044
+vless://548de56a-cc35-4723-823c-c4422216a1d9@speedtest.net:80??allowInsecure=0&sni=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws&host=91.241.94.160&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#15|US_speednode_0071
+vless://abfccb05-adf7-4ff5-87d9-ac4472e9bf02@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
+vless://d51963a2-cd73-4564-894c-bdbb91775900@104.18.14.19:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
