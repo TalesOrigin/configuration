@@ -14441,3 +14441,5 @@ vless://c02b8c5e-30a9-5755-bbfd-f43308839edd@151.101.130.219:80??security=none&t
 vless://64cfedcd-397c-40e7-b4d1-b68d5c7e72a8@151.101.194.165:80??security=none&type=ws&host=91.241.94.160&path=%2Fspdnet%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.165:80
 vless://734ae593-2b89-4461-8336-7551552ff926@151.101.0.155:80??security=none&type=ws&host=91.241.94.160&path=%2FTELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---PROXY_MTM%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
 vless://e2a6b942-b959-4174-97c0-419d0a386973@151.101.2.216:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
+vless://e2a6b942-b959-4174-97c0-419d0a386973@151.101.2.165:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://e2a6b942-b959-4174-97c0-419d0a386973@151.101.3.8:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
