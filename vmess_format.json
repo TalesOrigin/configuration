@@ -110,7 +110,7 @@
         "tls": ""
     },
     {
-        "add": "151.101.2.168",
+        "add": "151.101.194.168",
         "aid": "0",
         "alpn": "",
         "fp": "",
@@ -119,7 +119,7 @@
         "net": "ws",
         "path": "/?ed=2048",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.168:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.194.168:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
