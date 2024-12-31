@@ -71,20 +71,20 @@
         "tls": ""
     },
     {
-        "add": "151.101.194.133",
+        "add": "151.101.192.155",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "3ecf9ef9-d4e7-4eb4-a16d-c6e7b2a39af4",
+        "id": "214170c0-a531-4285-af3a-55779de6527c",
         "net": "ws",
-        "path": "/RACEVPN",
+        "path": "/?ed=80/#id-telegram:@vpn_whal<---",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.194.133:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.192.155:80",
         "scy": "auto",
-        "sni": "7707.dev",
+        "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2"
     },
     {
