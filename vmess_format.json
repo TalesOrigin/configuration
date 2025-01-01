@@ -118,23 +118,6 @@
         "ps": "\ud83d\udc49\ud83c\udd94@m3hdio1"
     },
     {
-        "v": "2",
-        "add": "151.101.2.168",
-        "port": "80",
-        "id": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/?ed=2048",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "skip-cert-verify": true,
-        "ps": "\ud83d\udc49\ud83c\udd94@m3hdio1"
-    },
-    {
         "add": "time.is",
         "aid": "0",
         "alpn": "",
