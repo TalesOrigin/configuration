@@ -167,7 +167,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e524",
+        "ps": "\u672a\u77e5103",
         "add": "www.aetv.com",
         "port": "80",
         "id": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
@@ -179,7 +179,7 @@
         "path": "/?ed=2048",
         "tls": "",
         "sni": "",
-        "test_name": "24"
+        "test_name": "103"
     },
     {
         "add": "bia-vpn-whal.fast.hosting-ip.com",
