@@ -14769,3 +14769,5 @@ vless://8167f943-0513-5c93-bda3-2ec02522cd8a@151.101.193.6:80??security=none&typ
 vless://57eef4bc-d8a1-47a3-ab59-d96b73bc9178@151.101.0.155:80??security=none&type=ws&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.86.235:80
 vless://068558a4-5b8d-402b-ab54-f6ea80eb070b@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
+vless://ea4019ed-aa5f-43eb-a967-f8aaf6ded375@151.101.2.165:80??security=none&sni=live.skornorth.com&type=ws&host=91.241.94.160&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://bea3e2e7-5433-43b3-db13-6b481e8dab5a@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
