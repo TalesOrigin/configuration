@@ -15053,3 +15053,4 @@ vless://8476ba28-9cf9-4364-8625-c31c6e9f4759@151.101.66.228:80??security=none&ty
 vless://6edb03ea-d546-45a2-92f4-785697420fb2@151.101.2.165:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
 vless://0c3c2752-4b66-42c5-8886-2b0dafe9e4f3@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%3F%3D9090#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://68b0b67a-c480-408f-b49e-78b9b3302cec@104.17.148.22:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-Xv2ry2%3Fed%3D512#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
+vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:80??security=none&type=ws&host=91.241.94.160&path=%2FXsfYCycAOX2lneJy%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
