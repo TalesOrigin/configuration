@@ -15024,3 +15024,6 @@ vless://83a51ddc-4c7f-4a78-92fb-aaf08fce9fbe@151.101.0.155:80??security=none&typ
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68610@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.242:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-167.82.0.242:80
 vless://b435a039-6ebf-433f-9bc5-6a5d57cbae38@151.101.56.105:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.56.105:80
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.147:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-167.82.0.147:80
+vless://b1f58d90-e65f-4566-91f3-1b96e9a68610@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://8e761d8d-7552-4787-a8be-77c2f37864fe@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
