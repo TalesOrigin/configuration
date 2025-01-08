@@ -15092,3 +15092,4 @@ vless://84a85f2c-8b8c-433f-94bb-e8f77e75cc45@173.245.58.100:80??security=none&ty
 vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@151.101.192.155:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://3a67aaab-515e-4079-a518-d00cb5e6b20e@151.101.158.204:80??security=none&sni=fatmelo.com&type=ws&fp=chrome&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇳 IN-151.101.158.204:80
 vless://68b0b67a-c480-408f-b49e-78b9b3302cec@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-Xv2ry2%3Fed%3D512#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
+vless://a835df0f-6b89-46e1-a2a0-c08907d5a524@57.129.0.208:80??allowInsecure=0&type=ws&host=91.241.94.160#15|DE_speednode_0041
