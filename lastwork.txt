@@ -15174,3 +15174,6 @@ vless://43661173-937c-4c23-bf87-d9257e834b45@151.101.128.254:80??security=none&t
 vless://43661173-937c-4c23-bf87-d9257e834b45@151.101.194.120:80??security=none&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.120:80
 vless://989f3b5d-705e-4c75-99bd-b41be4d146cd@104.18.15.19:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:80
 vless://43661173-937c-4c23-bf87-d9257e834b45@151.101.194.165:80??security=none&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.165:80
+vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.15.19:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:80
+vless://62c14425-9fb0-4b1e-8b40-aa90013877bd@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2F%40VpnWedbaz-----%40VpnWedbaz%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.14.19:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
