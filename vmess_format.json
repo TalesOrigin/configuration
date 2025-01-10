@@ -17,6 +17,40 @@
         "v": "2"
     },
     {
+        "add": "www.aetv.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
+        "net": "ws",
+        "path": "/?ed=2048",
+        "port": "80",
+        "ps": "WiFi-@V2ray_Alpha-18",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
+        "add": "151.101.2.216",
+        "aid": "0",
+        "alpn": "h2,http/1.1",
+        "fp": "chrome",
+        "host": "91.341.94.160",
+        "id": "545485da-9ff4-48c5-ae94-45e6e4ee7d26",
+        "net": "ws",
+        "path": "/racevpn",
+        "port": "80",
+        "ps": "Join To :@IRAN_V2RAY1\ud83c\udde9\ud83c\uddea",
+        "scy": "auto",
+        "sni": "plex.com",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 _\u7f8e\u56fd",
         "add": "s2.cn-db.top",
@@ -100,8 +134,8 @@
     },
     {
         "v": "2",
-        "ps": "US16 7.5MB/s",
-        "add": "151.101.2.216",
+        "ps": "US23 1.6MB/s",
+        "add": "151.101.3.8",
         "port": "80",
         "id": "67650521-85de-4679-bf72-920a09781374",
         "aid": "0",
@@ -112,7 +146,7 @@
         "path": "/?ed=80/#id-telegram:--->@vpn_whal<---",
         "tls": "",
         "sni": "",
-        "test_name": "US16"
+        "test_name": "US23"
     },
     {
         "add": "104.16.67.38",
