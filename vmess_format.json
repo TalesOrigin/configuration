@@ -63,6 +63,23 @@
         "test_name": "61"
     },
     {
+        "add": "151.101.2.216",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "c69f3029-ae1e-45ca-aa08-70970f14dfd2",
+        "net": "ws",
+        "path": "/racevpn?telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@m3hdio1"
+    },
+    {
         "add": "104.16.67.38",
         "aid": "0",
         "alpn": "",
