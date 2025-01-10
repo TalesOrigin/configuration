@@ -30,21 +30,20 @@
         "tls": ""
     },
     {
-        "add": "185.22.154.171",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "65bdc8fb-7cc5-44df-83c8-7963c5ac8193",
-        "net": "ws",
-        "path": "/iphone",
+        "v": "2",
+        "ps": "\u672a\u77e561",
+        "add": "www.aetv.com",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddf7\ud83c\uddfa RU-185.22.154.171:80",
+        "id": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
+        "aid": "0",
         "scy": "auto",
-        "sni": "",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/?ed=2048",
         "tls": "",
-        "type": "",
-        "v": "2"
+        "sni": "",
+        "test_name": "61"
     },
     {
         "add": "104.16.67.38",
