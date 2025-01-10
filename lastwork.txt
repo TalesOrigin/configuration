@@ -15241,3 +15241,5 @@ vless://4e2ef4e0-b0b3-46e0-a711-6f2271f952d7@151.101.194.120:80??security=none&t
 vless://4e2ef4e0-b0b3-46e0-a711-6f2271f952d7@151.101.128.254:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.254:80
 vless://4e2ef4e0-b0b3-46e0-a711-6f2271f952d7@151.101.56.105:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.56.105:80
 vless://4e2ef4e0-b0b3-46e0-a711-6f2271f952d7@151.101.0.137:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.137:80
+vless://fddedb06-250c-46e1-eca7-5df2e361192f@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://4e2ef4e0-b0b3-46e0-a711-6f2271f952d7@151.101.128.155:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.155:80
