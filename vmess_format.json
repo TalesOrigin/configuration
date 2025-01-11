@@ -30,7 +30,7 @@
         "tls": ""
     },
     {
-        "add": "151.101.128.155",
+        "add": "151.101.64.155",
         "aid": "0",
         "alpn": "",
         "fp": "",
@@ -39,7 +39,7 @@
         "net": "ws",
         "path": "/?ed=80/#id-telegram:--->@vpn_whal<---",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.128.155:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.64.155:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -48,7 +48,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e547",
+        "ps": "\u672a\u77e5121",
         "add": "www.aetv.com",
         "port": "80",
         "id": "beb7d098-48ba-4be8-a47a-758bf3c470b8",
@@ -60,7 +60,7 @@
         "path": "/?ed=2048",
         "tls": "",
         "sni": "",
-        "test_name": "47"
+        "test_name": "121"
     },
     {
         "add": "bia-vpn-whal.fast.hosting-ip.com",
