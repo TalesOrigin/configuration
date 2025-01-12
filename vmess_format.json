@@ -34,6 +34,22 @@
         "v": "2"
     },
     {
+        "v": "2",
+        "ps": "US37",
+        "add": "151.101.194.165",
+        "port": "80",
+        "id": "d140fc28-16c3-40ea-b1aa-8582969ea246",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/?ed=80/#id-telegram:--->@vpn_whal<---",
+        "tls": "",
+        "sni": "",
+        "test_name": "US37"
+    },
+    {
         "add": "bia-vpn-whal.fast.hosting-ip.com",
         "aid": "0",
         "alpn": "",
