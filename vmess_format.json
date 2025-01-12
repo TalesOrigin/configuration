@@ -69,21 +69,20 @@
         "tls": ""
     },
     {
-        "add": "151.101.0.155",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d140fc28-16c3-40ea-b1aa-8582969ea246",
-        "net": "ws",
-        "path": "/?ed=80/#id-telegram:--->@vpn_whal<---",
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.216:80",
+        "add": "151.101.2.216",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.0.155:80",
+        "id": "c69f3029-ae1e-45ca-aa08-70970f14dfd2",
+        "aid": "0",
         "scy": "auto",
-        "sni": "",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/racevpn?telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn",
         "tls": "",
-        "type": "---",
-        "v": "2"
+        "sni": "",
+        "alpn": ""
     },
     {
         "add": "104.16.67.38",
