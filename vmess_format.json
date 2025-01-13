@@ -43,17 +43,6 @@
         "tls": ""
     },
     {
-        "tls": "none",
-        "scy": "auto",
-        "port": "80",
-        "add": "www.speedtest.net",
-        "path": "/web?ed=2048",
-        "id": "040a6bc6-82e9-4850-af39-4eb3b5007874",
-        "net": "ws",
-        "host": "91.341.94.160",
-        "ps": "\ud83d\udc49\ud83c\udd94@m3hdio1"
-    },
-    {
         "add": "bia-vpn-whal.fast.hosting-ip.com",
         "aid": "0",
         "alpn": "h2",
