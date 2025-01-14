@@ -48,7 +48,6 @@ vless://050ed187-5887-4ca2-8b59-cf81283392ca@151.101.3.8:80??path=%2F%40VpnWedba
 vless://2cab13fd-c8f1-4c91-87a5-4506c3ab0434@python.org:80??security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&host=91.241.94.160&encryption=none#@UnlimitedDev-Link1
 vless://35cf8ff2-47c9-48af-8d21-ce1a74a98fe8@151.101.194.165:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080#@Hope_Net-join-us-on-Telegram
 vless://0c9be1ab-de8b-46f7-8471-6739a1e3d289@free.fastly80.hosting-ip.com:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2ray1_Ng
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.105:80??allowInsecure=0&sni=teleirani.ir&alpn=h2,http/1.1&type=ws&host=91.241.94.160&path=/?ed=2048fp=random#15|US_speednode_0051
 vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%40custom_config%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
 vless://aebca481-d343-4ae8-a641-c598d253f0f1@104.21.232.99:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
 vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%40custom_config%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40Capoit%20%7C%200
@@ -465,6 +464,8 @@ vless://49959b48-6294-4a7d-b3d6-049d3d40cfd6@hajlab.ucdavis.edu:80??security=non
 vless://49959b48-6294-4a7d-b3d6-049d3d40cfd6@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram👽DailyV2ry
 vless://49959b48-6294-4a7d-b3d6-049d3d40cfd6@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram👽DailyV2ry
 vless://49959b48-6294-4a7d-b3d6-049d3d40cfd6@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram🦋DailyV2ry
+vless://49959b48-6294-4a7d-b3d6-049d3d40cfd6@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram🌪DailyV2ry
+vless://49959b48-6294-4a7d-b3d6-049d3d40cfd6@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram👾DailyV2ry
 vless://Tel--V2RAXX@speedtest.net:80??path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 vless://V2RAXX---@speedtest.net:80??path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 vless://V2RAXX@speedtest.net:80??path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
