@@ -60,24 +60,6 @@
         "v": "2"
     },
     {
-        "add": "89.187.28.126",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "18659a31-add9-4b9f-af57-77ffaf0396c9",
-        "net": "ws",
-        "path": "/vmess/#/@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "skip-cert-verify": true,
-        "ps": "\ud83d\udc49\ud83c\udd94@m3hdio1"
-    },
-    {
         "add": "151.101.2.216",
         "aid": "0",
         "alpn": "",
