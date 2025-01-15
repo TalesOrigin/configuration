@@ -15530,3 +15530,5 @@ vless://7547df3a-8d1b-4842-bb21-467163955303@151.101.194.228:80??security=none&t
 vless://3745ca37-5651-430c-b764-e7fae5c22c4a@151.101.8.163:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇧🇪 BE-151.101.8.163:80
 vless://e6cd89d7-70ec-46c0-d0c4-17a3453f4165@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
 vless://25303e19-5105-5489-90bf-9dac9588ec46@151.101.66.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://3745ca37-5651-430c-b764-e7fae5c22c4a@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://3745ca37-5651-430c-b764-e7fae5c22c4a@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
