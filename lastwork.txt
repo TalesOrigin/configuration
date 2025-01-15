@@ -15571,3 +15571,5 @@ vless://226aec61-4299-4ab4-b494-55b15cadf6f9@151.101.2.165:80??security=none&typ
 vless://e9cfa1af-7c85-4fbe-8e13-fade34181707@151.101.158.204:80??security=none&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D64&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-NONE 🇮🇳 IN-151.101.158.204:80
 vless://c7254b7c-ace0-4995-9e18-fce67598c04c@151.101.194.165:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.165:80
 vless://0c9be1ab-de8b-46f7-8471-6739a1e3d289@151.101.3.8:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://8d26df2f-e97f-4fec-e679-42c637452289@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://d184a003-2f56-418e-9999-4bb7e869a925@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=%2Fspdnet%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
