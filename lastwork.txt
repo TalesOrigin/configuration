@@ -15589,3 +15589,11 @@ vless://bf8f1420-b07e-4601-a21d-a126d77bbded@81.28.12.12:80??security=none&type=
 vless://25303e19-5105-5489-90bf-9dac9588ec46@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://77f680d1-1881-4b16-9eac-b8882c05fe62@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://e9cfa1af-7c85-4fbe-8e13-fade34181707@151.101.158.204:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D64#🔒 VL-WS-NONE 🇮🇳 IN-151.101.158.204:80
+vless://8f13868d-9036-45c1-a72f-897f836bfd50@151.101.128.155:80??allowInsecure=0&sni=J.Dev&type=ws&host=91.241.94.160&path=/Telegram-Channel:@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG-----@Hqv2RayNG?ed=2560#15|US_speednode_0049
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/#15|US_speednode_0050
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.199.226:80??allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=91.241.94.160&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048#15|US_speednode_0054
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.198.40:80??allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=91.241.94.160&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048#15|US_speednode_0055
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80??allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=91.241.94.160&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048#15|US_speednode_0056
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.205.44:80??allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=91.241.94.160&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048#15|US_speednode_0057
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.201.163:80??allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=91.241.94.160&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048#15|US_speednode_0059
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.209.27:80??allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=91.241.94.160&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048#15|US_speednode_0061
