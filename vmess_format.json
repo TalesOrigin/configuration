@@ -134,21 +134,17 @@
         "tls": ""
     },
     {
-        "add": "108.181.10.17",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "a513c890-d003-11ef-b436-205c6d5f5d78",
-        "net": "ws",
-        "path": "/kny81v9a",
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.16.155.10:80",
+        "add": "104.16.155.10",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-108.181.10.17:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
+        "type": "none",
+        "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/dabai.in104.17.169.115",
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "add": "biiia-vpn-whal.fast.hosting-ip.com",
