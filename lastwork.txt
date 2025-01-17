@@ -15981,3 +15981,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.0.39:80??security=none&type=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.229.45:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.229.45:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.250.66:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.250.66:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.19.59:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.59:80
+vless://telegram-ArV2ray@www.speedtest.net:80??path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.199.95:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool
