@@ -16089,3 +16089,12 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.23.12:80??security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.29.221:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.29.221:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.27.155:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.155:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.234.46:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.234.46:80
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@www.speedtest.net:80??encryption=none&security=none&sni=&type=ws&alpn=&host=91.241.94.160&path=/vmn?ed=1024#👉🆔@v2ray_configs_pool
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless-ws%2F%40Telegram-proxy_mtm%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.27.155:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.243.95:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.63.140:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool
+vless://d184a003-2f56-418e-9999-4bb7e869a925@spd.fastly80-2.hosting-ip.com:80??path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.69.24:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool
+vless://TELEGRAM-NUFiLTER-8c615c1616cb@NUFiLTER.fastly80-3.hosting-ip.com:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool
