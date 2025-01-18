@@ -16285,3 +16285,20 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.58.224:80??security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.242.142:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.242.142:80
 vless://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.4.68:80??security=tls&sni=worker-soft-mouse-6965.hevapey267.workers.Dev&type=ws&host=91.241.94.160&path=telegram@wangcai2/?ed%3D2048#👉🆔@v2ray_configs_pool📡🇮🇷Iran
 vless://telegram-id-ArV2ray@151.101.3.8:80??path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.30.67:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.67:80
+vless://baaf201d-770c-44fa-8cc0-28fa51363d0c@151.101.8.163:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇧🇪 BE-151.101.8.163:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.8.164:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.8.164:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.72:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.72:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.236.19:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.236.19:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.231.40:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.231.40:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.254.122:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.254.122:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.38.218:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.38.218:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.40.16:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.40.16:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.233.140:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.233.140:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.245.235:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.245.235:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.222.215:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.222.215:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.44.63:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.44.63:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.29.175:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.29.175:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.229.207:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.229.207:80
+vless://--_VPNCUSTOMIZE_---@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80??path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.238.216:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
