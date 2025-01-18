@@ -16425,3 +16425,34 @@ vless://1d6b8f00-2658-4a7b-befe-a6e3abb91c51@151.101.65.57:80??security=none&typ
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/?ed=2560#15|US_speednode_0070
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80??allowInsecure=0&sni=teleirani.ir&type=ws&host=91.241.94.160&path=/#15|US_speednode_0071
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.105.140:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws/@Azarbayjab1@Azarbayjab1@Azarbayjab1@Azarbayjab1@Azarbayja1/?ed=2560#15|US_speednode_0072
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.165.13:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.165.13:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.134.114:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.134.114:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.64.151:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.64.151:80
+vless://04306514-713c-4357-9094-2cfcfbf8fc3e@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.206.87:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.206.87:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.15.109:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.15.109:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.199.140:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.199.140:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.229.33:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.229.33:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.140.91:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.140.91:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.233.7:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.233.7:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.226.9:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.226.9:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.231:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.224.231:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.29:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.227.29:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.238.150:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.238.150:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.246.98:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.246.98:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.244.240:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.240:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.131.43:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.131.43:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.224.247:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.224.247:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@141.101.115.150:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.115.150:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.102.217:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.102.217:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.237.18:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.237.18:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@141.101.114.203:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.114.203:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.203.249:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.203.249:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.232.226:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.232.226:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.39:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.39:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.68.35:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.68.35:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.154.0:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.154.0:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.120.179:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.120.179:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.142.152:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.142.152:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.245.58:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.245.58:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.245.8:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.245.8:80
