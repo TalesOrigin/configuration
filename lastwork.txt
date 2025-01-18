@@ -16360,3 +16360,7 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.13.209:80??security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.9.160:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.9.160:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.53.54:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.53.54:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.195:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.195:80
+vless://V2RAXX--@speedtest.net:80??path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://%56%32%52%41%58%58@SRCVPN.fastly80-3.hosting-ip.com:80??path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&alpn=@SRCVPN,@SRCVPN,@SRCVPN&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
+vless://%56%32%52%41%58%58@151.101.0.155:80??path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&alpn=@SRCVPN,@SRCVPN,@SRCVPN&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80??path=%2Fvless-ws%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸United States
