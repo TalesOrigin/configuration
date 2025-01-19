@@ -16531,3 +16531,7 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.7.65:80??security=none&type=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.14.66:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.14.66:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.244.188:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.188:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.230.190:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.221.17:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://ff4d8542-220d-52be-8efb-d1fc0c43bc83@45.89.55.188:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇷🇸Serbia
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.138.187:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.211:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦Canada
