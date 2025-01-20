@@ -16887,3 +16887,23 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.119:80??allowInsecure=0&s
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.43:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-wsfp=chrome#15|US_speednode_0091
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.209.27:80??allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=91.241.94.160&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-#15|US_speednode_0092
 vless://3-TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.91.178:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.243.60:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.243.60:80
+vless://ff4d8542-220d-52be-8efb-d1fc0c43bc83@45.89.55.188:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇷🇸 RS-45.89.55.188:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.13.110:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.13.110:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.245.99:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.245.99:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.238.248:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.238.248:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.0.168:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.0.168:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.10.108:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.10.108:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.233.13:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.233.13:80
+vless://ea3e5740-fef7-7b38-a347-6ed92d454d8e@151.101.2.216:80??security=none&type=ws&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=91.241.94.160&path=%2F%3Fed%3D8880#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
+vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.233.169:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.227.212:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.227.212:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.1.190:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.1.190:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.248:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.248:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.19.85:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.19.85:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.226.162:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.226.162:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.230.113:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.230.113:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.233.44:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.233.44:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.189.15:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.189.15:80
+vless://Channel-VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80??path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
