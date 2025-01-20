@@ -16961,3 +16961,22 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.19.85:80??security=none&type
 vless://Channel-VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80??path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://e64c2d64-509d-40cf-a22f-44f3e5794ec0@151.101.192.155:80??path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://Channel-VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80??path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/?ed=2560#15|US_speednode_0049
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.9:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws#15|US_speednode_0050
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.107:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/fp=chrome#15|US_speednode_0054
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.69.101:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws#15|US_speednode_0055
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80??allowInsecure=1&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/fp=chrome#15|US_speednode_0056
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.71:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws#15|US_speednode_0058
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.8:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws#15|US_speednode_0059
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.99.180:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws#15|US_speednode_0060
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.76:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws#15|US_speednode_0061
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.72.38:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/#15|US_speednode_0063
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.119:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws#15|US_speednode_0065
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.80:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws#15|US_speednode_0067
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.99.4:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-wsfp=chrome#15|US_speednode_0068
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.10:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-wsfp=chrome#15|US_speednode_0071
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.100:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-wsfp=chrome#15|US_speednode_0072
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.43:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-wsfp=chrome#15|US_speednode_0073
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.209.27:80??allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=91.241.94.160&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-#15|US_speednode_0076
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.70.214:80??allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=91.241.94.160&path=/vless-ws#15|US_speednode_0078
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.12.143:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
