@@ -16828,3 +16828,4 @@ vless://241cc6d6-3f35-551e-a8ce-7af4dfa29ed3@95.164.46.39:80??security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.48.206:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.206:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.60.103:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.60.103:80
 vless://telegram---VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80??path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://%40v2boxvpnn@mmd.fast.hosting-ip.com:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
