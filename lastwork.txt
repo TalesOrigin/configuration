@@ -16776,3 +16776,22 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.9.63:80??security=none&type=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.164:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.164:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.251.25:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.251.25:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.110.95:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.110.95:80
+vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.230.156:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.230.156:80
+vless://dd79b9aa-0981-4acd-86e3-d0e38285097a@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.24.196.129:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.196.129:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.186.138:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.186.138:80
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.111:80??security=none&type=ws&host=91.241.94.160&path=Telegram%40proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-167.82.1.111:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.27.20:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.20:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@108.162.194.122:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-108.162.194.122:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.238.129:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.238.129:80
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.85.155:80??security=none&sni=teleirani.ir&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-167.82.85.155:80
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@81.28.12.12:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-81.28.12.12:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.118.57:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.118.57:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.197.45:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.197.45:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.24.244.74:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.244.74:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.49.109:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.49.109:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.221.114:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.221.114:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.25.23.226:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.23.226:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@108.162.192.145:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-108.162.192.145:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.16.97:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.16.97:80
