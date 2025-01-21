@@ -17055,3 +17055,9 @@ vless://e64c2d64-509d-40cf-a22f-44f3e5794ec0@151.101.128.155:80??security=none&t
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.16.25.21:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.25.21:80
 vless://064c3a3a-6a47-45f8-8ede-4869921851cc@151.101.158.204:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D64#🔒 VL-WS-NONE 🇮🇳 IN-151.101.158.204:80
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.167.96:80
+vless://6916a346-6ba8-45a0-bfff-fedb89340164@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.26.117:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.26.117:80
+vless://7f8766f1-3ec3-44a0-aa0e-2508fb82a6fe@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=/olem/ws?ed%3D1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.2.216:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
+vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.194.216:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.216:80
+vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.130.216:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.216:80
