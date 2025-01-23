@@ -17412,3 +17412,7 @@ vless://8e644ba4-c10f-4285-8c27-82cde672513f@151.101.2.165:80??security=none&typ
 vless://4f17e173-4af9-5041-9662-f6c27e0decfd@188.165.49.88:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-188.165.49.88:80
 vless://1d9f05fa-9189-57a1-9664-3ecce65ccba5@151.101.1.6:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.6:80
 vless://1d9f05fa-9189-57a1-9664-3ecce65ccba5@151.101.193.6:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.193.6:80
+vless://db84349f-59b3-425d-8ea4-56c6894fe8cc@151.101.0.155:80??security=none&type=ws&host=91.241.94.160&path=/@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2%3Fed%3D2560&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
+vless://c4492bfa-2a1b-477f-a433-6c880e67373d@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://c327472a-936d-4600-bc97-3a95fc674080@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=CANALTELEGRAM--@jet_config--CANALTELEGRAM--@jet_config#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
+vless://eb1ebf12-3c52-4f26-8242-6c98887b34eb@151.101.158.204:80??security=none&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D64&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-NONE 🇮🇳 IN-151.101.158.204:80
