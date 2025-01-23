@@ -17333,3 +17333,4 @@ vless://c327472a-936d-4600-bc97-3a95fc674080@151.101.64.155:80??security=none&ty
 vless://8e644ba4-c10f-4285-8c27-82cde672513f@151.101.0.155:80??security=none&type=ws&host=91.241.94.160&path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
 vless://c327472a-936d-4600-bc97-3a95fc674080@151.101.192.155:80??security=none&type=ws&host=91.241.94.160&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
 vless://4f17e173-4af9-5041-9662-f6c27e0decfd@188.165.49.88:80??security=none&type=ws&host=91.241.94.160&path=%2Fopentunnel%3Fuser%3Dopentunnel.net-azarbayjab1#🔒 VL-WS-NONE 🇫🇷 FR-188.165.49.88:80
+vless://73039c19-caee-48e5-af88-e6c74197c1a1@81.28.12.12:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🇳🇱 NL-81.28.12.12:80
