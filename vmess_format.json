@@ -2,19 +2,6 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "www.speedtest.net",
-        "port": "80",
-        "type": "none",
-        "id": "36500750-d9b5-11ef-b136-205c6d5f5d78",
-        "aid": "0",
-        "net": "ws",
-        "path": "/da87uoih",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "s2.db-link01.top",
         "port": "80",
         "type": "none",
@@ -22,19 +9,6 @@
         "aid": "0",
         "net": "ws",
         "path": "/dabai.in172.67.60.154",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "s4.cn-db.top",
-        "port": "80",
-        "type": "none",
-        "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
-        "aid": "0",
-        "net": "ws",
-        "path": "/dabai.in172.64.27.157",
         "host": "91.341.94.160",
         "tls": ""
     },
