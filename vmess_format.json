@@ -61,12 +61,12 @@
         "net": "ws",
         "path": "/xa62zvle",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.17.148.22:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
         "type": "---",
-        "v": "2"
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.17.148.22:80"
     },
     {
         "add": "biiia-vpn-whal.fast.hosting-ip.com",
@@ -4910,6 +4910,23 @@
         "sni": "",
         "tls": "",
         "type": "",
+        "v": "2"
+    },
+    {
+        "add": "www.speedtest.net",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "bff5a840-da23-11ef-b930-205c6d5f5d78",
+        "net": "ws",
+        "path": "/xa62zvle",
+        "port": "80",
+        "ps": "@Vip_Security join us - 3\n",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
         "v": "2"
     },
     {
