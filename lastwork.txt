@@ -17583,3 +17583,5 @@ vless://bc9a01cf-181f-446e-9e0e-5d05827389ae@151.101.1.6:80??security=&type=ws&p
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68612@speedtest.net:80??security=&type=ws&path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed%3D2048&host=91.241.94.160&encryption=none#👉🆔@v2ray_configs_pool
 vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@151.101.129.6:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.129.6:80
 vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@151.101.193.6:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.193.6:80
+vless://bab76a13-8b38-4095-8c74-5d00ca819edd@151.101.64.155:80??security=none&type=ws&host=91.241.94.160&path=%2Fspdnet%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
+vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@151.101.65.6:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.65.6:80
