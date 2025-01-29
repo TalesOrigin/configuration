@@ -18018,3 +18018,6 @@ vless://dc137d45-53b8-4e90-b452-35cd006c0f1d@172.67.73.163:80??security=none&typ
 vless://dc137d45-53b8-4e90-b452-35cd006c0f1d@104.26.15.85:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:80
 vless://cea8359f-1d60-41e4-b069-a8ce81a5c02f@151.101.194.165:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.165:80
 vless://7976f348-21e3-4688-8272-b8df34afc600@104.18.14.19:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
+vless://7976f348-21e3-4688-8272-b8df34afc600@104.18.15.19:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:80
+vless://cea8359f-1d60-41e4-b069-a8ce81a5c02f@151.101.0.155:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
+vless://729ff50b-0cc3-4b4e-a4bf-e2c338f04d2a@172.67.73.163:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:80
