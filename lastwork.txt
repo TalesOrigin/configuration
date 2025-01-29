@@ -18082,3 +18082,5 @@ vless://ff0f6189-c705-4c40-ae71-a3ea31e7114d@151.101.2.165:80??path=%40XpnTeam%2
 vless://4bd3e2db-8956-438d-83ce-f2be711d8eb1@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool
 vless://63b6d120-a222-4570-aaba-a6e4079eb8fd@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool
 vless://6aa9e772-4a5e-4fba-a321-f3e2c37ab1d9@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool
+vless://aa6fa014-57c9-4428-9599-8d16a282eb0a@151.101.0.155:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.155:80
+vless://aa6fa014-57c9-4428-9599-8d16a282eb0a@151.101.194.165:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.165:80
