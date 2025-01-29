@@ -18012,3 +18012,5 @@ vless://a02fb2f3-58c2-49b8-9db8-3c2780b0a18f@104.26.14.85:80??security=none&type
 vless://a02fb2f3-58c2-49b8-9db8-3c2780b0a18f@104.26.15.85:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:80
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@107.170.58.239:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-107.170.58.239:80
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@46.101.89.156:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇬🇧 GB-46.101.89.156:80
+vless://a02fb2f3-58c2-49b8-9db8-3c2780b0a18f@172.67.73.163:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:80
+vless://28a663e8-9cb2-4308-ae32-dc7a0f3cdcfe@104.26.14.85:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.14.85:80
