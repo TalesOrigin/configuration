@@ -2,7 +2,7 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "hsj.lbxjc.online",
+        "add": "104.17.213.241",
         "port": "80",
         "type": "none",
         "id": "e6543319-0574-42ac-b778-1c4325d626f5",
@@ -13,17 +13,21 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.17.213.241",
-        "port": "80",
-        "type": "none",
-        "id": "e6543319-0574-42ac-b778-1c4325d626f5",
+        "add": "hdfrplcpnl1.airlineshoma.com",
         "aid": "0",
-        "net": "ws",
-        "path": "/",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "tls": ""
+        "id": "a2ef1a8e-347e-4dc4-a1ff-de9b1ebeaf63",
+        "net": "ws",
+        "path": "/Sx6hCbCg6RqXrfw3l",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool"
     },
     {
         "add": "biiia-vpn-whal.fast.hosting-ip.com",
