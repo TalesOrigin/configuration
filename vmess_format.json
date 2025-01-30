@@ -4024,23 +4024,6 @@
         "v": "2"
     },
     {
-        "add": "www.speedtest.net",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "bff5a840-da23-11ef-b930-205c6d5f5d78",
-        "net": "ws",
-        "path": "/xa62zvle",
-        "port": "80",
-        "ps": "@Vip_Security join us - 330\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "pq-brazil1.09vpn.com",
         "aid": "0",
         "alpn": "",
