@@ -18126,3 +18126,5 @@ vless://37fcf3f2-c9b6-4d22-bf61-299b606ffbd5@tgju.org:80??path=%2F%3Fed%3D2048&s
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@162.243.236.16:80??encryption=none&security=none&sni=&type=ws&alpn=&host=91.241.94.160&path=/?ed=2048#👉🆔@v2ray_configs_pool
 vless://c881ea1a-5c1a-4071-a1ef-339f85b3c3c7@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool
 vless://dd4cadbb-0a1f-4e20-9f1b-c8946fc0f1ef@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool
+vless://f503ceaa-aa74-4468-8359-2788e1b6c915@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://483a572d-38a8-4b59-942f-76b0e94e9073@170.114.45.6:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🇺🇸 US-170.114.45.6:80
