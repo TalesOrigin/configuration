@@ -56,23 +56,6 @@
         "v": "2"
     },
     {
-        "add": "biiia-vpn-whal.fast.hosting-ip.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "id6---vpn-whal",
-        "net": "ws",
-        "path": "/?ed=2056/#id-telegram:--->@vpn_whal<---",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool"
-    },
-    {
         "add": "104.17.213.241",
         "aid": "0",
         "alpn": "",
