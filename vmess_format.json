@@ -56,6 +56,19 @@
         "v": "2"
     },
     {
+        "v": "2",
+        "add": "zula.ir",
+        "port": "80",
+        "type": "none",
+        "id": "c1fd780a-3408-4f48-a932-5832a28ce9f6",
+        "aid": "0",
+        "net": "ws",
+        "path": "/ausgt02.bestforxray.buzz/linkws",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool"
+    },
+    {
         "add": "192.227.237.60",
         "aid": "0",
         "alpn": "",
