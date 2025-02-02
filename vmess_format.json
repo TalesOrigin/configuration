@@ -39,6 +39,36 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "add": "zula.ir",
+        "port": "80",
+        "type": "none",
+        "id": "c1fd780a-3408-4f48-a932-5832a28ce9f6",
+        "aid": "0",
+        "net": "ws",
+        "path": "/ausgt02.bestforxray.buzz/linkws",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool"
+    },
+    {
+        "add": "biiia-vpn-whal.fast.hosting-ip.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "id6---vpn-whal",
+        "net": "ws",
+        "path": "/?ed=2056/#id-telegram:--->@vpn_whal<---",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool"
+    },
+    {
         "add": "192.227.237.60",
         "aid": "0",
         "alpn": "",
