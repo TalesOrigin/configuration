@@ -2,41 +2,28 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "s1.cn-db.top",
+        "add": "s2.db-link02.top",
         "port": "80",
         "type": "none",
         "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
         "aid": "0",
         "net": "ws",
-        "path": "/dabai.in172.64.34.18",
+        "path": "/dabai.in104.20.76.67",
         "host": "91.341.94.160",
         "tls": ""
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "hsj.lbxjc.online",
+        "add": "104.21.69.44",
         "port": "80",
         "type": "none",
-        "id": "e6543319-0574-42ac-b778-1c4325d626f5",
+        "id": "c1fd780a-3408-4f48-a932-5832a28ce9f6",
         "aid": "0",
         "net": "ws",
-        "path": "/",
+        "path": "/ausgt02.bestforxray.buzz/linkws",
         "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "s4.db-link02.top",
-        "port": "80",
-        "type": "none",
-        "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
-        "aid": "0",
-        "net": "ws",
-        "path": "/dabai.in104.24.152.253",
-        "host": "91.341.94.160",
-        "tls": ""
+        "tls": "",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.69.44:80"
     },
     {
         "v": "2",
