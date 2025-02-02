@@ -2,13 +2,13 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "s2.db-link02.top",
+        "add": "104.16.155.10",
         "port": "80",
         "type": "none",
         "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
         "aid": "0",
         "net": "ws",
-        "path": "/dabai.in104.20.76.67",
+        "path": "/dabai.in104.17.169.115",
         "host": "91.341.94.160",
         "tls": ""
     },
@@ -27,19 +27,6 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool"
-    },
-    {
-        "v": "2",
-        "add": "zula.ir",
-        "port": "80",
-        "type": "none",
-        "id": "c1fd780a-3408-4f48-a932-5832a28ce9f6",
-        "aid": "0",
-        "net": "ws",
-        "path": "/ausgt02.bestforxray.buzz/linkws",
-        "host": "91.341.94.160",
-        "tls": "",
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool"
     },
     {
@@ -3951,22 +3938,6 @@
         "tls": "",
         "type": "",
         "v": "2"
-    },
-    {
-        "v": "2",
-        "ps": "TG:@v2ray_sub",
-        "add": "151.101.2.216",
-        "port": "80",
-        "id": "c69f3029-ae1e-45ca-aa08-70970f14dfd2",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/racevpn?telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn",
-        "tls": "",
-        "sni": "",
-        "alpn": ""
     },
     {
         "add": "104.17.221.248",
