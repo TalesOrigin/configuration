@@ -65,21 +65,20 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\u672a\u77e5124 70.6MB/s",
         "add": "104.17.147.22",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "e75ed5a0-e32c-11ef-b535-205c6d5f5d78",
-        "net": "ws",
-        "path": "/nd9emita",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.17.147.22:80",
+        "id": "e75ed5a0-e32c-11ef-b535-205c6d5f5d78",
+        "aid": "0",
         "scy": "auto",
-        "sni": "",
-        "tls": "",
+        "net": "ws",
         "type": "---",
-        "v": "2"
+        "host": "91.341.94.160",
+        "path": "/nd9emita",
+        "tls": "",
+        "sni": "",
+        "test_name": "124"
     },
     {
         "add": "192.227.237.60",
