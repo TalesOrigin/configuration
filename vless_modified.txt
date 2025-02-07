@@ -1,34 +1,3 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%A5%BF%E7%8F%AD%E7%89%99_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.41:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.213:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.41:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.46:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80??security=none&type=ws&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&sni=google.com&path=/http&encryption=none&headerType=none&host=91.241.94.160#%E7%BE%8E%E5%9B%BD_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.105:80??security=&type=ws&path=/?ed%3D2048&host=91.241.94.160&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@www.speedtest.net:80??encryption=none&security=none&sni=&type=ws&alpn=&host=91.241.94.160&path=/vmn?ed=1024#telegram🛸DailyV2ry
 vless://4d0466d9-90b0-4f95-aef9-ca1c35b31c43@ul-uae2.09vpn.com:80??encryption=none&security=none&type=ws&path=%2Fvless%2F&host=91.241.94.160#[🇹🇷]t.me/ConfigsHub
@@ -301,8 +270,12 @@ vless://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80??encryption=none&t
 vless://f9258a62-a2c9-4ecf-ac07-168fae180c01@151.101.128.155:80??encryption=none&type=ws&path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%2F%3Fed%3D1024&host=91.241.94.160&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=testfast7.v2fast7.com#138-%E7%BE%8E%E5%9B%BD_1210043476
 vless://d2b4a384-2036-4856-d7ef-7b39faa348e9@151.101.0.155:80??encryption=none&type=ws&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=151.101.0.155&host=91.241.94.160#144-%E7%BE%8E%E5%9B%BD_1210041897
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.6.175:80??encryption=none&type=ws&path=%2F&host=91.241.94.160&alpn=http%2F1.1&fp=randomized&sni=us3.rtacg.com#173-CF%E4%B8%AD%E8%BD%AC_1210047334
-vless://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 47
-vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 45
+vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 387
+vless://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 377
+vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 375
+vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 373
+vless://60cc8814-4b2d-4b37-a797-cde5cb9200bf@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 356
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 353
 vless://1389cda2-9dce-4847-bd63-6c289fc08cc5@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🍊 DailyV2ry
 vless://1389cda2-9dce-4847-bd63-6c289fc08cc5@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ☂️ DailyV2ry
 vless://1bffe795-ddf6-4269-b659-e4cf24a843c5@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🍊 DailyV2ry
