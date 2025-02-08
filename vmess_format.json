@@ -130,6 +130,32 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "add": "hinet.072659.xyz",
+        "port": "80",
+        "type": "none",
+        "id": "f435af7b-d36e-4e8d-9c0f-3017bb71e2c9",
+        "aid": "0",
+        "net": "ws",
+        "path": "/?ed=2048",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\uddf9\ud83c\uddfcTaiwan"
+    },
+    {
+        "v": "2",
+        "add": "awskr1.072659.xyz",
+        "port": "80",
+        "type": "none",
+        "id": "f435af7b-d36e-4e8d-9c0f-3017bb71e2c9",
+        "aid": "0",
+        "net": "ws",
+        "path": "/?ed=2048",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddf7South Korea"
+    },
+    {
         "add": "plex.com",
         "aid": "0",
         "alpn": "",
