@@ -2,6 +2,19 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "s5.db-link01.top",
+        "port": "80",
+        "type": "none",
+        "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/dabai.in104.20.1.186",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "s4.cn-db.top",
         "port": "80",
         "type": "none",
@@ -14,20 +27,7 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "198.41.209.70",
-        "port": "80",
-        "type": "none",
-        "id": "e6543319-0574-42ac-b778-1c4325d626f5",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "0|\ud83c\uddeb\ud83c\uddf71 |  1.9MB/s",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd Fastly\u5168\u7403Anycast\u8282\u70b9",
         "add": "plex.com",
         "port": "80",
         "type": "none",
