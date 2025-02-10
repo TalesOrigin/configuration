@@ -65,21 +65,20 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\u672a\u77e517",
         "add": "95.164.4.88",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
-        "net": "ws",
-        "path": "/vmess/",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udde7\ud83c\uddf7 BR-95.164.4.88:80",
+        "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
+        "aid": "0",
         "scy": "auto",
-        "sni": "",
-        "tls": "",
+        "net": "ws",
         "type": "---",
-        "v": "2"
+        "host": "91.341.94.160",
+        "path": "/vmess/",
+        "tls": "",
+        "sni": "",
+        "test_name": "17"
     },
     {
         "add": "plex.com",
