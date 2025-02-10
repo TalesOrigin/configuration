@@ -294,7 +294,6 @@ vless://2294a8af-65cd-45dc-d443-73e43fedf38c@151.101.2.165:80??encryption=none&s
 vless://telegram-ArV2ray@www.speedtest.net:80??path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=91.241.94.160&type=ws#WS3-Irancell+%7C+%40ArV2ray@V2PEDIA
 vless://telegram-ArV2ray@www.speedtest.net:80??path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=91.241.94.160&type=ws#WS3-Irancell+%7C+%40ArV2ray
 vless://telegram-ArV2ray@www.speedtest.net:80??path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=91.241.94.160&type=ws#WS3-Irancell+%7C+%40ArV2ray@V2PEDIA
-vless://617d5079-9fae-494a-98ca-90da9e10cd70@www.speedtest.net:80??encryption=none&security=none&sni=&type=ws&alpn=&host=91.241.94.160&path=/vmn?ed=1024#telegram ☂️ DailyV2ry
 vless://0f298f0b-db94-4be4-a187-7d4297e30f4b@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🎪 DailyV2ry
 vless://57b7a466-25d0-4c3f-8a97-05af91775808@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🍊 DailyV2ry
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@www.speedtest.net:80??encryption=none&security=none&sni=&type=ws&alpn=&host=91.241.94.160&path=/vmn?ed=1024#telegram 🌟 DailyV2ry
@@ -335,6 +334,10 @@ vless://617d5079-9fae-494a-98ca-90da9e10cd70@www.speedtest.net:80??encryption=no
 vless://646828a2-8788-481b-83f5-00f014bfb540@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌟 DailyV2ry
 vless://7f661291-dca6-44bf-8617-323c19c5f976@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌺 DailyV2ry
 vless://8ade8c18-9e5c-43b8-b3ec-e887c5a3c906@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🎪 DailyV2ry
+vless://10b49883-f5c4-442f-a33e-04320d2eafa4@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🚀 DailyV2ry
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@107.170.54.158:80??encryption=none&security=none&sni=&type=ws&alpn=&host=91.241.94.160&path=/?ed=2048#telegram 🌈 DailyV2ry
+vless://966636af-8933-4826-bd17-feae4c52d74e@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌟 DailyV2ry
+vless://fa52bf67-ed7c-4579-a0cb-5311048fb661@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌈 DailyV2ry
 vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80??path=%2FRsAMasAPMX5yb1YZ%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80??path=%2FRsAMasAPMX5yb1YZ%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
