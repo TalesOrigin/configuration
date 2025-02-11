@@ -130,6 +130,19 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "add": "s2.cn-db.top",
+        "port": "80",
+        "type": "none",
+        "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/dabai.in172.67.81.78",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
+    },
+    {
         "add": "plex.com",
         "aid": "0",
         "alpn": "",
