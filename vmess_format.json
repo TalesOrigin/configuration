@@ -13,20 +13,20 @@
         "tls": ""
     },
     {
-        "add": "151.101.2.216",
+        "add": "95.164.4.88",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "0afdd7f6-e155-4fcc-ba77-bda7255e1d0c",
+        "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
         "net": "ws",
-        "path": "/?ed=80/#id-telegram:--->@vpn_whal<---",
+        "path": "/vmess/",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.2.216:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udde7\ud83c\uddf7 BR-95.164.4.88:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2"
     },
     {
