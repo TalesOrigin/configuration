@@ -15,26 +15,13 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "cloudflare.182682.xyz",
-        "port": "80",
-        "type": "none",
-        "id": "b9a3206d-278c-4614-b352-eef632d1c8d5",
-        "aid": "0",
-        "net": "ws",
-        "path": "/rongseven?ed=2048",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "s2.db-link01.top",
         "port": "80",
-        "type": "none",
+        "type": "auto",
         "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
         "aid": "0",
         "net": "ws",
-        "path": "/dabai.in172.67.60.154",
+        "path": "/",
         "host": "91.341.94.160",
         "tls": ""
     },
