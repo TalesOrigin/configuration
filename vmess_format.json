@@ -1,5 +1,22 @@
 [
     {
+        "add": "anycast.cf.030419.xyz",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "b9a3206d-278c-4614-b352-eef632d1c8d5",
+        "net": "ws",
+        "path": "/rongseven?ed=2048",
+        "port": "80",
+        "ps": "[\ud83c\uddec\ud83c\udde7]t.me/ConfigsHub",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "172.67.183.56",
@@ -13,21 +30,20 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "US10 9.5MB/s",
         "add": "151.101.128.155",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "6e3ac406-a15b-461d-8b05-ca01b284d9a0",
-        "net": "ws",
-        "path": "/racevpn",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.128.155:80",
+        "id": "6e3ac406-a15b-461d-8b05-ca01b284d9a0",
+        "aid": "0",
         "scy": "auto",
-        "sni": "",
-        "tls": "",
+        "net": "ws",
         "type": "---",
-        "v": "2"
+        "host": "91.341.94.160",
+        "path": "/racevpn",
+        "tls": "",
+        "sni": "",
+        "test_name": "US10"
     },
     {
         "add": "38.150.13.64",
