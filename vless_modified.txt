@@ -396,7 +396,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80??path=%2F%3Fed%3D2560%2
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#Free%24%2013%20ID%28%40Outline_Vpn%29
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FLwW5jwrnymnOdqki%3Fed%3D2560#TG%3A%40v2ray_sub
 vless://MMD_Hell@speedtest.net:80??path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AC%F0%9F%87%A7telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
-vless://bde25069-8484-4226-965e-d35866c53064@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🎯 DailyV2ry
 vless://bde25069-8484-4226-965e-d35866c53064@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🌺 DailyV2ry
 vless://51e3bc06-152c-4144-b037-2af11e939fa1@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🌈 DailyV2ry
 vless://bde25069-8484-4226-965e-d35866c53064@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🌈 DailyV2ry

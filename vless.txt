@@ -5437,8 +5437,6 @@ vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443/?type=ws&encrypti
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@199.232.0.1:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=cloudflare.com&fp=randomized#Florida¹⁹⁹
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@151.101.1.140:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=speedtest.net&fp=randomized#Florida¹⁵¹
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@23.235.33.238:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=cloudflare.com&fp=randomized#Florida²³
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.92.75:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.29.106:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.191.210:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.242.160.42:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.247.225.233:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
@@ -5456,6 +5454,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.19.106:22222?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.105.61:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.28.67:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.213.192:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.129.16:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://3d6ca650-df5c-43fd-bd69-01a335e1376a@173.245.59.132:2053?type=ws&host=de.gt-ov.com&path=/&security=tls&fp=chrome&sni=de.gt-ov.com&alpn=h3,h2,http/1.1#%20%20V2pedia%20%F0%9F%91%A5%20(%D8%B3%D9%BE%D9%86%D8%AF%D8%A7%D8%B1%D9%85%D8%B0%DA%AF%D8%A7%D9%86)
 vless://3d6ca650-df5c-43fd-bd69-01a335e1376a@173.245.59.132:2053?type=ws&host=de.gt-ov.com&path=/&security=tls&fp=chrome&sni=de.gt-ov.com&alpn=h3,h2,http/1.1#%20%20V2pedia%20%F0%9F%91%A5%20(%D8%B3%D9%BE%D9%86%D8%AF%D8%A7%D8%B1%D9%85%D8%B0%DA%AF%D8%A7%D9%86)
 vless://ZEDMODEON--biaZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snapp.taxi&type=ws&sni=zmaoz.faculty.ucdavis.edu#all%20%F0%9F%87%AE%F0%9F%87%B9%20%28%40ZEDMODEON%29%20166
@@ -5495,29 +5494,6 @@ vless://7469b758-e05e-477b-b66c-da51ad913eab@dev4-basic.gilandashog.com:6341?typ
 vless://7469b758-e05e-477b-b66c-da51ad913eab@trv4-basic.gilandashog.com:6379?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20@vmessprotocol
 vless://7469b758-e05e-477b-b66c-da51ad913eab@amv4-basic.gilandashog.com:8346?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%A6%F0%9F%87%B2%20@vmessprotoco
 vless://9f0be1d04aae4b77be067f03705173c4@uaev4-vip.digitalldns.com:9314?type=tcp&headerType=http&host=varzesh3.com&path=/#%F0%9F%87%A6%F0%9F%87%AAvmessprotocol%20
-vless://3ddaa23e-6531-45a8-814c-70460622ca12@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=mrob8z.isfshzist.com&type=ws&alpn=http/1.1&host=mrob8z.isfshzist.com&path=/wss#telegram ☂️ DailyV2ry
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@34.219.235.45:80?type=tcp&security=none#telegram 🍊 DailyV2ry
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@34.219.245.104:80?type=tcp&security=none#telegram 🌟 DailyV2ry
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@34.220.232.209:80?type=tcp&security=none#telegram 🚀 DailyV2ry
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@34.220.40.120:80?type=tcp&security=none#telegram ⚡️ DailyV2ry
-vless://bde25069-8484-4226-965e-d35866c53064@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.newbackup.com#telegram 🎯 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@18.237.100.5:1009?type=tcp&security=none#telegram 🎪 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@18.237.39.205:1009?type=tcp&security=none#telegram 🌈 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@18.246.20.213:1009?type=tcp&security=none#telegram 🍀 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@18.246.46.125:1009?type=tcp&security=none#telegram 🌺 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.221.198.108:1009?type=tcp&security=none#telegram ☂️ DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.222.189.32:1009?type=tcp&security=none#telegram 🍊 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.223.48.122:1009?type=tcp&security=none#telegram 🌟 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.82.16.229:1009?type=tcp&security=none#telegram 🚀 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.84.190.44:1009?type=tcp&security=none#telegram ⚡️ DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.88.229.132:1009?type=tcp&security=none#telegram 🎯 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.91.54.24:1009?type=tcp&security=none#telegram 🎪 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.94.206.48:1009?type=tcp&security=none#telegram 🌈 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.234.119.83:1009?type=tcp&security=none#telegram 🍀 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.244.153.239:1009?type=tcp&security=none#telegram 🌺 DailyV2ry
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.70.204.59:1009?type=tcp&security=none#telegram ☂️ DailyV2ry
-vless://eefd6860-77ab-4e76-9dce-e2ba699cb1c8@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=lca86g.ulavpnx1.work&type=ws&alpn=http/1.1&host=lca86g.ulavpnx1.work&path=/wss#telegram 🍊 DailyV2ry
-vless://f0ba4f19-e910-4ffc-8540-1aa0f2155780@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=44j18o.iranlosangles.com&type=ws&alpn=http/1.1&host=44j18o.iranlosangles.com&path=/wss#telegram 🌟 DailyV2ry
 vless://192c4881-79b2-4610-ae99-656173836aac@chloe.ns.cloudflare.com:443?encryption=none&security=tls&sni=hevogm.fivegravity.com&type=ws&alpn=http/1.1&host=hevogm.fivegravity.com&path=/wss#telegram ☂️ DailyV2ry
 vless://3ddaa23e-6531-45a8-814c-70460622ca12@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=mrob8z.isfshzist.com&type=ws&alpn=http/1.1&host=mrob8z.isfshzist.com&path=/wss#telegram 🍊 DailyV2ry
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@34.219.245.104:80?type=tcp&security=none#telegram 🌟 DailyV2ry
@@ -5898,6 +5874,33 @@ vless://ebb70d30-2ea6-401a-9447-2dbea0150d26@whatismyipaddress.com:2096?security
 vless://ebb70d30-2ea6-401a-9447-2dbea0150d26@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s05.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s05.elitemizban.ir&fp=#telegram 🍊 DailyV2ry
 vless://ebb70d30-2ea6-401a-9447-2dbea0150d26@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s06.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s06.elitemizban.ir&fp=#telegram 🌟 DailyV2ry
 vless://ebb70d30-2ea6-401a-9447-2dbea0150d26@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s07.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s07.elitemizban.ir&fp=#telegram 🚀 DailyV2ry
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@13.59.2.200:80?type=tcp&security=none#telegram ☂️ DailyV2ry
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@18.223.146.178:80?type=tcp&security=none#telegram 🍊 DailyV2ry
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.129.47.91:80?type=tcp&security=none#telegram 🌟 DailyV2ry
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.142.28.158:80?type=tcp&security=none#telegram 🚀 DailyV2ry
+vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@34.213.183.244:8443?security=reality&type=tcp&headerType=&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#telegram ⚡️ DailyV2ry
+vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@35.89.236.110:8443?security=reality&type=tcp&headerType=&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#telegram 🎯 DailyV2ry
+vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@35.93.188.245:8443?security=reality&type=tcp&headerType=&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#telegram 🎪 DailyV2ry
+vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@54.191.100.93:8443?security=reality&type=tcp&headerType=&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#telegram 🌈 DailyV2ry
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@13.51.234.206:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#telegram 🍀 DailyV2ry
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@51.20.52.221:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#telegram 🌺 DailyV2ry
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@51.20.87.16:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#telegram ☂️ DailyV2ry
+vless://d4adde74-fd7c-4665-a221-5a459c919d14@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s02.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s02.elitemizban.ir&fp=#telegram 🍊 DailyV2ry
+vless://d4adde74-fd7c-4665-a221-5a459c919d14@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s29.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s29.elitemizban.ir&fp=#telegram 🌟 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.212.97.157:1009?type=tcp&security=none#telegram 🚀 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.220.24.245:1009?type=tcp&security=none#telegram ⚡️ DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.80.14.17:1009?type=tcp&security=none#telegram 🎯 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.80.7.172:1009?type=tcp&security=none#telegram 🎪 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.86.182.85:1009?type=tcp&security=none#telegram 🌈 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.87.187.67:1009?type=tcp&security=none#telegram 🍀 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.88.41.241:1009?type=tcp&security=none#telegram 🌺 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.94.86.97:1009?type=tcp&security=none#telegram ☂️ DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.95.49.71:1009?type=tcp&security=none#telegram 🍊 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.227.242.23:1009?type=tcp&security=none#telegram 🌟 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.229.42.96:1009?type=tcp&security=none#telegram 🚀 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.242.135.233:1009?type=tcp&security=none#telegram ⚡️ DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.242.141.95:1009?type=tcp&security=none#telegram 🎯 DailyV2ry
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.189.205.94:1009?type=tcp&security=none#telegram 🎪 DailyV2ry
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15650?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:46468?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204
