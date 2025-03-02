@@ -67,6 +67,23 @@
         "v": "2"
     },
     {
+        "v": "2",
+        "add": "104.17.148.22",
+        "port": "80",
+        "id": "368bf030-db51-11ef-b336-205c6d5f5d78",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/xa62zvle",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "fp": "",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
+    },
+    {
         "add": "151.101.128.155",
         "aid": "0",
         "alpn": "",
