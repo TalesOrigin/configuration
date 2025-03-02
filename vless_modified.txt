@@ -358,11 +358,11 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.209.66:80??sni=abaaba.9pcvkb
 vless://6f183280-b258-437a-a216-e83f7dece776@45.131.6.99:80??sni=901.dbodanwi.workers.dev&type=ws&host=91.241.94.160&path=Telegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.99:80
 vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.208.16:80??sni=esetsecuritylicense.roobdi.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed&host=91.241.94.160#🔒 VL-WS-NA 🇳🇱 NL-45.131.208.16:80
 vless://17d87202-4ca2-49d2-9c90-5eca029c97f6@172.67.130.164:80??security=none&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.164:80
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.43.197:80??path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80??path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.43.197:80??path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80??path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40ShadowProxy66%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80??path=%2FvpnAndroid2.vpnAndroid2%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
@@ -590,6 +590,8 @@ vless://6e544f07-23b3-4909-8c5c-ec4581975af9@hajlab.ucdavis.edu:80??security=non
 vless://6e544f07-23b3-4909-8c5c-ec4581975af9@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🍀 DailyV2ry
 vless://ebb70d30-2ea6-401a-9447-2dbea0150d26@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🍊 DailyV2ry
 vless://2087e206-48f5-41f6-9c3b-abd985e182ef@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://f33f9b91-c30d-47d4-9525-d4a661e00057@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🌈 DailyV2ry
+vless://f33f9b91-c30d-47d4-9525-d4a661e00057@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🍀 DailyV2ry
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68612@Speedtest.net:80??path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Digiv2ray🇩🇪
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68613@Speedtest.net:80??path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Digiv2ray🇩🇪
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68614@Speedtest.net:80??path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Digiv2ray🇩🇪
