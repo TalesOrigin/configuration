@@ -1,14 +1,14 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "s5.db-link02.top",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd Fastly\u5168\u7403Anycast\u8282\u70b9",
+        "add": "151.101.130.168",
         "port": "80",
         "type": "none",
-        "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
+        "id": "7dc78582-88a8-4b4c-9e3e-50831d672766",
         "aid": "0",
         "net": "ws",
-        "path": "/dabai.in104.18.75.85",
+        "path": "/XESALISTHEBEST?ed=2048",
         "host": "91.341.94.160",
         "tls": ""
     },
@@ -50,23 +50,6 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": ""
-    },
-    {
-        "v": "2",
-        "add": "104.17.148.22",
-        "port": "80",
-        "id": "368bf030-db51-11ef-b336-205c6d5f5d78",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/xa62zvle",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": "",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
     },
     {
         "add": "151.101.128.155",
