@@ -345,8 +345,8 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80??security=none&type
 vless://a9a9eebe-3716-58b2-99f3-aa5e58160be9@104.21.27.250:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.27.250:80
 vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80??sni=DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV&type=ws&path=%2FProxyIP&host=91.241.94.160#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.81.174:80
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.0.150:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.150:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40ShadowProxy66%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40ShadowProxy66%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://telegram-ArV2ray@www.speedtest.net:80??path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=91.241.94.160&type=ws#WS6-Irancell+%7C+%40ArV2ray
 vless://telegram-ArV2ray@AC.fastly80-2.hosting-ip.com:80??path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#WS5-All+%7C+%40ArV2ray
 vless://telegram-ArV2ray@www.speedtest.net:80??path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=91.241.94.160&type=ws#WS4-Irancell+%7C+%40ArV2ray
@@ -566,7 +566,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??security=&type=ws
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??security=&type=ws&path=/telegram@ShadowProxy66/?ed%3D2048&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80??security=&type=ws&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80??security=&type=ws&path=/telegram@v2ray_alpha/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
-vless://f33f9b91-c30d-47d4-9525-d4a661e00057@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://f33f9b91-c30d-47d4-9525-d4a661e00057@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🌟 DailyV2ry
 vless://f33f9b91-c30d-47d4-9525-d4a661e00057@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram 🚀 DailyV2ry
 vless://f33f9b91-c30d-47d4-9525-d4a661e00057@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ⚡️ DailyV2ry
