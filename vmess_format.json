@@ -99,21 +99,38 @@
         "tls": ""
     },
     {
-        "add": "biiia-vpn-whal.fast.hosting-ip.com",
+        "add": "www.aetv.com",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "id4---@fe30x",
+        "id": "7dc78582-88a8-4b4c-9e3e-50831d672766",
         "net": "ws",
-        "path": "/?ed=2056/#id-telegram:--->@fe30x<---",
+        "path": "/XESALISTHEBEST?ed=2048",
         "port": "80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "---",
+        "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8United States"
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
+    },
+    {
+        "add": "151.101.66.168",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "7dc78582-88a8-4b4c-9e3e-50831d672766",
+        "net": "ws",
+        "path": "/XESALISTHEBEST?ed=2048",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
     },
     {
         "add": "biiia-vpn-whal.fast.hosting-ip.com",
