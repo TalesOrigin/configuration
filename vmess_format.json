@@ -35,7 +35,7 @@
     },
     {
         "v": "2",
-        "ps": "12,13|\u5fb7\u56fd|@ripaojiedian",
+        "ps": "11,12|\u5fb7\u56fd|@ripaojiedian",
         "add": "zula.ir",
         "port": "80",
         "aid": 0,
@@ -129,6 +129,19 @@
         "tls": "",
         "type": "---",
         "v": "2"
+    },
+    {
+        "v": "2",
+        "add": "104.18.5.250",
+        "port": "80",
+        "type": "none",
+        "id": "c4ee5942-8911-4b6e-b7a5-1486bd28fb56",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
     },
     {
         "add": "51.79.102.253",
