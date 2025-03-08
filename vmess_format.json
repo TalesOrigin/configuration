@@ -114,7 +114,7 @@
         "tls": ""
     },
     {
-        "add": "104.18.4.250",
+        "add": "104.18.5.250",
         "aid": "0",
         "alpn": "",
         "fp": "",
@@ -123,12 +123,29 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.18.4.250:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.18.5.250:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
         "type": "---",
         "v": "2"
+    },
+    {
+        "add": "151.101.194.168",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "7dc78582-88a8-4b4c-9e3e-50831d672766",
+        "net": "ws",
+        "path": "/XESALISTHEBEST?ed=2048",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8United States"
     },
     {
         "add": "51.79.102.253",
