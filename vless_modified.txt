@@ -343,13 +343,13 @@ vless://0792a045-c4e2-4816-bbb9-872b7aba601b@151.101.64.223:80??sni=JOIN.unlimit
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.209.66:80??sni=abaaba.9pcvkb68.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed&host=91.241.94.160#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.66:80
 vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.130.216:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.216:80
 vless://e5dd37d6-4fd0-4027-90b2-c445333f63d6@188.114.97.3:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80??path=%2FTelegram-mtmvpn%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40ShadowProxy66%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80??path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80??path=%2FTelegram-mtmvpn%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80??path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&host=91.241.94.160&type=ws#@meli_proxyy
 vless://TELEGRAM-NUFiLTER-796c0a4aa02d@NUFiLTER.fastly80-3.hosting-ip.com:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://TELEGRAM-NUFiLTER-c22282498f3a@NUFiLTER.fastly80-2.hosting-ip.com:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
