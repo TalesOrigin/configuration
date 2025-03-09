@@ -35,21 +35,6 @@
     },
     {
         "v": "2",
-        "ps": "12,13|\u5fb7\u56fd|@ripaojiedian",
-        "add": "zula.ir",
-        "port": "80",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "c1fd780a-3408-4f48-a932-5832a28ce9f6",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/ausgt02.bestforxray.buzz/linkws"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "172.67.172.168",
         "port": "80",
