@@ -113,7 +113,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8United States"
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
     },
     {
         "add": "biiia-vpn-whal.fast.hosting-ip.com",
@@ -130,20 +130,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
-    },
-    {
-        "v": "2",
-        "add": "104.16.61.8",
-        "port": "80",
-        "type": "none",
-        "id": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
-        "aid": "0",
-        "net": "ws",
-        "path": "/hms02.fxiaomi.sbs/link",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8United States"
     },
     {
         "add": "biiia-vpn-whal.fast.hosting-ip.com",
@@ -4541,7 +4528,7 @@
         "net": "ws",
         "path": "/XESALISTHEBEST?ed=2048",
         "port": "80",
-        "ps": "@Vip_Security join us - 315\n",
+        "ps": "@Vip_Security join us - 4\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -4558,7 +4545,7 @@
         "net": "ws",
         "path": "/XESALISTHEBEST?ed=2048",
         "port": "80",
-        "ps": "@Vip_Security join us - 314\n",
+        "ps": "@Vip_Security join us - 3\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -4575,7 +4562,7 @@
         "net": "ws",
         "path": "/XESALISTHEBEST?ed=2048",
         "port": "80",
-        "ps": "@Vip_Security join us - 313\n",
+        "ps": "@Vip_Security join us - 2\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
