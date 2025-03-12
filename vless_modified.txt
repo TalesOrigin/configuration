@@ -57,6 +57,7 @@ vless://c527f42c-7e85-408e-bed2-d6c379e31afb@www.speedtest.net:80??path=%2F-ViV2
 vless://8645d842-0d10-4d4c-a7a7-8d3e14d2dca2@zmaoz.faculty.ucdavis.edu:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#[🇳🇱]t.me/ConfigsHub
 vless://9c2bcefd-cad8-43a0-8575-f9ddd510bec2@www.speedtest.net:80??path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG_account_free
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80??security=none&type=ws&host=91.241.94.160&path=/sinavm-sinavm#@Hope_Net-join-us-on-Telegram
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.E-L-i-V-2-R-A-Y.fastly80-3.hosting-ip.com:80??sni=Join--E-L-i-V-2-R-A-Y.net&type=ws&host=91.241.94.160&path=/channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?edfp=chrome#2%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%205.1MB/s
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/?ed=2560#14%7CNL_speednode_0028
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#14%7CNL_speednode_0034
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CNL_speednode_0036
@@ -350,15 +351,16 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.136:80??sni=teleirani.ir&t
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.131.1:80
 vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@162.159.130.234:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.234:80
 vless://ff4d8542-220d-52be-8efb-d1fc0c43bc83@45.89.55.188:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇷🇸 RS-45.89.55.188:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40ShadowProxy66%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80??path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80??path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40ShadowProxy66%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80??path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://TELEGRAM-NUFiLTER-5bd61f05f695@NUFiLTER.fastly80-2.hosting-ip.com:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://09e61488-6297-4251-b03d-bbb995126360@151.101.64.155:80??path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://bc5c6f15-ffc6-43ff-8375-bb91275fd38e@151.101.64.155:80??path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80??path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&host=91.241.94.160&type=ws#@meli_proxyy
