@@ -350,10 +350,10 @@ vless://4f6f85f9-9d32-4684-a952-338d2208e1af@104.18.13.149:80??security=none&typ
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.19.242:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.86.113:80??security=none&type=ws&host=91.241.94.160&path=%2F2qvm12oXHjqFgfZN%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.86.113:80
 vless://76b3cbba-e6ac-485a-9481-336a0415eab9@198.41.218.111:80??sni=OlD-disk-EFCd.JojAhoF109.WorKerS.DEv&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.218.111:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2503&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://b8b2a654-9c48-4373-90b8-e4335d386d8f@speedtest.net:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayserverfreenet%20%F0%9F%87%A9%F0%9F%87%AA
 vless://b8b2a654-9c48-4373-90b8-e4335d386d8f@zmaoz.faculty.ucdavis.edu:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayserverfreenet%20%F0%9F%87%A9%F0%9F%87%AA
