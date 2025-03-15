@@ -8039,6 +8039,8 @@ vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encr
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramFreeV2Alpha%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@V2rayNG3
 vless://33c1bd18-ca92-f544-8c7e-105bc9d8cb93@146.190.179.238:443?security=reality&encryption=none&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#@V2rayNG3
 vless://a39359e2-41eb-4edd-b3b7-fd76333636f6@wolf544.api-tel.ir:22332?type=tcp&security=reality&fp=chrome&pbk=SwfRcS_N1Hsqp3mVahg4Ik7iuaeyHLCSNRWceV9O_Rs&flow=xtls-rprx-vision&sni=refersion.com&sid=ab28158007#@v2rayng3❤@V2rayNG3❤@SERVER444
+vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
+vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
 vless://7cc88852-6c8c-4ddc-9211-5628824b223d@p3.vixsm.ir:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#%40V2rayNG3
 vless://671caed8-14ca-4526-8e64-1c7bde072039@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40V2rayNG3
 vless://308a14d1-cfae-405f-9d69-2922f87ee79b@bestco.bestshop10.ir:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#%40V2rayNG3
@@ -8123,6 +8125,7 @@ vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encr
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramFreeV2Alpha%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@V2rayNG3
 vless://33c1bd18-ca92-f544-8c7e-105bc9d8cb93@146.190.179.238:443?security=reality&encryption=none&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#@V2rayNG3
 vless://a39359e2-41eb-4edd-b3b7-fd76333636f6@wolf544.api-tel.ir:22332?type=tcp&security=reality&fp=chrome&pbk=SwfRcS_N1Hsqp3mVahg4Ik7iuaeyHLCSNRWceV9O_Rs&flow=xtls-rprx-vision&sni=refersion.com&sid=ab28158007#@v2rayng3
+vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
 vless://6a2db678-6eea-4fd9-aa70-b264008bdd5d@95.216.140.41:44439?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3
 vless://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3
 vless://7cc88852-6c8c-4ddc-9211-5628824b223d@79.127.70.106:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#%40V2rayNG3
@@ -8271,6 +8274,8 @@ vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encr
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramFreeV2Alpha%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@V2rayNG3
 vless://33c1bd18-ca92-f544-8c7e-105bc9d8cb93@146.190.179.238:443?security=reality&encryption=none&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#@V2rayNG3
 vless://a39359e2-41eb-4edd-b3b7-fd76333636f6@wolf544.api-tel.ir:22332?type=tcp&security=reality&fp=chrome&pbk=SwfRcS_N1Hsqp3mVahg4Ik7iuaeyHLCSNRWceV9O_Rs&flow=xtls-rprx-vision&sni=refersion.com&sid=ab28158007#@v2rayng3❤@V2rayNG3❤@SERVER444
+vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
+vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.63.185:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
