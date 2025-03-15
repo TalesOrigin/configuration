@@ -318,3 +318,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.52:80??security=none&sn
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.162:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.162:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.18:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.18:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.122:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.122:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.20:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.20:80
