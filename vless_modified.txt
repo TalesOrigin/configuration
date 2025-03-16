@@ -57,6 +57,7 @@ vless://c527f42c-7e85-408e-bed2-d6c379e31afb@www.speedtest.net:80??path=%2F-ViV2
 vless://8645d842-0d10-4d4c-a7a7-8d3e14d2dca2@zmaoz.faculty.ucdavis.edu:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#[🇳🇱]t.me/ConfigsHub
 vless://9c2bcefd-cad8-43a0-8575-f9ddd510bec2@www.speedtest.net:80??path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG_account_free
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80??security=none&type=ws&host=91.241.94.160&path=/sinavm-sinavm#@Hope_Net-join-us-on-Telegram
+vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:80??allowInsecure=0&type=ws&host=91.241.94.160&path=/?ed=2560fp=chrome#2%7C%F0%9F%8C%802-%20%7C%20%201.6MB/s
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/?ed=2560#14%7CNL_speednode_0028
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#14%7CNL_speednode_0034
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CNL_speednode_0036
@@ -582,10 +583,10 @@ vless://815724d3-0d61-4761-be07-471441d42be5@104.22.32.78:80??security=none&type
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.10:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.10:80
 vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@190.93.246.84:80??sni=cc.ailicf.us.kg&type=ws&host=91.241.94.160#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.246.84:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2503&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2503&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80??path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80??path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40meli_proxyy
