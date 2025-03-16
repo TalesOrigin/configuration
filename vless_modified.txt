@@ -585,9 +585,9 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.190:80??security=none&t
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.192:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.192:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.210:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.210:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.183:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.183:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2503&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40meli_proxyy
