@@ -625,6 +625,11 @@ vless://0fb53a60-2372-412a-a693-5157b58ecc94@104.21.39.212:80??security=none&sni
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.64.1:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.64.1:80
 vless://43aa184c-531f-6c57-cc83-88c3f1921a76@199.232.212.3:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-199.232.212.3:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.79:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.79:80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2503&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80??path=%2FSIGrNRCU4ongDlz4%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://e1ce065b-d0f8-4fe9-bd16-1e039b09a7d7@151.101.64.155:80??path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://259388c2-31be-4184-b8c1-d79e7a6fe2b5@151.101.64.155:80??path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
@@ -648,11 +653,6 @@ vless://6b437afc-62b3-40ba-9112-ee667a783c3d@81.28.12.12:80??path=%2Fo2H5qkTE2Dd
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://bff845b0-1b62-460c-bd15-04ccf11f8f0c@151.101.64.155:80??path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://b3f63f27-09f3-4fdf-bded-bd731a570913@151.101.64.155:80??path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2503&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@speedtest.net:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayserverfreenet%20%F0%9F%87%A9%F0%9F%87%AA
 vless://568279ce-dd78-4f3568279ce-dd78-4f33-9e5c-64b18c5505db@zmaoz.faculty.ucdavis.edu3-9e5c-64b18c5505db@zmaoz.faculty.ucdavis.edu:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayserverfreenet%20%F0%9F%87%A9%F0%9F%87%AA
 vless://b8b2a654-9c48-4373-90b8-e4335d386d8f@speedtest.net:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayserverfreenet%20%F0%9F%87%A9%F0%9F%87%AA
