@@ -810,17 +810,13 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80??security=&sni=a
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80??security=&type=ws&path=/olem/ws?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
-vless://ff220ea3-854f-4140-a505-8b551e318392@hajlab.ucdavis.edu:80??path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 69
-vless://f19e43f0-bb62-47b5-a9ab-c4c1d3718ad2@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 63
-vless://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 56
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 53
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.193.213.20:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 52
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 51
-vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 49
-vless://68bbaaf8-a385-4242-bd43-ab67b6057d55@hajlab.ucdavis.edu:80??path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 34
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.155:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 29
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 28
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2Ftelegram-id-%40MTMVPN%2F%3Fed%3D2503&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 24
+vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 55
+vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 45
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 42
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 41
+vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 38
+vless://68bbaaf8-a385-4242-bd43-ab67b6057d55@hajlab.ucdavis.edu:80??path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 24
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.155:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 21
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??security=&type=ws&path=/LwW5jwrnymnOdqki?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??security=&type=ws&path=/LwW5jwrnymnOdqki?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
