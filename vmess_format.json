@@ -90,19 +90,6 @@
         "fp": ""
     },
     {
-        "v": "2",
-        "add": "51.79.103.76",
-        "port": "80",
-        "type": "none",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
-    },
-    {
         "add": "104.17.221.248",
         "aid": "0",
         "alpn": "",
