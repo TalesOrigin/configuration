@@ -1,3 +1,34 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%A5%BF%E7%8F%AD%E7%89%99_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.41:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.213:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.41:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.46:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80??security=none&type=ws&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=/&encryption=none&headerType=none&host=91.241.94.160#%E6%B3%95%E5%9B%BD_TG%3A%40vvkj11
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&sni=google.com&path=/http&encryption=none&headerType=none&host=91.241.94.160#%E7%BE%8E%E5%9B%BD_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80??path=%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80??path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://097249c0-cf34-4f80-975e-26e82194362a@join.SpdNet.fastly80-3.hosting-ip.com:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram----SpdNet----SpdNet----SpdNet---SpdNet---SpdNet---SpdNet%3Fed%3D2048#Free-@SpdNet
@@ -592,11 +623,12 @@ vless://df69d52e-c136-4087-b4de-11c7cd083a9b@104.19.222.79:80??security=none&typ
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.248:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.248:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.226:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.226:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.117:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.117:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2503&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80??path=%2FSIGrNRCU4ongDlz4%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
 vless://ada739a2-2443-4d75-85bd-3b4580457d8a@151.101.64.155:80??path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://662c4a7c-0431-44d6-b717-86e9aea34ae3@151.101.64.155:80??path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://Parsashonam-194@Zmaoz.Faculty.Ucdavis.Edu:80??path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=91.241.94.160&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@meli_proxyy
@@ -629,7 +661,6 @@ vless://telegram-ArV2ray@151.101.64.155:80??path=%2Ftelegram-ArV2ry,telegram-ArV
 vless://telegram-ArV2ray@www.speedtest.net:80??path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=91.241.94.160&type=ws#WS2-Irancell+%7C+%40ArV2ray
 vless://telegram-ArV2ray@www.speedtest.net:80??path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=91.241.94.160&type=ws#WS-Irancell+%7C+%40ArV2ray
 vless://telegram-ArV2ray@151.101.64.155:80??path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#WS3-All+%7C+%40ArV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@103.21.244.255:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20@V2ray_Collector
 vless://46b7dfdb-fc88-4dbc-819e-db3ab8093c90@104.18.15.19:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20@V2ray_Collector
 vless://d4eddaf9-a660-4905-b835-cad98677b380@104.16.178.238:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20@V2ray_Collector
