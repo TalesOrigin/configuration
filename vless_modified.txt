@@ -75,33 +75,37 @@ vless://dcbb1f23-6e9e-43d1-be49-0d6467d340c1@151.101.64.155:80??path=/telegram-@
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔
 vless://06adcb1c-9b72-412b-bf63-d4ef34fefca1@104.26.14.85:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://19f7214d-17f5-43d0-ee0f-b17cd5fc0376@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/?ed=2560#14%7CNL_speednode_0028
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#14%7CNL_speednode_0034
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CNL_speednode_0036
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/fp=chrome#14%7CNL_speednode_0037
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.206:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CNL_speednode_0038
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.206:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/fp=chrome#14%7CNL_speednode_0039
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CNL_speednode_0041
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@185.174.138.194:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#14%7CRU_speednode_0046
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@185.174.138.194:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CRU_speednode_0048
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com:80??allowInsecure=0&sni=Join--E-L-i-V-2-R-A-Y.net&type=ws&host=91.241.94.160&path=/channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?ed=2560#14%7CUS_speednode_0056
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/?ed=2560#14%7CUS_speednode_0064
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/@V2ray_Alpha/?ed=2560#14%7CUS_speednode_0065
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/?ed=2560#14%7CUS_speednode_0069
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/MTMVPN?ed=2560#14%7CUS_speednode_0071
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/MTMVPN-MTMVPN-MTMVPN-MTMVPN?ed=2560#14%7CUS_speednode_0072
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560#14%7CUS_speednode_0077
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.58:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CUS_speednode_0084
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray?ed=2560#14%7CUS_speednode_0085
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CUS_speednode_0086
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#14%7CUS_speednode_0088
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#14%7CUS_speednode_0089
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#14%7CUS_speednode_0091
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CUS_speednode_0092
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.222:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CUS_speednode_0093
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CUS_speednode_0094
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.191:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#14%7CUS_speednode_0096
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/#14%7CUS_speednode_0097
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??sni=&type=ws&host=91.241.94.160&path=/telegram-id-@MTMVPN/?ed=2503flow=-udp443&fp=#1%7C%F0%9F%87%BA%F0%9F%87%B816%20%7C%20%202.0MB/s
+vless://e7466ee9-073c-477a-8fab-e9b3792b7990@170.114.46.6:80??sni=&type=ws&host=91.241.94.160&path=/flow=-udp443&fp=#1%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%205.6MB/s
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80??sni=&type=ws&host=91.241.94.160&path=flow=-udp443&fp=#1%7C%F0%9F%87%AE%F0%9F%87%B31%20%7C%20%201.8MB/s
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80??sni=&type=ws&host=91.241.94.160&path=/SIGrNRCU4ongDlz4?ed=2560flow=-udp443&fp=#1%7C%F0%9F%87%BA%F0%9F%87%B838%20%7C%20%205.5MB/s
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/?ed=2560#13%7CNL_speednode_0028
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#13%7CNL_speednode_0034
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CNL_speednode_0036
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/fp=chrome#13%7CNL_speednode_0037
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.206:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CNL_speednode_0038
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.206:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/fp=chrome#13%7CNL_speednode_0039
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CNL_speednode_0041
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@185.174.138.194:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#13%7CRU_speednode_0046
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@185.174.138.194:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CRU_speednode_0048
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com:80??allowInsecure=0&sni=Join--E-L-i-V-2-R-A-Y.net&type=ws&host=91.241.94.160&path=/channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?ed=2560#13%7CUS_speednode_0056
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/?ed=2560#13%7CUS_speednode_0064
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/@V2ray_Alpha/?ed=2560#13%7CUS_speednode_0065
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/?ed=2560#13%7CUS_speednode_0069
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/MTMVPN?ed=2560#13%7CUS_speednode_0071
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/MTMVPN-MTMVPN-MTMVPN-MTMVPN?ed=2560#13%7CUS_speednode_0072
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560#13%7CUS_speednode_0077
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.58:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CUS_speednode_0084
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray?ed=2560#13%7CUS_speednode_0085
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CUS_speednode_0086
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#13%7CUS_speednode_0088
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#13%7CUS_speednode_0089
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/#13%7CUS_speednode_0091
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CUS_speednode_0092
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.222:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CUS_speednode_0093
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CUS_speednode_0094
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.191:80??allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=91.241.94.160&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#13%7CUS_speednode_0096
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=91.241.94.160&path=/#13%7CUS_speednode_0097
 vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%40custom_config%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
 vless://aebca481-d343-4ae8-a641-c598d253f0f1@104.21.232.99:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
 vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%40custom_config%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40Capoit%20%7C%200
@@ -715,8 +719,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80??encryption=none&se
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FShadowProxy66%3Fed%3D2560#TG%3A%40v2ray_sub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#TG%3A%40v2ray_sub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.mosiv2.fastly80-3.hosting-ip.com:80??encryption=none&security=none&sni=join--bede-----mosiv2.ir&type=ws&host=91.241.94.160&path=%2FMOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560#TG%3A%40v2ray_sub
-vless://62588b55-4307-4216-96db-37a0f7000540@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌈 DailyV2ry
-vless://ba80068c-3d2f-49ec-baba-e4789e3ad504@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ⚡️ DailyV2ry
 vless://1f92aa18-3e0b-437b-a4b0-4ef3d836e09d@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ⚡️ DailyV2ry
 vless://43b516d7-0595-4a2c-9bfd-c96bf0ce5e88@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌟 DailyV2ry
 vless://a6e13cc2-2640-4e96-9d70-d8b6b4b1ed21@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🍊 DailyV2ry
@@ -751,6 +753,8 @@ vless://33b2cd58-3812-48a9-93da-ff24487bcdf9@tgju.org:80??path=%2F%3Fed%3D2048&s
 vless://9722623c-9978-427a-9875-ed6244192e42@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌈 DailyV2ry
 vless://ebde7c59-90e6-4eb6-84ac-9991a2eb7a33@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🚀 DailyV2ry
 vless://fb8f83ab-3fd4-4dd7-a072-f13da025bff2@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ⚡️ DailyV2ry
+vless://54c35d2c-18b5-4953-93b2-ccd022006fd6@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🎪 DailyV2ry
+vless://6b011ed1-c900-4566-aabb-4432eb0fa963@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌈 DailyV2ry
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2rayNG3
 vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.16.132.207:80??path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
