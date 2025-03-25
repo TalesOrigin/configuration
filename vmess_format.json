@@ -27,19 +27,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.16.0.178:80",
-        "add": "104.16.0.178",
-        "port": "80",
-        "type": "none",
-        "id": "27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306",
-        "aid": "0",
-        "net": "ws",
-        "path": "/dubai.html?ed=2048",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "add": "104.16.0.178",
         "port": "80",
         "type": "none",
