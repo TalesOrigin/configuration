@@ -13,19 +13,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "add": "104.16.0.178",
-        "port": "80",
-        "type": "none",
-        "id": "27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306",
-        "aid": "0",
-        "net": "ws",
-        "path": "/dubai.html?ed=2048",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
-    },
-    {
         "add": "51.79.103.76",
         "aid": "0",
         "alpn": "",
