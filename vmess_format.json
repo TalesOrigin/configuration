@@ -2,13 +2,13 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "US7-07.890624.xyz",
+        "add": "usvmess.rnmcnm.com",
         "port": "80",
-        "type": "none",
-        "id": "4d04b30c-ef7b-4a07-8f9e-f581ec171f8a",
+        "type": "auto",
+        "id": "e936e1fa-ed0c-4e20-b2d8-880f02a8fb35",
         "aid": "0",
         "net": "ws",
-        "path": "/bua2hMcbA8wMzbGFtV",
+        "path": "/",
         "host": "91.341.94.160",
         "tls": ""
     },
