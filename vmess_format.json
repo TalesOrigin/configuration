@@ -2,6 +2,19 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "f8494f.c32d-15b2-f027.sbs",
+        "port": "80",
+        "type": "auto",
+        "id": "dfc6433f-48b2-4226-8c51-3e0c6cf1b0f6",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "us2vmess.rnmcnm.com",
         "port": "80",
         "type": "none",
