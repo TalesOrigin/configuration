@@ -1,14 +1,14 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 _\u7f8e\u56fd",
-        "add": "s4.db-link02.top",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "104.21.112.1",
         "port": "80",
         "type": "none",
-        "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
+        "id": "4d04b30c-ef7b-4a07-8f9e-f581ec171f8a",
         "aid": "0",
         "net": "ws",
-        "path": "/dabai.in104.24.152.253",
+        "path": "/bua2hMcbA8wMzbGFtV",
         "host": "91.341.94.160",
         "tls": ""
     },
