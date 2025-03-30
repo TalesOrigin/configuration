@@ -182,20 +182,20 @@
         "tls": ""
     },
     {
-        "add": "51.79.102.253",
+        "add": "51.15.19.206",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "id": "13533500-0b13-11f0-b936-205c6d5f5d78",
         "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "path": "/96trdv4a",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udde8\ud83c\udde6 CA-51.79.102.253:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddeb\ud83c\uddf7 FR-51.15.19.206:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2"
     },
     {
