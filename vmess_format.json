@@ -121,23 +121,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "add": "us2vmess.rnmcnm.com",
-        "port": "80",
-        "id": "7f8a1bb9-bee0-40a8-f908-21a65da0f3cc",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "auto",
-        "host": "91.341.94.160",
-        "path": "/123qwe",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": "",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
-    },
-    {
         "add": "eu-2.hihu.net",
         "aid": "0",
         "alpn": "",
