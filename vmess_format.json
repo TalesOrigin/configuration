@@ -26,21 +26,21 @@
         "tls": ""
     },
     {
-        "add": "104.21.21.226",
+        "add": "104.21.96.1",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "a8fce442-ae9a-4cc1-a0cc-20308ff0a0db",
+        "id": "7f8a1bb9-bee0-40a8-f908-21a65da0f3cc",
         "net": "ws",
-        "path": "/lsUVr8VBxF4ylXngZ",
+        "path": "/123qwe",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.21.226:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
         "type": "",
-        "v": "2"
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.96.1:80"
     },
     {
         "add": "95.164.44.78",
