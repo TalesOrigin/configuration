@@ -13,7 +13,7 @@
         "tls": ""
     },
     {
-        "add": "172.67.204.22",
+        "add": "104.21.69.41",
         "aid": "0",
         "alpn": "",
         "fp": "",
@@ -22,7 +22,7 @@
         "net": "ws",
         "path": "/bua2hMcbA8wMzbGFtV",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.204.22:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.69.41:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
