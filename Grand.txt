@@ -321,3 +321,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.122:80??security=none&t
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.20:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.20:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.198:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.198:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.123:80??security=none&sni=foffmelo.com&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.123:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.227:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇫🇷France
