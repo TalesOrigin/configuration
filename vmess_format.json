@@ -104,7 +104,7 @@
         "tls": ""
     },
     {
-        "add": "104.21.32.1",
+        "add": "104.21.16.1",
         "aid": "0",
         "alpn": "",
         "fp": "",
@@ -113,7 +113,7 @@
         "net": "ws",
         "path": "/123qwe",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.32.1:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.16.1:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -4210,7 +4210,7 @@
         "net": "ws",
         "path": "/123qwe",
         "port": "80",
-        "ps": "@Vip_Security join us - 8\n",
+        "ps": "@Vip_Security join us - 319\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
