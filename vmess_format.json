@@ -1,21 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "12,13|\u7f8e\u56fd5|@ripaojiedian",
-        "add": "104.21.21.226",
-        "port": "80",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "a8fce442-ae9a-4cc1-a0cc-20308ff0a0db",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/lsUVr8VBxF4ylXngZ"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "104.18.23.68",
         "port": "80",
