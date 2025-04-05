@@ -325,3 +325,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.227:80??security=none&t
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.233:80??security=none&type=ws&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.110:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.171:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇫🇷France ping:37.68ms
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.55:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Saint-Denis🅿️ping:37.99ms
