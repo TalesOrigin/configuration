@@ -78,19 +78,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-1.65.208.128:80",
-        "add": "1.65.208.128",
-        "port": "80",
-        "type": "none",
-        "id": "ca506e08-ce3d-5e5a-c128-6358caca15e5",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "us2vmess.rnmcnm.com",
         "aid": "0",
         "alpn": "",
