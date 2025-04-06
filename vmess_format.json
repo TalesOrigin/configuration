@@ -4306,23 +4306,6 @@
         "v": "2"
     },
     {
-        "add": "us2vmess.rnmcnm.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "7f8a1bb9-bee0-40a8-f908-21a65da0f3cc",
-        "net": "ws",
-        "path": "/123qwe",
-        "port": "80",
-        "ps": "@Vip_Security join us - 320\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "pq-brazil1.09vpn.com",
         "aid": "0",
         "alpn": "",
