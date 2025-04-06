@@ -78,19 +78,17 @@
         "tls": ""
     },
     {
-        "add": "104.21.112.1",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "7f8a1bb9-bee0-40a8-f908-21a65da0f3cc",
-        "net": "ws",
-        "path": "/123qwe",
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-1.65.208.128:80",
+        "add": "1.65.208.128",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.112.1:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
+        "type": "none",
+        "id": "ca506e08-ce3d-5e5a-c128-6358caca15e5",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "v": "2",
