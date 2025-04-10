@@ -1,6 +1,21 @@
 [
     {
         "v": "2",
+        "ps": "12,13|\u5df4\u897f|@ripaojiedian",
+        "add": "104.18.1.117",
+        "port": "80",
+        "aid": 0,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "22474cc4-22a9-4c74-bae8-43f08a1c6ed4",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/s15.html"
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "www.xinjuc.com",
         "port": "80",
