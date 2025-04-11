@@ -17,32 +17,6 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.21.69.41",
-        "port": "80",
-        "type": "none",
-        "id": "4d04b30c-ef7b-4a07-8f9e-f581ec171f8a",
-        "aid": "0",
-        "net": "ws",
-        "path": "/bua2hMcbA8wMzbGFtV",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
-        "add": "51494e84-sum4g0-tb7kjs-1dlno.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "964bff94-e53a-11ef-8e84-f23c9164ca5d",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "104.18.1.117",
         "port": "80",
         "type": "none",
@@ -55,7 +29,7 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udde7\ud83c\uddf7 12,13|\u5df4\u897f|@ripaojiedian",
+        "ps": "\ud83c\udde7\ud83c\uddf7 11,12|\u5df4\u897f|@ripaojiedian",
         "add": "104.18.1.117",
         "port": "80",
         "type": "none",
@@ -94,7 +68,7 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udde7\ud83c\uddf7 12,13|\u5df4\u897f|@ripaojiedian",
+        "ps": "\ud83c\udde7\ud83c\uddf7 11,12|\u5df4\u897f|@ripaojiedian",
         "add": "104.18.1.117",
         "port": "80",
         "type": "none",
