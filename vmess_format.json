@@ -39,19 +39,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "add": "445522e0-a147-66c0-6b59-becb865f30a5.castlepeakhospital.moe",
-        "port": "80",
-        "type": "none",
-        "id": "21c90669-193d-49d3-8e37-f5c1462eb134",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool"
-    },
-    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
