@@ -339,3 +339,4 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&ty
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.89:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Saint-Denis🅿️ping:37.33ms
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.89:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Saint-Denis🅿️ping:37.91ms
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.89:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Saint-Denis🅿️ping:38.26ms
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.89:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Saint-Denis🅿️ping:36.75ms
