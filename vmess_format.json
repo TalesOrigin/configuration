@@ -80,6 +80,36 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-1.65.209.135:80",
+        "add": "1.65.209.135",
+        "port": "80",
+        "type": "none",
+        "id": "56d4be76-f24d-11ef-9b69-f23c9164ca5d",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "add": "biiia-vpn-whal.fast.hosting-ip.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "id45---@vpn-whal",
+        "net": "ws",
+        "path": "/?ed=2056/#id-telegram:--->@vpn_whal<---",
+        "port": "80",
+        "ps": "@meli_proxyy",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "51.79.103.76",
         "aid": "0",
         "alpn": "",
