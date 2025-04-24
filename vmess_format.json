@@ -1,19 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7279\u522b\u884c\u653f\u533a",
-        "add": "154.83.93.132",
-        "port": "80",
-        "type": "none",
-        "id": "3b948c60-31ad-4a50-af86-dc0af6cb16d2",
-        "aid": "0",
-        "net": "ws",
-        "path": "/5gsieutocdo.com",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 _\u7f8e\u56fd",
         "add": "104.18.10.143",
         "port": "80",
