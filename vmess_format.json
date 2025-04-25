@@ -39,23 +39,6 @@
         "tls": ""
     },
     {
-        "add": "1.65.216.214",
-        "aid": "2",
-        "encryption": "auto",
-        "host": "91.341.94.160",
-        "id": "ee67070a-ceb2-11ed-bb7d-f23c913c8d2b",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-1.65.216.214:80",
-        "security": "auto",
-        "skip-cert-verify": false,
-        "tls": "",
-        "type": "",
-        "url_group": "v2ray",
-        "v": "2"
-    },
-    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
