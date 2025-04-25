@@ -117,6 +117,16 @@
         "tls": ""
     },
     {
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-108.181.10.17:80",
+        "net": "ws",
+        "scy": "auto",
+        "id": "a65eb840-1cc5-11f0-b030-205c6d5f5d78",
+        "host": "91.341.94.160",
+        "path": "/d8qnxmye",
+        "add": "108.181.10.17"
+    },
+    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
