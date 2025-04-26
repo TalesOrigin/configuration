@@ -91,6 +91,19 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-1.65.216.54:80",
+        "add": "1.65.216.54",
+        "port": "80",
+        "type": "none",
+        "id": "b4e40aa2-74a1-11ed-b0b5-f23c9164ca5d",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
