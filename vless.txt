@@ -7761,24 +7761,6 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?type=ws&host=cr7.
 vless://feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?type=tcp&headerType=http#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
 vless://MsV2ray-MsV2ray@WwW.Speedtest.Net:8880?path=%2F%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray%3Fed%3D2560&security=none&encryption=none&host=MsV2ray-MsV2ray-Fast.xMsVx.com&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20MsV2ray%20-%20All
 vless://Telegram-MsV2ray@WwW.Speedtest.Net:8880?path=%2F%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray%3Fed%3D2560&security=none&encryption=none&host=MsV2ray-MsV2ray-Fast.xMsVx.com&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20MsV2ray%20-%20All
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.254.45.174:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#telegram 🚀 DailyV2ry
-vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&encryption=none&host=analytics.google.com&headerType=http&type=tcp#telegram ⚡️ DailyV2ry
-vless://19bf0ff0-0dc5-4e24-80fc-450afa43d9fb@89d.com:443/?type=ws&encryption=none&host=25707.lanpinguo.cloud-ip.biz&path=%2F%3Fed%3D2560&security=tls&sni=25707.lanpinguo.cloud-ip.biz&fp=chrome#telegram 🎯 DailyV2ry
-vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.233.95.8:80?encryption=none&security=none&type=tcp&headerType=none#telegram 🎪 DailyV2ry
-vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.247.199.81:80?encryption=none&security=none&type=tcp&headerType=none#telegram 🌈 DailyV2ry
-vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@52.36.29.40:80?encryption=none&security=none&type=tcp&headerType=none#telegram 🍀 DailyV2ry
-vless://38f64a5f-b4ff-4df3-9f6a-51a07539e659@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=aMaZeD-CONfeReNCE.onEeaT.co.&type=ws#telegram 🌺 DailyV2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.12.172:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram ☂️ DailyV2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.9.154:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🍊 DailyV2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.196.255:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🌟 DailyV2ry
-vless://594e61fd-7ac8-4bda-9fe4-a0af79256e10@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=SoRe-bOat.onEEAt.Co.&type=ws#telegram 🚀 DailyV2ry
-vless://5ba25f89-8c5a-42d8-8f57-6f14621f683c@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#telegram ⚡️ DailyV2ry
-vless://6d91bc33-2d86-4839-9205-02024ff483c7@104.21.51.72:443?security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=chrome&type=ws&sni=wtestfrtt.requesttest.cloudns.org#telegram 🎯 DailyV2ry
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?encryption=none&security=tls&sni=QtTjVrWp13.nExOpOiNt.oRg&type=ws&alpn=h3h2&host=QtTjVrWp13.nExOpOiNt.oRg&path=/#telegram 🎪 DailyV2ry
-vless://b19c4375-d847-4c40-9824-4767c88b5f38@westsg2-ddns.oraclenat.cc:13533/?type=tcp&encryption=none&sni=www.python.org&fp=chrome&security=reality&pbk=s2Lr_deTRNuRBKQ15Rsx04KFcujYRFImLNVLAoGFTl8&sid=a81cba9c&packetEncoding=xudp#telegram 🌈 DailyV2ry
-vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@www.speedtest.net:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=app13.appdatanew2025g.lat&fp=chrome&type=ws&sni=app13.appdatanew2025g.lat#telegram 🍀 DailyV2ry
-vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@www.speedtest.net:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=app9.appdatanew2025g.lat&fp=chrome&type=ws&sni=app9.appdatanew2025g.lat#telegram 🌺 DailyV2ry
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.80:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#telegram ☂️ DailyV2ry
 vless://11e18080-989d-4faa-f766-3e6ae6078b80@66.42.75.19:8080?type=ws&security=none&path=%2F#telegram 🌟 DailyV2ry
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@35.163.73.211:80?encryption=none&security=none&type=tcp&headerType=none#telegram 🚀 DailyV2ry
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.238.240.175:80?encryption=none&security=none&type=tcp&headerType=none#telegram ⚡️ DailyV2ry
@@ -8129,6 +8111,25 @@ vless://4ac67683-02b7-4277-9301-d2cc8a2fb61d@www.target.com:2052?type=ws&path=%2
 vless://63dc481a-94b6-42ae-ba61-1146216ea57b@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QuicK-MEDICine.OnEeaT.co.&type=ws#telegram 🍊 DailyV2ry
 vless://920e6ab4-597f-4918-a8de-50f8eed2aa24@whatismyipaddress.com:443?encryption=none&security=tls&sni=638814307734942482.vienna-pnthprx-aaaaa.info&type=ws&alpn=&host=638814307734942482.vienna-pnthprx-aaaaa.info&path=/yfysxews#telegram 🌟 DailyV2ry
 vless://9a955c73-c8a2-46a2-8af2-4bd386109db3@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=emOtioNal-HoLIDaY.OnEeAT.CO.&type=ws#telegram 🚀 DailyV2ry
+vless://42378bf7-abe6-4c89-9bc1-9bf48330179a@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=EveRgrEEN-Map.ONEeaT.CO.&type=ws#telegram 🌟 DailyV2ry
+vless://4483a446-1472-434c-8bc0-4340df7ccdd2@15.204.204.157:51540?encryption=none&security=reality&sni=www.esgtoday.com&fp=randomized&pbk=0sVP29waPeTBwnhYCsJ4wCV65RchWDYkTT-NRDWZRxU&sid=80bc&spx=%2F&type=tcp&headerType=http&host=www.esgtoday.com#telegram 🚀 DailyV2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.61.150:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram ⚡️ DailyV2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.241.104:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🎯 DailyV2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.239.113:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram 🎪 DailyV2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.65.103.131:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🌈 DailyV2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.26.72:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🍀 DailyV2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.212.115:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🌺 DailyV2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.115.76:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram ☂️ DailyV2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.65.14:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#telegram 🍊 DailyV2ry
+vless://70b68bef-9241-429d-9312-bf32b43da5f5@whatismyipaddress.com:443?encryption=none&security=tls&sni=638814307734944561.vienna-pnthprx-aaaaa.info&type=ws&alpn=&host=638814307734944561.vienna-pnthprx-aaaaa.info&path=/phwnpbws#telegram 🌟 DailyV2ry
+vless://920e6ab4-597f-4918-a8de-50f8eed2aa24@whatismyipaddress.com:443?encryption=none&security=tls&sni=638814307734942482.vienna-pnthprx-aaaaa.info&type=ws&alpn=&host=638814307734942482.vienna-pnthprx-aaaaa.info&path=/yfysxews#telegram 🚀 DailyV2ry
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:2096?encryption=none&security=tls&sni=Jg3EqJvM8k.SoUbLoTiK.iNfO&type=ws&alpn=h3h2&host=Jg3EqJvM8k.SoUbLoTiK.iNfO&path=/#telegram ⚡️ DailyV2ry
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?encryption=none&security=tls&sni=C43kD596jQ.sOuBlOtIk.InFo&type=ws&alpn=h3h2&host=C43kD596jQ.sOuBlOtIk.InFo&path=/#telegram 🎯 DailyV2ry
+vless://a9a7803a-6210-4fca-a47c-b2d6c9c88990@15.204.66.150:32715?type=grpc&serviceName=&authority=&mode=multi&security=reality&pbk=U4fQNTMmJVu8UxUPya0BR0GWBpF_quF9AlG9ce5edl4&fp=randomized&sni=fy-h3-frontier-a2z-com.customer.fastly.net&sid=e1eef73cbc104b&spx=%2F#telegram 🎪 DailyV2ry
+vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@www.speedtest.net:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=app12.appdatanew2025g.lat&fp=chrome&type=ws&sni=app12.appdatanew2025g.lat#telegram 🌈 DailyV2ry
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@pqh35v7.whatstrue.shop:1001?encryption=none&security=reality&sni=telewebion.com&alpn=&type=tcp&path=%2F&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&spx=%2F#telegram 🍀 DailyV2ry
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@pqh41v4.whatstrue.shop:1001?encryption=none&security=reality&sni=telewebion.com&alpn=&type=tcp&path=%2F&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&spx=%2F#telegram 🌺 DailyV2ry
+vless://c8beea19-794d-41ff-84d2-c70dbf8a6ad0@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gOAl-ORIeNteD-ConFEreNCe.ONeEAT.co.&type=ws#telegram ☂️ DailyV2ry
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:27729?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20%201
