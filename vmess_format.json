@@ -1,14 +1,14 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "172.67.158.71",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
+        "add": "3278b52d-sv2sg0-sw0kma-1tauc.hk.p5pv.com",
         "port": "80",
         "type": "none",
-        "id": "2f38f848-a899-4c87-9807-207a41615e3c",
-        "aid": "0",
+        "id": "36b8113e-e455-11ef-90fa-f23c91cfbbc9",
+        "aid": "2",
         "net": "ws",
-        "path": "/rongseven?ed=2048",
+        "path": "/",
         "host": "91.341.94.160",
         "tls": ""
     },
