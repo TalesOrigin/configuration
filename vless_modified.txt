@@ -712,6 +712,20 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.199:80??security=none&t
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.156:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.156:80
 vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.6.57:80??sni=workerr.dimon22287.workers.dev&type=ws&host=91.241.94.160&path=Telegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.57:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.228:80??sni=redfree8.pooriashop.ir&type=ws&path=Telegram@WangCai2/?ed&host=91.241.94.160#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.228:80
+vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80??security=&type=ws&path=/vless/&host=91.241.94.160&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@V2ray_Collector
+vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.workers.dev:80??path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=91.241.94.160&type=ws&sni=masaleini.mahsaamini.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.92ms
+vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80??path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=91.241.94.160&type=ws&sni=masaleini.mahsaamini.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.86ms
+vless://e1f091af-3751-4271-a326-f0b9040ed3e8@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:8.25ms
+vless://bedd9f06-f222-4c99-a00f-65e3667931ce@151.101.66.219:80??security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:7.55ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws&sni=redfree8mahsang6.redfree8.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.94ms
+vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@173.245.49.116:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws&sni=workerr.aasihmin.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.22ms
+vless://499ee245-f954-4d41-9943-4e85666b7414@104.18.26.94:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws&sni=esetsecuritylicense.mybdgpd.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.37ms
+vless://04605d4a-2e2e-4d2c-9b1b-42373ec46632@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.84ms
+vless://757fe8dd-dc00-4912-8249-20878b96948d@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.84ms
+vless://17961e8a-bb19-4619-a225-74e4269929ff@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.84ms
+vless://1948a089-d66b-4c57-a719-be51903c17a1@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.84ms
+vless://1dda34bb-3614-422f-a01e-f056b2d512ac@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.84ms
+vless://ab6f4cba-e236-41d1-9b1a-01c4a6490aa7@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.84ms
 vless://027edf9c-8aab-4318-8038-6960e00f2e67@www.speedtest.net:80??path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:10.62ms
 vless://Parsashonam-229@Zmaoz.Faculty.Ucdavis.Edu:80??path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=91.241.94.160&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:8.34ms
 vless://fb2e22e2-1d89-44e7-a949-39053a172009@www.speedtest.net:80??path=%2Fhajmi%3Fed%3D2050&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:10.62ms
@@ -783,7 +797,6 @@ vless://telegram-id-ArV2ray@151.101.64.155:80??path=%2F-ArV2ry@ArV2ry-TEL--@ArV2
 vless://telegram-id-ArV2ray@151.101.64.155:80??path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#WS7-All+%7C+%40ArV2ray
 vless://telegram-id-ArV2ray@151.101.64.155:80??path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#WS5-All+%7C+%40ArV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#TG%3A%40v2ray_sub
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80??security=&type=ws&path=/vless/&host=91.241.94.160&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@V2ray_Collector
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2072%20%28%40Outline_Vpn%29
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.188:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2036%20%28%40Outline_Vpn%29
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2030%20%28%40Outline_Vpn%29
@@ -800,9 +813,6 @@ vless://0cd2c22e-7bab-41cc-8168-c77be874d632@speedtest.net:80??path=%2Folem%2Fws
 vless://0cd2c22e-7bab-41cc-8168-c77be874d632@zmaoz.faculty.ucdavis.edu:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayserverfreenet%20%F0%9F%87%A9%F0%9F%87%AA
 vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@speedtest.net:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayserverfreenet%20%F0%9F%87%A9%F0%9F%87%AA
 vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@zmaoz.faculty.ucdavis.edu:80??path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayserverfreenet%20%F0%9F%87%A9%F0%9F%87%AA
-vless://0e935621-9c06-4ce9-9d10-a6f8c2ff0f70@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🎪 DailyV2ry
-vless://29a36c2e-53e7-4518-b431-1f7f5dccbe22@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌈 DailyV2ry
-vless://3b5e882d-e672-4813-b4c5-6553405e7714@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🍀 DailyV2ry
 vless://29a36c2e-53e7-4518-b431-1f7f5dccbe22@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ⚡️ DailyV2ry
 vless://6bea5d78-7e22-4def-b8f7-bbb1a3b47500@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🚀 DailyV2ry
 vless://8a0a6d6c-4a8b-4228-8af6-92bf7d4e1cd5@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ⚡️ DailyV2ry
@@ -849,6 +859,10 @@ vless://1948a089-d66b-4c57-a719-be51903c17a1@tgju.org:80??path=%2F%3Fed%3D2048&s
 vless://1dda34bb-3614-422f-a01e-f056b2d512ac@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🎪 DailyV2ry
 vless://757fe8dd-dc00-4912-8249-20878b96948d@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ☂️ DailyV2ry
 vless://ab6f4cba-e236-41d1-9b1a-01c4a6490aa7@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🚀 DailyV2ry
+vless://17961e8a-bb19-4619-a225-74e4269929ff@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🎯 DailyV2ry
+vless://40f4a6a6-20e4-4d70-9d79-5638392eeff3@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🎪 DailyV2ry
+vless://ab6f4cba-e236-41d1-9b1a-01c4a6490aa7@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🍀 DailyV2ry
+vless://b3d6a38a-e833-4d65-bb0f-9af3bb093464@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌺 DailyV2ry
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2025%20%28%40Outline_Vpn%29
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2030%20%28%40Outline_Vpn%29
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80??path=%2FSIGrNRCU4ongDlz4%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2031%20%28%40Outline_Vpn%29
