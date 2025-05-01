@@ -1,5 +1,18 @@
 [
     {
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-1.65.216.213:80",
+        "add": "1.65.216.213",
+        "port": "80",
+        "type": "none",
+        "id": "fc5ba91a-acd7-11ef-97e0-f23c9164ca5d",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "75a5d1ab-sv2sg0-svr00o-1oxz4.hk.p5pv.com",
         "aid": "2",
         "alpn": "",
