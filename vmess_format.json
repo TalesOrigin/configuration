@@ -39,21 +39,17 @@
         "tls": ""
     },
     {
-        "add": "172.67.204.22",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "4f3f7db1-f416-473e-8321-b2cec71c04ab",
-        "net": "ws",
-        "path": "/XV7e5RkwW8mceLxv94lPbgMw",
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-141.101.114.0:80",
+        "add": "141.101.114.0",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.204.22:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
+        "type": "none",
+        "id": "0ad4e581-231b-4676-ad75-d8d2db103795",
+        "aid": "0",
+        "net": "ws",
+        "path": "/s15.html",
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "add": "104.21.32.1",
