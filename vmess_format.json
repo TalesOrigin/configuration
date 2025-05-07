@@ -1,18 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.21.96.1",
-        "port": "80",
-        "type": "auto",
-        "id": "2f38f848-a899-4c87-9807-207a41615e3c",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "biiia-vpn-whal.fast.hosting-ip.com",
         "aid": "0",
         "alpn": "",
