@@ -56,6 +56,23 @@
         "v": "2"
     },
     {
+        "add": "151.101.64.155",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "id50---@vpn-whal",
+        "net": "ws",
+        "path": "/?ed=2056/#id-telegram:--->@vpn_whal<---",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:7.82ms"
+    },
+    {
         "add": "104.21.32.1",
         "aid": "0",
         "alpn": "",
