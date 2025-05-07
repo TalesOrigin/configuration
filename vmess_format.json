@@ -26,6 +26,19 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.98.140:80",
+        "add": "172.67.98.140",
+        "port": "80",
+        "type": "none",
+        "id": "0ad4e581-231b-4676-ad75-d8d2db103795",
+        "aid": "0",
+        "net": "ws",
+        "path": "/s15.html",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "biiia-vpn-whal.fast.hosting-ip.com",
         "aid": "0",
         "alpn": "",
