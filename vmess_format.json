@@ -1,20 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "2|\ud83c\udde7\ud83c\uddf71 |  2.9MB/s|Youtube|Openai",
-        "add": "141.101.113.248",
-        "port": "80",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "4a154623-62d5-4425-8a4e-362996f32737",
-        "host": "91.341.94.160",
-        "path": "/s15.html"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "www.xinjuc.com",
         "port": "80",
