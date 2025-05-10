@@ -1,20 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "2|\ud83c\uddfa\ud83c\uddf837 |  1.0MB/s|32%|Youtube|Op...",
-        "add": "104.21.32.242",
-        "port": "80",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "0a28b420-4f7c-43ad-a29e-80068ce08263",
-        "host": "91.341.94.160",
-        "path": "/lhU8ShsoPZlulnnYPb86csp"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
         "add": "3c8fbafa-sv2sg0-t1a26b-1dn6p.hk.p5pv.com",
         "port": "80",
