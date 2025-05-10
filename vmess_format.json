@@ -1,15 +1,15 @@
 [
     {
         "v": "2",
-        "ps": "3|\ud83c\udde7\ud83c\uddf71 |  1.4MB/s|63%|Youtube|Ope...",
-        "add": "172.64.83.72",
+        "ps": "2|\ud83c\udde7\ud83c\uddf71 |  2.9MB/s|Youtube|Openai",
+        "add": "141.101.113.248",
         "port": "80",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
         "type": "none",
         "tls": "",
-        "id": "ef01906d-5e58-4170-ba53-33820d7b0f97",
+        "id": "4a154623-62d5-4425-8a4e-362996f32737",
         "host": "91.341.94.160",
         "path": "/s15.html"
     },
