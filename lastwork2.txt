@@ -343,3 +343,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.89:80??security=none&ty
 vless://475d628a-3845-4a46-9fb8-e02e8de504f2@149.202.58.195:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇫🇷 FR-149.202.58.195:80
 vless://475d628a-3845-4a46-9fb8-e02e8de504f2@pit.it:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:63.04ms
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.26:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Saint-Denis🅿️ping:37.02ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@46.8.224.211:80??allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#15%7CFR_speednode_0034
