@@ -1,34 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "1|\ud83c\uddfa\ud83c\uddf8120 |  4.6MB/s|Openai|Gemini",
-        "add": "FfFgTYY.7282728.XyZ",
-        "port": "80",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "3d4ad187-b554-4300-bf71-d26c71962504",
-        "host": "91.341.94.160",
-        "path": "/NiNQyrcaIIJ3WqRcOEICAwmfH7"
-    },
-    {
-        "v": "2",
-        "ps": "1|\ud83c\uddfa\ud83c\uddf8130 |  6.0MB/s|32%|Youtube|O...",
-        "add": "172.67.170.51",
-        "port": "80",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "ced307a2-af2c-4113-bebc-fb888c702b7d",
-        "host": "91.341.94.160",
-        "path": "/PEQ7CoA1VrBwsbnEcmJLxC"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
         "add": "b839c06e-suk9s0-t7qex7-1supq.hk.p5pv.com",
         "port": "80",
@@ -247,6 +219,23 @@
         "path": "/PEQ7CoA1VrBwsbnEcmJLxC",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udd7c\ud83c\udd74\ud83c\udd77\ud83c\udd73\ud83c\udd78",
+        "add": "www.wn03.cc",
+        "port": "80",
+        "id": "2f38f848-a899-4c87-9807-207a41615e3c",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/rongseven?ed=2048",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "fp": ""
     },
     {
         "port": "80",
