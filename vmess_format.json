@@ -13543,6 +13543,19 @@
         "add": "us-21.hihu.net"
     },
     {
+        "v": "2",
+        "ps": "telegram \ud83c\udfaa DailyV2ry",
+        "add": "581be42d-sv2sg0-swotpn-1nn0k.hk.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "f9c35596-f323-11ed-8ccd-f23c91cfbbc9",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "port": "80",
         "ps": "(%40VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20",
         "net": "ws",
