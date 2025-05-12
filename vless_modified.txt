@@ -941,10 +941,6 @@ vless://0cd2c22e-7bab-41cc-8168-c77be874d632@zmaoz.faculty.ucdavis.edu:80??path=
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.120.178.115:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80??security=none&encryption=none&host=91.241.94.160&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.17.147.22:80??security=none&encryption=none&host=91.241.94.160&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-vless://74ae7d1e-4413-497d-a6c1-b3eec41ae515@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ☂️ DailyV2ry
-vless://7a9bd8df-14d3-45c6-90e3-8bb6871340a5@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🍊 DailyV2ry
-vless://8bcca322-ac42-4869-a824-90bbfd2de5d3@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🌟 DailyV2ry
-vless://c2351b8d-6480-4053-abfb-1418fe15a5d9@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🚀 DailyV2ry
 vless://32115fef-032d-4699-8bac-66f0134be5bf@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ⚡️ DailyV2ry
 vless://3e0b6f83-8c8f-4407-a5bb-3d9a96fbeb38@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🎯 DailyV2ry
 vless://c865f4b6-ccfc-443f-9932-6f3d5c990c2f@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram 🚀 DailyV2ry
@@ -1032,9 +1028,10 @@ vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??security=&type=w
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80??security=&type=ws&path=/olem/ws?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
-vless://9f2e6feb-d3c4-4b58-b25f-e441e0ccd621@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 56
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.24.229.98:80??path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 26
-vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80??path=%2FTM%40AZAFBAYJAB1flow%3D-udp443&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 4
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80??path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 384
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80??path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 383
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.24.229.98:80??path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 381
+vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80??path=%2FTM%40AZAFBAYJAB1flow%3D-udp443&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 355
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??security=&type=ws&path=/LwW5jwrnymnOdqki?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??security=&type=ws&path=/LwW5jwrnymnOdqki?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
