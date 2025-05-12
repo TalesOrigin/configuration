@@ -105,19 +105,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-1.65.218.16:80",
-        "add": "1.65.218.16",
-        "port": "80",
-        "type": "none",
-        "id": "8b6a0482-4fa2-11ea-bdcd-f23c9164ca5d",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udd7c\ud83c\udd74\ud83c\udd77\ud83c\udd73\ud83c\udd78",
         "add": "www.wn03.cc",
         "port": "80",
