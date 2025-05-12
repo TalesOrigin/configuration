@@ -77,20 +77,16 @@
     },
     {
         "v": "2",
-        "add": "www.wn03.cc",
+        "ps": "telegram \ud83c\udfaa DailyV2ry",
+        "add": "581be42d-sv2sg0-swotpn-1nn0k.hk.p5pv.com",
         "port": "80",
-        "id": "2f38f848-a899-4c87-9807-207a41615e3c",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
         "type": "none",
+        "id": "f9c35596-f323-11ed-8ccd-f23c91cfbbc9",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
         "host": "91.341.94.160",
-        "path": "/rongseven?ed=2048",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:55.42ms"
+        "tls": ""
     },
     {
         "add": "6dbaea45-sv0xs0-t9i7o2-1lt20.hk3.p5pv.com",
