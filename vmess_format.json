@@ -342,26 +342,6 @@
         "v": "2"
     },
     {
-        "port": "80",
-        "path": "/?ed=2056/#id-telegram:--->@vpn_whal<---",
-        "tls": "none",
-        "host": "91.341.94.160",
-        "serviceName": "none",
-        "id": "id52---@vpn-whal",
-        "alpn": "",
-        "sni": "",
-        "headerType": "",
-        "fp": "",
-        "type": "none",
-        "net": "ws",
-        "aid": "0",
-        "v": "2",
-        "add": "biiia-vpn-whal.fast.hosting-ip.com",
-        "seed": "",
-        "deviceID": "",
-        "ps": "@meli_proxyy\u0633\u0631\u0648\u0631\u0627\u06cc\u200c\u0628\u06cc\u0634\u062a\u0631"
-    },
-    {
         "v": "2",
         "ps": "telegram \ud83c\udfaa DailyV2ry",
         "add": "3278b52d-sv2sg0-sw0kma-1tauc.hk.p5pv.com",
