@@ -170,6 +170,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.170.51:80",
+        "add": "172.67.170.51",
+        "port": "80",
+        "type": "none",
+        "id": "ced307a2-af2c-4113-bebc-fb888c702b7d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/PEQ7CoA1VrBwsbnEcmJLxC",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "telegram \ud83c\udfaa DailyV2ry",
         "add": "3278b52d-sv2sg0-sw0kma-1tauc.hk.p5pv.com",
         "port": "80",
