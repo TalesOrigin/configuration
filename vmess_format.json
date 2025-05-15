@@ -13461,19 +13461,6 @@
     {
         "v": "2",
         "ps": "telegram \ud83c\udfaa DailyV2ry",
-        "add": "581be42d-sv2sg0-swotpn-1nn0k.hk.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "f9c35596-f323-11ed-8ccd-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "telegram \ud83c\udfaa DailyV2ry",
         "add": "3278b52d-sv2sg0-sw0kma-1tauc.hk.p5pv.com",
         "port": "80",
         "type": "none",
