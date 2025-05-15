@@ -13495,19 +13495,6 @@
         "add": "us-21.hihu.net"
     },
     {
-        "v": "2",
-        "ps": "telegram \ud83c\udfaa DailyV2ry",
-        "add": "3278b52d-sv2sg0-sw0kma-1tauc.hk.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "36b8113e-e455-11ef-90fa-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "pq-brazil1.09vpn.com",
         "aid": "0",
         "alpn": "",
