@@ -1,19 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.163:80",
-        "add": "42.2.113.163",
-        "port": "80",
-        "type": "none",
-        "id": "ac3a8a98-51dc-11ee-a6e8-f23c9164ca5d",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "telegram \ud83c\udfaa DailyV2ry",
         "add": "3278b52d-sv2sg0-sw0kma-1tauc.hk.p5pv.com",
         "port": "80",
