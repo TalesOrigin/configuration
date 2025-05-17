@@ -1,18 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "m11sdfg.890604.dpdns.org",
-        "port": "80",
-        "type": "none",
-        "id": "0a28b420-4f7c-43ad-a29e-80068ce08263",
-        "aid": "0",
-        "net": "ws",
-        "path": "/lhU8ShsoPZlulnnYPb86csp",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
