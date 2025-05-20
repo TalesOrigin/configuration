@@ -1,18 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
-        "add": "7239a836-sunz40-suqjqq-1pr35.hk.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "6b7c1278-ff9d-11ee-84ca-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "104.21.32.1",
         "aid": "0",
         "alpn": "",
