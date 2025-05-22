@@ -104,6 +104,19 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddf7\ud83c\uddfa RU-193.53.126.249:80",
+        "add": "193.53.126.249",
+        "port": "80",
+        "type": "none",
+        "id": "c21b972a-bc92-4f8c-8e6a-6868001f7f88",
+        "aid": "0",
+        "net": "ws",
+        "path": "/iphone",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "eedp257bubu2wefy1.lovebaipiao.net",
         "aid": "0",
         "alpn": "",
