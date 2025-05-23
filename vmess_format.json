@@ -1,44 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "www.hdmoli.com",
-        "port": "80",
-        "type": "none",
-        "id": "2f38f848-a899-4c87-9807-207a41615e3c",
-        "aid": "0",
-        "net": "ws",
-        "path": "/rongseven?ed=2048",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.25",
-        "port": "80",
-        "type": "none",
-        "id": "27ee8047-5da9-4433-8c85-45f5feb1967f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddf8\ud83c\uddea _\u745e\u5178",
-        "add": "185.146.173.25",
-        "port": "80",
-        "type": "none",
-        "id": "27ee8047-5da9-4433-8c85-45f5feb1967f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "eedp257bubu2wefy1.lovebaipiao.net",
         "aid": "0",
         "alpn": "",
