@@ -1,14 +1,14 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "tiamo.tiamocloud.us.kg",
+        "ps": "\ud83c\uddf8\ud83c\uddea _\u745e\u5178",
+        "add": "185.146.173.25",
         "port": "80",
         "type": "none",
-        "id": "b8ba7210-3690-4b1e-9763-9785266daacb",
+        "id": "27ee8047-5da9-4433-8c85-45f5feb1967f",
         "aid": "0",
         "net": "ws",
-        "path": "/",
+        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560",
         "host": "91.341.94.160",
         "tls": ""
     },

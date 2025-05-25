@@ -940,8 +940,9 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.56:80??path=%2FTelegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 358
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2FShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 353
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.13:80??path=%2FTelegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 9
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.56:80??path=%2FTelegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 8
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2FShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 3
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80??security=&type=ws&path=/LwW5jwrnymnOdqki?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??security=&type=ws&path=/telegram@ShadowProxy66/?ed%3D2048&host=91.241.94.160&encryption=none#@awlix_ir
