@@ -39,23 +39,6 @@
         "tls": ""
     },
     {
-        "add": "104.19.150.10",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d70f5f8e-7694-4dff-95ef-cc1472e315dc",
-        "net": "ws",
-        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.19.150.10:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "eedp257bubu2wefy1.lovebaipiao.net",
         "aid": "0",
         "alpn": "",
