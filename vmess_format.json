@@ -40,6 +40,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-1.65.207.45:80",
+        "add": "1.65.207.45",
+        "port": "80",
+        "type": "none",
+        "id": "15d92b4e-fd53-11ef-bea4-f23c91cfbbc9",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "TG:@v2ray_sub",
         "add": "104.21.22.211",
         "port": "80",
