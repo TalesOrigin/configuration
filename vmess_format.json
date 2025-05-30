@@ -7647,16 +7647,6 @@
         "v": "2"
     },
     {
-        "port": "80",
-        "ps": "(%40VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20",
-        "net": "ws",
-        "scy": "auto",
-        "id": "a65eb840-1cc5-11f0-b030-205c6d5f5d78",
-        "host": "91.341.94.160",
-        "path": "/d8qnxmye",
-        "add": "us-21.hihu.net"
-    },
-    {
         "add": "172.67.116.48",
         "v": 2,
         "ps": "\ud83c\uddfa\ud83c\uddf8_US_\u7f8e\u56fd_2",
