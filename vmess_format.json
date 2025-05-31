@@ -52,19 +52,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.175.139:80",
-        "add": "172.67.175.139",
-        "port": "80",
-        "type": "none",
-        "id": "0a28b420-4f7c-43ad-a29e-80068ce08263",
-        "aid": "0",
-        "net": "ws",
-        "path": "/lhU8ShsoPZlulnnYPb86csp",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "eedp257bubu2wefy1.lovebaipiao.net",
         "aid": "0",
         "alpn": "",
