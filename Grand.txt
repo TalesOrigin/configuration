@@ -354,3 +354,4 @@ vless://84ce5157-4867-4bea-8ae9-f1d7afe3b0ed@France.fastly80-2.hosting-ip.com:80
 vless://db655400-3b76-5530-a13b-b908b691484b@fr.vless.comnpmjs.com:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:57.95ms
 vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🇫🇷 FR-138.124.31.187:80
 vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:80??security=none&type=ws&host=91.241.94.160&path=/vless#🔒 VL-WS-NONE 🇫🇷 FR-138.124.31.187:80
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&host=91.241.94.160&path=%2Fhttp%23Telegram@proxy_mtm%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
