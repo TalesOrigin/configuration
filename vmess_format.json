@@ -34,20 +34,19 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "\u672a\u77e58",
-        "add": "104.19.150.10",
-        "port": "80",
-        "id": "46181c32-8c82-413a-b836-8375e5e513eb",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
+        "add": "42.2.113.136",
+        "aid": "2",
         "host": "91.341.94.160",
-        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560",
+        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
+        "scy": "auto",
+        "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
-        "sni": "",
-        "test_name": "8"
+        "type": "auto",
+        "v": "2"
     },
     {
         "add": "104.19.150.10",
