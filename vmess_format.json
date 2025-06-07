@@ -35,14 +35,14 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 _\u7f8e\u56fd",
-        "add": "tci2.tiamoci.us.kg",
+        "ps": "\ud83c\uddf8\ud83c\uddea _\u745e\u5178",
+        "add": "185.146.173.25",
         "port": "80",
         "type": "none",
-        "id": "edb02ed6-e6a1-4309-8076-981094bda7de",
+        "id": "46181c32-8c82-413a-b836-8375e5e513eb",
         "aid": "0",
         "net": "ws",
-        "path": "/",
+        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560",
         "host": "91.341.94.160",
         "tls": ""
     },
