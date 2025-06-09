@@ -34,22 +34,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "HK2",
-        "add": "42.2.113.136",
-        "port": "80",
-        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
-        "aid": "2",
-        "scy": "auto",
-        "net": "ws",
-        "type": "auto",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "broadcastlv.chat.bilibili.com",
-        "test_name": "HK2"
-    },
-    {
         "add": "104.19.150.10",
         "aid": "0",
         "alpn": "",
