@@ -47,19 +47,17 @@
         "tls": ""
     },
     {
-        "add": "42.2.113.136",
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-1.65.202.165:80",
+        "add": "1.65.202.165",
+        "port": "80",
+        "type": "none",
+        "id": "0fcf5a7a-e1b7-11ec-a352-f23c91cfbbc9",
         "aid": "2",
-        "host": "91.341.94.160",
-        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
         "net": "ws",
         "path": "/",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
-        "scy": "auto",
-        "sni": "broadcastlv.chat.bilibili.com",
-        "tls": "",
-        "type": "auto",
-        "v": "2"
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "add": "104.19.150.10",
