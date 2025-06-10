@@ -34,19 +34,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "xxcvfrrt6.999820.xyz",
-        "port": "80",
-        "type": "none",
-        "id": "90f357dd-79ac-47c6-b0b8-958e2d19de07",
-        "aid": "0",
-        "net": "ws",
-        "path": "/10W6SJaK0F0oVXeNU6S2RVRP",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "42.2.113.136",
         "aid": "2",
         "host": "91.341.94.160",
