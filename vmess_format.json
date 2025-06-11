@@ -34,34 +34,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "FfFgTYY.7282728.XyZ",
-        "port": "80",
-        "type": "none",
-        "id": "3d4ad187-b554-4300-bf71-d26c71962504",
-        "aid": "0",
-        "net": "ws",
-        "path": "/NiNQyrcaIIJ3WqRcOEICAwmfH7",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "add": "42.2.113.136",
-        "aid": "2",
-        "host": "91.341.94.160",
-        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
-        "scy": "auto",
-        "sni": "broadcastlv.chat.bilibili.com",
-        "tls": "",
-        "type": "auto",
-        "v": "2"
-    },
-    {
         "add": "f72738d2-sv0xs0-tc2sod-1tizo.hk3.p5pv.com",
         "aid": "2",
         "alpn": "",
