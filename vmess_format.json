@@ -34,19 +34,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
-        "add": "42.2.113.136",
-        "port": "80",
-        "type": "none",
-        "id": "4faf123a-572a-11eb-8684-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "f72738d2-sv0xs0-tc2sod-1tizo.hk3.p5pv.com",
         "aid": "2",
         "alpn": "",
