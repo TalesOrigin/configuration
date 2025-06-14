@@ -34,45 +34,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "172.67.209.79",
-        "port": "80",
-        "type": "none",
-        "id": "512d9674-db12-44ca-a1b5-654244549b65",
-        "aid": "0",
-        "net": "ws",
-        "path": "/uiAxvH6OkVk0VCfa7dX3JIrYk7zm",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "xscdddfr5.999820.xyz",
-        "port": "80",
-        "type": "none",
-        "id": "90f357dd-79ac-47c6-b0b8-958e2d19de07",
-        "aid": "0",
-        "net": "ws",
-        "path": "/10W6SJaK0F0oVXeNU6S2RVRP",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "xcdvfrr54.999820.xyz",
-        "port": "80",
-        "type": "none",
-        "id": "90f357dd-79ac-47c6-b0b8-958e2d19de07",
-        "aid": "0",
-        "net": "ws",
-        "path": "/10W6SJaK0F0oVXeNU6S2RVRP",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "42.2.113.136",
         "aid": "2",
         "host": "91.341.94.160",
