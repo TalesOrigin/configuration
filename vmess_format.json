@@ -60,33 +60,19 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
         "add": "42.2.113.136",
-        "port": "80",
-        "type": "none",
-        "id": "e542ec26-b786-11ee-9a75-f23c91cfbbc9",
         "aid": "2",
+        "host": "91.341.94.160",
+        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
         "net": "ws",
         "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e560",
-        "add": "185.146.173.25",
         "port": "80",
-        "id": "46181c32-8c82-413a-b836-8375e5e513eb",
-        "aid": "0",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
         "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560",
+        "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
-        "sni": "",
-        "test_name": "60"
+        "type": "auto",
+        "v": "2"
     },
     {
         "add": "4db0c464-sueps0-sxrtmf-1kww5.hk.p5pv.com",
