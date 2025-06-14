@@ -86,21 +86,20 @@
         "tls": ""
     },
     {
-        "add": "172.67.209.79",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "512d9674-db12-44ca-a1b5-654244549b65",
-        "net": "ws",
-        "path": "/uiAxvH6OkVk0VCfa7dX3JIrYk7zm",
+        "v": "2",
+        "ps": "\u672a\u77e560",
+        "add": "185.146.173.25",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.209.79:80",
+        "id": "46181c32-8c82-413a-b836-8375e5e513eb",
+        "aid": "0",
         "scy": "auto",
-        "sni": "",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560",
         "tls": "",
-        "type": "",
-        "v": "2"
+        "sni": "",
+        "test_name": "60"
     },
     {
         "add": "4db0c464-sueps0-sxrtmf-1kww5.hk.p5pv.com",
