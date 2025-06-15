@@ -112,16 +112,19 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udde7\ud83c\uddf7 BR-95.164.4.88:80",
-        "add": "95.164.4.88",
-        "port": "80",
-        "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
+        "add": "42.2.113.136",
+        "aid": "2",
         "host": "91.341.94.160",
-        "path": "/vmess/"
+        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
+        "scy": "auto",
+        "sni": "broadcastlv.chat.bilibili.com",
+        "tls": "",
+        "type": "auto",
+        "v": "2"
     },
     {
         "add": "4db0c464-sueps0-sxrtmf-1kww5.hk.p5pv.com",
@@ -10351,23 +10354,6 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
-        "v": "2"
-    },
-    {
-        "add": "104.19.150.10",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "46181c32-8c82-413a-b836-8375e5e513eb",
-        "net": "ws",
-        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560",
-        "port": "80",
-        "ps": "@Vip_Security join us - 318\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
         "v": "2"
     },
     {
