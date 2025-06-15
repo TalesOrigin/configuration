@@ -73,17 +73,21 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
-        "add": "42.2.113.136",
-        "port": "80",
-        "type": "none",
-        "id": "b58095f0-52dc-11ef-bc74-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
+        "add": "104.21.84.242",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "tls": ""
+        "id": "03e92910-34b1-4245-ac63-04a865f43cd5",
+        "net": "ws",
+        "path": "/NjLXrucxVIcvpHPhIJoo2wcE6Q",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.84.242:80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "add": "4db0c464-sueps0-sxrtmf-1kww5.hk.p5pv.com",
