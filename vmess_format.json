@@ -347,10 +347,10 @@
     },
     {
         "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-188.114.98.18:80",
-        "add": "188.114.98.18",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.72.42:80",
+        "add": "172.67.72.42",
         "port": "80",
-        "id": "d2866d01-d76d-4a08-8bae-04fb3c502588",
+        "id": "5a962485-41f7-4b50-af66-1b5c9767eae1",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
