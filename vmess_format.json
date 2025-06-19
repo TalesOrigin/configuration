@@ -60,6 +60,23 @@
         "tls": "none"
     },
     {
+        "add": "fr1-multi.logoutsystem.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "31bdd44b-e0f8-4dfc-be2a-2e269ac23607",
+        "net": "ws",
+        "path": "",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "51.79.103.76",
         "aid": "0",
         "alpn": "",
