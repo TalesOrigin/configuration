@@ -47,17 +47,21 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NONE \ud83c\uddf5\ud83c\uddf1 PL-57.128.198.152:80",
-        "add": "57.128.198.152",
-        "port": "80",
-        "id": "7881f906-8170-4aca-b971-302be7f65b66",
+        "add": "2.144.5.252",
         "aid": "0",
-        "net": "ws",
-        "path": "/vmess/",
-        "type": "none",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "tls": "none"
+        "id": "6e1a3ae7-9445-4574-b471-2ce55367a6f1",
+        "net": "ws",
+        "path": "",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddee\ud83c\uddf7 IR-2.144.5.252:80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "none",
+        "v": "2"
     },
     {
         "add": "51.79.103.76",
