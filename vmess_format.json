@@ -47,6 +47,19 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NONE \ud83c\uddf5\ud83c\uddf1 PL-57.128.198.152:80",
+        "add": "57.128.198.152",
+        "port": "80",
+        "id": "7881f906-8170-4aca-b971-302be7f65b66",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmess/",
+        "type": "none",
+        "host": "91.341.94.160",
+        "tls": "none"
+    },
+    {
         "add": "51.79.103.76",
         "aid": "0",
         "alpn": "",
