@@ -48,16 +48,16 @@
     },
     {
         "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NONE \ud83c\uddf5\ud83c\uddf1 PL-57.128.198.152:80",
-        "add": "57.128.198.152",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.18.23.68:80",
+        "add": "104.18.23.68",
         "port": "80",
-        "id": "7881f906-8170-4aca-b971-302be7f65b66",
+        "type": "none",
+        "id": "bd9c1aea-240a-463a-83ee-e7b3a6a4ac7a",
         "aid": "0",
         "net": "ws",
-        "path": "/vmess/",
-        "type": "none",
+        "path": "/s15.html?ed=2048",
         "host": "91.341.94.160",
-        "tls": "none"
+        "tls": ""
     },
     {
         "add": "fr1-multi.logoutsystem.com",
