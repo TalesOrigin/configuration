@@ -1160,14 +1160,13 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80??path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 366
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 365
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80??path=%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 364
-vless://948f6596-66f9-4707-aa92-3107a214ce53@172.67.212.233:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=oops.shalamshorba.dpdns.org#@Vip_Security join us - 360
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.62.141:80??path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 358
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.62.141:80??path=%2FBaRAyeIran%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 357
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 356
-vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.213.213:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=varzesh3.varzesh.dpdns.org#@Vip_Security join us - 355
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80??path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 18
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80??path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 17
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80??path=%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 15
+vless://948f6596-66f9-4707-aa92-3107a214ce53@172.67.212.233:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=oops.shalamshorba.dpdns.org#@Vip_Security join us - 13
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.62.141:80??path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 11
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.62.141:80??path=%2FBaRAyeIran%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 10
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 9
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
