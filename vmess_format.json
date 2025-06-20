@@ -168,6 +168,23 @@
         "tls": ""
     },
     {
+        "add": "198.41.209.45",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "6df5accb-d452-366e-b0c4-878177deb6bd",
+        "net": "ws",
+        "path": "/555?ed=2048",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-198.41.209.45:80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "fr1-multi.logoutsystem.com",
         "aid": "0",
         "alpn": "",
