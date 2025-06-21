@@ -101,23 +101,6 @@
         "tls": ""
     },
     {
-        "add": "2.144.6.234",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "6bf1a45b-b18c-46c9-9dc9-acb70fd5e0b5",
-        "net": "ws",
-        "path": "",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddee\ud83c\uddf7 IR-2.144.6.234:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "51.79.103.76",
         "aid": "0",
         "alpn": "",
