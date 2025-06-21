@@ -88,20 +88,20 @@
         "tls": ""
     },
     {
-        "add": "109.120.186.23",
+        "add": "104.16.0.192",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "98f9d4e8-4ca2-450d-839d-4ad2401d61a6",
+        "id": "dfc6433f-48b2-4226-8c51-3e0c6cf1b0f6",
         "net": "ws",
-        "path": "",
+        "path": "/",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddec\ud83c\udde7 GB-109.120.186.23:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.16.0.192:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2"
     },
     {
