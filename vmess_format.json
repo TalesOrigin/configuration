@@ -101,18 +101,20 @@
         "tls": ""
     },
     {
-        "add": "42.2.113.136",
-        "aid": "2",
+        "add": "104.16.0.192",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
+        "id": "dfc6433f-48b2-4226-8c51-3e0c6cf1b0f6",
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.16.0.192:80",
         "scy": "auto",
-        "sni": "broadcastlv.chat.bilibili.com",
+        "sni": "",
         "tls": "",
-        "type": "auto",
+        "type": "---",
         "v": "2"
     },
     {
