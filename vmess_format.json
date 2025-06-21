@@ -101,20 +101,20 @@
         "tls": ""
     },
     {
-        "add": "104.16.0.192",
+        "add": "2.144.6.234",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "dfc6433f-48b2-4226-8c51-3e0c6cf1b0f6",
+        "id": "6bf1a45b-b18c-46c9-9dc9-acb70fd5e0b5",
         "net": "ws",
-        "path": "/",
+        "path": "",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.16.0.192:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddee\ud83c\uddf7 IR-2.144.6.234:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "---",
+        "type": "",
         "v": "2"
     },
     {
