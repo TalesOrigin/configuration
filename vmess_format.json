@@ -1,21 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\u7f8e\u56fd3|@ripaojiedian",
-        "add": "dddddDDDDD4.222560.xyZ",
-        "port": "80",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "393b1061-d615-459a-8616-3f9447bdff5a",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/iXfi0mMmPYp9UA6Y34zWUk6JUQ"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd3|@ripaojiedian",
         "add": "dddddDDDDD4.222560.xyZ",
         "port": "80",
@@ -10430,19 +10415,6 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
-        "v": "2"
-    },
-    {
-        "add": "SssssssW.222560.XYz",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "393b1061-d615-459a-8616-3f9447bdff5a",
-        "net": "ws",
-        "path": "/iXfi0mMmPYp9UA6Y34zWUk6JUQ",
-        "port": "80",
-        "ps": "@Vip_Security join us - 357\n",
-        "tls": "",
-        "type": "none",
         "v": "2"
     },
     {
