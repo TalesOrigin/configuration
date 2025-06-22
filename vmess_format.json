@@ -14,10 +14,10 @@
     },
     {
         "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-188.114.98.20:80",
-        "add": "188.114.98.20",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddec\ud83c\udde7 GB-102.177.189.35:80",
+        "add": "102.177.189.35",
         "port": "80",
-        "id": "276b453c-c681-4ac0-8030-2a5e9113fe26",
+        "id": "00013ec5-193c-4fa1-bb1c-99883a974bb0",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
