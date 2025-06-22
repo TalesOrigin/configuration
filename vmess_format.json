@@ -1,33 +1,18 @@
 [
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "SssssssW.222560.XYz",
-        "port": "80",
-        "type": "none",
-        "id": "393b1061-d615-459a-8616-3f9447bdff5a",
-        "aid": "0",
-        "net": "ws",
-        "path": "/iXfi0mMmPYp9UA6Y34zWUk6JUQ",
+        "add": "42.2.113.136",
+        "aid": "2",
         "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddec\ud83c\udde7 GB-102.177.189.35:80",
-        "add": "102.177.189.35",
-        "port": "80",
-        "id": "00013ec5-193c-4fa1-bb1c-99883a974bb0",
-        "aid": "0",
-        "scy": "auto",
+        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
         "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
         "path": "/",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udded\ud83c\uddf0 HK-42.2.113.136:80",
+        "scy": "auto",
+        "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": ""
+        "type": "auto",
+        "v": "2"
     },
     {
         "add": "51.79.103.76",
