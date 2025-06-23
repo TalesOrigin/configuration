@@ -65,7 +65,7 @@
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2"
     },
     {
@@ -11452,23 +11452,6 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
-        "v": "2"
-    },
-    {
-        "add": "188.114.98.20",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "276b453c-c681-4ac0-8030-2a5e9113fe26",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "@Vip_Security join us - 349\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "none",
         "v": "2"
     },
     {
