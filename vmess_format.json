@@ -13,17 +13,21 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-151.101.130.168:80",
-        "add": "151.101.130.168",
-        "port": "80",
-        "type": "none",
-        "id": "7dc78582-88a8-4b4c-9e3e-50831d672766",
+        "add": "[2606:4700:3036::6815:1e25]",
         "aid": "0",
-        "net": "ws",
-        "path": "/XESALISTHEBEST?ed=2048",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "tls": ""
+        "id": "cdec9d57-661d-456a-bbf2-b4c38e9c6711",
+        "net": "ws",
+        "path": "/9dZlJLjHHrL0VwSolbqFpg",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-[2606:4700:3036::6815:1e25]:80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "add": "104.19.57.219",
