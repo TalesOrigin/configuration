@@ -414,3 +414,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.212:80??security=none&t
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.30:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.30:80
 vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:7.67ms
 vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@mstr.fastly80.hosting-ip.com:80??security=none&type=ws&headerType=&path=%2FFreedom-Azadi%2F%3Fed%3D2048&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:7.49ms
+vless://619d59be-653f-4388-a579-7732a7ee8b54@cdnf.ten10rocket.top:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:40.85ms
