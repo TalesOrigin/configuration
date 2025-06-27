@@ -26,20 +26,20 @@
         "tls": ""
     },
     {
-        "add": "104.21.57.206",
+        "add": "57.129.132.223",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "3d9741da-c0e4-47cc-a5e0-f1af3d337dae",
+        "id": "a25cbf11-2908-4a1b-a3a8-9a571777dca3",
         "net": "ws",
-        "path": "/U2Z0FoBkgtZqfwAwY2SNm",
+        "path": "/vmess/",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.57.206:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddec\ud83c\udde7 GB-57.129.132.223:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2"
     },
     {
