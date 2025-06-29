@@ -1106,11 +1106,6 @@ vless://284e74b3-835f-45f5-9202-cb460a6685f1@104.19.54.50:80??security=none&type
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.179:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.179:80
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??security=none&type=ws&host=91.241.94.160&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.16.110.49:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2570#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.110.49:80
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.132.185:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.96ms
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.82ms
-vless://30896a5b-cd0a-46fd-914e-6c41fb555f51@172.67.73.163:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.26ms
-vless://30896a5b-cd0a-46fd-914e-6c41fb555f51@172.67.73.163:80??host=PATIeNT-lINE.ONeEAT.CO.&path=%2F%3Fed%3D2048&security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.26ms
-vless://30896a5b-cd0a-46fd-914e-6c41fb555f51@172.67.73.163:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.91ms
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
 vless://a05367f5-a500-4514-ac99-e73f629229f2@104.21.72.109:80??path=%2F8WrRNGUr2d25Kcpp%2FNTQuMjAwLjI0NC45Mw%3D%3D%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=91.241.94.160&fp=randomized&type=ws&sni=pAmchALL.COm.#@meli_proxyy
