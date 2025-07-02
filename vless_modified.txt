@@ -1120,7 +1120,9 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.171:80??security=none&t
 vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.66.216:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.216:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.247:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.247:80
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.192:80??security=none&type=ws&host=91.241.94.160&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.192:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.52:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.91ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80??path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:8.43ms
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.82ms
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.03ms
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40ShadowProxy66
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80??path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80??path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
