@@ -1116,9 +1116,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.253:80??security=none&t
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.243:80??security=none&type=ws&host=91.241.94.160&path=Telegram@WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.243:80
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??security=none&type=ws&host=91.241.94.160&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@172.64.35.33:80??security=tls&sni=fari24.clodmolt3.com&type=ws&host=91.241.94.160&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.33:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80??path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:8.43ms
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.82ms
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.03ms
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40ShadowProxy66
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80??path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80??path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
@@ -1445,9 +1442,6 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3
 vless://069b511d-3ebc-4b1a-9b57-eb9ece724aa3@pishgam.sdcards.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#All%20net%20telegram%3A%40ultrasurf_12ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#All%20net%20telegram%3A%40ultrasurf_12
 vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#All%20net%20telegram%3A%40ultrasurf_12
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#All%20net%20telegram%3A%20%40ultrasurf_12
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.52:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.3ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.52:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.3ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.52:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.3ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
