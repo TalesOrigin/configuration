@@ -54,21 +54,20 @@
         "tls": ""
     },
     {
-        "add": "104.21.71.112",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "4174b95d-115e-4d39-add6-1f8db95bb860",
-        "net": "ws",
-        "path": "/6We3U9Df1WGxgFnoFPw1",
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udde7\ud83c\uddf7 BR-95.164.4.88:80",
+        "add": "95.164.4.88",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.71.112:80",
+        "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
+        "aid": "0",
         "scy": "auto",
-        "sni": "",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/vmess/",
         "tls": "",
-        "type": "",
-        "v": "2"
+        "sni": "",
+        "test_name": "17"
     },
     {
         "add": "73cc68dd-sv0xs0-t76x2i-wj6v.hk3.p5pv.com",
