@@ -9803,6 +9803,19 @@
         "v": "2"
     },
     {
+        "add": "hkt.gotochinatown.net",
+        "aid": "2",
+        "host": "91.341.94.160",
+        "id": "9b604194-17b7-11ef-80b0-f23c913c8d2b",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "@Vip_Security join us - 41\n",
+        "tls": "",
+        "type": "none",
+        "v": "2"
+    },
+    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
@@ -9812,7 +9825,7 @@
         "net": "ws",
         "path": "/IOebhLMhl1CTbFHbL95myfRX2",
         "port": "80",
-        "ps": "@Vip_Security join us - 325\n",
+        "ps": "@Vip_Security join us - 1\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
