@@ -16,21 +16,8 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "8da5616c-8566-11ee-9a21-f23c9164ca5d",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "EeEDCFVg.999824.xYZ",
+        "add": "wSxcdFR5.999824.xyz",
         "port": "80",
         "type": "none",
         "id": "cdec9d57-661d-456a-bbf2-b4c38e9c6711",
