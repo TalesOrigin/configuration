@@ -1477,6 +1477,8 @@ vless://069b511d-3ebc-4b1a-9b57-eb9ece724aa3@pishgam.sdcards.ir:80??path=%2F&sec
 vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#All%20net%20telegram%3A%40ultrasurf_12
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#All%20net%20telegram%3A%20%40ultrasurf_12
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#All%20net%20telegram%3A%20%40ultrasurf_12
+vless://telegram-id-ArV2ray@104.18.26.90:80??path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#All%20net%20telegram%3A%20%40ultrasurf_12
+vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#All%20net%20telegram%3A%20%40ultrasurf_12
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
