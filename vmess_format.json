@@ -1,45 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f6|@ripaojiedian",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "9b604194-17b7-11ef-80b0-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f6|@ripaojiedian",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "9b604194-17b7-11ef-80b0-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f6|@ripaojiedian",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "9b604194-17b7-11ef-80b0-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udde7\ud83c\uddf7 BR-95.164.4.88:80",
         "add": "95.164.4.88",
         "port": "80",
@@ -9788,19 +9749,6 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
-        "v": "2"
-    },
-    {
-        "add": "hkt.gotochinatown.net",
-        "aid": "2",
-        "host": "91.341.94.160",
-        "id": "9b604194-17b7-11ef-80b0-f23c913c8d2b",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "@Vip_Security join us - 365\n",
-        "tls": "",
-        "type": "none",
         "v": "2"
     },
     {
