@@ -1119,6 +1119,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.62:80??sni=cs.laoyoutia
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.53:80??sni=digitalscientificresearchgroup.ir&type=ws&host=91.241.94.160#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.53:80
 vless://b1b34c65-0587-4395-d5b9-67087005fae7@185.143.232.200:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-185.143.232.200:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.39:80??security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.39:80
+vless://eb36cb51-7cc8-45d4-aa83-3eb14a2ef6ba@mtn.zoverv.com:80??path=%2Fhajmi%3Fed%3D2050&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:1.7ms
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#Telegram+@vmessorg
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#Telegram+@vmessorg
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&type=ws#Telegram+@vmessorg
