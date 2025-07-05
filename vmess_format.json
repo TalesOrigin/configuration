@@ -1,19 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "EeEDCFVg.999824.xYZ",
-        "port": "80",
-        "type": "none",
-        "id": "cdec9d57-661d-456a-bbf2-b4c38e9c6711",
-        "aid": "0",
-        "net": "ws",
-        "path": "/9dZlJLjHHrL0VwSolbqFpg",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udde7\ud83c\uddf7 BR-95.164.4.88:80",
         "add": "95.164.4.88",
         "port": "80",
