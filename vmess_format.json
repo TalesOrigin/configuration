@@ -1,5 +1,18 @@
 [
     {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "172.67.209.79",
+        "port": "80",
+        "type": "none",
+        "id": "512d9674-db12-44ca-a1b5-654244549b65",
+        "aid": "0",
+        "net": "ws",
+        "path": "/uiAxvH6OkVk0VCfa7dX3JIrYk7zm",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "c62b5b59-sv2sg0-sx0ey8-1b8u2.hk.p5pv.com",
         "aid": "2",
         "alpn": "",
@@ -9717,6 +9730,23 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
+        "v": "2"
+    },
+    {
+        "add": "104.18.26.90",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "95abfa50-f1d9-4e7d-8a7a-50c2ee9a7365",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "@Vip_Security join us - 411\n",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "none",
         "v": "2"
     },
     {
