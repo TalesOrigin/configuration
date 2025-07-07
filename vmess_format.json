@@ -15,6 +15,58 @@
         "path": "/"
     },
     {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "3333r567.11890604.xyz",
+        "port": "80",
+        "type": "none",
+        "id": "f898ffcb-6417-4373-9640-0b66091e8206",
+        "aid": "0",
+        "net": "ws",
+        "path": "/GnJ3bBxV91uFkYtuzXyJ5XNeH1R1",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f3|@ripaojiedian",
+        "add": "hkt.gotochinatown.net",
+        "port": "80",
+        "type": "none",
+        "id": "a305ac08-d136-11ee-b6db-f23c91cfbbc9",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f3|@ripaojiedian",
+        "add": "hkt.gotochinatown.net",
+        "port": "80",
+        "type": "none",
+        "id": "a305ac08-d136-11ee-b6db-f23c91cfbbc9",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f3|@ripaojiedian",
+        "add": "hkt.gotochinatown.net",
+        "port": "80",
+        "type": "none",
+        "id": "a305ac08-d136-11ee-b6db-f23c91cfbbc9",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "pq-brazil1.09vpn.com",
         "aid": "0",
         "alpn": "",
