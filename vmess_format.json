@@ -1,5 +1,20 @@
 [
     {
+        "v": "2",
+        "ps": "\u9999\u6e2f3|@ripaojiedian",
+        "add": "hkt.gotochinatown.net",
+        "port": "80",
+        "aid": 2,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "a305ac08-d136-11ee-b6db-f23c91cfbbc9",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/"
+    },
+    {
         "add": "pq-brazil1.09vpn.com",
         "aid": "0",
         "alpn": "",
