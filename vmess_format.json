@@ -67,6 +67,23 @@
         "tls": ""
     },
     {
+        "add": "www.hdmoli.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2f38f848-a899-4c87-9807-207a41615e3c",
+        "net": "ws",
+        "path": "/rongseven?ed=2048",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\uddfa\ud83c\uddf8",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "c62b5b59-sv2sg0-sx0ey8-1b8u2.hk.p5pv.com",
         "aid": "2",
         "alpn": "",
