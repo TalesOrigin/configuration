@@ -16,19 +16,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "SSSxXcvFtY.444752.Xyz",
-        "port": "80",
-        "type": "none",
-        "id": "512d9674-db12-44ca-a1b5-654244549b65",
-        "aid": "0",
-        "net": "ws",
-        "path": "/uiAxvH6OkVk0VCfa7dX3JIrYk7zm",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f3|@ripaojiedian",
         "add": "hkt.gotochinatown.net",
         "port": "80",
