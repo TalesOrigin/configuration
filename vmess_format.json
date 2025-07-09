@@ -10654,22 +10654,6 @@
         "v": "2"
     },
     {
-        "add": "167.235.204.122",
-        "aid": "0",
-        "alpn": "",
-        "host": "91.341.94.160",
-        "id": "2aac77de-b3e4-4017-845c-ca1380f2e8d0",
-        "net": "ws",
-        "path": "/telegram-id-@privatevpns",
-        "port": "80",
-        "ps": "@Vip_Security join us - 335\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "none",
-        "v": "2"
-    },
-    {
         "add": "42.2.113.136",
         "aid": "2",
         "host": "91.341.94.160",
