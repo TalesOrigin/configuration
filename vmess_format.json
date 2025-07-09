@@ -9817,19 +9817,6 @@
         "v": "2"
     },
     {
-        "add": "hkt.gotochinatown.net",
-        "aid": "2",
-        "host": "91.341.94.160",
-        "id": "384d1b42-655f-11ed-a8bf-f23c91cfbbc9",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "@Vip_Security join us - 426\n",
-        "tls": "",
-        "type": "none",
-        "v": "2"
-    },
-    {
         "add": "42.2.113.136",
         "aid": "2",
         "host": "91.341.94.160",
