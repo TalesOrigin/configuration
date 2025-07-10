@@ -1,22 +1,5 @@
 [
     {
-        "add": "ov-germany7.09vpn.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "8b7ec98d-c291-4034-9719-e6d62051636a",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "[\ud83d\ude80] \u27a0 @V2ray_official \ud83d\udc48 \u0633\u0631\u0648\u0631\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "104.21.57.206",
