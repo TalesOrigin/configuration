@@ -1,36 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram",
-        "add": "s4.db-link01.top",
-        "port": "80",
-        "type": "auto",
-        "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "add": "104.17.148.22",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "368bf030-db51-11ef-b336-205c6d5f5d78",
-        "net": "ws",
-        "path": "/xa62zvle",
-        "port": "80",
-        "ps": "@Hope_Net-join-us-on-Telegram",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
-        "v": "2",
         "ps": "_\u4e2d\u56fd",
         "add": "twjxlnnoljxc2.jkhkgj.xyz",
         "port": "80",
