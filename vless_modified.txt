@@ -373,6 +373,9 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3D25
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=ey.nazanin.dpdns.org#All%20net%20telegram%3A%20%40ultrasurf_12
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#All%20net%20telegram%3A%20%40ultrasurf_12
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
+vless://25585ad5-242d-4b58-ad50-2492ee122ab6@partner.zoom.us:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.76ms
+vless://25585ad5-242d-4b58-ad50-2492ee122ab6@partner.zoom.us:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.76ms
+vless://25585ad5-242d-4b58-ad50-2492ee122ab6@partner.zoom.us:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.76ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
