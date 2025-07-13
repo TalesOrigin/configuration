@@ -1,5 +1,18 @@
 [
     {
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram",
+        "add": "s4.db-link01.top",
+        "port": "80",
+        "type": "auto",
+        "id": "4b36625c-b9d9-3ea6-aed5-86d62c70e16d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "104.17.148.22",
         "aid": "0",
         "alpn": "",
