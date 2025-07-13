@@ -13,6 +13,23 @@
         "tls": ""
     },
     {
+        "add": "104.17.148.22",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "368bf030-db51-11ef-b336-205c6d5f5d78",
+        "net": "ws",
+        "path": "/xa62zvle",
+        "port": "80",
+        "ps": "@Hope_Net-join-us-on-Telegram",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "_\u4e2d\u56fd",
         "add": "twjxlnnoljxc2.jkhkgj.xyz",
