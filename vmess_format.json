@@ -1,18 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 _\u7f8e\u56fd",
-        "add": "162.159.137.178",
-        "port": "80",
-        "type": "none",
-        "id": "88a25bf3-18af-486f-b194-d87e976c230b",
-        "aid": "0",
-        "net": "ws",
-        "path": "/s15.html",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "www.hdmoli.com",
         "aid": "0",
         "alpn": "",
