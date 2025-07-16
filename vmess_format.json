@@ -1,5 +1,22 @@
 [
     {
+        "add": "www.hdmoli.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2f38f848-a899-4c87-9807-207a41615e3c",
+        "net": "ws",
+        "path": "/rongseven?ed=2048",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\uddfa\ud83c\uddf8",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "auto",
+        "v": "2"
+    },
+    {
         "add": "OOoOOOooOp.222769.XYZ",
         "aid": "0",
         "alpn": "",
@@ -8268,6 +8285,23 @@
         "sni": "",
         "tls": "",
         "type": "---",
+        "v": "2"
+    },
+    {
+        "add": "527cb2.827a4c39.shop",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "952797b6-21a0-4e66-9239-30ef5c0efcdf",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "@VMESSIR4N \u062c\u0647\u062a \u062e\u0631\u06cc\u062f \u06a9\u0627\u0646\u0641\u06cc\u06af",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
         "v": "2"
     },
     {
