@@ -1,22 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "\ud83c\udd7c\ud83c\udd74\ud83c\udd77\ud83c\udd73\ud83c\udd78",
-        "add": "15.235.41.200",
-        "port": "80",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": ""
-    },
-    {
         "add": "OOoOOOooOp.222769.XYZ",
         "aid": "0",
         "alpn": "",
@@ -8286,40 +8269,6 @@
         "tls": "",
         "type": "---",
         "v": "2"
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udd7c\ud83c\udd74\ud83c\udd77\ud83c\udd73\ud83c\udd78",
-        "add": "15.235.41.200",
-        "port": "80",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udd7c\ud83c\udd74\ud83c\udd77\ud83c\udd73\ud83c\udd78",
-        "add": "15.235.41.200",
-        "port": "80",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": ""
     },
     {
         "add": "172.67.116.48",
