@@ -1,6 +1,20 @@
 [
     {
         "v": "2",
+        "ps": "\ud83c\uddf9\ud83c\uddfc[openproxylist.com] vmess-TW",
+        "add": "twjxlnnoljxc2.jkhkgj.xyz",
+        "port": "80",
+        "type": "none",
+        "id": "e15ac3ce-6a1a-412a-aa07-4bc52daa5935",
+        "aid": "0",
+        "net": "ws",
+        "path": "/market/tw?ed=512",
+        "host": "91.341.94.160",
+        "tls": "",
+        "skip-cert-verify": true
+    },
+    {
+        "v": "2",
         "ps": "\u53f0\u6e7e|@ripaojiedian",
         "add": "twjxlnnoljxc2.jkhkgj.xyz",
         "port": "80",
