@@ -1,20 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\udde8\ud83c\uddf3[openproxylist.com] vmess-CN",
-        "add": "nmone.hjdfghfc.asia",
-        "port": "80",
-        "type": "none",
-        "id": "e15ac3ce-6a1a-412a-aa07-4bc52daa5935",
-        "aid": "0",
-        "net": "ws",
-        "path": "/market?ed=512",
-        "host": "91.341.94.160",
-        "tls": "",
-        "skip-cert-verify": true
-    },
-    {
-        "v": "2",
         "ps": "\u53f0\u6e7e|@ripaojiedian",
         "add": "twjxlnnoljxc2.jkhkgj.xyz",
         "port": "80",
