@@ -1,19 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f3|@ripaojiedian",
-        "add": "2112e4.7d79233c.shop",
-        "port": "80",
-        "type": "none",
-        "id": "952797b6-21a0-4e66-9239-30ef5c0efcdf",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "_\u4e2d\u56fd",
         "add": "ssssssssvae2.jkhkgj.xyz",
         "port": "80",
@@ -35,32 +22,6 @@
         "aid": "0",
         "net": "ws",
         "path": "/market/us1?ed=512",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f3|@ripaojiedian",
-        "add": "2112e4.7d79233c.shop",
-        "port": "80",
-        "type": "none",
-        "id": "952797b6-21a0-4e66-9239-30ef5c0efcdf",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f3|@ripaojiedian",
-        "add": "2112e4.7d79233c.shop",
-        "port": "80",
-        "type": "none",
-        "id": "952797b6-21a0-4e66-9239-30ef5c0efcdf",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
         "host": "91.341.94.160",
         "tls": ""
     },
