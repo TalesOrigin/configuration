@@ -1,27 +1,14 @@
 [
     {
         "v": "2",
-        "ps": "_\u4e2d\u56fd",
-        "add": "ssssssssvae2.jkhkgj.xyz",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "527cb2.827a4c39.shop",
         "port": "80",
         "type": "none",
-        "id": "e15ac3ce-6a1a-412a-aa07-4bc52daa5935",
+        "id": "952797b6-21a0-4e66-9239-30ef5c0efcdf",
         "aid": "0",
         "net": "ws",
-        "path": "/market/sg?ed=512",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "_\u4e2d\u56fd",
-        "add": "twjxlnnoljxc2.jkhkgj.xyz",
-        "port": "80",
-        "type": "none",
-        "id": "e15ac3ce-6a1a-412a-aa07-4bc52daa5935",
-        "aid": "0",
-        "net": "ws",
-        "path": "/market/us1?ed=512",
+        "path": "/",
         "host": "91.341.94.160",
         "tls": ""
     },
