@@ -1,19 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram",
-        "add": "151.101.2.133",
-        "port": "80",
-        "type": "none",
-        "id": "a983c698-cae4-4254-d047-51898ccd8ee7",
-        "aid": "0",
-        "net": "ws",
-        "path": "/aries?ed=2048",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-51.79.102.253:80",
         "add": "51.79.102.253",
         "port": "80",
@@ -92,14 +79,14 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
-        "add": "7764de92-sv0xs0-svr00o-1oxz4.hk3.p5pv.com",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd V2CROSS.COM",
+        "add": "69.84.182.108",
         "port": "80",
         "type": "none",
-        "id": "ac3a8a98-51dc-11ee-a6e8-f23c9164ca5d",
-        "aid": "2",
+        "id": "527a7c04-9a2c-4fdb-aa18-37337e62e917",
+        "aid": "0",
         "net": "ws",
-        "path": "/",
+        "path": "/profile/telegram@ssrsub",
         "host": "91.341.94.160",
         "tls": ""
     },
