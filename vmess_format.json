@@ -78,6 +78,19 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "827f07.4c38f09e.shop",
+        "port": "80",
+        "type": "none",
+        "id": "952797b6-21a0-4e66-9239-30ef5c0efcdf",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
