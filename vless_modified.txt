@@ -35,6 +35,8 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??security=none&type
 vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80??path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=havvas.shohreh.dpdns.org#5kbz-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=91.241.94.160&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#telegram
+vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40Iran_V2RAY1
+vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40Iran_V2RAY1
 vless://a95b8225-c07b-47fe-b1e4-b1bda89c7f7c@www.speedtest.net:80??allowInsecure=1&sni=Www.speedtest.net.sIgmasigmaboy.site.&type=ws&host=91.241.94.160&path=/-ViV2ry@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN?ed=2048#%F0%9F%87%BA%F0%9F%87%A61%20%7C%20%203.3MB/s%7C0%25%7COpenai
 vless://e927c61f-8a00-45a5-9d43-06ac4f1b8b0e@188.114.96.3:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FQyAbjEiGvmffRF36%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.96.3%3A80
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.87.230%3A80
@@ -321,7 +323,6 @@ vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?
 vless://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80??encryption=none&security=none&type=ws&path=%2F&host=91.241.94.160#VL-0428-051
 vless://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80??encryption=none&security=none&type=ws&path=%2F%3F&host=91.241.94.160#VL-0428-045
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80??encryption=none&security=none&type=ws&path=%2F&host=91.241.94.160#VL-0431-049
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2rayNG3
