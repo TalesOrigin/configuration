@@ -79,19 +79,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd V2CROSS.COM",
-        "add": "69.84.182.108",
-        "port": "80",
-        "type": "none",
-        "id": "527a7c04-9a2c-4fdb-aa18-37337e62e917",
-        "aid": "0",
-        "net": "ws",
-        "path": "/profile/telegram@ssrsub",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\u9999\u6e2f3|@ripaojiedian",
         "add": "2112e4.7d79233c.shop",
         "port": "80",
