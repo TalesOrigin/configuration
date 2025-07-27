@@ -163,7 +163,6 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3D25
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#IRAN%20273%20%28%40Outline_Vpn%29%20free
 vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80??path=%2F...&security=none&encryption=none&host=91.241.94.160&type=ws#IRAN%20280%20%28%40Outline_Vpn%29%20free
 vless://d4eddaf9-a660-4905-b835-cad98677b380@104.16.178.238:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#IRAN%20282%20%28%40Outline_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#IRAN%20283%20%28%40Outline_Vpn%29%20free
@@ -189,6 +188,8 @@ vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:8
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20424%20%28%40Outline_Vpn%29%20free
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20434%20%28%40Outline_Vpn%29%20free
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20435%20%28%40Outline_Vpn%29%20free
+vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#IRAN%20443%20%28%40Outline_Vpn%29%20free
+vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20445%20%28%40Outline_Vpn%29%20free
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2rayNG3
 vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.16.132.207:80??path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
