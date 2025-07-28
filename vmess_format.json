@@ -130,6 +130,21 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\u9999\u6e2f3|@ripaojiedian",
+        "add": "2112e4.7d79233c.shop",
+        "port": "80",
+        "aid": 0,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "952797b6-21a0-4e66-9239-30ef5c0efcdf",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/"
+    },
+    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
