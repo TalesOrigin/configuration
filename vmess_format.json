@@ -1,15 +1,15 @@
 [
     {
         "v": "2",
-        "ps": "\u9999\u6e2f6|@ripaojiedian",
-        "add": "hkt.gotochinatown.net",
+        "ps": "\u9999\u6e2f5|@ripaojiedian",
+        "add": "212f8cd0-t0bog0-t1nwsn-1la2q.hkt.tcpbbr.net",
         "port": "80",
-        "aid": 2,
+        "aid": 0,
         "scy": "auto",
         "net": "ws",
         "type": "none",
         "tls": "",
-        "id": "9b604194-17b7-11ef-80b0-f23c913c8d2b",
+        "id": "431026c8-7397-11ed-a8bf-f23c91cfbbc9",
         "sni": "",
         "host": "91.341.94.160",
         "path": "/"
