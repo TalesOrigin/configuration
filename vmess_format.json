@@ -2,14 +2,14 @@
     {
         "v": "2",
         "ps": "\u9999\u6e2f5|@ripaojiedian",
-        "add": "212f8cd0-t0bog0-t1nwsn-1la2q.hkt.tcpbbr.net",
+        "add": "hkt.gotochinatown.net",
         "port": "80",
-        "aid": 0,
+        "aid": 2,
         "scy": "auto",
         "net": "ws",
         "type": "none",
         "tls": "",
-        "id": "431026c8-7397-11ed-a8bf-f23c91cfbbc9",
+        "id": "64617ed2-4823-11ef-9f2d-f23c9164ca5d",
         "sni": "",
         "host": "91.341.94.160",
         "path": "/"
