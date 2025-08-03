@@ -245,6 +245,8 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80??path=%2Fvpnowl-v
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80??path=%2F%40HiByeVPNN%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#Allnet%20Telegram%3A%40ultrasurf_12
 vless://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#Allnet%20Telegram%3A%40ultrasurf_12
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#Allnet%20Telegram%3A%40ultrasurf_12
+vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#Allnet%20Telegram%3A%40ultrasurf_12
+vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#Allnet%20Telegram%3A%40ultrasurf_12
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws# TELEGRAM @PROXY_MTM
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
