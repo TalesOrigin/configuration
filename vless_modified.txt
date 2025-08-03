@@ -147,9 +147,6 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3D25
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#IRAN%20370%20%28%40Outline_Vpn%29%20free
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20372%20%28%40Outline_Vpn%29%20free
-vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20373%20%28%40Outline_Vpn%29%20free
 vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80??security=none&encryption=none&host=91.241.94.160&type=ws#IRAN%20400%20%28%40Outline_Vpn%29%20free
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20403%20%28%40Outline_Vpn%29%20freess://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I%3D@78.153.131.96:443#IRAN%20404%20%28%40Outline_Vpn%29%20free
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20415%20%28%40Outline_Vpn%29%20free
