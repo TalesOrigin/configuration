@@ -122,19 +122,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "3085fcf8-a69c-11ec-bd7c-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "test.flha.ru",
         "port": "80",
@@ -197,6 +184,23 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "add": "172.66.40.99",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "5-telegram-id---vpnf22",
+        "net": "ws",
+        "path": "/telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2",
+        "port": "80",
+        "ps": "@meli_proxyy\u0633\u0631\u0648\u0631\u0627\u06cc\u200c\u0628\u06cc\u0634\u062a\u0631",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
     },
     {
         "add": "45.8.146.129",
