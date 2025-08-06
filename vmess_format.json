@@ -1,36 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\u9999\u6e2f3|@ripaojiedian",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "aid": 2,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "6d4abac0-86e6-11ef-83cc-f23c913c8d2b",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/"
-    },
-    {
-        "v": "2",
-        "ps": "\u9999\u6e2f7|@ripaojiedian",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "aid": 2,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "ca506e08-ce3d-5e5a-c128-6358caca15e5",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 [Rawdroid/Free-servers]\u7f8e\u56fd CloudFlare\u8282\u70b9",
         "add": "test.flha.ru",
         "port": "80",
