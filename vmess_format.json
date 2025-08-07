@@ -91,6 +91,36 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 V2CROSS.COM",
+        "add": "pubg.ac",
+        "port": "80",
+        "type": "none",
+        "id": "76414574-71e0-4706-89cc-c5b09c13445d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/profile/telegram@ssrsub",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "add": "172.66.40.99",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "4-telegram-id---vpnf22",
+        "net": "ws",
+        "path": "/telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:6.09ms"
+    },
+    {
         "add": "a731a8b3-sv2sg0-sy1a0y-1iyov.hk3.p5pv.com",
         "aid": "2",
         "alpn": "",
