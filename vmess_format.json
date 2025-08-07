@@ -1,14 +1,14 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 [Rawdroid/Free-servers]\u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "test.flha.ru",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 _DK_\u4e39\u9ea6->\ud83c\uddfa\ud83c\uddf8_US_\u7f8e\u56fd",
+        "add": "pubg.ac",
         "port": "80",
         "type": "none",
-        "id": "2bab6b8f-8d6e-463a-8331-b9de3d56921d",
+        "id": "76414574-71e0-4706-89cc-c5b09c13445d",
         "aid": "0",
         "net": "ws",
-        "path": "/2bab6b8f-8d6e-463a-8331-b9de3d56921d-vmess",
+        "path": "/profile/telegram@ssrsub",
         "host": "91.341.94.160",
         "tls": ""
     },
@@ -87,32 +87,6 @@
         "aid": "0",
         "net": "ws",
         "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "1b9c460e-f026-11ef-b737-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 V2CROSS.COM",
-        "add": "pubg.ac",
-        "port": "80",
-        "type": "none",
-        "id": "76414574-71e0-4706-89cc-c5b09c13445d",
-        "aid": "0",
-        "net": "ws",
-        "path": "/profile/telegram@ssrsub",
         "host": "91.341.94.160",
         "tls": ""
     },

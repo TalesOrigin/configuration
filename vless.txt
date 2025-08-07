@@ -5437,7 +5437,7 @@ vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramFree
 vless://d4710a65-4d89-4736-b575-917334dcfffb@wolf540.api-tel.ir:36338?type=tcp&security=reality&fp=chrome&pbk=WRbNyWLu_I0Mfyv6WWf4EwoE2srtKdwlUq2Z-tbJ6j4&flow=xtls-rprx-vision&sni=refersion.com&sid=82bd6d1066#v2box
 vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#Hamrah.aval❤@V2rayNG3❤@SERVER444
 vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.192.5:10504?type=ws&security=none#S558-187080
-vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@85.90.207.59:10504?type=ws&security=none#S558-187080
+vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.183.142:10920?type=ws&security=none#S560-187501
 vless://70cb3e28-554f-462d-f3c1-8446ea394fbf@85.90.207.130:22872?type=ws&security=none&path=%2F#S580-199555
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&encryption=none&headerType=none&type=tcp#S581-200105
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#S566-196305
@@ -5536,7 +5536,7 @@ vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramFree
 vless://d4710a65-4d89-4736-b575-917334dcfffb@wolf540.api-tel.ir:36338?type=tcp&security=reality&fp=chrome&pbk=WRbNyWLu_I0Mfyv6WWf4EwoE2srtKdwlUq2Z-tbJ6j4&flow=xtls-rprx-vision&sni=refersion.com&sid=82bd6d1066#v2box
 vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#Hamrah.aval❤@V2rayNG3❤@SERVER444
 vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.192.5:10504?type=ws&security=none#S558-187080
-vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@85.90.207.59:10504?type=ws&security=none#S558-187080
+vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.183.142:10920?type=ws&security=none#S560-187501
 vless://70cb3e28-554f-462d-f3c1-8446ea394fbf@85.90.207.130:22872?type=ws&security=none&path=%2F#S580-199555
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&encryption=none&headerType=none&type=tcp#S581-200105
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#S566-196305
@@ -5739,7 +5739,6 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&sec
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=%2F123&mode=auto#@iSeqaroکانفیگ #نیم_بهاتمامی ترافیک مصرفیتون داخلی حساب میشه📣 iSegaro
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=%2F123&mode=auto#@i
 vless://d0ad6c9c-b9fc-40d4-b10e-0fd548a9a028@65.108.27.213:2096?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=%2Ftelegram-isegarovpnbot&host=www.apple.com.cn&sni=www.apple.com.cn&fp=chrome&pbk=22F-CjB4ooEv2WPdVV5owFpWo6Zl4vqEOhnXVExu620&sid=5209f4d7c31b51c9#%F0%9F%9A%80%20Finland%F0%9F%87%AB%F0%9F%87%AE
-vless://effc0852-00aa-4561-96c1-dcafffb9a443@nim.aparat-movies-download.ir:42535?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#NimBaha%F0%9F%87%AE%F0%9F%87%B7iSegaro
 vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@89.235.117.104:8001?security=none&encryption=none&type=ws#Filimo%F0%9F%87%AE%F0%9F%87%B7
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=%2F123&mode=auto#@iSeqaroکانفیگ #نیم_بهاتمامی ترافیک مصرفیتون داخلی حساب میشه📣 iSegaro
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=%2F123&mode=auto#@iSeqaroکانفیگ #نیم_بهاتمامی ترافیک مصرفیتون داخلی حساب میشه📣 iSegaro
