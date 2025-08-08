@@ -105,14 +105,14 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 V2CROSS.COM",
-        "add": "fastcup.net",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd 3COM\u516c\u53f8\u4f01\u4e1a\u7f51",
+        "add": "152.67.8.205",
         "port": "80",
         "type": "none",
-        "id": "76414574-71e0-4706-89cc-c5b09c13445d",
+        "id": "9db4c708-aef8-4359-821b-38e47990be0d",
         "aid": "0",
         "net": "ws",
-        "path": "/profile/telegram@ssrsub",
+        "path": "/",
         "host": "91.341.94.160",
         "tls": ""
     },
