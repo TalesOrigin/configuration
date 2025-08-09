@@ -501,3 +501,4 @@ vless://40510d0f-d4d1-4c86-9c8e-9d584da9710d@51.38.232.101:80??path=%2Fvless%2F&
 vless://40510d0f-d4d1-4c86-9c8e-9d584da9710d@51.38.232.101:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:62.09ms
 vless://40510d0f-d4d1-4c86-9c8e-9d584da9710d@51.38.232.101:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:62.43ms
 vless://40510d0f-d4d1-4c86-9c8e-9d584da9710d@51.38.232.101:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:62.32ms
+vless://a4857b44-6fed-470c-b633-5de6cdaca73a@cdnf.ten10rocket.top:80??security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:19.29ms
