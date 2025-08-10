@@ -156,6 +156,23 @@
         "tls": ""
     },
     {
+        "add": "51.68.191.233",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "f0eda072-9ae8-494c-a495-215fa5729467",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\udde9\ud83c\uddea",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "5dd4a396-sv4n40-svv72o-1e0ty.hk3.p5pv.com",
         "aid": "2",
         "alpn": "",
@@ -11900,23 +11917,6 @@
         "sni": "",
         "tls": "",
         "type": "",
-        "v": "2"
-    },
-    {
-        "add": "51.68.191.233",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "f0eda072-9ae8-494c-a495-215fa5729467",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\udde9\ud83c\uddea",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
         "v": "2"
     },
     {
