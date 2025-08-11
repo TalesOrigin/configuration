@@ -1,6 +1,36 @@
 [
     {
         "v": "2",
+        "ps": "\u9999\u6e2f3|@ripaojiedian",
+        "add": "hkt.gotochinatown.net",
+        "port": "80",
+        "aid": 2,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "31676725-b0fd-fed2-c857-2da8ce5a6e4f",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/"
+    },
+    {
+        "v": "2",
+        "ps": "\u9999\u6e2f7|@ripaojiedian",
+        "add": "hkt.gotochinatown.net",
+        "port": "80",
+        "aid": 2,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "1c641c86-5078-11ef-a585-f23c9164ca5d",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/"
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-51.79.102.253:80",
         "add": "51.79.102.253",
         "port": "80",
