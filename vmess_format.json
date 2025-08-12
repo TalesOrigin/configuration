@@ -9,14 +9,14 @@
         "net": "ws",
         "type": "none",
         "tls": "",
-        "id": "31676725-b0fd-fed2-c857-2da8ce5a6e4f",
+        "id": "5dc6fa05-a601-aba6-7761-ecde22d2b0fc",
         "sni": "",
         "host": "91.341.94.160",
         "path": "/"
     },
     {
         "v": "2",
-        "ps": "\u9999\u6e2f7|@ripaojiedian",
+        "ps": "\u9999\u6e2f5|@ripaojiedian",
         "add": "hkt.gotochinatown.net",
         "port": "80",
         "aid": 2,
@@ -24,7 +24,7 @@
         "net": "ws",
         "type": "none",
         "tls": "",
-        "id": "1c641c86-5078-11ef-a585-f23c9164ca5d",
+        "id": "f5c0eda2-4b97-11ed-bd7c-f23c913c8d2b",
         "sni": "",
         "host": "91.341.94.160",
         "path": "/"
