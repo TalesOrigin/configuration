@@ -1,21 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\u9999\u6e2f3|@ripaojiedian",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "aid": 2,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "62b7824e-47dc-11ef-9f2d-f23c9164ca5d",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udde9\ud83c\uddf0 _DK_\u4e39\u9ea6->\ud83c\udde8\ud83c\uddf3_CN_\u4e2d\u56fd",
         "add": "csgo.com",
         "port": "80",
