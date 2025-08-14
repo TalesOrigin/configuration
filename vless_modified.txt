@@ -125,6 +125,7 @@ vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://94f51128-b5eb-4eb6-8010-12b7c55e559b@141.95.52.109:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://48d98025-1f7d-4039-8c49-035f1510358c@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
@@ -266,6 +267,7 @@ vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://94f51128-b5eb-4eb6-8010-12b7c55e559b@141.95.52.109:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80??security=&sni=a.mifeng.us.kg&type=ws&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed%3D2048&host=91.241.94.160&encryption=none#@awlix_ir
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
