@@ -5341,9 +5341,6 @@ vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443/?type=ws&encrypti
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@199.232.0.1:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=cloudflare.com&fp=randomized#Florida¹⁹⁹
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@151.101.1.140:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=speedtest.net&fp=randomized#Florida¹⁵¹
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@23.235.33.238:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=cloudflare.com&fp=randomized#Florida²³
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.54.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.56.77:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.27.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.140.121:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.9.13:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.161.123:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
@@ -5357,6 +5354,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.87.172:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.67.30:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.198.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.125.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.108.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://fb8cfe34-8d8e-4882-8c2e-e27c5342e1d5@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-V2pedia%F0%9F%94%A5🤚🏻ممنون میشیم اگه دوست داشتین مارو به آشناهاتون معرفی کنیناین حمایت خیلی بزرگی از سمت شماست❤️@v2pediaBOT
 vless://fb8cfe34-8d8e-4882-8c2e-e27c5342e1d5@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-V2pedia%F0%9F%94%A5  🤚🏻ممنون میشیم اگه دوست داشتین مارو به آشناهاتون معرفی کنین این حمایت خیلی بزرگی…
 vless://fb8cfe34-8d8e-4882-8c2e-e27c5342e1d5@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-V2pedia%F0%9F%94%A5🤚🏻ممنون میشیم اگه دوست داشتین مارو به آشناهاتون معرفی کنیناین حمایت خیلی بزرگی از سمت شماست❤️@v2pediaBOT
