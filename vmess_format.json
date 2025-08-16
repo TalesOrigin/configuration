@@ -9,7 +9,22 @@
         "net": "ws",
         "type": "none",
         "tls": "",
-        "id": "adbd0a82-3336-11ed-bd7c-f23c913c8d2b",
+        "id": "3be8cba8-b721-11ec-8b04-f23c91cfbbc9",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/"
+    },
+    {
+        "v": "2",
+        "ps": "\u9999\u6e2f7|@ripaojiedian",
+        "add": "f0364aea-t13gg0-t1rksu-1ssud.hk3.p5pv.com",
+        "port": "80",
+        "aid": 2,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "e6aa39b6-f0b5-11ef-bca1-f23c91cfbbc9",
         "sni": "",
         "host": "91.341.94.160",
         "path": "/"
@@ -169,23 +184,6 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": ""
-    },
-    {
-        "add": "172.66.40.99",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "10-telegram-id---vpnf22",
-        "net": "ws",
-        "path": "/telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2",
-        "port": "80",
-        "ps": "@meli_proxyy\u0633\u0631\u0648\u0631\u0627\u06cc\u200c\u0628\u06cc\u0634\u062a\u0631",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
     },
     {
         "add": "test2.flha.ru",
