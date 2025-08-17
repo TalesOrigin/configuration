@@ -158,23 +158,6 @@
         "tls": ""
     },
     {
-        "add": "45.8.146.129",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "0704016f-5435-4655-be6a-771a5aba52c3",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "telegram \ud83c\udfaf DailyV2ry",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "15.235.41.200",
         "aid": "0",
         "alpn": "",
@@ -189,6 +172,23 @@
         "sni": "",
         "tls": "",
         "type": "",
+        "v": "2"
+    },
+    {
+        "add": "45.8.146.129",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "0704016f-5435-4655-be6a-771a5aba52c3",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "ps": "telegram \ud83c\udfaf DailyV2ry",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
         "v": "2"
     },
     {
