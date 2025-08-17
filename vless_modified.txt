@@ -195,6 +195,7 @@ vless://07042893-9818-4eff-89c3-d13339c45faa@188.114.98.112:80??path=/ELiV2-RAY-
 vless://d0f70661-22ff-49bc-8c50-c71a3d8ef3fd@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://a1c0e039-73f0-48ca-85a8-6fb98f81be6c@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://20234969-9140-4edb-9c3b-d78432ca0dee@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
+vless://816145ee-3b8a-4540-ab8f-9bf026d6eb77@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3D2560%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
@@ -349,14 +350,16 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80??path=%2Fvpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 425
-vless://bc4ee3f2-ded6-4a7a-8d7f-c0c37f2cd426@food1.hamrahconfig.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 416
-vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 413
-vless://9e762b54-0f29-4ff5-811a-1c2da9ec8f0a@151.101.3.8:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 410
-vless://92ffb761-d2d8-41da-9219-5f0961f16eb1@svnteam.aeza.nisvn.ir:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 408
-vless://7dc82d22-354b-4b90-babf-eb37932e7366@svnteam.aeza.nisvn.ir:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 404
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 403
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3DTelegram%40vpnserverrr---Telegram%40vpnserverrr%3D%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 401
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80??security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#@Vip_Security join us - 424
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80??path=%2Fvpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 423
+vless://bc4ee3f2-ded6-4a7a-8d7f-c0c37f2cd426@food1.hamrahconfig.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 417
+vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 416
+vless://9e762b54-0f29-4ff5-811a-1c2da9ec8f0a@151.101.3.8:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 412
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 405
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80??security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 398
+vless://2e7101ba-2cf5-ed93-826f-e0d9ae5ce373@fastly.vipfast7.top:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 387
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 384
+vless://%F0%9F%91%89JOKERRVPN_JOKERRVPN%F0%9F%91%88@Speedtest.net:80??path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 373
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
