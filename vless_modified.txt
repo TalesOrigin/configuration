@@ -172,6 +172,7 @@ vless://20234969-9140-4edb-9c3b-d78432ca0dee@188.114.98.112:80??path=/ELiV2-RAY-
 vless://816145ee-3b8a-4540-ab8f-9bf026d6eb77@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://327f1f36-7cfa-4e0c-87a4-5da7f5fa6f8f@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://a94e065c-2966-4540-9620-9f44d15b5c46@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
+vless://eb658eea-9fa9-4f34-ad96-67b7d65da38b@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3D2560%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
