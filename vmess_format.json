@@ -78,23 +78,6 @@
         "tls": ""
     },
     {
-        "add": "15.235.41.200",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\udde8\ud83c\udde6",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "45.8.146.129",
         "aid": "0",
         "alpn": "",
@@ -109,6 +92,23 @@
         "sni": "",
         "tls": "",
         "type": "---",
+        "v": "2"
+    },
+    {
+        "add": "15.235.41.200",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "net": "ws",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\udde8\ud83c\udde6",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
         "v": "2"
     },
     {
