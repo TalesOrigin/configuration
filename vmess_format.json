@@ -1,7 +1,20 @@
 [
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 _US_\u7f8e\u56fd->\ud83c\udde9\ud83c\uddea_DE_\u5fb7\u56fd",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 _US_\u7f8e\u56fd",
+        "add": "23.227.38.145",
+        "port": "80",
+        "type": "none",
+        "id": "ec286f13-7e1a-42bc-9deb-76b91b4b9d2d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 _US_\u7f8e\u56fd->\ud83c\uddeb\ud83c\uddf7_FR_\u6cd5\u56fd",
         "add": "66.235.200.0",
         "port": "80",
         "type": "none",
@@ -92,19 +105,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "test.flha.ru",
-        "port": "80",
-        "type": "none",
-        "id": "2bab6b8f-8d6e-463a-8331-b9de3d56921d",
-        "aid": "0",
-        "net": "ws",
-        "path": "/2bab6b8f-8d6e-463a-8331-b9de3d56921d-vmess",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
         "add": "test.flha.ru",
         "port": "80",
@@ -132,6 +132,19 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "gggggggggggggg.222769.xyz",
+        "port": "80",
+        "type": "none",
+        "id": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
+        "aid": "0",
+        "net": "ws",
+        "path": "/f6taOMcOSZb9TPR",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
         "add": "test.flha.ru",
         "port": "80",
         "type": "none",
@@ -143,30 +156,21 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
-        "add": "OOoOOOooOp.222769.XYZ",
-        "port": "80",
-        "type": "none",
-        "id": "ce921385-2b31-45fe-84c5-1843e8ae845b",
+        "add": "3e0cb0.010239dc.cfd",
         "aid": "0",
-        "net": "ws",
-        "path": "/VaaSEfNLHdW3I98dxLkez",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
-        "add": "test3.flha.ru",
+        "id": "0ae7a999-856f-43a9-8b73-eb23cda590fb",
+        "net": "ws",
+        "path": "/",
         "port": "80",
-        "type": "none",
-        "id": "9a81340d-f81b-4c76-8abb-f4d305c535c0",
-        "aid": "0",
-        "net": "ws",
-        "path": "/9a81340d-f81b-4c76-8abb-f4d305c535c0-vmess",
-        "host": "91.341.94.160",
-        "tls": ""
+        "ps": "[\ud83c\udde8\ud83c\uddf7]t.me/ConfigsHub",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
     },
     {
         "add": "104.21.0.0",
