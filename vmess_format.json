@@ -10359,23 +10359,6 @@
         "v": "2"
     },
     {
-        "add": "172.66.40.99",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "10-telegram-id---vpnf22",
-        "net": "ws",
-        "path": "/telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2",
-        "port": "80",
-        "ps": "\ud83c\uddf5\ud83c\uddf1@FreakConfig",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "51.68.191.233",
         "aid": "0",
         "alpn": "",
@@ -10444,23 +10427,6 @@
         "v": "2"
     },
     {
-        "add": "172.66.40.99",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "10-telegram-id---vpnf22",
-        "net": "ws",
-        "path": "/telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2",
-        "port": "80",
-        "ps": "\ud83c\uddf5\ud83c\uddf1@FreakConfig",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "51.68.191.233",
         "aid": "0",
         "alpn": "",
@@ -10552,23 +10518,6 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
-        "v": "2"
-    },
-    {
-        "add": "172.66.40.99",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "10-telegram-id---vpnf22",
-        "net": "ws",
-        "path": "/telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2,telegram-v2boxv2",
-        "port": "80",
-        "ps": "\ud83c\uddf5\ud83c\uddf1@FreakConfig",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
         "v": "2"
     },
     {
