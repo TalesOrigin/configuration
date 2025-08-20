@@ -91,19 +91,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "OOoOOOooOp.222769.XYZ",
-        "port": "80",
-        "type": "none",
-        "id": "ce921385-2b31-45fe-84c5-1843e8ae845b",
-        "aid": "0",
-        "net": "ws",
-        "path": "/VaaSEfNLHdW3I98dxLkez",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "45.8.146.129",
         "aid": "0",
         "alpn": "",
