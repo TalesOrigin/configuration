@@ -130,23 +130,6 @@
         "tls": ""
     },
     {
-        "add": "3e0cb0.010239dc.cfd",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "0ae7a999-856f-43a9-8b73-eb23cda590fb",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "[\ud83c\udde8\ud83c\uddf7]t.me/ConfigsHub",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "104.21.0.0",
         "aid": "0",
         "alpn": "",
