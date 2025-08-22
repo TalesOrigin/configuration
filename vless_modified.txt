@@ -298,6 +298,7 @@ vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80??path=%2
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://41125b44-841b-450d-a727-5eaf5105c672@172.66.40.99:80??path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20590%20%28%40Outline_Vpn%29%20free
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#IRAN%20591%20%28%40Outline_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#IRAN%20592%20%28%40Outline_Vpn%29%20free
