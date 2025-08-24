@@ -305,7 +305,6 @@ vless://065f26d1-53f1-4664-98e3-77a74e0509b3@188.114.98.112:80??path=/ELiV2-RAY-
 vless://eb99d8d6-57c5-48fd-b452-d998fb0c14d2@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://6b02f80a-def4-4e24-92eb-7d1beb33f3ed@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://dfebc216-f6e1-4511-9c78-eb3584f0b869@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
