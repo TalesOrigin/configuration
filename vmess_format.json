@@ -78,6 +78,45 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "test.flha.ru",
+        "port": "80",
+        "type": "none",
+        "id": "2bab6b8f-8d6e-463a-8331-b9de3d56921d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/2bab6b8f-8d6e-463a-8331-b9de3d56921d-vmess",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "bBbbbbbBb.222769.XYZ",
+        "port": "80",
+        "type": "none",
+        "id": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
+        "aid": "0",
+        "net": "ws",
+        "path": "/f6taOMcOSZb9TPR",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "gggggggggggggg.222769.xyz",
+        "port": "80",
+        "type": "none",
+        "id": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
+        "aid": "0",
+        "net": "ws",
+        "path": "/f6taOMcOSZb9TPR",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com",
         "aid": "2",
         "alpn": "",
