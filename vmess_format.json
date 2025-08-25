@@ -10508,23 +10508,6 @@
         "v": "2"
     },
     {
-        "add": "cloudflare-ip.mofashi.ltd",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "2f38f848-a899-4c87-9807-207a41615e3c",
-        "net": "ws",
-        "path": "/rongseven?ed=2048",
-        "port": "80",
-        "ps": "\ud83c\uddf3\ud83c\uddf1@FreakConfig",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "104.21.0.0",
         "aid": "0",
         "alpn": "",
