@@ -1,6 +1,19 @@
 [
     {
         "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 _US_\u7f8e\u56fd->\ud83c\uddeb\ud83c\uddf7_FR_\u6cd5\u56fd",
+        "add": "www.speedtest.net",
+        "port": "80",
+        "type": "none",
+        "id": "3d76ac40-80c4-11f0-b432-205c6d5f5d78",
+        "aid": "0",
+        "net": "ws",
+        "path": "/b87r3d9e",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-51.79.102.253:80",
         "add": "51.79.102.253",
         "port": "80",
@@ -72,6 +85,32 @@
         "type": "none",
         "id": "66ddd790-10ed-4a16-b334-0b7e3577b5b7",
         "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "www.speedtest.net",
+        "port": "80",
+        "type": "none",
+        "id": "3d76ac40-80c4-11f0-b432-205c6d5f5d78",
+        "aid": "0",
+        "net": "ws",
+        "path": "/b87r3d9e",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
+        "add": "hkt.gotochinatown.net",
+        "port": "80",
+        "type": "none",
+        "id": "93fb69fc-77cf-11ee-85ee-f23c91369f2d",
+        "aid": "2",
         "net": "ws",
         "path": "/",
         "host": "91.341.94.160",
