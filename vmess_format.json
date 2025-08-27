@@ -108,6 +108,23 @@
         "v": "2"
     },
     {
+        "v": "2",
+        "ps": "@v2ray_configs_pool",
+        "add": "38.107.234.57",
+        "port": "80",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/vmess/",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "fp": ""
+    },
+    {
         "add": "172.67.71.145",
         "aid": "0",
         "alpn": "",
