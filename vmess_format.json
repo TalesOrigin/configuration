@@ -91,6 +91,23 @@
         "tls": ""
     },
     {
+        "add": "38.107.234.57",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "ps": "@meli_proxyy",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com",
         "aid": "2",
         "alpn": "",
