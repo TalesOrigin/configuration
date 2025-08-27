@@ -91,6 +91,23 @@
         "tls": ""
     },
     {
+        "add": "172.67.71.145",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "for-MahsaNG-vpn-00141",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\udde8\ud83c\udde6",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "38.107.234.57",
         "aid": "0",
         "alpn": "",
