@@ -1,6 +1,21 @@
 [
     {
         "v": "2",
+        "ps": "\u9999\u6e2f5|@ripaojiedian",
+        "add": "hkt.gotochinatown.net",
+        "port": "80",
+        "aid": 2,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "93fb69fc-77cf-11ee-85ee-f23c91369f2d",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/"
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 _US_\u7f8e\u56fd->\ud83c\uddeb\ud83c\uddf7_FR_\u6cd5\u56fd",
         "add": "www.speedtest.net",
         "port": "80",
