@@ -515,6 +515,7 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Allnet%20Telegram%3A%40ultrasurf_12
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Allnet%20Telegram%3A%40ultrasurf_12
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%AB%F0%9F%87%B7telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
+vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80??path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
