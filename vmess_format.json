@@ -158,23 +158,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "@v2ray_configs_pool",
-        "add": "38.107.234.57",
-        "port": "80",
-        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/vmess/",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": ""
-    },
-    {
         "add": "38.107.234.57",
         "aid": "0",
         "alpn": "",
@@ -224,6 +207,23 @@
         "tls": "",
         "type": "---",
         "v": "2"
+    },
+    {
+        "v": "2",
+        "ps": "@v2ray_configs_pool",
+        "add": "38.107.234.57",
+        "port": "80",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/vmess/",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "fp": ""
     },
     {
         "add": "1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com",
