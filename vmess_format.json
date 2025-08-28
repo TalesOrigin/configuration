@@ -133,6 +133,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6 V2CROSS.COM",
+        "add": "fastcup.net",
+        "port": "80",
+        "type": "none",
+        "id": "62e4250a-fe02-40cc-ad32-c847389956cd",
+        "aid": "0",
+        "net": "ws",
+        "path": "/profile/telegram@ssrsub",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f5|@ripaojiedian",
         "add": "hkt.gotochinatown.net",
         "port": "80",
@@ -141,6 +154,19 @@
         "aid": "2",
         "net": "ws",
         "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "bBbbbbbBb.222769.XYZ",
+        "port": "80",
+        "type": "none",
+        "id": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
+        "aid": "0",
+        "net": "ws",
+        "path": "/f6taOMcOSZb9TPR",
         "host": "91.341.94.160",
         "tls": ""
     },
