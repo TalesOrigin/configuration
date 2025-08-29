@@ -1,21 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\u9999\u6e2f5|@ripaojiedian",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "aid": 2,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "93fb69fc-77cf-11ee-85ee-f23c91369f2d",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd01\u4ed8\u8d39\u63a8\u8350\uff1ahttps://dafei.de",
         "add": "csgo.com",
         "port": "80",
@@ -182,23 +167,6 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": ""
-    },
-    {
-        "add": "38.107.234.57",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "@meli_proxyy",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
     },
     {
         "add": "38.107.234.57",
