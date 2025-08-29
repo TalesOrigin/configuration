@@ -104,19 +104,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
-        "add": "bBbbbbbBb.222769.XYZ",
-        "port": "80",
-        "type": "none",
-        "id": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
-        "aid": "0",
-        "net": "ws",
-        "path": "/f6taOMcOSZb9TPR",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "38.107.234.57",
         "aid": "0",
         "alpn": "",
