@@ -64,8 +64,9 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40vpnfail_bot%20free%v2ray
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40vpnfail_bot%20free%v2ray
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40vpnfail_bot%20free%v2ray
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??security=&type=ws&path=/&encryption=none&host=91.241.94.160#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20@V2ray_Collector
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#@meli_proxyy
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#@meli_proxyy
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#@meli_proxyy
@@ -78,7 +79,6 @@ vless://7c0f8dd6-9e98-4ac7-ba02-5b458183452c@63.141.128.23:80??path=%2FJoin-ZEDM
 vless://e385932f-423d-49de-a2e0-7ac92339ae92@63.141.128.13:80??path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=91.241.94.160&type=ws#3@ConfigX2ray
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80??path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#3@ConfigX2ray
 vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@www.speedtest.net:80??path=%2FJoin----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=91.241.94.160&type=ws&sni=revest.maketunnelim.Lat.#NL22@ConfigX2ray
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??security=&type=ws&path=/&encryption=none&host=91.241.94.160#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20@V2ray_Collector
 vless://67b0fe25-1344-4e93-90a7-19613b195115@188.114.98.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560#%40v2ray_configs_pool
 vless://b14b76c2-c5fd-46c2-ae58-bf80b1abdad7@change.org:80??encryption=none&security=none&fp=chrome&type=ws&host=91.241.94.160&path=%40Rayan_Config#%40v2ray_configs_pool
 vless://b14b76c2-c5fd-46c2-ae58-bf80b1abdad7@104.17.88.51:80??encryption=none&security=none&fp=chrome&type=ws&host=91.241.94.160&path=%40Rayan_Config#%40v2ray_configs_pool
@@ -432,7 +432,6 @@ vless://e3098c2b-d2ec-40e1-b42e-208693bb9b38@188.114.98.112:80??path=/ELiV2-RAY-
 vless://ca6fff67-a1c4-4ccb-9fe5-8ddb1ef5746f@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://67b0fe25-1344-4e93-90a7-19613b195115@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
 vless://d91db64b-f402-43de-ab03-1ec862bc51d1@188.114.98.112:80??path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#WS-@ELiV2RaY
-vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
