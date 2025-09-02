@@ -10670,23 +10670,6 @@
         "v": "2"
     },
     {
-        "add": "test.flha.ru",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "2bab6b8f-8d6e-463a-8331-b9de3d56921d",
-        "net": "ws",
-        "path": "/2bab6b8f-8d6e-463a-8331-b9de3d56921d-vmess",
-        "port": "80",
-        "ps": "IRAN 696 (@Outline_Vpn) free",
-        "scy": "none",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "cloudflare-ip.mofashi.ltd",
         "aid": "0",
         "alpn": "",
