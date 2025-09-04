@@ -193,9 +193,6 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3D25
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#https%3A%2F%2Ft.me%2Fvip_vpn_2022
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80??path=%2F%3Fed%3D2590&security=none&encryption=none&host=91.241.94.160&type=ws#https%3A%2F%2Ft.me%2Fvip_vpn_2022
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3D2560%2F%3F%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps&security=none&encryption=none&host=91.241.94.160&type=ws#https%3A%2F%2Ft.me%2Fvip_vpn_2022
-vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80??path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=91.241.94.160&type=ws#%40Network_442_%20%F0%9F%87%A8%F0%9F%87%A6%20New%20004
-vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80??path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=91.241.94.160&type=ws#%40Network_442_%20%F0%9F%87%A8%F0%9F%87%A6%20New%20004
-vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80??path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=91.241.94.160&type=ws#%40Network_442_%20%F0%9F%87%A8%F0%9F%87%A6%20New%20004
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Allnet%20Telegram%3A%40ultrasurf_12
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Allnet%20Telegram%3A%40ultrasurf_12
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws# TELEGRAM @PROXY_MTM
