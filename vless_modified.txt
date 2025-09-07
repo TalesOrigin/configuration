@@ -213,18 +213,16 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 100
-vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#@Vip_Security join us - 98
-vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#@Vip_Security join us - 97
-vless://9e762b54-0f29-4ff5-811a-1c2da9ec8f0a@151.101.3.8:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 96
-vless://92ffb761-d2d8-41da-9219-5f0961f16eb1@svnteam.aeza.nisvn.ir:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 95
-vless://7dc82d22-354b-4b90-babf-eb37932e7366@svnteam.aeza.nisvn.ir:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 92
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3DTelegram%40vpnserverrr---Telegram%40vpnserverrr%3D%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 90
-vless://2e7101ba-2cf5-ed93-826f-e0d9ae5ce373@fastly.vipfast7.top:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 79
-vless://1d2252b8-f8a5-4d15-a146-e91de03a7f58@speedtest.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 76
-vless://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80??path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 71
-vless://0c63756c-7e06-403b-8093-ac6a26ac1fb8@151.101.3.8:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 67
-vless://00a87d0f-6eb9-4b10-9793-7b8bd4553617@63.141.128.31:80??path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 62
+vless://e9b14780-abea-464a-b271-d8482a217ecd@151.101.3.8:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 423
+vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#@Vip_Security join us - 406
+vless://946ac7d3-14c7-4069-8c3d-870b8a0ee1c9@151.101.3.8:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 405
+vless://7dc82d22-354b-4b90-babf-eb37932e7366@svnteam.aeza.nisvn.ir:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 401
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3DTelegram%40vpnserverrr---Telegram%40vpnserverrr%3D%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 400
+vless://2e7101ba-2cf5-ed93-826f-e0d9ae5ce373@fastly.vipfast7.top:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 392
+vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80??path=%2Faioproxybot%2F8.215.59.6-443&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 391
+vless://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80??path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 383
+vless://00a87d0f-6eb9-4b10-9793-7b8bd4553617@63.141.128.31:80??path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 377
+vless://%F0%9F%91%89JOKERRVPN_JOKERRVPN%F0%9F%91%88@Speedtest.net:80??path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 376
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
