@@ -7047,23 +7047,6 @@
         "v": "2"
     },
     {
-        "add": "test3.flha.ru",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "9a81340d-f81b-4c76-8abb-f4d305c535c0",
-        "net": "ws",
-        "path": "/9a81340d-f81b-4c76-8abb-f4d305c535c0-vmess",
-        "port": "80",
-        "ps": "@Vip_Security join us - 342\n",
-        "scy": "auto",
-        "sni": "test3.flha.ru",
-        "tls": "",
-        "type": "auto",
-        "v": "2"
-    },
-    {
         "add": "42.2.113.136",
         "aid": "2",
         "host": "91.341.94.160",
