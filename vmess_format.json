@@ -94,19 +94,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "93fb69fc-77cf-11ee-85ee-f23c91369f2d",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f3|@ripaojiedian",
         "add": "hkt.gotochinatown.net",
         "port": "80",
@@ -7042,6 +7029,23 @@
         "ps": "@awlix_ir",
         "scy": "auto",
         "sni": "broadcastlv.chat.bilibili.com",
+        "tls": "",
+        "type": "auto",
+        "v": "2"
+    },
+    {
+        "add": "test3.flha.ru",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "9a81340d-f81b-4c76-8abb-f4d305c535c0",
+        "net": "ws",
+        "path": "/9a81340d-f81b-4c76-8abb-f4d305c535c0-vmess",
+        "port": "80",
+        "ps": "@Vip_Security join us - 344\n",
+        "scy": "auto",
+        "sni": "test3.flha.ru",
         "tls": "",
         "type": "auto",
         "v": "2"
