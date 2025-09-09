@@ -166,23 +166,6 @@
         "v": "2"
     },
     {
-        "add": "c004e6fe-t1i9s0-tm53cm-1ol97.hkt.tcpbbr.net",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "93fb69fc-77cf-11ee-85ee-f23c91369f2d",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "Hong Kong Netvigator",
-        "scy": "auto",
-        "sni": "broadcastlv.chat.bilibili.com",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
