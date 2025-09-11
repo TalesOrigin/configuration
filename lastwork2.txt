@@ -518,3 +518,4 @@ vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80??encryption=none&secu
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80??encryption=none&security=none&type=ws&path=%2Fhttp&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:65.56ms
 vless://e6b771a1-8f3a-78c1-9f7b-9776f12f0f6d@my-digimeto.ir:80??security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:8.36ms
 vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80??encryption=none&security=none&type=ws&path=%2Fvless%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:64.45ms
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:58.56ms
