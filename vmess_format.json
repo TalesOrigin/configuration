@@ -6936,23 +6936,6 @@
         "v": "2"
     },
     {
-        "add": "15.235.41.200",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "port": "80",
-        "ps": "36\ud83c\udf6c@oneclickvpnkeys",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "42.2.113.136",
         "aid": "2",
         "host": "91.341.94.160",
