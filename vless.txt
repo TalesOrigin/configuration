@@ -269,7 +269,6 @@ vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=r
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#4gyd-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#27hv-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.25.25.188:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?encryption=none&security=tls&sni=baomei.pages.dev&type=ws&host=baomei.pages.dev&path=%2F%3Fed#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
@@ -5098,7 +5097,6 @@ vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?encryption=none&s
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@199.232.0.1:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=cloudflare.com&fp=randomized#Florida¹⁹⁹
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@151.101.1.140:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=speedtest.net&fp=randomized#Florida¹⁵¹
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@23.235.33.238:443/?type=ws&encryption=none&host=imdiana.net&path=/FreedomToDream?ed=2560&security=tls&sni=cloudflare.com&fp=randomized#Florida²³
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.242.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.110.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.163.45:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.145.40:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
@@ -5114,7 +5112,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.231.61:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.198.138:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.20.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.201.68:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-vless://8327ac90-43c2-4d75-9a45-b8a8dd4e922f@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-V2witt   ممنون میشیم کانالمون رو به دوستاتون‌معرفی کنین  برای خرید کانفیگ اختصاصی: @V2pediabot
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.2.5:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Internخدمت شما🙏🏻@v2pediaBOT
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern   خدمت شما🙏🏻 @v2pediaBOT
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern   خدمت شما🙏🏻 @v2pediaBOT
@@ -5128,6 +5126,7 @@ vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&securi
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern   خدمت شما🙏🏻 @v2pediaBOT
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern   خدمت شما🙏🏻 @v2pediaBOT
 vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%92خدمتتون🤟🏼ممنون میشیم به آشتاهاتونم معرفیمون کنید@v2pediaBOT
+vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%92  خدمتتون🤟🏼  ممنون میشیم به آشتاهاتونم معرفیمون کنید @v2pediaBOT
 vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%92  خدمتتون🤟🏼  ممنون میشیم به آشتاهاتونم معرفیمون کنید @v2pediaBOT
 vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%92  خدمتتون🤟🏼  ممنون میشیم به آشتاهاتونم معرفیمون کنید @v2pediaBOT
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern
@@ -5135,7 +5134,6 @@ vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&securi
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern
 vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%92
-vless://8327ac90-43c2-4d75-9a45-b8a8dd4e922f@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-V2witt   ممنون میشیم کانالمون رو به دوستاتون‌معرفی کنین  برای خرید کانفیگ اختصاصی: @V2pediabot
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Internخدمت شما🙏🏻@v2pediaBOT
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern   خدمت شما🙏🏻 @v2pediaBOT
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern   خدمت شما🙏🏻 @v2pediaBOT
@@ -5149,6 +5147,7 @@ vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&securi
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern   خدمت شما🙏🏻 @v2pediaBOT
 vless://32dd4f12-27f2-42da-a430-dde1287fac8c@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Intern   خدمت شما🙏🏻 @v2pediaBOT
 vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%92خدمتتون🤟🏼ممنون میشیم به آشتاهاتونم معرفیمون کنید@v2pediaBOT
+vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%92  خدمتتون🤟🏼  ممنون میشیم به آشتاهاتونم معرفیمون کنید @v2pediaBOT
 vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%92  خدمتتون🤟🏼  ممنون میشیم به آشتاهاتونم معرفیمون کنید @v2pediaBOT
 vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%92  خدمتتون🤟🏼  ممنون میشیم به آشتاهاتونم معرفیمون کنید @v2pediaBOT
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%AC%F0%9F%87%A7telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
@@ -7402,9 +7401,6 @@ vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encrypt
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#S567-197505
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.110.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.163.45:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.145.40:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.211.160:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.53.30:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.176.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
@@ -7418,6 +7414,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.198.138:22224?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.20.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.201.68:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.2.5:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.237.139:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://f0263bd6-570a-4bc0-bbb9-6fad124b18cf@62.133.62.166:2095?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://683eb1fd-5575-4da5-b5f0-953507b11b86@5.75.197.56:2095?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree%F0%9F%87%A9%F0%9F%87%AA
 vless://8918d0d6-b266-4f71-9aaf-4160265537e6@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=p30download.ir&type=xhttp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
