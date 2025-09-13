@@ -78,6 +78,23 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "add": "57.129.132.223",
+        "port": "80",
+        "id": "a25cbf11-2908-4a1b-a3a8-9a571777dca3",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/vmess/",
+        "tls": "",
+        "sni": "t.me",
+        "alpn": "",
+        "fp": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddec\ud83c\udde7\u00ae\ufe0fUnited Kingdom\u00a9\ufe0fErith\ud83c\udd7f\ufe0fping:64.83ms"
+    },
+    {
         "add": "test3.flha.ru",
         "aid": "0",
         "alpn": "",
