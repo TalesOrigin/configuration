@@ -78,23 +78,6 @@
         "tls": ""
     },
     {
-        "add": "test3.flha.ru",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "9a81340d-f81b-4c76-8abb-f4d305c535c0",
-        "net": "ws",
-        "path": "/9a81340d-f81b-4c76-8abb-f4d305c535c0-vmess",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\udde8\ud83c\udde6",
-        "scy": "auto",
-        "sni": "test3.flha.ru",
-        "tls": "",
-        "type": "auto",
-        "v": "2"
-    },
-    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
