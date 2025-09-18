@@ -78,6 +78,58 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "csgo.com",
+        "port": "80",
+        "type": "none",
+        "id": "1d9442f8-f4d6-46d0-8c81-69d4f404f8a5",
+        "aid": "0",
+        "net": "ws",
+        "path": "/profile/telegram@ssrsub",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "fastcup.net",
+        "port": "80",
+        "type": "none",
+        "id": "1d9442f8-f4d6-46d0-8c81-69d4f404f8a5",
+        "aid": "0",
+        "net": "ws",
+        "path": "/profile/telegram@ssrsub",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "pubg.ac",
+        "port": "80",
+        "type": "none",
+        "id": "1d9442f8-f4d6-46d0-8c81-69d4f404f8a5",
+        "aid": "0",
+        "net": "ws",
+        "path": "/profile/telegram@ssrsub",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udde9\ud83c\uddf0 \u4e39\u9ea6(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "vn4.viefast.net",
+        "port": "80",
+        "type": "none",
+        "id": "9e76767d-4bfa-4f04-a800-42e2f63afed2",
+        "aid": "0",
+        "net": "ws",
+        "path": "/viefast",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "172.111.146.64",
         "aid": "0",
         "alpn": "",
