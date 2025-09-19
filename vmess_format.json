@@ -130,6 +130,19 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "add": "pubg.ac",
+        "port": "80",
+        "type": "none",
+        "id": "1d9442f8-f4d6-46d0-8c81-69d4f404f8a5",
+        "aid": "0",
+        "net": "ws",
+        "path": "/profile/telegram@ssrsub",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\uddfe\u00ae\ufe0fCyprus\u00a9\ufe0fK\u00e1to Lakat\u00e1meia\ud83c\udd7f\ufe0fping:28.56ms"
+    },
+    {
         "add": "172.111.146.64",
         "aid": "0",
         "alpn": "",
