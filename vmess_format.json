@@ -117,6 +117,19 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "s3.houge.ggff.net",
+        "port": "80",
+        "type": "none",
+        "id": "305419ed-4ef5-3e5a-8d48-b803c58853d3",
+        "aid": "0",
+        "net": "ws",
+        "path": "/dabai.in?=d2cea61d1fb4fbea81d762dad2795273",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "test3.flha.ru",
         "aid": "0",
         "alpn": "",
@@ -7103,7 +7116,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 326\n",
+        "ps": "@Vip_Security join us - 327\n",
         "tls": "",
         "type": "none",
         "v": "2"
