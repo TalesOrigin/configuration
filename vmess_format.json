@@ -7143,23 +7143,6 @@
         "v": "2"
     },
     {
-        "add": "test2.flha.ru",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "15f62abf-8cc9-4598-8d57-e4df7b499a84",
-        "net": "ws",
-        "path": "/15f62abf-8cc9-4598-8d57-e4df7b499a84-vmess",
-        "port": "80",
-        "ps": "\ud83c\udde8\ud83c\uddf5@FreakConfig",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "527cb2.827a4c39.shop",
         "aid": "0",
         "alpn": "",
