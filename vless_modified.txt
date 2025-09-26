@@ -86,6 +86,7 @@ vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=
 vless://6a68b588-a8c5-462b-8637-3cfe886a9add@mstr.fastly80.hosting-ip.com:80??path=%2Fadmin&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
@@ -153,6 +154,7 @@ vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=
 vless://6a68b588-a8c5-462b-8637-3cfe886a9add@mstr.fastly80.hosting-ip.com:80??path=%2Fadmin&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80??security=&sni=a.mifeng.us.kg&type=ws&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed%3D2048&host=91.241.94.160&encryption=none#@awlix_ir
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??security=&type=ws&path=/?ed%3D2560&host=91.241.94.160&encryption=none#@awlix_ir
