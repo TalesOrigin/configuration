@@ -155,10 +155,8 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 409
-vless://92ffb761-d2d8-41da-9219-5f0961f16eb1@svnteam.aeza.nisvn.ir:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 406
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#@Vip_Security join us - 404
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 403
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3DTelegram%40vpnserverrr---Telegram%40vpnserverrr%3D%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 402
-vless://2e7101ba-2cf5-ed93-826f-e0d9ae5ce373@fastly.vipfast7.top:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 390
-vless://1d2252b8-f8a5-4d15-a146-e91de03a7f58@speedtest.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 389
+vless://946ac7d3-14c7-4069-8c3d-870b8a0ee1c9@151.101.3.8:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 400
+vless://92ffb761-d2d8-41da-9219-5f0961f16eb1@svnteam.aeza.nisvn.ir:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 399
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 397
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3DTelegram%40vpnserverrr---Telegram%40vpnserverrr%3D%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 396
+vless://2e7101ba-2cf5-ed93-826f-e0d9ae5ce373@fastly.vipfast7.top:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 387
