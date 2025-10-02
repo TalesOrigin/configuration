@@ -117,6 +117,19 @@
         "tls": ""
     },
     {
+        "add": "uk1.v2rayserv.com",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "5477b9a3-72f6-494c-9376-df251e34757e",
+        "net": "ws",
+        "path": "/sshocean",
+        "port": "80",
+        "ps": "telegram \ud83c\udfaa DailyV2ry",
+        "tls": "",
+        "type": "none",
+        "v": "2"
+    },
+    {
         "add": "51.68.191.233",
         "aid": "0",
         "alpn": "",
@@ -148,19 +161,6 @@
         "sni": "",
         "tls": "",
         "type": "",
-        "v": "2"
-    },
-    {
-        "add": "uk1.v2rayserv.com",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "5477b9a3-72f6-494c-9376-df251e34757e",
-        "net": "ws",
-        "path": "/sshocean",
-        "port": "80",
-        "ps": "telegram \ud83c\udfaa DailyV2ry",
-        "tls": "",
-        "type": "none",
         "v": "2"
     },
     {
