@@ -78,17 +78,55 @@
         "tls": ""
     },
     {
-        "add": "uk1.v2rayserv.com",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "5477b9a3-72f6-494c-9376-df251e34757e",
-        "net": "ws",
-        "path": "/sshocean",
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
+        "add": "hkt.gotochinatown.net",
         "port": "80",
-        "ps": "telegram \ud83c\udfaa DailyV2ry",
-        "tls": "",
         "type": "none",
-        "v": "2"
+        "id": "93fb69fc-77cf-11ee-85ee-f23c91369f2d",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
+        "add": "1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "93fb69fc-77cf-11ee-85ee-f23c91369f2d",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
+        "add": "eb362f92-svukg0-t12cnj-1ol97.hk.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "93fb69fc-77cf-11ee-85ee-f23c91369f2d",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "path": "/vmess/",
+        "aid": "0",
+        "add": "51.68.191.233",
+        "net": "ws",
+        "ps": "@meli_proxyy",
+        "port": "80",
+        "host": "91.341.94.160",
+        "id": "f0eda072-9ae8-494c-a495-215fa5729467",
+        "v": "2",
+        "scy": "auto"
     },
     {
         "add": "51.68.191.233",
@@ -122,6 +160,19 @@
         "sni": "",
         "tls": "",
         "type": "",
+        "v": "2"
+    },
+    {
+        "add": "uk1.v2rayserv.com",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "5477b9a3-72f6-494c-9376-df251e34757e",
+        "net": "ws",
+        "path": "/sshocean",
+        "port": "80",
+        "ps": "telegram \ud83c\udfaa DailyV2ry",
+        "tls": "",
+        "type": "none",
         "v": "2"
     },
     {
