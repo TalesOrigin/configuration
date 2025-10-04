@@ -145,52 +145,6 @@
         "tls": ""
     },
     {
-        "path": "/vmess/",
-        "aid": "0",
-        "add": "51.68.191.233",
-        "net": "ws",
-        "ps": "@meli_proxyy",
-        "port": "80",
-        "host": "91.341.94.160",
-        "id": "f0eda072-9ae8-494c-a495-215fa5729467",
-        "v": "2",
-        "scy": "auto"
-    },
-    {
-        "add": "51.68.191.233",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "f0eda072-9ae8-494c-a495-215fa5729467",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\udde9\ud83c\uddea",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
-        "add": "172.111.146.64",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "05b8c783-7f59-47f9-9923-06a465679f6a",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\uddef\ud83c\uddf5",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "uk1.v2rayserv.com",
         "aid": "0",
         "host": "91.341.94.160",
@@ -202,6 +156,18 @@
         "tls": "",
         "type": "none",
         "v": "2"
+    },
+    {
+        "path": "/vmess/",
+        "aid": "0",
+        "add": "51.68.191.233",
+        "net": "ws",
+        "ps": "@meli_proxyy",
+        "port": "80",
+        "host": "91.341.94.160",
+        "id": "f0eda072-9ae8-494c-a495-215fa5729467",
+        "v": "2",
+        "scy": "auto"
     },
     {
         "add": "51.68.191.233",
