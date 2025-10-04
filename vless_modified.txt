@@ -191,7 +191,6 @@ vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
