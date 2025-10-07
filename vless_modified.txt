@@ -65,8 +65,6 @@ vless://9096805c-e6b8-4da9-9bdc-d76e392e6630@172.67.168.193:80??path=%2FFree-VPN
 vless://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:80??path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=none&encryption=none&host=91.241.94.160&type=ws#%40meli_proxyy
 vless://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:80??flow=&type=ws&host=91.241.94.160&path=/Free-VPN-Geo-Project/80.66.85.115-2053&security=none#%F0%9F%87%A9%F0%9F%87%AA@meli_proxyy
 vless://9e728936-8015-41a1-a0ab-80997c084465@mstr.fastly80.hosting-ip.com:80??path=%2Fadmin%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#@meli_proxyy
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%DA%86%D9%86%D9%84%F0%9F%8D%A6%40Outline_ir
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#I%201027%20%28%40Outline_Vpn%29%20free
 vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#I%201022%20%28%40Outline_Vpn%29%20free
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#I%201009%20%28%40Outline_Vpn%29%20free
@@ -76,6 +74,8 @@ vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#I%20976%20%28%40Outline_Vpn%29%20free
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#I%20961%20%28%40Outline_Vpn%29%20free
 vless://turboo-server@turboo-server.aftabz.com:80??path=%2F--ping--www.speedtest.net%3Fed%3D2080&security=none&encryption=none&type=ws&host=91.241.94.160#I%20964%20%28%40Outline_Vpn%29%20free
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%DA%86%D9%86%D9%84%F0%9F%8D%A6%40Outline_ir
+vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@GrOUNdED-brotHER.SeoToolSFOryOu.co.uK:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#TG:@v2ray_sub
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#TG:@v2ray_sub
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
