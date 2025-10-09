@@ -182,10 +182,11 @@ vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:80??path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80??path=%2Fadmin&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80??path=%2Fadmin&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfighysteria2://c6bccea3-2f03-4f3e-80f4-d6757f1f3f46@192.3.60.176:41951?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
+vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2RAY_VMESS_free
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2rayNG3
