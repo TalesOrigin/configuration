@@ -78,23 +78,6 @@
         "tls": ""
     },
     {
-        "add": "172.111.146.64",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "05b8c783-7f59-47f9-9923-06a465679f6a",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\uddef\ud83c\uddf5",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "hkt.gotochinatown.net",
         "aid": "2",
         "alpn": "",
