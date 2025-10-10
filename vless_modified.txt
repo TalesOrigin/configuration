@@ -183,6 +183,7 @@ vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80??path
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://3beeaf86-5522-4278-a1e9-b24a776552cd@104.21.10.181:80??path=%2FFree-VPN-Geo-Project%2F181.41.194.176-15565&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://3beeaf86-5522-4278-a1e9-b24a776552cd@104.21.10.181:80??path=%2FFree-VPN-Geo-Project%2F181.41.194.176-15565&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2RAY_VMESS_free
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2rayNG3
