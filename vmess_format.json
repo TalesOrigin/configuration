@@ -92,6 +92,22 @@
     },
     {
         "v": "2",
+        "ps": "telegram \ud83c\udfaa DailyV2ry",
+        "add": "104.16.155.10",
+        "port": "80",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "none",
+        "sni": "",
+        "alpn": ""
+    },
+    {
+        "v": "2",
         "ps": "telegram \u26a1\ufe0f DailyV2ry",
         "add": "104.16.155.10",
         "port": "80",
