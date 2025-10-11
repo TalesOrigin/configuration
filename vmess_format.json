@@ -79,6 +79,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd \u534e\u76db\u987fCogent\u901a\u4fe1\u516c\u53f8",
+        "add": "3h-kazakhstan1.09vpn.com",
+        "port": "80",
+        "type": "none",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmess/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "telegram \u26a1\ufe0f DailyV2ry",
         "add": "104.16.155.10",
         "port": "80",
