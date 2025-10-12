@@ -165,7 +165,6 @@ vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://3beeaf86-5522-4278-a1e9-b24a776552cd@104.21.10.181:80??path=%2FFree-VPN-Geo-Project%2F181.41.194.176-15565&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://3beeaf86-5522-4278-a1e9-b24a776552cd@104.21.10.181:80??path=%2FFree-VPN-Geo-Project%2F181.41.194.176-15565&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80??path=%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80??path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2rayNG3
