@@ -95,21 +95,20 @@
         "v": "2"
     },
     {
-        "add": "161.35.207.27",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "3c4ba4dd-fdf5-4441-8b42-efed8559b63d",
-        "net": "ws",
-        "path": "/cdn-cgi/trace",
+        "v": "2",
+        "ps": "telegram \ud83c\udf4a DailyV2ry",
+        "add": "185.146.173.25",
         "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\udde9\ud83c\uddea",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
+        "aid": "0",
         "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "none",
         "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
+        "alpn": ""
     },
     {
         "v": "2",
@@ -174,6 +173,23 @@
         "tls": "none",
         "sni": "",
         "alpn": ""
+    },
+    {
+        "add": "161.35.207.27",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "3c4ba4dd-fdf5-4441-8b42-efed8559b63d",
+        "net": "ws",
+        "path": "/cdn-cgi/trace",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\udde9\ud83c\uddea",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "add": "54d2d7fc-t3kcg0-tdnzz0-1qtp7.hk3.p5pv.com",
