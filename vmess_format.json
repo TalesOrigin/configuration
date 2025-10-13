@@ -121,6 +121,23 @@
         "v": "2"
     },
     {
+        "add": "161.35.207.27",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "3c4ba4dd-fdf5-4441-8b42-efed8559b63d",
+        "net": "ws",
+        "path": "/cdn-cgi/trace",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\udde9\ud83c\uddea",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "telegram \ud83c\udf4a DailyV2ry",
         "add": "104.16.155.10",
