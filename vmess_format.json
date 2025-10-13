@@ -104,6 +104,23 @@
         "tls": ""
     },
     {
+        "add": "185.146.173.25",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "@meli_proxyy",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "telegram \ud83c\udf4a DailyV2ry",
         "add": "104.16.155.10",
@@ -166,23 +183,6 @@
         "tls": "none",
         "sni": "",
         "alpn": ""
-    },
-    {
-        "add": "185.146.173.25",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "@meli_proxyy",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
     },
     {
         "add": "54d2d7fc-t3kcg0-tdnzz0-1qtp7.hk3.p5pv.com",
