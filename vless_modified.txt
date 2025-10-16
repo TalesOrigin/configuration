@@ -166,6 +166,7 @@ vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://77a07419-394a-4e46-b64b-a4ca2bd295f4@mstr.fastly80.hosting-ip.com:80??path=%2Fadmin%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://e18a6630-d4bd-4782-b18e-40d134ce3d73@www.speedtest.net:80??path=%2Fhajmi%3Fed%3D2050&security=&encryption=none&host=91.241.94.160&type=ws#@V2rayNG3
