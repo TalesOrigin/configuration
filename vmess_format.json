@@ -142,22 +142,6 @@
         "alpn": ""
     },
     {
-        "v": "2",
-        "ps": "telegram \ud83c\udf4a DailyV2ry",
-        "add": "104.16.155.10",
-        "port": "80",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "none",
-        "sni": "",
-        "alpn": ""
-    },
-    {
         "add": "eb362f92-svukg0-t12cnj-1ol97.hk.p5pv.com",
         "aid": "2",
         "alpn": "",
