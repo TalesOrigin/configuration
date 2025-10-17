@@ -147,10 +147,12 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://turboo-sever@abc.turboo-server.com:80??path=%2FTurbooServer&security=&encryption=none&type=ws&host=91.241.94.160#@Vip_Security join us - 99
-vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 41
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 32
-vless://77a07419-394a-4e46-b64b-a4ca2bd295f4@mstr.fastly80.hosting-ip.com:80??path=%2Fadmin&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 31
+vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 47
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 37
+vless://77a07419-394a-4e46-b64b-a4ca2bd295f4@mstr.fastly80.hosting-ip.com:80??path=%2Fadmin&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 36
+vless://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:80??path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 32
+vless://2e7101ba-2cf5-ed93-826f-e0d9ae5ce373@fastly.vipfast7.top:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 15
+vless://%F0%9F%91%89JOKERRVPN_JOKERRVPN%F0%9F%91%88@Speedtest.net:80??path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 3
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
