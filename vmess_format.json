@@ -7260,6 +7260,23 @@
         "v": "2"
     },
     {
+        "add": "104.19.150.10",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ea2b0ba8-4800-4a5d-afa4-30de13b79d2d",
+        "net": "ws",
+        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=443",
+        "port": "80",
+        "ps": "\ud83c\uddee\ud83c\uddf3telegram \u27a0 @v2rayNG_Matsuri",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "eb362f92-svukg0-t12cnj-1ol97.hk.p5pv.com",
         "aid": "2",
         "alpn": "",
