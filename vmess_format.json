@@ -79,6 +79,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "s1.db-link03.top",
+        "port": "80",
+        "type": "none",
+        "id": "25fbcec6-e45a-3a86-977a-12c40bf649ba",
+        "aid": "0",
+        "net": "ws",
+        "path": "/dabai.in?=f7f48a0f7685b208efdf4956ae5eb0a0",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "telegram \ud83c\udf08 DailyV2ry",
         "add": "185.146.173.25",
         "port": "80",
