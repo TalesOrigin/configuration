@@ -7460,23 +7460,6 @@
         "v": "2"
     },
     {
-        "add": "104.19.150.10",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "ea2b0ba8-4800-4a5d-afa4-30de13b79d2d",
-        "net": "ws",
-        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=443",
-        "port": "80",
-        "ps": "\ud83c\udde9\ud83c\uddea@FreakConfig",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "527cb2.827a4c39.shop",
         "aid": "0",
         "alpn": "",
