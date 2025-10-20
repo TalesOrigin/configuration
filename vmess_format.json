@@ -78,6 +78,32 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
+        "add": "4c2c02b9-sv2sg0-sv75lj-1swf9.hk3.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "2bb1edc8-fa5d-11ef-9dd9-f23c9164ca5d",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
+        "add": "be944a17-sv4n40-t4qa9y-g43g.hk3.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "6ddb6a68-d5f5-ca30-3943-cf0c9876d50c",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "185.146.173.25",
         "aid": "0",
         "alpn": "",
