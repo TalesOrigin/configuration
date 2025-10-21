@@ -78,10 +78,6 @@ vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80??path=%2Fv
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.16.52.146:80??path=%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.16.52.146:80??path=%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayan@v2rayan
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayan@v2rayan
 vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80??security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2RAY_VMESS_free
@@ -159,8 +155,6 @@ vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&s
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
 vless://074edad7-1576-45d1-bbea-b28faa463eab@95.134.130.176:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
-vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80??security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#%40V2RAY_VMESS_free
 vless://e18a6630-d4bd-4782-b18e-40d134ce3d73@www.speedtest.net:80??path=%2Fhajmi%3Fed%3D2050&security=&encryption=none&host=91.241.94.160&type=ws#@V2rayNG3
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@V2rayNG3
