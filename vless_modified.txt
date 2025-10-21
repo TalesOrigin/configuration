@@ -58,11 +58,15 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80??path=%2FJoin---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.7ms
+vless://bc0a2570-d5fb-4906-b0f0-d47cdcd0a381@104.18.26.94:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.7ms
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%C3%B0%C2%9F%C2%94%C2%92+%5BBy+EbraSha%5D#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.88ms
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%C3%B0%C2%9F%C2%94%C2%92+%5BBy+EbraSha%5D#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.91ms
+vless://2763396d-1978-4940-b5fe-3683a453188d@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:6.9ms
+vless://2763396d-1978-4940-b5fe-3683a453188d@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:7.13ms
+vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Japan%20Pq%20hosting%20plus
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#I%201062%20%28%40Outline_Vpn%29%20free
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#I%201027%20%28%40Outline_Vpn%29%20free
 vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#I%201022%20%28%40Outline_Vpn%29%20free
-vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Japan%20Pq%20hosting%20plus
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://074edad7-1576-45d1-bbea-b28faa463eab@95.134.130.176:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
@@ -137,10 +141,15 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 131
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 124
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#@Vip_Security join us - 123
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 122
+vless://bc4ee3f2-ded6-4a7a-8d7f-c0c37f2cd426@food1.hamrahconfig.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 467
+vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 464
+vless://946ac7d3-14c7-4069-8c3d-870b8a0ee1c9@151.101.3.8:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 461
+vless://92ffb761-d2d8-41da-9219-5f0961f16eb1@svnteam.aeza.nisvn.ir:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 460
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 457
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 456
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3DTelegram%40vpnserverrr---Telegram%40vpnserverrr%3D%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 450
+vless://2e7101ba-2cf5-ed93-826f-e0d9ae5ce373@fastly.vipfast7.top:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 430
+vless://1d2252b8-f8a5-4d15-a146-e91de03a7f58@speedtest.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 427
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
