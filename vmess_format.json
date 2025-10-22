@@ -79,19 +79,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
-        "add": "7bdf5f2f-sv2sg0-t2p691-1s4hc.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "aafedc64-9c23-11ef-a79f-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "telegram \ud83c\udf40 DailyV2ry",
         "add": "185.146.173.25",
         "port": "80",
