@@ -110,22 +110,6 @@
         "alpn": ""
     },
     {
-        "v": "2",
-        "ps": "telegram \ud83c\udf3a DailyV2ry",
-        "add": "185.146.173.25",
-        "port": "80",
-        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "none",
-        "sni": "",
-        "alpn": ""
-    },
-    {
         "add": "185.146.173.25",
         "aid": "0",
         "alpn": "",
@@ -7514,23 +7498,6 @@
         "sni": "",
         "tls": "",
         "type": "",
-        "v": "2"
-    },
-    {
-        "add": "104.19.150.10",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "ea2b0ba8-4800-4a5d-afa4-30de13b79d2d",
-        "net": "ws",
-        "path": "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=443",
-        "port": "80",
-        "ps": "\ud83c\uddf2\ud83c\uddebtelegram \u27a0 @v2rayNG_Matsuri",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
         "v": "2"
     },
     {
