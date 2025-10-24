@@ -870,3 +870,4 @@ vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.33ms
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:62.58ms
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:55.49ms
+vless://a40e2c15-6c4d-b5e6-3e9c-d2adad0ee1e6@cloudteach.com.tr:80??security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:7.69ms
