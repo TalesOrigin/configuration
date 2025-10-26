@@ -247,6 +247,23 @@
         "tls": ""
     },
     {
+        "add": "pq-brazil1.09vpn.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 ",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "45.8.146.129",
         "aid": "0",
         "alpn": "",
