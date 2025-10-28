@@ -11,8 +11,6 @@ vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=r
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#4gyd-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#27hv-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v7.waipdirect.shop#%40meli_proxyy
 vless://%50a%72sa%73%68%6fna%6d-Bot-27@104.17.147.22:8080?type=grpc&serviceName=
 vless://%50a%72sa%73%68%6fna%6d-Bot-28@104.17.147.22:8080?type=grpc&serviceName=
 vless://%50a%72sa%73%68%6fna%6d-Bot-30@104.17.147.22:8080?type=grpc&serviceName=
@@ -8886,15 +8884,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&securit
 vless://8e311363-ffa6-ada3-6838-6283d896da4e@switzerland.marzxo.biz:8089?security=reality&encryption=none&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=828348fc6d8e49cf#%F0%9F%87%A8%F0%9F%87%AD+CH
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443?security=reality&encryption=none&pbk=H96TEu9kZc0ATR7TmY0M_sa_AnRWtoxncXv_wT45bxg&headerType=none&fp=random&spx=%2FFCB0QD8fWp8nLtc&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=30de9b62dca5142d#%F0%9F%87%B3%F0%9F%87%B1+NL
 vless://b02ea0a1-7485-4b81-b6d9-c670a2dc8f99@198.2.251.111:26129?security=reality&encryption=none&pbk=5N5K8oHDAiN23svc_KlSC5xhnYoNvcEWXHtr7ECh-H8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%F0%9F%87%BA%F0%9F%87%B8+US
-vless://e5c2e234-333e-48b4-8199-2793a64527bc@104.21.48.1:443?path=%2F&security=tls&encryption=none&host=s1-c3r.pages.dev&fp=chrome&type=ws&sni=s1-c3r.pages.dev#%40V2RAY_VMESS_free
-vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?path=%2F&security=tls&encryption=none&host=baomei.pages.dev&fp=chrome&type=ws&sni=baomei.pages.dev#%40V2RAY_VMESS_free
-vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=random&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#%40V2RAY_VMESS_free
-vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?path=%2F&security=tls&encryption=none&host=ed19-dc7.pages.dev&fp=chrome&type=ws&sni=ed19-dc7.pages.dev#%40V2RAY_VMESS_free
-vless://02efda19-4437-4d67-ad4f-3ca613dd80b1@kifpool.me:443?path=%2FkuF4zJYa4FBeudGb&security=tls&encryption=none&host=mdrN.paGes.Dev&fp=chrome&type=ws&sni=mdrN.paGes.Dev#%40V2RAY_VMESS_free
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%40V2RAY_VMESS_free
-vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=baomei.pages.dev&fp=chrome&type=ws&sni=baomei.pages.dev#%40V2RAY_VMESS_free
-vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?path=%2F%3Fed&security=tls&encryption=none&host=companypdf9.pages.dev&fp=chrome&type=ws&sni=companypdf9.pages.dev#%40V2RAY_VMESS_free
-vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@82.115.43.39:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#%40V2RAY_VMESS_free
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws&security=tls&encryption=none&fp=chrome&type=ws#%40V2RAY_VMESS_free
 vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=%2Fajnexnws&security=tls&encryption=none&fp=chrome&type=ws#%40V2RAY_VMESS_free
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40V2RAY_VMESS_free
