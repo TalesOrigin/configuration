@@ -1,21 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "\u9999\u6e2f7|@ripaojiedian",
-        "add": "9438890c-t4whs0-t6blpv-1ldl3.hk.p5pv.com",
-        "port": "80",
-        "aid": 2,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "fd224a6c-addc-11ed-a8bf-f23c91cfbbc9",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd",
         "add": "bestcdn1.868863.xyz",
         "port": "80",
@@ -107,32 +92,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.18.240.238",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f7|@ripaojiedian",
-        "add": "9438890c-t4whs0-t6blpv-1ldl3.hk.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "fd224a6c-addc-11ed-a8bf-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd",
         "add": "bestcdn1.868863.xyz",
         "port": "80",
@@ -180,19 +139,6 @@
         "aid": "0",
         "net": "ws",
         "path": "/aerwiueh",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f7|@stairnode",
-        "add": "9438890c-t4whs0-t6blpv-1ldl3.hk.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "fd224a6c-addc-11ed-a8bf-f23c91cfbbc9",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
         "host": "91.341.94.160",
         "tls": ""
     },
