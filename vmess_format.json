@@ -1,6 +1,21 @@
 [
     {
         "v": "2",
+        "ps": "\u9999\u6e2f3|@ripaojiedian",
+        "add": "95811783-t02f40-t4nxvc-1p1b.hk.p5pv.com",
+        "port": "80",
+        "aid": 2,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "279b8588-616b-11ed-a8bf-f23c91cfbbc9",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/"
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd",
         "add": "bestcdn1.868863.xyz",
         "port": "80",
