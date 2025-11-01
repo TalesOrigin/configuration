@@ -6781,14 +6781,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=n
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.248:80?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.175:80?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 vless://35372035-3220-4937-a031-303020343820@195.133.92.56:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.151:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&fp=chrome&type=ws&path=/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?security=&sni=a.mifeng.us.kg&type=ws&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed%3D2048&host=a.mifeng.us.kg&encryption=none#@awlix_ir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
-vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed%3D2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#@awlix_ir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?security=&type=ws&path=/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg.&encryption=none#@awlix_ir
-vless://1dddb054-1d6d-4f33-831e-ea3a0cd3ebe8@172.67.157.34:443?security=tls&sni=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&type=ws&path=Telegram%20channel%20:%20@pandavpntc&host=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&encryption=none#@awlix_ir
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80?security=&type=ws&path=/olem/ws?ed%3D2560&host=foffmelo.com&encryption=none#@awlix_ir
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&path=/?ed%3D2560&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@awlix_irسری کانفیگ های جدید ، حتما همشو تست کنید حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻@Awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=none&encryption=none&type=grpc#@Awlix_irسری کانفیگ های جدید ، حتما همشو تست کنید حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://6d91bc33-2d86-4839-9205-02024ff483c7@172.67.176.243:443?security=tls&sni=wtestfrtt.requesttest.cloudns.org&alpn=http/1.1&fp=chrome&type=ws&host=wtestfrtt.requesttest.cloudns.org&encryption=none#@awlix_ir
@@ -6829,14 +6821,6 @@ vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&type=ws&
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#@awlix_ir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.151:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&fp=chrome&type=ws&path=/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?security=&sni=a.mifeng.us.kg&type=ws&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed%3D2048&host=a.mifeng.us.kg&encryption=none#@awlix_ir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
-vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed%3D2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#@awlix_ir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?security=&type=ws&path=/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg.&encryption=none#@awlix_ir
-vless://1dddb054-1d6d-4f33-831e-ea3a0cd3ebe8@172.67.157.34:443?security=tls&sni=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&type=ws&path=Telegram%20channel%20:%20@pandavpntc&host=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&encryption=none#@awlix_ir
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80?security=&type=ws&path=/olem/ws?ed%3D2560&host=foffmelo.com&encryption=none#@awlix_ir
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&path=/?ed%3D2560&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@awlix_irسری کانفیگ های جدید ، حتما همشو تست کنید حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻@Awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=none&encryption=none&type=grpc#@Awlix_irسری کانفیگ های جدید ، حتما همشو تست کنید حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://6d91bc33-2d86-4839-9205-02024ff483c7@172.67.176.243:443?security=tls&sni=wtestfrtt.requesttest.cloudns.org&alpn=http/1.1&fp=chrome&type=ws&host=wtestfrtt.requesttest.cloudns.org&encryption=none#@awlix_ir
@@ -9515,6 +9499,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#@V2rayNG3
+vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?type=tcp&encryption=none&security=none#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
@@ -9597,6 +9582,8 @@ vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=%2Fassets%2Fimg%2Fbann
 vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#@V2rayNG3
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.249.113:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.188.109:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.74.68:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.49.130:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.154.44:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
