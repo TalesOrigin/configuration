@@ -79,6 +79,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "104.18.240.238",
+        "port": "80",
+        "type": "none",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
+        "aid": "0",
+        "net": "ws",
+        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 _CA_\u52a0\u62ff\u5927",
         "add": "108.181.10.17",
         "port": "80",
@@ -137,19 +150,6 @@
         "type": "none",
         "id": "c458695d-6908-45c3-9512-e0c46418454c",
         "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f \u7535\u8baf\u76c8\u79d1\u6709\u9650\u516c\u53f8",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "775baa4a-d75b-11ef-a11a-f23c913c8d2b",
-        "aid": "2",
         "net": "ws",
         "path": "/",
         "host": "91.341.94.160",
@@ -6690,6 +6690,23 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
+        "v": "2"
+    },
+    {
+        "add": "185.146.173.25",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "\ud83c\udde9\ud83c\uddea@FreakConfig",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
         "v": "2"
     },
     {
