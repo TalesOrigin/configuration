@@ -2,6 +2,19 @@
     {
         "v": "2",
         "ps": "@Hope_Net-join-us-on-Telegram",
+        "add": "162.55.62.193",
+        "port": "80",
+        "type": "auto",
+        "id": "2aac77de-b3e4-4017-845c-ca1380f2e8d0",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram",
         "add": "162.55.174.135",
         "port": "80",
         "type": "auto",
