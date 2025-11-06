@@ -27,6 +27,19 @@
     },
     {
         "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram",
+        "add": "sg2.safepn.net",
+        "port": "80",
+        "type": "auto",
+        "id": "ee76cecf-1219-42be-ae3f-6b8077e4cacc",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\udde9\ud83c\uddea \u5fb7\u56fd 33",
         "add": "185.146.173.16",
         "port": "80",
@@ -7234,6 +7247,23 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
+        "v": "2"
+    },
+    {
+        "add": "185.146.173.25",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "\ud83c\udde9\ud83c\uddea@FreakConfig",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
         "v": "2"
     },
     {
