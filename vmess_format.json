@@ -2,6 +2,19 @@
     {
         "v": "2",
         "ps": "@Hope_Net-join-us-on-Telegram",
+        "add": "103.167.196.8",
+        "port": "80",
+        "type": "auto",
+        "id": "56716a96-a265-448c-8969-03e626889580",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram",
         "add": "158.101.7.8",
         "port": "80",
         "type": "auto",
@@ -6890,7 +6903,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 536\n",
+        "ps": "@Vip_Security join us - 503\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
