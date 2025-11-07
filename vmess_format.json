@@ -469,6 +469,32 @@
     },
     {
         "v": "2",
+        "add": "52.78.213.224",
+        "port": "80",
+        "type": "auto",
+        "id": "6f442823-6b73-4b31-f1f5-aa1e907b051e",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddf7\u00ae\ufe0fSouth Korea\u00a9\ufe0fSeoul\ud83c\udd7f\ufe0fping:50ms"
+    },
+    {
+        "v": "2",
+        "add": "hn1.safepn.net",
+        "port": "80",
+        "type": "auto",
+        "id": "ee76cecf-1219-42be-ae3f-6b8077e4cacc",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:90ms"
+    },
+    {
+        "v": "2",
         "add": "uicdn.cf",
         "port": "80",
         "type": "auto",
@@ -478,76 +504,11 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:116ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:140ms"
     },
     {
         "v": "2",
-        "add": "108.181.10.17",
-        "port": "80",
-        "type": "none",
-        "id": "474e8680-701f-11ee-b436-205c6d5f5d78",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fLos Angeles\ud83c\udd7f\ufe0fping:130ms"
-    },
-    {
-        "v": "2",
-        "add": "185.146.173.117",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:108ms"
-    },
-    {
-        "v": "2",
-        "add": "188.114.99.18",
-        "port": "80",
-        "type": "none",
-        "id": "d2866d01-d76d-4a08-8bae-04fb3c502588",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fWashington D.C.\ud83c\udd7f\ufe0fping:101ms"
-    },
-    {
-        "v": "2",
-        "add": "185.146.173.16",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:126ms"
-    },
-    {
-        "v": "2",
-        "add": "104.18.240.238",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:82ms"
-    },
-    {
-        "v": "2",
-        "add": "flkf2.shabijichang.com",
+        "add": "ld2.shabijichang.com",
         "port": "80",
         "type": "none",
         "id": "c458695d-6908-45c3-9512-e0c46418454c",
@@ -556,7 +517,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:178ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:100ms"
     },
     {
         "add": "185.146.173.25",
@@ -573,59 +534,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:23ms"
-    },
-    {
-        "v": "2",
-        "add": "uicdn.cf",
-        "port": "80",
-        "type": "auto",
-        "id": "6fea1649-425b-4092-bf53-29792152c925",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:135ms"
-    },
-    {
-        "v": "2",
-        "add": "185.146.173.16",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:99ms"
-    },
-    {
-        "v": "2",
-        "add": "77.37.33.227",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\uddfe\u00ae\ufe0fCyprus\u00a9\ufe0fNicosia\ud83c\udd7f\ufe0fping:63ms"
-    },
-    {
-        "v": "2",
-        "add": "time.is",
-        "port": "80",
-        "type": "none",
-        "id": "66ddd790-10ed-4a16-b334-0b7e3577b5b7",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:140ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:119ms"
     },
     {
         "add": "185.146.173.25",
@@ -633,7 +542,7 @@
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
+        "id": "e3cb5c38-1168-46ad-aec4-62ffd3614690",
         "net": "ws",
         "path": "/",
         "port": "80",
@@ -642,21 +551,46 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:92ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:163ms"
     },
     {
-        "add": "newyork.artunnel57.host",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "24cb8e15-3a84-401e-a0ef-da64268626e7",
-        "net": "ws",
-        "path": "/vmess-ntls",
+        "v": "2",
+        "add": "linode.rzpserver.cloud",
         "port": "80",
+        "id": "ea8ac2a8-22c5-4d96-b511-a0c69f2df75b",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmess",
+        "type": "none",
+        "host": "91.341.94.160",
         "tls": "none",
-        "sni": "",
-        "type": "none",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:18ms"
+    },
+    {
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:159ms"
+        "add": "52.78.213.224",
+        "port": "80",
+        "type": "auto",
+        "id": "6f442823-6b73-4b31-f1f5-aa1e907b051e",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddf7\u00ae\ufe0fSouth Korea\u00a9\ufe0fSeoul\ud83c\udd7f\ufe0fping:109ms"
+    },
+    {
+        "v": "2",
+        "add": "hn1.safepn.net",
+        "port": "80",
+        "type": "auto",
+        "id": "ee76cecf-1219-42be-ae3f-6b8077e4cacc",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:196ms"
     },
     {
         "v": "2",
@@ -669,20 +603,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:46ms"
-    },
-    {
-        "v": "2",
-        "add": "185.146.173.24",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:112ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:159ms"
     },
     {
         "v": "2",
@@ -695,20 +616,7 @@
         "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:53ms"
-    },
-    {
-        "v": "2",
-        "add": "185.146.173.16",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:199ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:176ms"
     },
     {
         "v": "2",
@@ -721,24 +629,7 @@
         "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:172ms"
-    },
-    {
-        "add": "141.101.121.120",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddeb\ud83c\uddf7\u00ae\ufe0fFrance\u00a9\ufe0fParis\ud83c\udd7f\ufe0fping:107ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:11ms"
     },
     {
         "add": "185.146.173.25",
@@ -755,22 +646,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:79ms"
-    },
-    {
-        "add": "42.2.113.136",
-        "aid": "2",
-        "host": "91.341.94.160",
-        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "broadcastlv.chat.bilibili.com",
-        "tls": "",
-        "type": "auto",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCentral\ud83c\udd7f\ufe0fping:23ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:153ms"
     },
     {
         "add": "www.speedtest.net",
@@ -787,7 +663,20 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:171ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:14ms"
+    },
+    {
+        "v": "2",
+        "add": "hn1.safepn.net",
+        "port": "80",
+        "type": "auto",
+        "id": "ee76cecf-1219-42be-ae3f-6b8077e4cacc",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:71ms"
     },
     {
         "v": "2",
@@ -800,70 +689,63 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:109ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:40ms"
     },
     {
         "v": "2",
-        "add": "104.21.75.246",
+        "add": "185.146.173.117",
         "port": "80",
         "type": "none",
-        "id": "c458695d-6908-45c3-9512-e0c46418454c",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
         "aid": "0",
         "net": "ws",
-        "path": "/",
+        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:157ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:16ms"
     },
     {
-        "add": "185.146.173.25",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:91ms"
+        "add": "104.18.240.238",
+        "port": "80",
+        "type": "none",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
+        "aid": "0",
+        "net": "ws",
+        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:25ms"
     },
     {
-        "add": "www.speedtest.net",
+        "v": "2",
+        "add": "104.26.8.44",
+        "port": "80",
+        "type": "none",
+        "id": "5180444a-4756-43b4-960b-49eb9052e4e8",
         "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "c4eeb4bd-1a7a-43e4-bc22-31062dd0c61c",
         "net": "ws",
         "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
+        "host": "91.341.94.160",
         "tls": "",
-        "type": "",
-        "v": "2",
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:150ms"
     },
     {
-        "host": "91.341.94.160",
-        "path": "/v2-uk-1.v2ray.cc/anything/freevpn.us-vpnvipnor4/vmess",
-        "scy": "auto",
-        "add": "104.21.229.67",
-        "net": "ws",
-        "id": "7772bb24-976a-45ca-aa76-f4f1b7f50923",
+        "add": "185.146.173.25",
+        "aid": "0",
+        "alpn": "",
         "fp": "",
-        "type": "",
-        "tls": "",
-        "v": "2",
-        "alpn": "h2,http/1.1",
+        "host": "91.341.94.160",
+        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
+        "net": "ws",
+        "path": "/",
         "port": "80",
-        "sni": "creativecommons.org",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fMiami\ud83c\udd7f\ufe0fping:158ms"
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:86ms"
     },
     {
         "add": "77.37.33.108",
