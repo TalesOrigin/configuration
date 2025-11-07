@@ -210,7 +210,7 @@
     {
         "v": "2",
         "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.16",
+        "add": "185.146.173.117",
         "port": "80",
         "type": "none",
         "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
@@ -222,27 +222,27 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 HK\u00b2_5|7.5MB/s|GPT\u207a|YT|NF|D+|2%",
-        "add": "a05447bd-t5d5s0-t6z0et-1t60o.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "ce481c6e-f4c8-11ef-bbb0-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 HK\u9999\u6e2f(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
-        "add": "77.37.33.227",
+        "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
+        "add": "185.146.173.24",
         "port": "80",
         "type": "none",
         "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
         "aid": "0",
         "net": "ws",
-        "path": "/?BIA_TELEGRAM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)",
+        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udde8\ud83c\udde6 \u52a0\u62ff\u5927 V2CROSS.COM",
+        "add": "us1.nodea6a6.skynode.me",
+        "port": "80",
+        "type": "none",
+        "id": "c3f95b7e-0fc7-3311-9a3d-e34e675632d4",
+        "aid": "0",
+        "net": "ws",
+        "path": "/download?ed=2560",
         "host": "91.341.94.160",
         "tls": ""
     },
@@ -378,19 +378,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.24",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 _US_\u7f8e\u56fd_2",
         "add": "wnd2.shabijichang.com",
         "port": "80",
@@ -439,7 +426,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddec\u00ae\ufe0fSingapore\u00a9\ufe0fSingapore (Pioneer)\ud83c\udd7f\ufe0fping:114ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddec\u00ae\ufe0fSingapore\u00a9\ufe0fSingapore (Pioneer)\ud83c\udd7f\ufe0fping:76ms"
     },
     {
         "v": "2",
@@ -452,7 +439,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:167ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:67ms"
     },
     {
         "v": "2",
@@ -465,7 +452,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddf7\u00ae\ufe0fSouth Korea\u00a9\ufe0fSeoul\ud83c\udd7f\ufe0fping:147ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddf7\u00ae\ufe0fSouth Korea\u00a9\ufe0fSeoul\ud83c\udd7f\ufe0fping:18ms"
     },
     {
         "v": "2",
@@ -478,7 +465,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:69ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:161ms"
     },
     {
         "v": "2",
@@ -491,203 +478,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:100ms"
-    },
-    {
-        "v": "2",
-        "add": "188.114.99.18",
-        "port": "80",
-        "type": "none",
-        "id": "d2866d01-d76d-4a08-8bae-04fb3c502588",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fWashington D.C.\ud83c\udd7f\ufe0fping:11ms"
-    },
-    {
-        "add": "185.146.173.25",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:44ms"
-    },
-    {
-        "add": "142.93.238.178",
-        "aid": "0",
-        "alpn": "",
-        "host": "91.341.94.160",
-        "id": "941e0ba2-01b6-4bfe-81a4-6be93702cae3",
-        "net": "ws",
-        "path": "/graphql",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf3\ud83c\uddf1\u00ae\ufe0fThe Netherlands\u00a9\ufe0fAmsterdam\ud83c\udd7f\ufe0fping:199ms"
-    },
-    {
-        "add": "185.146.173.25",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:25ms"
-    },
-    {
-        "add": "185.146.173.25",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:192ms"
-    },
-    {
-        "add": "bia-vpn-whal.fast.hosting-ip.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "0afdd7f6-e155-4fcc-ba77-bda7255e1d0c",
-        "net": "ws",
-        "path": "/?ed=80/#id-telegram:--->@vpn_whal<---",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:25ms"
-    },
-    {
-        "add": "ru1.nodea6a6.skynode.me",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "c3f95b7e-0fc7-3311-9a3d-e34e675632d4",
-        "net": "ws",
-        "path": "/download?ed=2048Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:82ms"
-    },
-    {
-        "add": "slime-rhinestone-spy.glitch.me",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "83a5c82d-a047-418e-9ad9-6ce8c5aaba59",
-        "net": "ws",
-        "path": "/83a5c82d-a047-418e-9ad9-6ce8c5aaba59-vmess",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:44ms"
-    },
-    {
-        "v": "2",
-        "add": "146.190.82.241",
-        "port": "80",
-        "type": "auto",
-        "id": "ee76cecf-1219-42be-ae3f-6b8077e4cacc",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddec\u00ae\ufe0fSingapore\u00a9\ufe0fSingapore (Pioneer)\ud83c\udd7f\ufe0fping:190ms"
-    },
-    {
-        "v": "2",
-        "add": "45.136.244.181",
-        "port": "80",
-        "type": "auto",
-        "id": "a25881f3-967f-3265-bc7f-9e66857b016b",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:83ms"
-    },
-    {
-        "v": "2",
-        "add": "52.78.213.224",
-        "port": "80",
-        "type": "auto",
-        "id": "6f442823-6b73-4b31-f1f5-aa1e907b051e",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddf7\u00ae\ufe0fSouth Korea\u00a9\ufe0fSeoul\ud83c\udd7f\ufe0fping:59ms"
-    },
-    {
-        "v": "2",
-        "add": "hn1.safepn.net",
-        "port": "80",
-        "type": "auto",
-        "id": "ee76cecf-1219-42be-ae3f-6b8077e4cacc",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:98ms"
-    },
-    {
-        "v": "2",
-        "add": "uicdn.cf",
-        "port": "80",
-        "type": "auto",
-        "id": "6fea1649-425b-4092-bf53-29792152c925",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:170ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:55ms"
     },
     {
         "v": "2",
@@ -700,33 +491,20 @@
         "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:160ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:14ms"
     },
     {
         "v": "2",
-        "add": "188.114.99.18",
+        "add": "mm2.shabijichang.com",
         "port": "80",
         "type": "none",
-        "id": "d2866d01-d76d-4a08-8bae-04fb3c502588",
+        "id": "c458695d-6908-45c3-9512-e0c46418454c",
         "aid": "0",
         "net": "ws",
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fWashington D.C.\ud83c\udd7f\ufe0fping:152ms"
-    },
-    {
-        "v": "2",
-        "add": "104.26.8.44",
-        "port": "80",
-        "type": "none",
-        "id": "5180444a-4756-43b4-960b-49eb9052e4e8",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:95ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:19ms"
     },
     {
         "add": "185.146.173.25",
@@ -743,41 +521,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:161ms"
-    },
-    {
-        "add": "185.146.173.82",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:65ms"
-    },
-    {
-        "add": "185.146.173.25",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:68ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:189ms"
     },
     {
         "add": "185.146.173.25",
@@ -794,7 +538,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:146ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:134ms"
     },
     {
         "add": "185.146.173.25",
@@ -811,24 +555,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:71ms"
-    },
-    {
-        "add": "www.speedtest.net",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "69c25085-bfef-4ebf-86b6-cc14c0b4d408",
-        "net": "ws",
-        "path": "/joinourtelegramchannel@hormozvp.n@hormozvp.n@hormozvp.n@hormozvp.n@hormozvp.n@hormozvp.n?ed=1024",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "none",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:164ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:122ms"
     },
     {
         "add": "ru1.nodea6a6.skynode.me",
@@ -845,23 +572,24 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:131ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:95ms"
     },
     {
-        "path": "/v2-uk-1.v2ray.cc/anything/freevpn.us-vpnvipnor4/vmess",
-        "net": "ws",
-        "v": "2",
-        "tls": "",
+        "add": "ru1.nodea6a6.skynode.me",
+        "aid": "0",
+        "alpn": "",
         "fp": "",
-        "id": "7772bb24-976a-45ca-aa76-f4f1b7f50923",
-        "port": "80",
-        "type": "",
         "host": "91.341.94.160",
-        "alpn": "h2,http/1.1",
+        "id": "c3f95b7e-0fc7-3311-9a3d-e34e675632d4",
+        "net": "ws",
+        "path": "/download?ed=2048Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12",
+        "port": "80",
         "scy": "auto",
-        "sni": "creativecommons.org",
-        "add": "icook.hk",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:171ms"
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:74ms"
     },
     {
         "v": "2",
@@ -874,7 +602,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddec\u00ae\ufe0fSingapore\u00a9\ufe0fSingapore (Pioneer)\ud83c\udd7f\ufe0fping:46ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddec\u00ae\ufe0fSingapore\u00a9\ufe0fSingapore (Pioneer)\ud83c\udd7f\ufe0fping:68ms"
     },
     {
         "v": "2",
@@ -887,7 +615,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:155ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:50ms"
     },
     {
         "v": "2",
@@ -900,7 +628,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddf7\u00ae\ufe0fSouth Korea\u00a9\ufe0fSeoul\ud83c\udd7f\ufe0fping:106ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddf7\u00ae\ufe0fSouth Korea\u00a9\ufe0fSeoul\ud83c\udd7f\ufe0fping:117ms"
     },
     {
         "v": "2",
@@ -913,7 +641,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:116ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:105ms"
     },
     {
         "v": "2",
@@ -926,24 +654,11 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fNewark\ud83c\udd7f\ufe0fping:91ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:95ms"
     },
     {
         "v": "2",
-        "add": "a05447bd-t5d5s0-t6z0et-1t60o.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "ce481c6e-f4c8-11ef-bbb0-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCentral\ud83c\udd7f\ufe0fping:100ms"
-    },
-    {
-        "v": "2",
-        "add": "flkf2.shabijichang.com",
+        "add": "ld2.shabijichang.com",
         "port": "80",
         "type": "none",
         "id": "c458695d-6908-45c3-9512-e0c46418454c",
@@ -952,24 +667,7 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:136ms"
-    },
-    {
-        "add": "141.101.121.120",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddeb\ud83c\uddf7\u00ae\ufe0fFrance\u00a9\ufe0fParis\ud83c\udd7f\ufe0fping:115ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:14ms"
     },
     {
         "add": "185.146.173.25",
@@ -986,24 +684,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:83ms"
-    },
-    {
-        "add": "77.37.33.77",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\uddfe\u00ae\ufe0fCyprus\u00a9\ufe0fNicosia\ud83c\udd7f\ufe0fping:13ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:49ms"
     },
     {
         "add": "185.146.173.25",
@@ -1020,24 +701,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:53ms"
-    },
-    {
-        "add": "185.146.173.25",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:186ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:24ms"
     },
     {
         "add": "ru1.nodea6a6.skynode.me",
@@ -1054,7 +718,225 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:20ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:159ms"
+    },
+    {
+        "add": "ru1.nodea6a6.skynode.me",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "c3f95b7e-0fc7-3311-9a3d-e34e675632d4",
+        "net": "ws",
+        "path": "/download?ed=2048Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:188ms"
+    },
+    {
+        "add": "51.79.102.253",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "net": "ws",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:123ms"
+    },
+    {
+        "v": "2",
+        "add": "146.190.82.241",
+        "port": "80",
+        "type": "auto",
+        "id": "ee76cecf-1219-42be-ae3f-6b8077e4cacc",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddec\u00ae\ufe0fSingapore\u00a9\ufe0fSingapore (Pioneer)\ud83c\udd7f\ufe0fping:123ms"
+    },
+    {
+        "v": "2",
+        "add": "45.136.244.181",
+        "port": "80",
+        "type": "auto",
+        "id": "a25881f3-967f-3265-bc7f-9e66857b016b",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf7\ud83c\uddfa\u00ae\ufe0fRussia\u00a9\ufe0fZelenograd (Zelenogradskiy administrativnyy okrug)\ud83c\udd7f\ufe0fping:173ms"
+    },
+    {
+        "v": "2",
+        "add": "52.78.213.224",
+        "port": "80",
+        "type": "auto",
+        "id": "6f442823-6b73-4b31-f1f5-aa1e907b051e",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddf7\u00ae\ufe0fSouth Korea\u00a9\ufe0fSeoul\ud83c\udd7f\ufe0fping:48ms"
+    },
+    {
+        "v": "2",
+        "add": "hn1.safepn.net",
+        "port": "80",
+        "type": "auto",
+        "id": "ee76cecf-1219-42be-ae3f-6b8077e4cacc",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:160ms"
+    },
+    {
+        "v": "2",
+        "add": "uicdn.cf",
+        "port": "80",
+        "type": "auto",
+        "id": "6fea1649-425b-4092-bf53-29792152c925",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:109ms"
+    },
+    {
+        "v": "2",
+        "add": "185.146.173.117",
+        "port": "80",
+        "type": "none",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
+        "aid": "0",
+        "net": "ws",
+        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:62ms"
+    },
+    {
+        "v": "2",
+        "add": "a05447bd-t5d5s0-t6z0et-1t60o.hk3.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "ce481c6e-f4c8-11ef-bbb0-f23c91cfbbc9",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCentral\ud83c\udd7f\ufe0fping:162ms"
+    },
+    {
+        "v": "2",
+        "add": "141.101.121.250",
+        "port": "80",
+        "type": "none",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
+        "aid": "0",
+        "net": "ws",
+        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddeb\ud83c\uddf7\u00ae\ufe0fFrance\u00a9\ufe0fParis\ud83c\udd7f\ufe0fping:83ms"
+    },
+    {
+        "v": "2",
+        "add": "mm2.shabijichang.com",
+        "port": "80",
+        "type": "none",
+        "id": "c458695d-6908-45c3-9512-e0c46418454c",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:117ms"
+    },
+    {
+        "add": "185.146.173.25",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:141ms"
+    },
+    {
+        "add": "185.146.173.25",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
+        "net": "ws",
+        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:63ms"
+    },
+    {
+        "add": "185.146.173.25",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:187ms"
+    },
+    {
+        "alpn": "h2,http/1.1",
+        "v": "2",
+        "path": "/v2-uk-1.v2ray.cc/anything/freevpn.us-vpnvipnor4/vmess",
+        "sni": "creativecommons.org",
+        "net": "ws",
+        "id": "7772bb24-976a-45ca-aa76-f4f1b7f50923",
+        "add": "104.22.30.97",
+        "tls": "",
+        "scy": "auto",
+        "fp": "",
+        "host": "91.341.94.160",
+        "type": "",
+        "port": "80",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:30ms"
     },
     {
         "add": "77.37.33.108",
