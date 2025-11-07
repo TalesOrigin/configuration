@@ -7492,6 +7492,20 @@
         "v": "2"
     },
     {
+        "add": "ru1.nodea6a6.skynode.me",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "c3f95b7e-0fc7-3311-9a3d-e34e675632d4",
+        "net": "ws",
+        "path": "/download",
+        "port": "80",
+        "ps": "@Vip_Security join us - 50\n",
+        "skip-cert-verify": true,
+        "tls": "",
+        "type": "none",
+        "v": "2"
+    },
+    {
         "add": "185.146.173.25",
         "aid": "0",
         "alpn": "",
@@ -7501,7 +7515,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 435\n",
+        "ps": "@Vip_Security join us - 28\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
