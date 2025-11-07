@@ -2,19 +2,6 @@
     {
         "v": "2",
         "ps": "@Hope_Net-join-us-on-Telegram",
-        "add": "sg2.safepn.net",
-        "port": "80",
-        "type": "auto",
-        "id": "ee76cecf-1219-42be-ae3f-6b8077e4cacc",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram",
         "add": "172.67.199.34",
         "port": "80",
         "type": "auto",
@@ -300,19 +287,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udde9\ud83c\uddea \u5fb7\u56fd V2CROSS.COM",
-        "add": "77.37.33.227",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 _US_\u7f8e\u56fd->\ud83c\uddec\ud83c\udde7_GB_\u82f1\u56fd_1",
         "add": "mrb2.shabijichang.com",
         "port": "80",
@@ -405,20 +379,7 @@
     {
         "v": "2",
         "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.16",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.117",
+        "add": "185.146.173.24",
         "port": "80",
         "type": "none",
         "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
