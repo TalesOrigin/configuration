@@ -6912,6 +6912,20 @@
         "v": "2"
     },
     {
+        "add": "ru1.nodea6a6.skynode.me",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "c3f95b7e-0fc7-3311-9a3d-e34e675632d4",
+        "net": "ws",
+        "path": "/download",
+        "port": "80",
+        "ps": "@Vip_Security join us - 441\n",
+        "skip-cert-verify": true,
+        "tls": "",
+        "type": "none",
+        "v": "2"
+    },
+    {
         "add": "185.146.173.25",
         "aid": "0",
         "alpn": "",
@@ -6956,6 +6970,40 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
+        "v": "2"
+    },
+    {
+        "add": "ru1.nodea6a6.skynode.me",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "c3f95b7e-0fc7-3311-9a3d-e34e675632d4",
+        "net": "ws",
+        "path": "/download?ed=2048Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12",
+        "port": "80",
+        "ps": "\ud83c\uddf7\ud83c\uddfa@FreakConfig",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
+        "add": "185.146.173.25",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "@V2RAY_VMESS_free",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
         "v": "2"
     },
     {
