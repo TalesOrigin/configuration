@@ -7143,23 +7143,6 @@
         "v": "2"
     },
     {
-        "add": "ru1.nodea6a6.skynode.me",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "c3f95b7e-0fc7-3311-9a3d-e34e675632d4",
-        "net": "ws",
-        "path": "/download?ed=2048Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12",
-        "port": "80",
-        "ps": "\ud83c\uddf7\ud83c\uddfa@FreakConfig",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "185.146.173.25",
         "aid": "0",
         "alpn": "",
