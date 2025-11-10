@@ -1,22 +1,5 @@
 [
     {
-        "add": "151.101.2.228",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "7f3e901c-76eb-4480-8803-947e4674ecaa",
-        "net": "ws",
-        "path": "/RACEVPN?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn",
-        "port": "80",
-        "ps": "@Hope_Net-join-us-on-Telegram",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\ud83c\udde9\ud83c\uddea \u5fb7\u56fd 33",
         "add": "185.146.173.16",
@@ -353,6 +336,22 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e518",
+        "add": "151.101.2.228",
+        "port": "80",
+        "id": "7f3e901c-76eb-4480-8803-947e4674ecaa",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/RACEVPN?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn",
+        "tls": "",
+        "sni": "",
+        "test_name": "18"
     },
     {
         "v": "2",
