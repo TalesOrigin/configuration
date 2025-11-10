@@ -72,6 +72,8 @@ vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80??path=%2Fvless%2F&
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=&encryption=none&fp=chrome&type=ws&host=91.241.94.160#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://9641326b-376f-45ac-8ce7-dea3bbf974f3@51.195.92.49:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://9641326b-376f-45ac-8ce7-dea3bbf974f3@51.195.92.49:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://9641326b-376f-45ac-8ce7-dea3bbf974f3@51.195.92.49:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://bed5834d-7597-4af7-990e-abe1a3604557@45.76.17.24:80??path=%2Fhjgfdws&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
@@ -200,6 +202,8 @@ vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80??path=%2Fvless%2F&
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=&encryption=none&fp=chrome&type=ws&host=91.241.94.160#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://9641326b-376f-45ac-8ce7-dea3bbf974f3@51.195.92.49:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://9641326b-376f-45ac-8ce7-dea3bbf974f3@51.195.92.49:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://9641326b-376f-45ac-8ce7-dea3bbf974f3@51.195.92.49:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://bed5834d-7597-4af7-990e-abe1a3604557@45.76.17.24:80??path=%2Fhjgfdws&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
