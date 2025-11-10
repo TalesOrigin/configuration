@@ -1,16 +1,20 @@
 [
     {
-        "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram",
-        "add": "text1.xbywwcp.us",
-        "port": "80",
-        "type": "none",
-        "id": "c13208bf-d4f7-3e84-8f17-3d6c0830be2e",
+        "add": "151.101.2.228",
         "aid": "0",
-        "net": "ws",
-        "path": "/by.xbygood.xyz",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "tls": ""
+        "id": "7f3e901c-76eb-4480-8803-947e4674ecaa",
+        "net": "ws",
+        "path": "/RACEVPN?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn",
+        "port": "80",
+        "ps": "@Hope_Net-join-us-on-Telegram",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "v": "2",

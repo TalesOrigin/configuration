@@ -221,6 +221,7 @@ vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80??path=%2Fvless%2F&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=&encryption=none&fp=chrome&type=ws&host=91.241.94.160#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://9641326b-376f-45ac-8ce7-dea3bbf974f3@51.195.92.49:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://9641326b-376f-45ac-8ce7-dea3bbf974f3@51.195.92.49:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80??path=%2Fnews&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
