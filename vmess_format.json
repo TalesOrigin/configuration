@@ -80,20 +80,7 @@
     {
         "v": "2",
         "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.126",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "141.101.121.250",
+        "add": "185.146.173.82",
         "port": "80",
         "type": "none",
         "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
@@ -282,19 +269,6 @@
         "aid": "0",
         "net": "ws",
         "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "141.101.120.130",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1/?ed=2560",
         "host": "91.341.94.160",
         "tls": ""
     },
