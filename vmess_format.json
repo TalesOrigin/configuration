@@ -80,7 +80,7 @@
     {
         "v": "2",
         "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.16",
+        "add": "185.146.173.24",
         "port": "80",
         "type": "none",
         "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
@@ -230,19 +230,6 @@
         "aid": "0",
         "net": "ws",
         "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.117",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
         "host": "91.341.94.160",
         "tls": ""
     },
@@ -6811,7 +6798,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 408\n",
+        "ps": "@Vip_Security join us - 406\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
