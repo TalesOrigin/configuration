@@ -9940,6 +9940,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=%2Fassets%2Fimg%2Fbanner_v3.webp%2F&security=&encryption=none&host=ws.ne1.tunnelx.space&type=ws#@V2rayNG3
 vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#@V2rayNG3
+vless://fb7f0c92-bb5b-4664-8172-03b93ab702e8@188.114.96.3:443?mode=packet-up&path=%2Fkingmethode%3Fed%3D2048&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%7D&host=in.site.to.maman.heyter.kirseyyed.dPdns.org&fp=chrome&type=xhttp&sni=in.site.to.maman.heyter.kirseyyed.dPdns.org#GOOGLE CERT 🔐
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.32.36:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
