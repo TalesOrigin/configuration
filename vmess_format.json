@@ -1,22 +1,5 @@
 [
     {
-        "add": "162.159.129.138",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "5820093a-bb7d-4e15-8575-1a529f2d8282",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "@Hope_Net-join-us-on-Telegram",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "@Hope_Net-join-us-on-Telegram",
         "add": "185.146.173.48",
@@ -104,32 +87,6 @@
         "aid": "0",
         "net": "ws",
         "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.16",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "141.101.121.251",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
         "host": "91.341.94.160",
         "tls": ""
     },
@@ -369,19 +326,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
-        "add": "185.146.173.16",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 _US_\u7f8e\u56fd_2",
         "add": "wnd2.shabijichang.com",
         "port": "80",
@@ -422,13 +366,13 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "141.101.121.251",
+        "add": "141.101.121.120",
         "port": "80",
         "type": "none",
         "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
         "aid": "0",
         "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
+        "path": "/?BIA_TELEGRAM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)",
         "host": "91.341.94.160",
         "tls": ""
     },
