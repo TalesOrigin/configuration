@@ -78,22 +78,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\u672a\u77e526",
-        "add": "104.21.71.88",
-        "port": "80",
-        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/v118-fccxmxm35",
-        "tls": "",
-        "sni": "",
-        "test_name": "26"
-    },
-    {
         "add": "185.146.173.25",
         "aid": "0",
         "alpn": "",
@@ -6683,6 +6667,23 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
+        "v": "2"
+    },
+    {
+        "add": "185.146.173.25",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ed1b5743-389b-48a2-8d60-3790eded7ca6",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "\ud83c\udde9\ud83c\uddea@FreakConfig",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
         "v": "2"
     },
     {
