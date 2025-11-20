@@ -1,16 +1,20 @@
 [
     {
-        "v": "2",
-        "ps": "84@oneclickvpnkeys",
-        "add": "4bb6-B667-f88608d19Fd5.664.QZz.iO",
-        "port": "80",
-        "type": "none",
-        "id": "0507fbcd-b983-43a7-8e1d-2c561960ad4f",
+        "add": "6B-4f68-8D87-7c4AAdD12Ab9.664.QzZ.iO",
         "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "0507fbcd-b983-43a7-8e1d-2c561960ad4f",
         "net": "ws",
         "path": "/pyyY4ZVTyJV3vr9noOhn",
-        "host": "91.341.94.160",
-        "tls": ""
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:115ms"
     },
     {
         "v": "2",
@@ -87,19 +91,6 @@
         "aid": "0",
         "net": "ws",
         "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
-        "add": "185.146.173.126",
-        "port": "80",
-        "type": "none",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/?BIA_TELEGRAM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)TM(@AZARBAYJAB1)",
         "host": "91.341.94.160",
         "tls": ""
     },
