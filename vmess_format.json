@@ -14,6 +14,24 @@
         "skip-cert-verify": true
     },
     {
+        "add": "15.235.41.200",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "net": "ws",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "port": "80",
+        "ps": "\ud83c\udde8\ud83c\udde6[openproxylist.com] vmess-CA",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "skip-cert-verify": true
+    },
+    {
         "v": "2",
         "ps": "84@oneclickvpnkeys",
         "add": "4bb6-B667-f88608d19Fd5.664.QZz.iO",
