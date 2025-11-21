@@ -41,7 +41,6 @@ vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&
 vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80??path=%2FCczu8jOo6HDo%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40meli_proxyy
 vless://204feb05-f696-4bc6-bd9f-8d92a3306f06@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40meli_proxyy
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80??path=%2Frfvtgws&security=none&encryption=none&type=ws&host=91.241.94.160#@meli_proxyy
-vless://b7c88dc6-1513-49c0-be12-1cfe37bcd25b@usa.fastlynew.hosting-ip.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#I%201217%20%28%40Outline_Vpn%29%20free
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@149.248.58.105:80??path=%2Frfvtgws&security=none&encryption=none&type=ws&host=91.241.94.160#telegram%20%F0%9F%8E%AA%20dailyv2ry
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@45.32.82.127:80??path=%2Frfvtgws&security=none&encryption=none&type=ws&host=91.241.94.160#telegram%20%F0%9F%8E%AA%20dailyv2ry
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@64.176.191.177:80??path=%2Frfvtgws&security=none&encryption=none&type=ws&host=91.241.94.160#telegram%20%F0%9F%8D%80%20dailyv2ry
@@ -49,6 +48,7 @@ vless://e819cfb1-3c30-48b0-957d-e479bace661b@64.176.188.215:80??path=%2Frfvtgws&
 vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80??path=%2Frfvtgws&security=none&encryption=none&type=ws&host=91.241.94.160#telegram%20%F0%9F%8C%BA%20dailyv2ry
 vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80??path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=91.241.94.160&fp=random&type=ws&sni=havvas.shohreh.dpdns.org#telegram%20%F0%9F%8C%9F%20dailyv2ry
 vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80??path=%2Fvless%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://b7c88dc6-1513-49c0-be12-1cfe37bcd25b@usa.fastlynew.hosting-ip.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#I%201217%20%28%40Outline_Vpn%29%20free
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#France%200VHcloud
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fnews#TG%3A%40v2ray_sub
@@ -195,11 +195,12 @@ vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 422
-vless://9e762b54-0f29-4ff5-811a-1c2da9ec8f0a@151.101.3.8:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 413
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 408
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 391
-vless://0c63756c-7e06-403b-8093-ac6a26ac1fb8@151.101.3.8:80??path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 383
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 416
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fupload&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#@Vip_Security join us - 415
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 414
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80??path=%2F%3Fed%3DTelegram%40vpnserverrr---Telegram%40vpnserverrr%3D%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 413
+vless://2e7101ba-2cf5-ed93-826f-e0d9ae5ce373@fastly.vipfast7.top:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 393
+vless://1d2252b8-f8a5-4d15-a146-e91de03a7f58@speedtest.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 390
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
