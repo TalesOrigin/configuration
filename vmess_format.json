@@ -247,21 +247,21 @@
         "tls": ""
     },
     {
-        "add": "6B-4f68-8D87-7c4AAdD12Ab9.664.QzZ.iO",
+        "add": "185.146.173.25",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "0507fbcd-b983-43a7-8e1d-2c561960ad4f",
+        "id": "de579858-98f4-428f-859c-7eecd985b9de",
         "net": "ws",
-        "path": "/pyyY4ZVTyJV3vr9noOhn",
+        "path": "/",
         "port": "80",
+        "ps": "telegram \u2602\ufe0f dailyv2ry",
         "scy": "auto",
         "sni": "",
-        "tls": "",
+        "tls": "none",
         "type": "",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:34ms"
+        "v": "2"
     },
     {
         "add": "185.146.173.25",
@@ -278,23 +278,6 @@
         "sni": "",
         "tls": "",
         "type": "---",
-        "v": "2"
-    },
-    {
-        "add": "185.146.173.25",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "de579858-98f4-428f-859c-7eecd985b9de",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "telegram \u2602\ufe0f dailyv2ry",
-        "scy": "auto",
-        "sni": "",
-        "tls": "none",
-        "type": "",
         "v": "2"
     },
     {
