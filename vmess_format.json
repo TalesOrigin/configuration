@@ -1,35 +1,20 @@
 [
     {
-        "add": "4bb6-B667-f88608d19Fd5.664.QZz.iO",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "0507fbcd-b983-43a7-8e1d-2c561960ad4f",
-        "net": "ws",
-        "path": "/pyyY4ZVTyJV3vr9noOhn",
-        "port": "80",
-        "ps": "\ud83c\uddfa\ud83c\uddf8[openproxylist.com] vmess-US",
-        "tls": "",
-        "type": "none",
-        "v": "2",
-        "skip-cert-verify": true
-    },
-    {
-        "add": "15.235.41.200",
+        "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "id": "2c4d6f66-2966-49c1-93aa-a7192ba8f8fc",
         "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
-        "ps": "\ud83c\udde8\ud83c\udde6[openproxylist.com] vmess-CA",
+        "ps": "@Hope_Net-join-us-on-Telegram",
         "scy": "auto",
         "sni": "",
         "tls": "",
         "type": "",
-        "v": "2",
-        "skip-cert-verify": true
+        "v": "2"
     },
     {
         "v": "2",
