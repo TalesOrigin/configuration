@@ -1,32 +1,6 @@
 [
     {
         "v": "2",
-        "add": "108.181.10.17",
-        "port": "80",
-        "type": "none",
-        "id": "474e8680-701f-11ee-b436-205c6d5f5d78",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fLos Angeles\ud83c\udd7f\ufe0fping:64ms"
-    },
-    {
-        "v": "2",
-        "add": "dfed4efb-t4n8g0-t636g9-luwe.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "a2b0fd2b-716f-0df8-d4e2-03a1c00e5f1a",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fSham Tseng\ud83c\udd7f\ufe0fping:142ms"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 HK\u00b2_5|0.6MB/s|2%|YT|NF|D+|X|KeepHistory",
         "add": "32c57d76-t66sg0-t7n4ch-1rfon.hk3.p5pv.com",
         "port": "80",
