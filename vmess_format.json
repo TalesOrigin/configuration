@@ -135,32 +135,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 HK\u00b2_3|0.6MB/s|0%|YT|D+|X|KeepHistory",
-        "add": "6bbacbda-t1ekg0-t2uo6p-yjq0.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "25b2699a-e18e-11ec-8e69-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u4e2d\u56fd - \u9999\u6e2f - Hong Kong Telecommunications (HKT) Limited Mass Internet - 2",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "25b2699a-e18e-11ec-8e69-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 HK\u00b2_5|5.3MB/s|2%|GPT\u207a|YT|NF|D+|X",
         "add": "hkt.gotochinatown.net",
         "port": "80",
