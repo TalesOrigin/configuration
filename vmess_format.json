@@ -316,6 +316,22 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\u672a\u77e546",
+        "add": "104.26.15.148",
+        "port": "80",
+        "id": "2f188c61-6622-4056-810e-a1a5f1c9b023",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "tls": "",
+        "sni": "",
+        "test_name": "46"
+    },
+    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
