@@ -1,5 +1,22 @@
 [
     {
+        "add": "104.26.15.148",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2f188c61-6622-4056-810e-a1a5f1c9b023",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 HK\u00b2_5|0.6MB/s|2%|YT|NF|D+|X|KeepHistory",
         "add": "32c57d76-t66sg0-t7n4ch-1rfon.hk3.p5pv.com",
@@ -323,6 +340,19 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "v": "2",
+        "add": "mm2.shabijichang.com",
+        "port": "80",
+        "type": "none",
+        "id": "c458695d-6908-45c3-9512-e0c46418454c",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:27ms"
     },
     {
         "add": "51.79.102.253",
