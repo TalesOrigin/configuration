@@ -316,19 +316,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "add": "mm2.shabijichang.com",
-        "port": "80",
-        "type": "none",
-        "id": "c458695d-6908-45c3-9512-e0c46418454c",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:27ms"
-    },
-    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
