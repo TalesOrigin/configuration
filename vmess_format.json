@@ -135,19 +135,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 HK\u00b2_5|5.3MB/s|2%|GPT\u207a|YT|NF|D+|X",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "384d1b42-655f-11ed-a8bf-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 _CA_\u52a0\u62ff\u5927",
         "add": "108.181.10.17",
         "port": "80",
