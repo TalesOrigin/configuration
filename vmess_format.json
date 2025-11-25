@@ -1,58 +1,6 @@
 [
     {
         "v": "2",
-        "add": "188.114.99.18",
-        "port": "80",
-        "type": "none",
-        "id": "d2866d01-d76d-4a08-8bae-04fb3c502588",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fWashington D.C.\ud83c\udd7f\ufe0fping:176ms"
-    },
-    {
-        "v": "2",
-        "add": "104.21.75.246",
-        "port": "80",
-        "type": "none",
-        "id": "c458695d-6908-45c3-9512-e0c46418454c",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:84ms"
-    },
-    {
-        "v": "2",
-        "add": "wnd2.shabijichang.com",
-        "port": "80",
-        "type": "none",
-        "id": "c458695d-6908-45c3-9512-e0c46418454c",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:22ms"
-    },
-    {
-        "v": "2",
-        "add": "dfed4efb-t4n8g0-t636g9-luwe.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "a2b0fd2b-716f-0df8-d4e2-03a1c00e5f1a",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fKeng Hau\ud83c\udd7f\ufe0fping:148ms"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 HK\u00b2_5|0.6MB/s|2%|YT|NF|D+|X|KeepHistory",
         "add": "32c57d76-t66sg0-t7n4ch-1rfon.hk3.p5pv.com",
         "port": "80",
