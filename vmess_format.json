@@ -118,6 +118,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 HK-1.65.202.165-5028",
+        "add": "580abbb4-suvds0-sv5llu-1ldl3.hk3.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "fd224a6c-addc-11ed-a8bf-f23c91cfbbc9",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 _CA_\u52a0\u62ff\u5927",
         "add": "108.181.10.17",
         "port": "80",
