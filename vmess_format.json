@@ -1,45 +1,6 @@
 [
     {
         "v": "2",
-        "add": "188.114.98.18",
-        "port": "80",
-        "type": "none",
-        "id": "d2866d01-d76d-4a08-8bae-04fb3c502588",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:180ms"
-    },
-    {
-        "v": "2",
-        "add": "188.114.99.18",
-        "port": "80",
-        "type": "none",
-        "id": "d2866d01-d76d-4a08-8bae-04fb3c502588",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fWashington D.C.\ud83c\udd7f\ufe0fping:124ms"
-    },
-    {
-        "v": "2",
-        "add": "104.26.8.44",
-        "port": "80",
-        "type": "none",
-        "id": "5180444a-4756-43b4-960b-49eb9052e4e8",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:133ms"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-51.79.102.253:80",
         "add": "51.79.102.253",
         "port": "80",
