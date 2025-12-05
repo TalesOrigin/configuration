@@ -19,8 +19,8 @@ vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80??path=%2Fvl
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%D9%87%D9%84%D9%86%D8%AF
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%202
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%203
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/news#DE%20VLESS-78%20%7C%20free-nodes
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80??path=/news&security=none&encryption=none&host=91.241.94.160&type=ws#DE%20VLESS-82%20%7C%20free-nodes
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fnews#%E6%9C%AA%E7%9F%A5%20VLESS-70%20%7C%20free-nodes
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80??path=/news&security=none&encryption=none&host=91.241.94.160&type=ws#%E6%9C%AA%E7%9F%A5%20VLESS-74%20%7C%20free-nodes
 vless://e927c61f-8a00-45a5-9d43-06ac4f1b8b0e@188.114.96.3:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FQyAbjEiGvmffRF36%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.96.3%3A80
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.87.230%3A80
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.40.145%3A80
