@@ -794,16 +794,42 @@
     },
     {
         "v": "2",
-        "add": "104.21.75.246",
+        "add": "73d73acd-sv2sg0-t7bo2t-1psmw.hk3.p5pv.com",
         "port": "80",
         "type": "none",
-        "id": "c458695d-6908-45c3-9512-e0c46418454c",
-        "aid": "0",
+        "id": "42bb6d36-97c7-11ee-be7f-f23c9164ca5d",
+        "aid": "2",
         "net": "ws",
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:308ms"
+    },
+    {
+        "v": "2",
+        "add": "e3e1e5e7-t6ngg0-t8em25-1o8ak.hk3.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "8bb68d04-6973-11ee-b518-f23c9164ca5d",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:316ms"
+    },
+    {
+        "v": "2",
+        "add": "6706475c-t6ngg0-tbnk1n-ueq.hk3.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "91df5a86-fcdd-11ef-94aa-f23c913c8d2b",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:309ms"
     },
     {
         "add": "hkt.gotochinatown.net",
