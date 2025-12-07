@@ -365,59 +365,42 @@
     },
     {
         "v": "2",
-        "add": "15.235.41.200",
+        "add": "87a8ce25-sv2sg0-tbicd9-1go3q.hk3.p5pv.com",
         "port": "80",
         "type": "none",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:158ms"
-    },
-    {
-        "v": "2",
-        "add": "a731a8b3-sv2sg0-sy1a0y-1iyov.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "33629870-e57e-11ec-bb74-f23c9164ca5d",
+        "id": "19dd9c70-e4a5-11ed-8347-f23c9164ca5d",
         "aid": "2",
         "net": "ws",
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:1258ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:277ms"
     },
     {
         "v": "2",
-        "add": "34013157-sunz40-taz53d-1j0y6.hk3.p5pv.com",
+        "add": "418446e2-sv2sg0-t2nkut-jx5r.hk3.p5pv.com",
         "port": "80",
         "type": "none",
-        "id": "1cce7df2-251c-11ee-9409-f23c9164ca5d",
+        "id": "73bfcc1c-5814-5f2a-b43a-3ef6af011db8",
         "aid": "2",
         "net": "ws",
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:1247ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:269ms"
     },
     {
-        "add": "7a2912ee-sv0xs0-sypj6z-1rk9y.hk3.p5pv.com",
+        "v": "2",
+        "add": "7dfe4b59-svc1s0-tc67m2-1tjc4.hk3.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "fac704ae-0304-11f0-a2ef-f23c91cfbbc9",
         "aid": "2",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "88f6e3c4-1d01-11ef-812c-f23c91cfbbc9",
         "net": "ws",
         "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
+        "host": "91.341.94.160",
         "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:256ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:276ms"
     },
     {
         "add": "www.aetv.com",
@@ -434,7 +417,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:46ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:70ms"
     },
     {
         "v": "2",
