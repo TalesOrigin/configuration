@@ -456,19 +456,6 @@
     },
     {
         "v": "2",
-        "add": "4020d7a1-sv0xs0-swkmdk-1imi4.hk3.p5pv.com",
-        "port": "80",
-        "type": "auto",
-        "id": "40fb1315-191a-11ed-b0ca-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:1283ms"
-    },
-    {
-        "v": "2",
         "add": "659ce73e-sv2sg0-tcsjnd-1tff5.hk3.p5pv.com",
         "port": "80",
         "type": "auto",
@@ -478,28 +465,15 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:1276ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:279ms"
     },
     {
-        "v": "2",
-        "add": "c7f55f8c-sv2sg0-t15jkc-eyem.hk3.p5pv.com",
-        "port": "80",
-        "type": "auto",
-        "id": "64617ed2-4823-11ef-9f2d-f23c9164ca5d",
+        "add": "73d73acd-sv2sg0-t7bo2t-1psmw.hk3.p5pv.com",
         "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:249ms"
-    },
-    {
-        "add": "6ernu3zmhsv7s95fm.lovebaipiao.net",
-        "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "7f1744fb-e014-43e9-ab39-1dca96f5e604",
+        "id": "42bb6d36-97c7-11ee-be7f-f23c9164ca5d",
         "net": "ws",
         "path": "/",
         "port": "80",
@@ -508,7 +482,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83e\udd37\u200d\u2640\ufe0f\u00ae\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\u00a9\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\ud83c\udd7f\ufe0fping:186ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:261ms"
     },
     {
         "v": "2",
