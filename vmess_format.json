@@ -40,6 +40,19 @@
     },
     {
         "v": "2",
+        "ps": "HK_120",
+        "add": "25109257-sv4n40-t5qfe2-1khwf.hk3.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "92bd8c68-6434-11ee-b644-f23c91cfbbc9",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f7|@stairnode",
         "add": "cfa9c38f-t6uv40-ta5nd4-e06r.hk3.p5pv.com",
         "port": "80",
@@ -232,23 +245,6 @@
         "path": "/",
         "host": "91.341.94.160",
         "tls": ""
-    },
-    {
-        "add": "ParsVDS.ir",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "4804f14b-c1f8-452d-a6ec-eff1490aeac9",
-        "net": "ws",
-        "path": "/lRkGCkYS9X5GDNJYMWXN7kCm3lL",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:49ms"
     },
     {
         "add": "hkt.gotochinatown.net",
