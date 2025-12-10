@@ -235,19 +235,6 @@
     },
     {
         "v": "2",
-        "add": "cfa9c38f-t6uv40-ta5nd4-e06r.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "861726bb-c61a-b0e0-99fa-5ddfdcf21902",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:245ms"
-    },
-    {
-        "v": "2",
         "add": "104.21.75.246",
         "port": "80",
         "type": "none",
@@ -260,18 +247,21 @@
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udded\ud83c\uddf0HK \ud83e\udded 2.1MB/s",
-        "add": "372220e7-t4jj40-tnnrly-g43g.hkt.gotochinatown.net",
-        "port": "80",
-        "id": "6ddb6a68-d5f5-ca30-3943-cf0c9876d50c",
+        "add": "7bdf5f2f-sv2sg0-t2p691-1s4hc.hk3.p5pv.com",
         "aid": "2",
-        "scy": "auto",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "aafedc64-9c23-11ef-a79f-f23c91cfbbc9",
         "net": "ws",
-        "type": "",
-        "tls": "",
         "path": "/",
-        "host": "91.341.94.160"
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCauseway Bay\ud83c\udd7f\ufe0fping:1281ms"
     },
     {
         "v": "2",
