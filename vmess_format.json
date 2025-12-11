@@ -403,32 +403,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "add": "548481b2-sv2sg0-t2hqlr-1s3mx.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "b58095f0-52dc-11ef-bc74-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fKwu Tung\ud83c\udd7f\ufe0fping:225ms"
-    },
-    {
-        "v": "2",
-        "add": "fb6f1580-sv2sg0-svpmdc-nx3b.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "32315324-cf6b-11ed-979b-f23c9164ca5d",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fKwu Tung\ud83c\udd7f\ufe0fping:246ms"
-    },
-    {
         "add": "hkt.gotochinatown.net",
         "aid": "2",
         "alpn": "",
