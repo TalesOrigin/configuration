@@ -27,19 +27,6 @@
     },
     {
         "v": "2",
-        "ps": "HK_120",
-        "add": "25109257-sv4n40-t5qfe2-1khwf.hk3.p5pv.com",
-        "port": "80",
-        "type": "none",
-        "id": "92bd8c68-6434-11ee-b644-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u4e2d\u56fd - \u9999\u6e2f - Hong Kong Telecommunications (HKT) Limited Mass Internet - 54",
         "add": "06f9c2b4-t729s0-tbnk1n-ueq.hk3.p5pv.com",
         "port": "80",
