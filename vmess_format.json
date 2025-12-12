@@ -404,16 +404,16 @@
     },
     {
         "v": "2",
-        "add": "15.235.41.200",
+        "add": "104.17.18.26",
         "port": "80",
         "type": "none",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "id": "5180444a-4756-43b4-960b-49eb9052e4e8",
         "aid": "0",
         "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:136ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
     },
     {
         "add": "hkt.gotochinatown.net",
