@@ -390,32 +390,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "add": "104.17.18.26",
-        "port": "80",
-        "type": "none",
-        "id": "5180444a-4756-43b4-960b-49eb9052e4e8",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
-    },
-    {
-        "v": "2",
-        "add": "104.21.75.246",
-        "port": "80",
-        "type": "none",
-        "id": "c458695d-6908-45c3-9512-e0c46418454c",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
-    },
-    {
         "add": "hkt.gotochinatown.net",
         "aid": "2",
         "alpn": "",
