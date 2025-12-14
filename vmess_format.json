@@ -1,6 +1,19 @@
 [
     {
         "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 HK\u00b2_49|18.4MB/s|2%|GPT\u207a|YT|NF|D+|X|KeepHistory",
+        "add": "c12c42a5-t6ngg0-t6vxb7-zn8y.hk3.p5pv.com",
+        "port": "80",
+        "type": "none",
+        "id": "44e76f8c-7362-11ec-bb74-f23c9164ca5d",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
         "add": "15.235.41.200",
         "port": "80",
