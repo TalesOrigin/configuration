@@ -56,7 +56,6 @@ vless://b7c88dc6-1513-49c0-be12-1cfe37bcd25b@usa.fastlynew.hosting-ip.com:80??pa
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#France%200VHcloud
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80??path=%2Fdl%2Findex.php&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80??path=%2F193.123.81.105%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
-vless://b7c88dc6-1513-49c0-be12-1cfe37bcd25b@usa.fastlynew.hosting-ip.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#I%201217%20%28%40Outline_Vpn%29%20free
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
