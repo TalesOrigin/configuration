@@ -40,19 +40,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f2|@stairnode",
-        "add": "74ebcaaa-t70f40-t8be2y-1ryup.hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "3ee091ca-ab9c-11ef-a791-f23c9164ca5d",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u4e2d\u56fd - \u9999\u6e2f - Hong Kong Telecommunications (HKT) Limited Mass Internet - 2",
         "add": "hkt.gotochinatown.net",
         "port": "80",
