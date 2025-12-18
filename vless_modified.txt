@@ -199,11 +199,7 @@ vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#%40awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://039b5ea3-2003-485c-8d71-9daf21386990@172.66.156.81:80??encryption=none&type=ws&host=91.241.94.160&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&packetEncoding=xudp#https://t.me/ShadowsocksM81
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80??encryption=none&type=ws&host=91.241.94.160&path=/news&packetEncoding=xudp#https://t.me/ShadowsocksM107
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80??encryption=none&type=ws&host=91.241.94.160&path=/news&packetEncoding=xudp#https://t.me/ShadowsocksM66
-vless://039b5ea3-2003-485c-8d71-9daf21386990@172.66.156.81:80??encryption=none&type=ws&host=91.241.94.160&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&packetEncoding=xudp#https://t.me/ShadowsocksM81
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80??encryption=none&type=ws&host=91.241.94.160&path=/news&packetEncoding=xudp#https://t.me/ShadowsocksM107
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80??encryption=none&type=ws&host=91.241.94.160&path=/news&packetEncoding=xudp#https://t.me/ShadowsocksM66
 vless://01a6e691-b436-40da-bc19-f379923c0f6e@usaa.fastlynew.hosting-ip.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80??path=%2Fnews&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
