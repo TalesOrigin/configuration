@@ -241,19 +241,6 @@
         "test_name": "7"
     },
     {
-        "v": "2",
-        "add": "104.17.18.26",
-        "port": "80",
-        "type": "none",
-        "id": "5180444a-4756-43b4-960b-49eb9052e4e8",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
-    },
-    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
@@ -269,6 +256,23 @@
         "type": "none",
         "v": "2",
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
+    },
+    {
+        "add": "cloudflare.182682.xyz",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "b9a3206d-278c-4614-b352-eef632d1c8d5",
+        "net": "ws",
+        "path": "/rongseven?ed=2048",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fSan Francisco (South Beach)\ud83c\udd7f\ufe0fping:279ms"
     },
     {
         "add": "51.79.102.253",
