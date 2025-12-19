@@ -241,6 +241,19 @@
         "test_name": "9"
     },
     {
+        "v": "2",
+        "add": "104.26.8.44",
+        "port": "80",
+        "type": "none",
+        "id": "5180444a-4756-43b4-960b-49eb9052e4e8",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
+    },
+    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
@@ -258,24 +271,7 @@
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
     },
     {
-        "add": "141.101.120.130",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
-        "net": "ws",
-        "path": "/?---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1/?ed=2560",
-        "port": "80",
-        "scy": "auto",
-        "sni": "TM_AZARBSYJAB1.NEW.1.PAGES.DEV.",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddeb\ud83c\uddf7\u00ae\ufe0fFrance\u00a9\ufe0fParis\ud83c\udd7f\ufe0fping:22ms"
-    },
-    {
-        "add": "141.101.121.250",
+        "add": "185.146.173.117",
         "aid": "0",
         "alpn": "",
         "fp": "",
@@ -287,9 +283,9 @@
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
+        "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf5\ud83c\uddf1\u00ae\ufe0fPoland\u00a9\ufe0fWarsaw\ud83c\udd7f\ufe0fping:22ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf8\ud83c\uddea\u00ae\ufe0fSweden\u00a9\ufe0fStockholm\ud83c\udd7f\ufe0fping:23ms"
     },
     {
         "add": "51.79.102.253",
@@ -5906,7 +5902,7 @@
         "net": "ws",
         "path": "/vmess/",
         "port": "80",
-        "ps": "@Vip_Security join us - 10\n",
+        "ps": "@Vip_Security join us - 426\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
