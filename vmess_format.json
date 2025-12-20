@@ -226,7 +226,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e58",
+        "ps": "\u672a\u77e59",
         "add": "104.26.15.148",
         "port": "80",
         "id": "0cb7b3c3-3c08-4391-af4d-3fc410c9c146",
@@ -238,7 +238,7 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "8"
+        "test_name": "9"
     },
     {
         "add": "104.26.15.148",
