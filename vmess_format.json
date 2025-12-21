@@ -1,22 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram",
-        "add": "blang.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US6"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
         "add": "15.235.41.200",
         "port": "80",
