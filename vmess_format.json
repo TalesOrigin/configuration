@@ -27,32 +27,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f2|@ripaojiedian",
-        "add": "fc9d3bb0-t70f40-t7hmka-1plv4.hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "28213b50-7ed5-11ee-add6-f23c91369f2d",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f2|@stairnode",
-        "add": "fc9d3bb0-t70f40-t7hmka-1plv4.hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "28213b50-7ed5-11ee-add6-f23c91369f2d",
-        "aid": "0",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 _CA_\u52a0\u62ff\u5927",
         "add": "108.181.10.17",
         "port": "80",
@@ -5873,24 +5847,6 @@
         "sni": "broadcastlv.chat.bilibili.com",
         "tls": "",
         "type": "auto",
-        "v": "2"
-    },
-    {
-        "add": "172.111.146.64",
-        "aid": "0",
-        "alpn": "",
-        "fp": "chrome",
-        "host": "91.341.94.160",
-        "id": "05b8c783-7f59-47f9-9923-06a465679f6a",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "@Vip_Security join us - 362\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
         "v": "2"
     },
     {
