@@ -226,7 +226,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:79ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:47ms"
     },
     {
         "add": "956030a4800ad773.hhshdihasgifghleagfuwefogybweufwef.ir",
@@ -247,18 +247,21 @@
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:23ms"
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udded\ud83c\uddf0HK \ud83e\udded 2.2MB/s",
-        "add": "dd1b8960-t70f40-t7fz1r-8rja.hkt.gotochinatown.net",
-        "port": "80",
-        "id": "d18bcaf4-1323-11ec-a0fc-f23c913c8d2b",
-        "aid": "2",
-        "scy": "auto",
+        "add": "141.101.120.250",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
         "net": "ws",
-        "type": "",
+        "path": "/?---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1/?ed=2560",
+        "port": "80",
+        "scy": "auto",
+        "sni": "TM_AZARBSYJAB1.NEW.1.PAGES.DEV.",
         "tls": "",
-        "path": "/",
-        "host": "91.341.94.160"
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddeb\ud83c\uddf7\u00ae\ufe0fFrance\u00a9\ufe0fParis\ud83c\udd7f\ufe0fping:22ms"
     },
     {
         "add": "51.79.102.253",
