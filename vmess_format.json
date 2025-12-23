@@ -1,20 +1,20 @@
 [
     {
-        "add": "104.26.15.148",
+        "add": "104.21.70.68",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "0cb7b3c3-3c08-4391-af4d-3fc410c9c146",
+        "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
+        "ps": "@Hope_Net-join-us-on-Telegram",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "none",
-        "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram"
+        "type": "",
+        "v": "2"
     },
     {
         "v": "2",
@@ -213,19 +213,19 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e54",
-        "add": "104.21.71.88",
+        "ps": "\u672a\u77e512",
+        "add": "104.26.15.148",
         "port": "80",
-        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
+        "id": "0cb7b3c3-3c08-4391-af4d-3fc410c9c146",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "",
+        "type": "none",
         "host": "91.341.94.160",
-        "path": "/us2ekjds3nay",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "4"
+        "test_name": "12"
     },
     {
         "add": "51.79.102.253",
