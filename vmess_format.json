@@ -1,22 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram",
-        "add": "104.21.71.88",
-        "port": "80",
-        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/us2ekjds3nay",
-        "tls": "",
-        "sni": "",
-        "test_name": "94"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
         "add": "15.235.41.200",
         "port": "80",
@@ -227,6 +211,22 @@
         "test_name": "4"
     },
     {
+        "v": "2",
+        "add": "104.21.71.88",
+        "port": "80",
+        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/us2ekjds3nay",
+        "tls": "",
+        "sni": "",
+        "test_name": "94",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
+    },
+    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
@@ -258,7 +258,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:55ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:84ms"
     },
     {
         "add": "956030a4800ad773.hhshdihasgifghleagfuwefogybweufwef.ir",
@@ -276,24 +276,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:30ms"
-    },
-    {
-        "add": "pq-brazil1.09vpn.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde7\ud83c\uddf7\u00ae\ufe0fBrazil\u00a9\ufe0fS\u00e3o Paulo\ud83c\udd7f\ufe0fping:239ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:23ms"
     },
     {
         "add": "51.79.102.253",
