@@ -468,58 +468,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "add": "bbbbbbbbb.222769.xyz",
-        "port": "80",
-        "type": "none",
-        "id": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
-        "aid": "0",
-        "net": "ws",
-        "path": "/f6taOMcOSZb9TPR",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:72ms"
-    },
-    {
-        "v": "2",
-        "add": "GgGgGGgGggggGg.222769.XYZ",
-        "port": "80",
-        "type": "none",
-        "id": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
-        "aid": "0",
-        "net": "ws",
-        "path": "/f6taOMcOSZb9TPR",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:74ms"
-    },
-    {
-        "v": "2",
-        "add": "dddffgthyu.922922.shop",
-        "port": "80",
-        "type": "none",
-        "id": "bce0c7cb-08d1-46a7-b77b-7bff8b46252f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/RkUUbqhA9GJZBROjL3Q5vTymr",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:72ms"
-    },
-    {
-        "v": "2",
-        "add": "xxxccfrt.922922.shop",
-        "port": "80",
-        "type": "none",
-        "id": "bce0c7cb-08d1-46a7-b77b-7bff8b46252f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/RkUUbqhA9GJZBROjL3Q5vTymr",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fSan Francisco (South Beach)\ud83c\udd7f\ufe0fping:72ms"
-    },
-    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
