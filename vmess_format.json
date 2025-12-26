@@ -351,32 +351,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "add": "xxxccfrt.922922.shop",
-        "port": "80",
-        "type": "none",
-        "id": "bce0c7cb-08d1-46a7-b77b-7bff8b46252f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/RkUUbqhA9GJZBROjL3Q5vTymr",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fSan Francisco (South Beach)\ud83c\udd7f\ufe0fping:75ms"
-    },
-    {
-        "v": "2",
-        "add": "ZzXxdE.922922.sHOp",
-        "port": "80",
-        "type": "none",
-        "id": "bce0c7cb-08d1-46a7-b77b-7bff8b46252f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/RkUUbqhA9GJZBROjL3Q5vTymr",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddfa\ud83c\uddf8\u00ae\ufe0fUnited States\u00a9\ufe0fSan Francisco (South Beach)\ud83c\udd7f\ufe0fping:73ms"
-    },
-    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
@@ -5929,6 +5903,36 @@
         "sni": "",
         "tls": "",
         "type": "",
+        "v": "2"
+    },
+    {
+        "add": "42.2.113.136",
+        "aid": "2",
+        "host": "91.341.94.160",
+        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "@awlix_ir",
+        "scy": "auto",
+        "sni": "broadcastlv.chat.bilibili.com",
+        "tls": "",
+        "type": "auto",
+        "v": "2"
+    },
+    {
+        "add": "42.2.113.136",
+        "aid": "2",
+        "host": "91.341.94.160",
+        "id": "98d2b660-7218-11ec-bd7c-f23c913c8d2b",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "@awlix_ir",
+        "scy": "auto",
+        "sni": "broadcastlv.chat.bilibili.com",
+        "tls": "",
+        "type": "auto",
         "v": "2"
     },
     {
