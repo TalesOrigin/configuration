@@ -195,6 +195,23 @@
         "tls": ""
     },
     {
+        "add": "141.95.160.235",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "8500264f-8362-4c30-a97f-6594d8445e0b",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddeb\ud83c\uddf7\u00ae\ufe0fFrance\u00a9\ufe0fGravelines\ud83c\udd7f\ufe0fping:30ms"
+    },
+    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
