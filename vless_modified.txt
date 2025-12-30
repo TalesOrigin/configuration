@@ -236,6 +236,7 @@ vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=n
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80??path=%2Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
 vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80??path=%2Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
+vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
