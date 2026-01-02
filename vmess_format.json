@@ -12,6 +12,24 @@
         "ps": "[OpenRay] \ud83c\udde8\ud83c\udde6 CA-8649"
     },
     {
+        "add": "23.27.28.103",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "rootface-@pwn1337-\ud83c\udf84",
+        "insecure": "0",
+        "net": "ws",
+        "path": "/\ud808\ude6d\ud80c\udda9@rootface\ud808\udd9c Merry Christmas \ud83c\udf84\ud83e\udd73\ud83c\udf81\ud808\ude6d @pwn_1337 TELEGRAM",
+        "port": "80",
+        "ps": "US \ud83c\udf84 \ud808\ude6d\ud80c\udda9@rootface\ud808\udd9c\ud808\ude6d WS \ud83c\udf83",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
         "add": "15.235.41.200",
