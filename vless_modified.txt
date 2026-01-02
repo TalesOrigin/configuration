@@ -203,11 +203,8 @@ vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 68
-vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 67
-vless://94924a56-29dc-44ad-846b-91e3908d1bd8@94.140.0.149:80??path=%2F%E8%B7%8C%E5%80%92%E4%B8%83%E6%AC%A1%EF%BC%8C%E7%88%AC%E8%B5%B7%E6%9D%A5%E5%85%AB%E6%AC%A1&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 53
-vless://94924a56-29dc-44ad-846b-91e3908d1bd8@104.17.6.228:80??path=%2F%E8%B7%8C%E5%80%92%E4%B8%83%E6%AC%A1%EF%BC%8C%E7%88%AC%E8%B5%B7%E6%9D%A5%E5%85%AB%E6%AC%A1&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 52
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80??path=%2Fnews&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 35
+vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 488
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80??path=%2Fnews&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 449
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
