@@ -1172,3 +1172,4 @@ vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80??path=%2Fvless%2F&
 vless://turboo-server@turboo-server.sadafspace.com:80??path=%2Fed%3D2560&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:10ms
 vless://turboo-server@turboo-server.sadafspace.com:80??path=%2Fed%3D2560&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:1.82ms
 vless://turboo-server@turboo-server.sadafspace.com:80??path=%2Fed%3D2560&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:10ms
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:1ms
