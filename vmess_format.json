@@ -1,5 +1,23 @@
 [
     {
+        "add": "en2.ztping.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "chrome",
+        "host": "91.341.94.160",
+        "id": "71b92a3a-74ee-460a-a2be-afaddd90193d",
+        "net": "ws",
+        "path": "",
+        "port": "80",
+        "ps": "\ud83c\uddec\ud83c\udde7[openproxylist.com] vmess-GB",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "skip-cert-verify": true
+    },
+    {
         "add": "51.79.102.253",
         "id": "58fe1542-5290-40ad-815a-77707a81afe5",
         "port": "80",
