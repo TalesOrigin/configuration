@@ -38,25 +38,25 @@
         "tls": ""
     },
     {
-        "add": "77.37.33.77",
+        "add": "104.18.2.186",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "d967ffca-de90-4daa-bd00-d527e5bae11f",
+        "id": "44c467a9-8f0d-41a5-f00b-86569753e5b0",
         "net": "ws",
-        "path": "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)",
+        "path": "/?ed=2048",
         "port": "80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "---",
+        "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\uddfe\u00ae\ufe0fCyprus\u00a9\ufe0fNicosia\ud83c\udd7f\ufe0fping:22ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
     },
     {
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udde8\ud83c\udde6CA \ud83e\udded 2.4MB/s",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udde8\ud83c\udde6CA \ud83e\udded 2.5MB/s",
         "add": "51.79.102.253",
         "port": "80",
         "id": "58fe1542-5290-40ad-815a-77707a81afe5",
@@ -66,6 +66,20 @@
         "type": "",
         "tls": "",
         "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "host": "91.341.94.160"
+    },
+    {
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udded\ud83c\uddf0HK \ud83e\udded 2.1MB/s",
+        "add": "3c10fcdf-t6r5s0-tdcdb7-1k27l.hkt.gotochinatown.net",
+        "port": "80",
+        "id": "ba4b1f2e-c985-11ed-9c0c-f23c913c8d2b",
+        "aid": "2",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "tls": "",
+        "path": "/",
         "host": "91.341.94.160"
     },
     {
