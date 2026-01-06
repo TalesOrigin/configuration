@@ -1,5 +1,22 @@
 [
     {
+        "add": "104.26.15.148",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2f188c61-6622-4056-810e-a1a5f1c9b023",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram"
+    },
+    {
         "add": "51.79.102.253",
         "id": "58fe1542-5290-40ad-815a-77707a81afe5",
         "port": "80",
