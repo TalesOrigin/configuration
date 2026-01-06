@@ -38,21 +38,20 @@
         "tls": ""
     },
     {
-        "add": "104.18.2.186",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "44c467a9-8f0d-41a5-f00b-86569753e5b0",
+        "id": "7772bb24-976a-45ca-aa76-f4f1b7f50923",
         "net": "ws",
-        "path": "/?ed=2048",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
+        "fp": "",
+        "path": "/v2-nl-1.v2ray.cc/anything/freevpn.us-vpnvipnor2/vmess",
+        "add": "icook.hk",
+        "host": "91.341.94.160",
+        "scy": "auto",
+        "type": "",
+        "port": "80",
+        "alpn": "h2,http/1.1",
+        "sni": "creativecommons.org",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:75ms"
     },
     {
         "add": "dd1b8960-t70f40-t7fz1r-8rja.hkt.gotochinatown.net",
