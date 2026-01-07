@@ -297,12 +297,14 @@ vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 413
-vless://d03d8fc0-23ce-461a-97fa-2a7e0a66d8db@Evay_vpn.fast.hosting-ip.com:80??path=%2F%3Fed%3D2052%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 411
-vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80??path=%2FZEDMODEON-ZEDMODEON-bia-ZEDMODEON&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 398
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 394
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 393
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 392
+vless://d03d8fc0-23ce-461a-97fa-2a7e0a66d8db@Evay_vpn.fast.hosting-ip.com:80??path=%2F%3Fed%3D2052%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 403
+vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80??path=%2FZEDMODEON-ZEDMODEON-bia-ZEDMODEON&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 393
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.2.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 390
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 389
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 388
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 387
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 386
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 385
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
