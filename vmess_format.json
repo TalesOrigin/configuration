@@ -247,22 +247,6 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e513",
-        "add": "blang.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "13"
-    },
-    {
-        "v": "2",
         "add": "6fdda999-t70f40-tlm64c-xm0q.hkt.gotochinatown.net",
         "port": "80",
         "type": "none",
