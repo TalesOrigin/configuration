@@ -247,16 +247,31 @@
     },
     {
         "v": "2",
-        "add": "0ca4305f-t6r5s0-thv9l4-1jbj0.hkt.gotochinatown.net",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\uddfa\ud83c\uddf8US \ud83e\udded 4.7MB/s",
+        "add": "GgGgGGgGggggGg.222769.XYZ",
         "port": "80",
-        "type": "none",
-        "id": "b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9",
-        "aid": "2",
+        "id": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
+        "aid": "0",
+        "scy": "auto",
         "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
+        "type": "",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fFanling\ud83c\udd7f\ufe0fping:1339ms"
+        "path": "/f6taOMcOSZb9TPR",
+        "host": "91.341.94.160"
+    },
+    {
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\uddfa\ud83c\uddf8US \ud83e\udded 4.7MB/s",
+        "add": "bBbbbbbBb.222769.XYZ",
+        "port": "80",
+        "id": "2e65577e-8fdb-4bb1-a495-96f3122099a7",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "tls": "",
+        "path": "/f6taOMcOSZb9TPR",
+        "host": "91.341.94.160"
     },
     {
         "add": "150.109.11.193",
