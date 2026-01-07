@@ -247,29 +247,16 @@
     },
     {
         "v": "2",
-        "add": "6fdda999-t70f40-tlm64c-xm0q.hkt.gotochinatown.net",
+        "add": "0ca4305f-t6r5s0-thv9l4-1jbj0.hkt.gotochinatown.net",
         "port": "80",
         "type": "none",
-        "id": "3437f34e-1b77-11eb-8684-f23c913c8d2b",
+        "id": "b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9",
         "aid": "2",
         "net": "ws",
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fSiu Lek Yuen\ud83c\udd7f\ufe0fping:274ms"
-    },
-    {
-        "v": "2",
-        "add": "6acf7544-t6r5s0-tnkuks-wujn.hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "51362ab6-b5e6-11ea-ad28-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fSiu Lek Yuen\ud83c\udd7f\ufe0fping:278ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fFanling\ud83c\udd7f\ufe0fping:1339ms"
     },
     {
         "add": "150.109.11.193",
