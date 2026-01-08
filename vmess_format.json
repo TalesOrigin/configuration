@@ -1,22 +1,5 @@
 [
     {
-        "add": "172.67.72.154",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "f533e37c-9da5-4955-a218-a7886e5719b6",
-        "net": "ws",
-        "path": "/NkXnI0l6LGkotMyATWmx5f6MblN",
-        "port": "80",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram"
-    },
-    {
         "add": "51.79.102.253",
         "id": "58fe1542-5290-40ad-815a-77707a81afe5",
         "port": "80",
