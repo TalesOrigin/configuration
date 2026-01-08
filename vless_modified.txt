@@ -219,6 +219,7 @@ vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80??security=none&typ
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40FarazV2ray
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40FarazV2ray
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40FarazV2ray
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40FarazV2ray
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%92%8E%20%40ConfigV2RayNG%E3%80%8E%F0%9F%87%AE%F0%9F%87%AA%E3%80%8F
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%92%8E%20%40ConfigV2RayNG%E3%80%8E%F0%9F%87%A8%F0%9F%87%AD%E3%80%8F
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%92%8E%20ConfigV2RayNG%E3%80%8E%F0%9F%87%B3%F0%9F%87%AC%E3%80%8F
@@ -258,24 +259,12 @@ vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F--%40V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
-vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
 vless://telegram-turboo-server@server.ultra-irancell.com:80??path=%2Fed%3D2056&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 56
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 26
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 25
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 24
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 23
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 22
-vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
 vless://d03d8fc0-23ce-461a-97fa-2a7e0a66d8db@Evay_vpn.fast.hosting-ip.com:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A8%F0%9F%87%BF%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%40FreakConfig
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F--%40V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
