@@ -1179,3 +1179,4 @@ vless://TELEGRAM-NUFiLTER-3@NUFiLTER.fastlynew.hosting-ip.com:80??path=%2Ftelegr
 vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:58.38ms
 vless://3635d064-b3bc-48e5-8f44-6dd76dca0fc0@ip3-fast.tyryqyserver.ir:80??path=%2F%3Fed%3D2052&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:47.34ms
 vless://628a1148-09a4-4808-b484-806f6206e6ba@iran-France.turboo-server.com:80??security=none&type=ws&headerType=&path=%2Fed%3D2560&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:55.57ms
+vless://58f72986-da72-4942-bc88-59276dab411f@ip3-fast.tyryqyserver.ir:80??security=&type=ws&path=/?ed%3D2052&host=91.241.94.160&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:72ms
