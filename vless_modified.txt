@@ -241,14 +241,14 @@ vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F--%40V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
-vless://telegram-turboo-server@server.ultra-irancell.com:80??path=%2Fed%3D2056&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 435
-vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 430
-vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80??path=%2FZEDMODEON-ZEDMODEON-bia-ZEDMODEON&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 412
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 409
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 408
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 407
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 406
-vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@bastion.h3.speed.cloudflare.com:80??path=/www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.bunny.net-www.speedtest.net-www.bunny.net-www.speedtest.net?ed=32143&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 398
+vless://telegram-turboo-server@server.ultra-irancell.com:80??path=%2Fed%3D2056&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 55
+vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 52
+vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80??path=%2FZEDMODEON-ZEDMODEON-bia-ZEDMODEON&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 31
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 24
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 23
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 22
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 21
+vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@bastion.h3.speed.cloudflare.com:80??path=/www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.bunny.net-www.speedtest.net-www.bunny.net-www.speedtest.net?ed=32143&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 14
 vless://d03d8fc0-23ce-461a-97fa-2a7e0a66d8db@Evay_vpn.fast.hosting-ip.com:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A8%F0%9F%87%BF%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%40FreakConfig
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F--%40V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
