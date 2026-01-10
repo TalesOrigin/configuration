@@ -86,17 +86,21 @@
         "test_name": "22"
     },
     {
-        "v": "2",
-        "add": "bdcfc55c-t70f40-tonrqx-1khwf.hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "92bd8c68-6434-11ee-b644-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
+        "add": "www.speedtest.net",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
+        "id": "5456662d-9d1c-429b-9d3c-e47f2e89f013",
+        "net": "ws",
+        "path": "/RACEVPN",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCentral\ud83c\udd7f\ufe0fping:331ms"
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:69ms"
     },
     {
         "add": "www.speedtest.net",
@@ -113,21 +117,22 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:67ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:45ms"
     },
     {
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udde8\ud83c\udde6CA \ud83e\udded 2.5MB/s",
-        "add": "51.79.102.253",
-        "port": "80",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "add": "162.159.58.88",
         "aid": "0",
-        "scy": "auto",
+        "host": "91.341.94.160",
+        "id": "a406b612-26f7-4bf0-8652-816970a1c122",
         "net": "ws",
-        "type": "",
+        "path": "/",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
         "tls": "",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "host": "91.341.94.160"
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
     },
     {
         "add": "dd1b8960-t70f40-t7fz1r-8rja.hkt.gotochinatown.net",
