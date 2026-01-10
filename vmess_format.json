@@ -71,7 +71,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e57 3.6MB/s",
+        "ps": "\u672a\u77e523 94.1KB/s",
         "add": "15.235.41.200",
         "port": "80",
         "id": "58fe1542-5290-40ad-815a-77707a81afe5",
@@ -83,23 +83,7 @@
         "path": "/IOebhLMhl1CTbFHbL95myfRX2",
         "tls": "",
         "sni": "",
-        "test_name": "7"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e59",
-        "add": "172.67.72.154",
-        "port": "80",
-        "id": "f533e37c-9da5-4955-a218-a7886e5719b6",
-        "aid": "0",
-        "scy": "chacha20-poly1305",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/NkXnI0l6LGkotMyATWmx5f6MblN",
-        "tls": "",
-        "sni": "",
-        "test_name": "9"
+        "test_name": "23"
     },
     {
         "add": "15.235.41.200",
