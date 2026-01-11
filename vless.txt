@@ -9502,6 +9502,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.67.33:22224?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.177.29:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.135.243:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.44.71:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.220.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocolاحتمال کم وصل شه براتون
 vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocol    احتمال کم وصل شه براتون
 vless://8d4d2bd9-f2f9-44fa-bd7a-3949f2b4180b@46.38.138.235:11103?encryption=none&type=xhttp&mode=auto&path=/&security=none#VMESSPROTOCOL2احتمال اتصالبرای اتصال کمی صبر کنید@vmessprotocol
