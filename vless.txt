@@ -6491,6 +6491,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.102.248:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.170.99:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.67.33:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.177.29:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.135.243:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://a3a075d9-a450-47a3-826d-834f20be22f4@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Yalda%F0%9F%8D%B7%F0%9F%8D%89   یه شب طولانی🍷  @v2pediaBOT
 vless://a3a075d9-a450-47a3-826d-834f20be22f4@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Yalda%F0%9F%8D%B7%F0%9F%8D%89   یه شب طولانی🍷  @v2pediaBOT
 vless://a3a075d9-a450-47a3-826d-834f20be22f4@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-%F0%9F%8D%93برای خرید کانفیگ اختصاصی خودتون با قیمت قبل به بات پیام بدین:@v2pediaBOT
@@ -6528,7 +6529,9 @@ vless://9fb90033-daca-4b61-8eb1-440d4b64564d@bshs-187271-isbshs-18181717.bawqrat
 vless://1e0f493a-6251-4436-b986-2a76da21d4d6@46.8.226.192:443?security=none&encryption=none&headerType=none&type=tcp#prx11%5BHK%5D
 vless://f28e6dc2-3d8b-000a-9de1-b7d32ee653c7@87.242.100.82:8443?security=reality&encryption=none&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me&sid=d3d691bb9668#%F0%9F%87%BA%F0%9F%87%B8vless-US%5Bprx11%5D
 vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocolاحتمال کم وصل شه براتون
+vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocol    احتمال کم وصل شه براتون
 vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocolاحتمال کم وصل شه براتون
+vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocol    احتمال کم وصل شه براتون
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
@@ -6994,7 +6997,9 @@ vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?path=%2F%3Fed%3D20
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#%40v2rayan@v2rayan
 vless://de14ae87-5b0b-4012-a9d6-890f7813801a@65.109.184.27:443?security=reality&encryption=none&pbk=morxJfGxtCi0KeEAY4q73DaWGCL4uJVLwcPemGoikRE&host=www.speedtest.net&headerType=http&fp=chrome&spx=%2FezAVp7KfJLThzEJ&type=tcp&sni=apple.com&sid=37#fta8efqq
 vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocolاحتمال کم وصل شه براتون
+vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocol    احتمال کم وصل شه براتون
 vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocolاحتمال کم وصل شه براتون
+vless://6c61c834-6a0d-496f-b239-1b0d365c5de7@zibak.b-cdn.net:80?encryption=none&security=none&type=xhttp&host=zibak.b-cdn.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#vmessprotocol    احتمال کم وصل شه براتون
 vless://89cab344-a811-489f-ebc3-22d24aabe5a1@free.sabettrade.shop:22727?path=%2F&security=none&encryption=none&type=ws#%40Easy_Free_VPN
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#@Easy_Free_VPN
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%40V2RAY_VMESS_free
