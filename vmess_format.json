@@ -209,16 +209,16 @@
     },
     {
         "v": "2",
-        "add": "hkt.gotochinatown.net",
+        "add": "2859af40-t70f40-tdh9w7-ahsb.hkt.gotochinatown.net",
         "port": "80",
         "type": "none",
-        "id": "96c798f6-4645-11ee-b8a1-f23c9164ca5d",
+        "id": "2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d",
         "aid": "2",
         "net": "ws",
         "path": "/",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCentral\ud83c\udd7f\ufe0fping:1293ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fTai Po\ud83c\udd7f\ufe0fping:309ms"
     },
     {
         "add": "www.speedtest.net",
@@ -235,7 +235,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:66ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:45ms"
     },
     {
         "add": "www.speedtest.net",
@@ -252,7 +252,19 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:68ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:67ms"
+    },
+    {
+        "add": "51.79.102.253",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "port": "80",
+        "scy": "auto",
+        "v": "2",
+        "net": "ws",
+        "host": "91.341.94.160",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "tls": "none",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:114ms"
     },
     {
         "add": "150.109.11.193",
