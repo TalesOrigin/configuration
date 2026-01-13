@@ -135,30 +135,22 @@
         "test_name": "23"
     },
     {
-        "v": "2",
-        "add": "6c4abe27-t70f40-tfjz9x-1t5n1.hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "ea800f9e-ca6c-11ef-8e74-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
+        "add": "15.235.41.200",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fTai Shui Hang\ud83c\udd7f\ufe0fping:292ms"
-    },
-    {
-        "v": "2",
-        "add": "5804d996-t70f40-tonrmx-8n27.hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "5dc6fa05-a601-aba6-7761-ecde22d2b0fc",
-        "aid": "2",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "insecure": "0",
         "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fTai Shui Hang\ud83c\udd7f\ufe0fping:313ms"
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:112ms"
     },
     {
         "add": "www.speedtest.net",
@@ -192,13 +184,15 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:69ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:67ms"
     },
     {
-        "add": "162.159.58.88",
+        "add": "www.speedtest.net",
         "aid": "0",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "id": "a406b612-26f7-4bf0-8652-816970a1c122",
+        "id": "e540f86a-a8dc-4db8-b57a-9242f3da2d7d",
         "net": "ws",
         "path": "/",
         "port": "80",
@@ -207,20 +201,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
-    },
-    {
-        "v": "2",
-        "add": "51.79.102.253",
-        "port": "80",
-        "type": "none",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:122ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:65ms"
     },
     {
         "add": "www.speedtest.net",
@@ -238,6 +219,23 @@
         "type": "",
         "v": "2",
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:66ms"
+    },
+    {
+        "add": "3h-kazakhstan1.09vpn.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddff\u00ae\ufe0fKazakhstan\u00a9\ufe0fAlmaty\ud83c\udd7f\ufe0fping:139ms"
     },
     {
         "add": "150.109.11.193",
