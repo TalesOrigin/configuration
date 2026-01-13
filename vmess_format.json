@@ -1,22 +1,5 @@
 [
     {
-        "add": "www.zula.ir",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "2e0ce6f3-7dc7-469a-9611-c8405a8ea5c1",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram"
-    },
-    {
         "add": "15.235.41.200",
         "aid": "0",
         "alpn": "",
