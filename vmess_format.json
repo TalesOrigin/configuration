@@ -1,5 +1,23 @@
 [
     {
+        "add": "15.235.41.200",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "insecure": "0",
+        "net": "ws",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "port": "80",
+        "ps": "BESTIIVPNBOT",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u4e2d\u56fd - \u9999\u6e2f - PCCW IMS Limited - 45",
         "add": "5804d996-t70f40-tonrmx-8n27.hkt.gotochinatown.net",
@@ -66,7 +84,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:69ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:66ms"
     },
     {
         "add": "www.speedtest.net",
@@ -83,7 +101,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:66ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:65ms"
     },
     {
         "add": "www.zula.ir",
@@ -100,7 +118,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:74ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:75ms"
     },
     {
         "add": "150.109.11.193",
