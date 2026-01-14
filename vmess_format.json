@@ -1,23 +1,5 @@
 [
     {
-        "add": "15.235.41.200",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "port": "80",
-        "ps": "BESTIIVPNBOT",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u4e2d\u56fd - \u9999\u6e2f - PCCW IMS Limited - 45",
         "add": "5804d996-t70f40-tonrmx-8n27.hkt.gotochinatown.net",
@@ -68,22 +50,6 @@
         "path": "/IOebhLMhl1CTbFHbL95myfRX2",
         "host": "91.341.94.160",
         "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e512 4.1MB/s",
-        "add": "15.235.41.200",
-        "port": "80",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "tls": "",
-        "sni": "",
-        "test_name": "12"
     },
     {
         "add": "www.speedtest.net",
