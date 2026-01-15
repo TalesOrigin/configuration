@@ -88,23 +88,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e53 3.7MB/s",
-        "add": "15.235.41.200",
-        "port": "80",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "tls": "",
-        "sni": "",
-        "test_name": "3"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e521",
+        "ps": "\u672a\u77e53",
         "add": "www.speedtest.net",
         "port": "80",
         "id": "7c5df627-a185-468b-a90a-1b162e673a68",
@@ -116,7 +100,23 @@
         "path": "/RACEVPN",
         "tls": "",
         "sni": "",
-        "test_name": "21"
+        "test_name": "3"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e54 3.2MB/s",
+        "add": "15.235.41.200",
+        "port": "80",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "tls": "",
+        "sni": "",
+        "test_name": "4"
     },
     {
         "v": "2",
