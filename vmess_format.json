@@ -1,5 +1,22 @@
 [
     {
+        "add": "www.speedtest.net",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "7c5df627-a185-468b-a90a-1b162e673a68",
+        "net": "ws",
+        "path": "/RACEVPN",
+        "port": "80",
+        "ps": "@Hope_Net-join-us-on-Telegram",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "15.235.41.200",
         "aid": "0",
         "alpn": "",
@@ -5587,7 +5604,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 344\n",
+        "ps": "@Vip_Security join us - 381\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
