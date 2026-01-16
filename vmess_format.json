@@ -99,6 +99,19 @@
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:66ms"
     },
     {
+        "v": "2",
+        "add": "51.79.102.253",
+        "port": "80",
+        "type": "none",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "aid": "0",
+        "net": "ws",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:144ms"
+    },
+    {
         "add": "www.speedtest.net",
         "aid": "0",
         "alpn": "",
@@ -114,6 +127,35 @@
         "type": "",
         "v": "2",
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:67ms"
+    },
+    {
+        "v": "2",
+        "add": "www.speedtest.net",
+        "port": "80",
+        "type": "none",
+        "id": "7c5df627-a185-468b-a90a-1b162e673a68",
+        "aid": "0",
+        "net": "ws",
+        "path": "/RACEVPN",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:67ms"
+    },
+    {
+        "add": "icook.hk",
+        "aid": "0",
+        "alpn": "",
+        "host": "91.341.94.160",
+        "id": "3eb05cb6-d2e1-4a31-9f82-514cfa98fe15",
+        "net": "ws",
+        "path": "/ray?ed=2048",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:75ms"
     },
     {
         "add": "150.109.11.193",
