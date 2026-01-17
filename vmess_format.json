@@ -71,7 +71,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e518 4.0MB/s",
+        "ps": "\u672a\u77e5 538.7KB/s",
         "add": "15.235.41.200",
         "port": "80",
         "id": "58fe1542-5290-40ad-815a-77707a81afe5",
@@ -83,33 +83,7 @@
         "path": "/IOebhLMhl1CTbFHbL95myfRX2",
         "tls": "",
         "sni": "",
-        "test_name": "18"
-    },
-    {
-        "v": "2",
-        "add": "www.speedtest.net",
-        "port": "80",
-        "type": "none",
-        "id": "7c5df627-a185-468b-a90a-1b162e673a68",
-        "aid": "0",
-        "net": "ws",
-        "path": "/RACEVPN",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:66ms"
-    },
-    {
-        "v": "2",
-        "add": "010ece56-t6r5s0-thd0h1-1rz5s.hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "40e084d6-0316-11f0-90e2-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fHong Lok Yuen\ud83c\udd7f\ufe0fping:271ms"
+        "test_name": "\u672a\u77e5"
     },
     {
         "v": "2",
@@ -123,6 +97,22 @@
         "host": "91.341.94.160",
         "tls": "",
         "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:67ms"
+    },
+    {
+        "v": "2",
+        "add": "15.235.41.200",
+        "port": "80",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "tls": "",
+        "sni": "",
+        "test_name": "18",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:174ms"
     },
     {
         "add": "150.109.11.193",
