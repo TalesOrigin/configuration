@@ -236,12 +236,12 @@ vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
-vless://telegram-turboo-server@server.ultra-irancell.com:80??path=%2Fed%3D2056&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 427
-vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80??path=%2FZEDMODEON-ZEDMODEON-bia-ZEDMODEON&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 409
+vless://telegram-turboo-server@server.ultra-irancell.com:80??path=%2Fed%3D2056&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 437
+vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 431
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 406
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 405
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 404
 vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 403
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 402
-vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@bastion.h3.speed.cloudflare.com:80??path=/www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.bunny.net-www.speedtest.net-www.bunny.net-www.speedtest.net?ed=32143&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 398
 vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@bastion.h3.speed.cloudflare.com:80??path=/www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.bunny.net-www.speedtest.net-www.bunny.net-www.speedtest.net?ed=32143&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 397
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80??security=&type=ws&path=/&host=91.241.94.160&encryption=none#@awlix_ir
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80??security=&type=ws&path=/telegram-mitivpn&host=91.241.94.160&encryption=none#@awlix_ir
