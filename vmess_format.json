@@ -1,23 +1,5 @@
 [
     {
-        "add": "15.235.41.200",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "port": "80",
-        "ps": "BESTIIVPNBOT",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\ud83c\udded\ud83c\uddf0 \u4e2d\u56fd - \u9999\u6e2f - PCCW IMS Limited - 45",
         "add": "5804d996-t70f40-tonrmx-8n27.hkt.gotochinatown.net",
@@ -87,20 +69,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udded\ud83c\uddf0HK \ud83e\udded 2.0MB/s",
-        "add": "5545a4de-t8lts0-tasors-1tdqt.hkt.gotochinatown.net",
-        "port": "80",
-        "id": "167db97c-ee01-11ef-b737-f23c91cfbbc9",
-        "aid": "2",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "tls": "",
-        "path": "/",
-        "host": "91.341.94.160"
-    },
-    {
-        "v": "2",
         "add": "www.speedtest.net",
         "port": "80",
         "type": "none",
@@ -110,37 +78,20 @@
         "path": "/RACEVPN",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:66ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:67ms"
     },
     {
-        "add": "162.159.58.88",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "a406b612-26f7-4bf0-8652-816970a1c122",
+        "v": "2",
+        "add": "5804d996-t70f40-tonrmx-8n27.hkt.gotochinatown.net",
+        "port": "80",
+        "type": "none",
+        "id": "5dc6fa05-a601-aba6-7761-ecde22d2b0fc",
+        "aid": "2",
         "net": "ws",
         "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
+        "host": "91.341.94.160",
         "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:22ms"
-    },
-    {
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udde8\ud83c\udde6CA \ud83e\udded 2.5MB/s",
-        "add": "51.79.103.76",
-        "port": "80",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "scy": "aes-128-gcm",
-        "net": "ws",
-        "type": "",
-        "tls": "",
-        "alpn": "",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "host": "91.341.94.160"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCentral\ud83c\udd7f\ufe0fping:271ms"
     },
     {
         "add": "150.109.11.193",
