@@ -71,7 +71,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e518 4.3MB/s",
+        "ps": "\u672a\u77e56",
         "add": "15.235.41.200",
         "port": "80",
         "id": "58fe1542-5290-40ad-815a-77707a81afe5",
@@ -83,7 +83,7 @@
         "path": "/IOebhLMhl1CTbFHbL95myfRX2",
         "tls": "",
         "sni": "",
-        "test_name": "18"
+        "test_name": "6"
     },
     {
         "v": "2",
