@@ -1,5 +1,22 @@
 [
     {
+        "add": "speed.cloudflare.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
+        "net": "ws",
+        "path": "/Telegram/XV2ray",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram"
+    },
+    {
         "add": "15.235.41.200",
         "aid": "0",
         "alpn": "",
@@ -5478,7 +5495,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 344\n",
+        "ps": "@Vip_Security join us - 23\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
