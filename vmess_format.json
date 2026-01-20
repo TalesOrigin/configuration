@@ -1,19 +1,16 @@
 [
     {
-        "add": "speed.cloudflare.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "03fcc618-b93d-6796-6aed-8a38c975d581",
-        "net": "ws",
-        "path": "/Telegram/XV2ray",
+        "add": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
+        "v": 2,
         "port": "80",
+        "id": "46cfcfe1-e450-459d-a3ab-9406011ab3eb",
+        "aid": "0",
         "scy": "auto",
-        "sni": "",
-        "tls": "",
+        "net": "ws",
         "type": "",
-        "v": "2",
+        "host": "91.341.94.160",
+        "tls": "",
+        "path": "/",
         "ps": "@Hope_Net-join-us-on-Telegram"
     },
     {
