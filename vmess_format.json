@@ -86,19 +86,6 @@
         "test_name": "6"
     },
     {
-        "v": "2",
-        "add": "010ece56-t6r5s0-thd0h1-1rz5s.hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "40e084d6-0316-11f0-90e2-f23c913c8d2b",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udded\ud83c\uddf0\u00ae\ufe0fHong Kong\u00a9\ufe0fCentral\ud83c\udd7f\ufe0fping:266ms"
-    },
-    {
         "add": "104.20.231.210",
         "aid": "0",
         "alpn": "",
