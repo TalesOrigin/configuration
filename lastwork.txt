@@ -59649,3 +59649,8 @@ vless://3d4eb0d2-55f3-4961-b032-c63bb884dfed@www.parsvds.ir:80??path=%2FPROXY_MT
 vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.205.137:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.71ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.240.125:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.94ms
+vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.16.62.127:80??security=none&type=ws&path=%2F%40WireXnet%3Fed%3D2048&host=91.241.94.160&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%205.3MB%2Fs
+vless://76b3cbba-e6ac-485a-9481-336a0415eab9@104.21.8.174:80??security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.8ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.114.108:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.01ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.146.36:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.88ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.109.48:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
