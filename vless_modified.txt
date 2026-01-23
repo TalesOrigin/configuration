@@ -177,12 +177,11 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F--%40V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
-vless://telegram-turboo-server@server.ultra-irancell.com:80??path=%2Fed%3D2056&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 441
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 414
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 413
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 412
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 411
-vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 410
+vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 107
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 83
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 82
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 81
+vless://08c7f096-d057-4d53-82fd-c739d372887b@151.101.194.219:80??path=%2F%3Fed%3D1024&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 80
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F--%40V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#KV%205%20%28%40Outline_Vpn%29%20free
 vless://8cf4d179-a921-49e5-934c-dcacd276c620@f2.ev2ma.ir:80??path=%2Fma%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#KV%209%20%28%40Outline_Vpn%29%20free
