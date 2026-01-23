@@ -59708,3 +59708,4 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80??path=%2F%3Fed%3D
 vless://41384a34-af16-4bf9-aca5-e808f1e723ae@ip1-fast.tyryqyserver.ir:80??path=%2F%3Fed%3D2052&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:45.94ms
 vless://41384a34-af16-4bf9-aca5-e808f1e723ae@ip2-fast.tyryqyserver.ir:80??path=%2F%3Fed%3D2052&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:5045.79ms
 vless://0c07016f-6238-4a17-a414-ab0ecd8a8b5e@npmjs.com:80??encryption=none&security=none&sni=soft-wave-5d2a.kyng-ayaan.workers.dev&fp=random&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.2ms
+vless://7d2987c1-960b-44d7-afe0-cf94ffa8731c@167.82.10.4:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fy%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.08ms
