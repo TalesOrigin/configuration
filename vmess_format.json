@@ -159,7 +159,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf3\ud83c\uddf1\u00ae\ufe0fThe Netherlands\u00a9\ufe0fAmsterdam\ud83c\udd7f\ufe0fping:93ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf3\ud83c\uddf1\u00ae\ufe0fThe Netherlands\u00a9\ufe0fAmsterdam\ud83c\udd7f\ufe0fping:80ms"
     },
     {
         "add": "51.79.102.253",
@@ -177,25 +177,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:114ms"
-    },
-    {
-        "add": "51.79.102.253",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:112ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:111ms"
     },
     {
         "add": "dd1b8960-t70f40-t7fz1r-8rja.hkt.gotochinatown.net",

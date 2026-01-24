@@ -59803,3 +59803,6 @@ vless://01d5b0a2-fbcf-73e3-85ec-d80d3ab302f9@s.pou-ria.com:80??path=%2Fed%3D2560
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.101:80??security=none&sni=digitalscientificresearchgroup.ir&type=ws&host=91.241.94.160&path=Telegram%40WangCai2%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:22ms
 vless://bbb7910f-3005-225f-3fe1-6cce2dff2d60@87.229.100.157:80??path=%2FIVApi%2FUK%2F0&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest🅿️ping:28ms
 vless://bbb7910f-3005-225f-3fe1-6cce2dff2d60@87.229.100.158:80??encryption=none&security=none&type=ws&path=%2FIVApi%2FDE%2F0&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest🅿️ping:28.22ms
+vless://01d5b0a2-fbcf-73e3-85ec-d80d3ab302f9@s.pou-ria.com:80??path=%2Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:69ms
+vless://bbb7910f-3005-225f-3fe1-6cce2dff2d60@87.229.100.157:80??path=%2FIVApi%2FUK%2F0&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest🅿️ping:215ms
+vless://bbb7910f-3005-225f-3fe1-6cce2dff2d60@87.229.100.158:80??path=%2FIVApi%2FUS%2F0&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest🅿️ping:219ms
