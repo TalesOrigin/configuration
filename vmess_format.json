@@ -26,6 +26,23 @@
         "tls": ""
     },
     {
+        "add": "vmgr8-multi.multiserver-adelshoop.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2a473732-dd90-4833-84f2-3f3aefee9345",
+        "net": "ws",
+        "path": "",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf3\ud83c\uddf1\u00ae\ufe0fThe Netherlands\u00a9\ufe0fAmsterdam\ud83c\udd7f\ufe0fping:83ms"
+    },
+    {
         "add": "npanel.digi2023game.com",
         "aid": "0",
         "alpn": "",
