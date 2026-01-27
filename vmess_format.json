@@ -26,23 +26,6 @@
         "tls": ""
     },
     {
-        "add": "vmgr8-multi.multiserver-adelshoop.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "2a473732-dd90-4833-84f2-3f3aefee9345",
-        "net": "ws",
-        "path": "",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf3\ud83c\uddf1\u00ae\ufe0fThe Netherlands\u00a9\ufe0fAmsterdam\ud83c\udd7f\ufe0fping:77ms"
-    },
-    {
         "v": "2",
         "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udde8\ud83c\udde6CA \ud83e\udded 2.1MB/s",
         "add": "51.79.103.76",
@@ -58,6 +41,19 @@
         "host": "91.341.94.160"
     },
     {
+        "v": "2",
+        "add": "51.79.102.253",
+        "port": "80",
+        "type": "none",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "aid": "0",
+        "net": "ws",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:146ms"
+    },
+    {
         "add": "vmgr8-multi.multiserver-adelshoop.com",
         "aid": "0",
         "alpn": "",
@@ -72,7 +68,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf3\ud83c\uddf1\u00ae\ufe0fThe Netherlands\u00a9\ufe0fAmsterdam\ud83c\udd7f\ufe0fping:83ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf3\ud83c\uddf1\u00ae\ufe0fThe Netherlands\u00a9\ufe0fAmsterdam\ud83c\udd7f\ufe0fping:79ms"
     },
     {
         "add": "dd1b8960-t70f40-t7fz1r-8rja.hkt.gotochinatown.net",
