@@ -5378,24 +5378,6 @@
         "v": "2"
     },
     {
-        "add": "mv1.multipubg.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "eaec8713-fc4d-465c-a7e6-e5ba034e3263",
-        "insecure": "0",
-        "net": "ws",
-        "path": "",
-        "port": "80",
-        "ps": "\u2714\ufe0e\ud835\udc1c\ud835\udc21\ud835\udc1a\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc25\u27aa@ConfigV2rayForFree",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "172.67.116.48",
         "v": 2,
         "ps": "\ud83c\uddfa\ud83c\uddf8_US_\u7f8e\u56fd_2",
