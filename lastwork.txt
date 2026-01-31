@@ -60656,3 +60656,9 @@ vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80??encryption=none&se
 vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.59ms
 vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80??path=%2Fsite&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:21.51ms
 vless://6b4ebf9b-0ce2-4c11-8221-95928bb57231@fr.shallmod.ir:80??path=%2Fanything%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:74.13ms
+vless://e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.98ms
+vless://b30299bb-fd03-4a9c-a28b-62f6922ffbff@151.101.3.19:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:21.5ms
+vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.92ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.18ms
+vless://e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.94ms
+vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80??path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:48.17ms
