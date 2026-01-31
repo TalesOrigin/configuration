@@ -190,6 +190,7 @@ vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.
 vless://8cf4d179-a921-49e5-934c-dcacd276c620@f2.ev2ma.ir:80??path=%2Fma%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#KV%209%20%28%40Outline_Vpn%29%20free
 vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80??path=%2Fsite&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
 vless://e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#%40ConfigV2RayNG%20%D9%85%D9%86%D8%A8%D8%B9%20%D8%A7%D8%B5%D9%84%DB%8C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D9%85%D9%84%DB%8C
 vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#%40ConfigV2RayNG
 vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80??path=%2Fsite&security=&encryption=none&host=91.241.94.160&type=ws#%40ConfigV2RayNG
