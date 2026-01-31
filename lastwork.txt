@@ -60647,3 +60647,12 @@ vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80??path=%2F%3Fed%3D%23T
 vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.94ms
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@172.66.128.70:80??path=/?ed&security=&encryption=none&host=91.241.94.160&type=ws&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.21ms
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=/?ed&security=none&encryption=none&host=91.241.94.160&type=ws&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.98ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.07ms
+vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80??path=%2Fsite&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.24ms
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed%23TELEGRAM-AliXTsoAliXTsoAliXTsoAliXTsoAliXTso%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.52ms
+vless://faef9c56-30cd-4bf7-856f-644788b4050b@pypi.org:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.2ms
+vless://b30299bb-fd03-4a9c-a28b-62f6922ffbff@151.101.3.19:80??security=none&type=ws&headerType=&path=%2Fcontainers%2Ffi&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:21.45ms
+vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/?ed&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.84ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.59ms
+vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80??path=%2Fsite&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:21.51ms
+vless://6b4ebf9b-0ce2-4c11-8221-95928bb57231@fr.shallmod.ir:80??path=%2Fanything%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:74.13ms
