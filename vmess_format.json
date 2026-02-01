@@ -1,16 +1,20 @@
 [
     {
-        "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram",
-        "add": "cfcdn3.sanfencdn9.com",
-        "port": "80",
-        "type": "none",
-        "id": "c712c725-149f-414a-a684-1e17d137fe4f",
+        "add": "151.101.193.57",
         "aid": "0",
-        "net": "ws",
-        "path": "/video/ibCT6z55",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "tls": ""
+        "id": "d64abdb7-aeea-478c-8197-c32159f460c0",
+        "net": "ws",
+        "path": "ws/?ed=2048",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram"
     },
     {
         "v": "2",
