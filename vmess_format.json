@@ -44,6 +44,22 @@
     },
     {
         "v": "2",
+        "ps": "\u672a\u77e515",
+        "add": "151.101.193.57",
+        "port": "80",
+        "id": "d64abdb7-aeea-478c-8197-c32159f460c0",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "ws/?ed=2048",
+        "tls": "",
+        "sni": "",
+        "test_name": "15"
+    },
+    {
+        "v": "2",
         "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\uddfa\ud83c\uddf8US \ud83e\udded 3.9MB/s",
         "add": "dddffgthyu.922922.shop",
         "port": "80",
