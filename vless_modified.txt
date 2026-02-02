@@ -64,6 +64,9 @@ vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.
 vless://8cf4d179-a921-49e5-934c-dcacd276c620@f2.ev2ma.ir:80??path=%2Fma%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#KV%209%20%28%40Outline_Vpn%29%20free
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayan@v2rayan
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2rayan@v2rayan
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%E2%84%A2Telegram%20%E2%9C%93%20%40E_terafkon
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%E2%84%A2Telegram%20%E2%9C%93%20%40E_terafkon
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%E2%84%A2Telegram%20%E2%9C%93%20%40E_terafkon
 vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80??path=%2Fsite&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
@@ -199,7 +202,6 @@ vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=&
 vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 154
 vless://6a27158b-fe25-4031-81a0-cee648cde054@python.org:80??path=%2Fcontainers%2Ffi&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 115
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 73
-vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#KV%205%20%28%40Outline_Vpn%29%20free
 vless://8cf4d179-a921-49e5-934c-dcacd276c620@f2.ev2ma.ir:80??path=%2Fma%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#KV%209%20%28%40Outline_Vpn%29%20free
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%E2%84%A2Telegram%20%E2%9C%93%20%40E_terafkon
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%E2%84%A2Telegram%20%E2%9C%93%20%40E_terafkon

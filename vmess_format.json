@@ -83,19 +83,19 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e514",
-        "add": "188.114.97.3",
+        "ps": "\u672a\u77e52",
+        "add": "lb8.daeifree.xyz",
         "port": "80",
-        "id": "b79a6959-6feb-43ba-b3c7-f1afae9ea32c",
+        "id": "5f9931ff-1f68-4b4c-bd4d-9c81c8a323a0",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "",
+        "type": "---",
         "host": "91.341.94.160",
-        "path": "/",
+        "path": "/asdklasooqwma?ed=1024",
         "tls": "",
         "sni": "",
-        "test_name": "14"
+        "test_name": "2"
     },
     {
         "add": "188.114.96.221",
