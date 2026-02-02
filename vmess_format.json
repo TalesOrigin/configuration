@@ -1,20 +1,21 @@
 [
     {
-        "add": "188.114.97.3",
+        "add": "lb8.daeifree.xyz",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "b79a6959-6feb-43ba-b3c7-f1afae9ea32c",
+        "id": "5f9931ff-1f68-4b4c-bd4d-9c81c8a323a0",
+        "insecure": "0",
         "net": "ws",
-        "path": "/",
+        "path": "/asdklasooqwma?ed=1024",
         "port": "80",
+        "ps": "[\ud83c\udfc1]t.me/ConfigsHub",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram"
+        "type": "---",
+        "v": "2"
     },
     {
         "v": "2",
@@ -99,7 +100,7 @@
         "path": "/RkUUbqhA9GJZBROjL3Q5vTymr",
         "host": "91.341.94.160",
         "tls": "",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:75ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:79ms"
     },
     {
         "add": "fastly.com",
@@ -116,7 +117,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:66ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal\ud83c\udd7f\ufe0fping:65ms"
     },
     {
         "add": "15.235.41.200",
@@ -133,7 +134,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:113ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fMontreal (Ville-Marie)\ud83c\udd7f\ufe0fping:116ms"
     },
     {
         "add": "dd1b8960-t70f40-t7fz1r-8rja.hkt.gotochinatown.net",
