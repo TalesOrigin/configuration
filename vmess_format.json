@@ -1,22 +1,5 @@
 [
     {
-        "add": "104.20.239.88",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "9ac947aa-de86-41c3-9a60-4c061c7c95f0",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "scy": "none",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram"
-    },
-    {
         "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
         "add": "15.235.41.200",
@@ -39,6 +22,32 @@
         "aid": "0",
         "net": "ws",
         "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "ccc.922922.shop",
+        "port": "80",
+        "type": "auto",
+        "id": "bce0c7cb-08d1-46a7-b77b-7bff8b46252f",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "ZzXxdE.922922.sHOp",
+        "port": "80",
+        "type": "none",
+        "id": "bce0c7cb-08d1-46a7-b77b-7bff8b46252f",
+        "aid": "0",
+        "net": "ws",
+        "path": "/RkUUbqhA9GJZBROjL3Q5vTymr",
         "host": "91.341.94.160",
         "tls": ""
     },
