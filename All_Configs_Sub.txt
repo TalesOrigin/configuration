@@ -15270,11 +15270,6 @@ trojan://telegram-id-privatevpns@3.75.160.91:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.64.113.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.180.14.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.235.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@chatgpt.com:443?path=%2Ftelegram-%40v2ray_alpha%3D%3Fed%3D2560&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=chrome&type=ws&sni=a.azadnet003.ddns-ip.net#t.me%2FVMESSIRAN
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#t.me%2FVMESSIRAN
-vless://2ec2aca9-bffb-44a3-a59a-9aeca4e29c61@tu1.connectbaash.info:6072?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#t.me%2FVMESSIRAN
-vless://bcf406c1-349f-5c05-0cd6-ddfd08f64e88@tun.sap-rehan.ir:2087?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#t.me%2FVMESSIRAN
-vless://d9e4c168-ccdb-4f10-9748-8ddfe4470578@solu.gafe-lorbad.ir:26480?security=none&encryption=none&headerType=none&type=tcp#t.me%2FVMESSIRAN
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3Dabasbijan2560&security=tls&encryption=none&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&sni=pages.dev#t.me%2FVMESSIRAN
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&sni=pages.dev#t.me%2FVMESSIRAN
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=%2FXIXVPN%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=random&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#t.me%2FVMESSIRAN
