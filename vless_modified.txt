@@ -243,7 +243,6 @@ vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@perl.org:80??path=%2Fcontainers%2Ff
 vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@Pinterest.com:80??path=%2Fcontainers%2Ffi&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 455
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@140.248.159.164:80??encryption=none&host=91.241.94.160&path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=none&type=ws#telegram%20%F0%9F%8E%AA%20dailyv2ry
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@140.248.159.164:80??encryption=none&host=91.241.94.160&path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=none&type=ws#telegram%20%F0%9F%8D%80%20dailyv2ry
-vless://8cf4d179-a921-49e5-934c-dcacd276c620@f2.ev2ma.ir:80??path=%2Fma%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#KV%209%20%28%40Outline_Vpn%29%20free
 vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80??path=%2Fsite&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
