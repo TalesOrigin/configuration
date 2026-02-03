@@ -1,22 +1,5 @@
 [
     {
-        "add": "tr1-smart.adelping.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-        "net": "ws",
-        "path": "",
-        "port": "80",
-        "ps": "[\ud83c\udfc1]t.me/ConfigsHub",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
         "add": "15.235.41.200",
