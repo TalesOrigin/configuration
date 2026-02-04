@@ -249,12 +249,8 @@ vless://c921c664-d82d-4317-b4d0-7640cc9aa760@151.101.3.8:80??allowInsecure=0&sni
 vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.28.244:80??security=none&type=ws&host=91.241.94.160&path=%2Fvlws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
 vless://2487c34c-016e-43f3-9460-cb13b1f4c418@151.101.128.155:80??security=none&type=ws&host=91.241.94.160&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BDss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQyLjIwMi40OC4xMDU6MzM4OQ==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80??security=none&type=ws&host=91.241.94.160&path=%2Fvlws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%20%D9%86%D8%B4%DB%8C%D8%AF%20%40ConfigV2RayNG
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@pinterest.com:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%20%D9%86%D8%B4%DB%8C%D8%AF%20%40ConfigV2RayNG
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@pinterest.com:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws# TELEGRAM @PROXY_MTM
@@ -299,12 +295,10 @@ vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80??path=%2Fsite&securit
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free%20mci
-vless://0b0c4294-1781-4322-9041-3b3f3e42bd80@perl.org:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws#%40ConfigV2RayNG
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@pinterest.com:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40ConfigV2RayNG
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9A%A1ConfigV2RayNG
-vless://0b0c4294-1781-4322-9041-3b3f3e42bd80@perl.org:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws#%40ConfigV2RayNG
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@pinterest.com:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40ConfigV2RayNG
