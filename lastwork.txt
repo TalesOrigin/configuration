@@ -61524,3 +61524,11 @@ vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80??encryption=none&se
 vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:48.33ms
 vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:48.33ms
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@104.26.6.35:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.04ms
+vless://c0490ebf-881f-41c8-89e3-2f6da5995831@python.org:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:44.22ms
+vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.07ms
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/?ed&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.07ms
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=/?ed&security=none&encryption=none&host=91.241.94.160&type=ws&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.07ms
+vless://c0490ebf-881f-41c8-89e3-2f6da5995831@python.org:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:44.22ms
+vless://7d4a519b-d270-434e-a42d-d39624577a92@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.44ms
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:73.78ms
+vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@nodejs.org:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:50.13ms
