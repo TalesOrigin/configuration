@@ -61520,3 +61520,7 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.69:80??security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.161.117:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.14ms
 vless://0b0c4294-1781-4322-9041-3b3f3e42bd80@perl.org:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:44.15ms
 vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@python.org:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.5ms
+vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.96ms
+vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:48.33ms
+vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:48.33ms
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@104.26.6.35:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.04ms
