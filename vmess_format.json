@@ -27,6 +27,32 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f2|@ripaojiedian",
+        "add": "609a8c34-t9w4g0-thiwul-1gcq2.hkt.gotochinatown.net",
+        "port": "80",
+        "type": "none",
+        "id": "759bf004-6137-11ec-bd7c-f23c913c8d2b",
+        "aid": "2",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f2|@stairnode",
+        "add": "609a8c34-t9w4g0-thiwul-1gcq2.hkt.gotochinatown.net",
+        "port": "80",
+        "type": "none",
+        "id": "759bf004-6137-11ec-bd7c-f23c913c8d2b",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool \ud83d\udce1 \ud83c\udded\ud83c\uddf0HK \ud83e\udded 2.1MB/s",
         "add": "fc9d3bb0-t70f40-t7hmka-1plv4.hkt.gotochinatown.net",
         "port": "80",
