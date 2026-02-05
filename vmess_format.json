@@ -57,7 +57,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e514",
+        "ps": "\u672a\u77e515 44.9KB/s",
         "add": "tr1-smart.adelping.com",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -69,7 +69,7 @@
         "path": "",
         "tls": "",
         "sni": "",
-        "test_name": "14"
+        "test_name": "15"
     },
     {
         "add": "tr1-smart.adelping.com",
