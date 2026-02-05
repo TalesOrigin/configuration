@@ -1,23 +1,5 @@
 [
     {
-        "add": "pq-Hungary1.09vpn.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
-        "insecure": "1",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "[\ud83c\udfc1]t.me/ConfigsHub",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "add": "tr1-smart.adelping.com",
         "aid": "0",
         "alpn": "",
