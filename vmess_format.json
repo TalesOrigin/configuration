@@ -6,24 +6,6 @@
         "fp": "",
         "host": "91.341.94.160",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-        "insecure": "0",
-        "net": "ws",
-        "path": "",
-        "port": "80",
-        "ps": "[\ud83c\udfc1]t.me/ConfigsHub",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
-        "add": "tr1-smart.adelping.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
         "net": "ws",
         "path": "",
         "port": "80",
@@ -283,10 +265,10 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e518 5.0MB/s",
+        "ps": "\u672a\u77e514",
         "add": "tr1-smart.adelping.com",
         "port": "80",
-        "id": "68c8f462-8468-4931-90a8-680c3d6cb3c1",
+        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
@@ -295,7 +277,7 @@
         "path": "",
         "tls": "",
         "sni": "",
-        "test_name": "18"
+        "test_name": "14"
     },
     {
         "v": "2",
