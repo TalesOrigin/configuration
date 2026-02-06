@@ -1,5 +1,18 @@
 [
     {
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram",
+        "add": "104.22.30.97",
+        "port": "80",
+        "type": "none",
+        "id": "2ac4e269-1576-4f41-8c0d-6242e3c5fd8c",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmess",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "tr1-smart.adelping.com",
         "aid": "0",
         "alpn": "",
