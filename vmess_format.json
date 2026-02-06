@@ -1,5 +1,22 @@
 [
     {
+        "add": "172.111.146.64",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "05b8c783-7f59-47f9-9923-06a465679f6a",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "ps": "[\ud83c\udfc1]t.me/ConfigsHub",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "tr1-smart.adelping.com",
         "aid": "0",
         "alpn": "",
