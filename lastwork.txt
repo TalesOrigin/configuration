@@ -62072,3 +62072,8 @@ vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80??security=none&ty
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@104.26.6.35:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.81ms
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.24ms
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:30.24ms
+vless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.77ms
+vless://f6d99088-93d2-4836-b942-2551e2922883@speedtest.net:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.16ms
+vless://c2b64b65-3563-4caf-ad71-26f427e6da52@94.158.218.63:80??security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇱🇻®️Latvia©️Riga🅿️ping:48.08ms
+vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80??encryption=none&type=ws&host=91.241.94.160&path=/getWorkerUpdates&security=none#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:155.25ms
+vless://c2b64b65-3563-4caf-ad71-26f427e6da52@94.158.218.63:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇱🇻®️Latvia©️Riga🅿️ping:48.08ms
