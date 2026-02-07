@@ -62050,3 +62050,7 @@ vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&secu
 vless://baf61cb1-9cf3-44ef-bae5-a473bd70bf69@speedtest.net:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%40ArisPing--%40ArisPing--%40ArisPing--%40ArisPing--%40ArisPing--%40ArisPing--%40ArisPing--%40ArisPing--%40ArisPing--%40ArisPing--%40ArisPing--%40ArisPing%3Fed%3D2056#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.13ms
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:133.13ms
 vless://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.8ms
+vless://f4f18ac0-cfc3-427a-af8c-a847bc516cca@arzdigital.com:80??path=%2Fgraphql&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:49.6ms
+vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:133.27ms
+vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:133.27ms
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.17ms
