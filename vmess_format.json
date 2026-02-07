@@ -262,7 +262,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e510 3.8MB/s",
+        "ps": "\u672a\u77e52 1.0MB/s",
         "add": "tr1-smart.adelping.com",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -274,11 +274,27 @@
         "path": "",
         "tls": "",
         "sni": "",
-        "test_name": "10"
+        "test_name": "2"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e512 1.1MB/s",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd6 337.3KB/s",
+        "add": "turk1.net.net",
+        "port": "80",
+        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
+        "tls": "",
+        "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
+        "test_name": "US\u7f8e\u56fd6"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e513 436.1KB/s",
         "add": "51.79.103.76",
         "port": "80",
         "id": "58fe1542-5290-40ad-815a-77707a81afe5",
@@ -290,39 +306,7 @@
         "path": "/IOebhLMhl1CTbFHbL95myfRX2",
         "tls": "",
         "sni": "",
-        "test_name": "12"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e514",
-        "add": "bbnmjk.un2026.indevs.in",
-        "port": "80",
-        "id": "827beb2a-f97a-4b23-b733-adef30c98e17",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/HISLfofvqzd3a3izxYyZXOF",
-        "tls": "",
-        "sni": "",
-        "test_name": "14"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e519",
-        "add": "ccddfvgb.un2027.indevs.in",
-        "port": "80",
-        "id": "827beb2a-f97a-4b23-b733-adef30c98e17",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/HISLfofvqzd3a3izxYyZXOF",
-        "tls": "",
-        "sni": "",
-        "test_name": "19"
+        "test_name": "13"
     },
     {
         "add": "tr1-smart.adelping.com",
