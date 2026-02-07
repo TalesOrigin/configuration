@@ -227,7 +227,6 @@ vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80??encryption=
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 67
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%AE%F0%9F%87%B7%20IR%2035%20%40Outline_Vpn
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2RAY_VMESS_free%20mci
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%3A%20%F0%9F%87%AE%F0%9F%87%B7%20%40ConfigV2RayNG
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%E3%80%8E%40ConfigV2RayNG%E3%80%8F
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%97%8F%20%40ConfigV2RayNG
