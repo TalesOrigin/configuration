@@ -140,7 +140,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e510 1.4MB/s",
+        "ps": "\u672a\u77e53",
         "add": "tr1-smart.adelping.com",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -152,23 +152,23 @@
         "path": "",
         "tls": "",
         "sni": "",
-        "test_name": "10"
+        "test_name": "3"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e513",
-        "add": "57.129.132.223",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd9",
+        "add": "ccddfvgb.un2027.indevs.in",
         "port": "80",
-        "id": "a25cbf11-2908-4a1b-a3a8-9a571777dca3",
+        "id": "827beb2a-f97a-4b23-b733-adef30c98e17",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
         "type": "---",
         "host": "91.341.94.160",
-        "path": "/vmess/",
+        "path": "/HISLfofvqzd3a3izxYyZXOF",
         "tls": "",
         "sni": "",
-        "test_name": "13"
+        "test_name": "US\u7f8e\u56fd9"
     },
     {
         "v": "2",
