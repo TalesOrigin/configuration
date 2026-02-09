@@ -260,7 +260,7 @@
         "tls": "",
         "type": "---",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddec\ud83c\udde7\u00ae\ufe0fUnited Kingdom\u00a9\ufe0fErith\ud83c\udd7f\ufe0fping:43ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddec\ud83c\udde7\u00ae\ufe0fUnited Kingdom\u00a9\ufe0fErith\ud83c\udd7f\ufe0fping:35ms"
     },
     {
         "add": "ccddfvgb.un2027.indevs.in",
@@ -286,7 +286,24 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:50ms"
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:51ms"
+    },
+    {
+        "add": "tr1-smart.adelping.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+        "net": "ws",
+        "path": "",
+        "port": "80",
+        "ps": "\ud83c\uddee\ud83c\uddf7 IR 50 @Outline_Vpn",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
     },
     {
         "v": "2",
@@ -341,23 +358,6 @@
         "alpn": "",
         "fp": "",
         "insecure": "0"
-    },
-    {
-        "add": "tr1-smart.adelping.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-        "net": "ws",
-        "path": "",
-        "port": "80",
-        "ps": "\ud83c\uddee\ud83c\uddf7 IR 50 @Outline_Vpn",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
     },
     {
         "add": "108.162.192.63",
