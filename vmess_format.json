@@ -18,6 +18,24 @@
         "v": "2"
     },
     {
+        "add": "ccddfvgb.un2027.indevs.in",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "827beb2a-f97a-4b23-b733-adef30c98e17",
+        "insecure": "0",
+        "net": "ws",
+        "path": "/HISLfofvqzd3a3izxYyZXOF",
+        "port": "80",
+        "ps": "[\ud83c\udfc1]t.me/ConfigsHub",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "tr1-smart.adelping.com",
         "aid": "0",
         "alpn": "",
