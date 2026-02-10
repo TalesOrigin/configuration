@@ -7,27 +7,7 @@ vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80??encryption=none&s
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@zmaoz.faculty.ucdavis.edu:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#BESTIIVPNBOT
 vless://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40fox_vpntuneel
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#V2ray_confiig
-vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@nodejs.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#V2ray_confiig
-vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=&encryption=none&host=91.241.94.160&type=ws#%40netmelli15
-vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-vless://a5712440-3cec-4a1b-82e8-767c54acd83a@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9A%A1%EF%B8%8E%20%F0%9F%87%AE%F0%9F%87%B7%20%F0%93%8F%BA%20%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%20%20%D9%85%D9%84%DB%8C%E2%80%8C%D8%B4%DA%A9%D9%86
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9A%A1%EF%B8%8E%20%F0%9F%87%AE%F0%9F%87%B7%20%F0%93%8F%BA%20%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%20%20%D9%85%D9%84%DB%8C%E2%80%8C%D8%B4%DA%A9%D9%86
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@nodejs.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Finland%20%F0%9F%87%AB%F0%9F%87%AE%F0%9F%83%8F%40antisaandissm%F0%9F%80%84
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1049#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40meliproxyy
-vless://4c97ec3e-3527-48c5-80ff-b715463896ba@172.66.128.70:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40DailyV2RY
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40irmeliy
-vless://4c97ec3e-3527-48c5-80ff-b715463896ba@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%40irmeliy
-vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@imgur.com:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fcontainers%2Ffi#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40meliproxyy
-vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@172.66.128.70:80??path=%2F%3Fed%3D512&security=&encryption=none&host=91.241.94.160&type=ws#%E2%98%ACSH%CE%9EN%E2%84%A2
-vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80??path=%2F%3Fed%3D&security=&encryption=none&host=91.241.94.160&type=ws#%E2%98%ACSH%CE%9EN%E2%84%A2
-vless://6da7b024-d51a-4b7f-a59f-e4edf0a7d85d@ip2-fast.tyryqyserver.ir:80??path=%2F%3Fed%3D2052&security=none&encryption=none&host=91.241.94.160&type=ws#%40filembad
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%97%BF
 vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
@@ -448,21 +428,18 @@ vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%F0%9F%96%A4v2rayNG_Matsuri%40
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%F0%9F%96%A4v2rayNG_Matsuri%40
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%F0%9F%96%A4v2rayNG_Matsuri%40
-vless://b404b906-dedc-4d5c-b48e-231bb966a3fe@imgur.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:42.89ms
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
-vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip1.kakeroo.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:161.14ms
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.83ms
-vless://b404b906-dedc-4d5c-b48e-231bb966a3fe@imgur.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:42.89ms
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
-vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip1.kakeroo.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:161.14ms
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.83ms
-vless://b404b906-dedc-4d5c-b48e-231bb966a3fe@imgur.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:42.89ms
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
-vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip1.kakeroo.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:161.14ms
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.83ms
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.96ms
+vless://4a8d4562-7192-4e83-8a24-75515a1666a3@173.245.49.254:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.88ms
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.4ms
+vless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.46ms
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.96ms
+vless://4a8d4562-7192-4e83-8a24-75515a1666a3@173.245.49.254:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.88ms
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.4ms
+vless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.46ms
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.96ms
+vless://4a8d4562-7192-4e83-8a24-75515a1666a3@173.245.49.254:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.88ms
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.4ms
+vless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.46ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free

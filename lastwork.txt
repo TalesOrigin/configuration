@@ -62593,3 +62593,7 @@ vless://b404b906-dedc-4d5c-b48e-231bb966a3fe@imgur.com:80??path=%2Fdownload&secu
 vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
 vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip1.kakeroo.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:161.14ms
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.83ms
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.96ms
+vless://4a8d4562-7192-4e83-8a24-75515a1666a3@173.245.49.254:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.88ms
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.4ms
+vless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.46ms
