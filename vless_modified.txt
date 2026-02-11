@@ -219,10 +219,12 @@ vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fv
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@ens.zdshop.ir:80??path=%2Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
-vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 133
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 118
-vless://6fe32852-5f46-4090-8306-f5b419d6a469@Pinterest.com:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 86
-vless://5003ee68-7646-45b1-ada9-27afa4e99fd4@Pinterest.com:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 67
+vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 175
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 159
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@Pinterest.com:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 125
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@140.248.159.164:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 120
+vless://5003ee68-7646-45b1-ada9-27afa4e99fd4@pinterest.com:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 105
+vless://242a12b1-5954-4aab-bb24-8faa4e5fbffb@ip.onlineblog.ir:80??security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 82
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
