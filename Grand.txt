@@ -1244,3 +1244,6 @@ vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80??path
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:82ms
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:111ms
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:77ms
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80??encryption=none&security=none&type=ws&path=%2Fhttp&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:34ms
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80??encryption=none&security=none&type=ws&path=%2Fhttp&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:32ms
+vless://1cf63b4c-120e-482e-b097-47c79c3c63ae@dl.i-farm.ir:80??path=%2Fsite&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:50.17ms
