@@ -1,10 +1,4 @@
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
-vless://58e596b3-e7e6-43c5-9c03-b1e90db428a9@www.speedtest.net:80??path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&host=91.241.94.160&type=ws#%40v2Meli
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80??path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2Meli
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80??path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2Meli
-vless://d483e7ab-5223-44bd-b68d-b4f185b1801e@www.speedtest.net:80??path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2Meli
-vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli
-vless://ed87c882-17f3-491a-810c-c0000e4b279e@zmaoz.faculty.ucdavis.edu:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli
 vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2ray_confiig
 vless://TELEGRAM-NUFiLTER@p.ssl.fastly.net:80??path=%2FTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%3Fed%3D2056&security=&encryption=none&host=91.241.94.160&type=ws#%40iProxyChannel%204
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF
@@ -295,15 +289,6 @@ vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fv
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80??path=%2FgetWorkerUpdates&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%AE%F0%9F%87%B7%20IR%2035%20%40Outline_Vpn
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%2052%20%40Outline_Vpn
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#NetAccount
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#NetAccount
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.44.24:80??security=none&type=ws&host=91.241.94.160&path=/#NetAccount
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#NetAccount
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#NetAccount
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.44.24:80??security=none&type=ws&host=91.241.94.160&path=/#NetAccount
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#NetAccount
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#NetAccount
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.44.24:80??security=none&type=ws&host=91.241.94.160&path=/#NetAccount
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80??path=containers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#ConfigV2RayNG
