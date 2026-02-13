@@ -18,6 +18,23 @@
         "v": "2"
     },
     {
+        "add": "104.25.228.174",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "5ea4a644-07e9-4ad0-860d-50bd9b6e7f94",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram"
+    },
+    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
