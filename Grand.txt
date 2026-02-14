@@ -1273,3 +1273,5 @@ vless://8f2f9ad3-df75-464e-c542-cd80d61b57c4@usaa.fastlynew.hosting-ip.com:80??p
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@146.75.121.207:80??security=none&type=ws&host=91.241.94.160&path=%2Fde%3Fed%3D1048#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:21ms
 vless://8cf4d179-a921-49e5-934c-dcacd276c620@f2.ev2ma.ir:80??path=%2Fma%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:80ms
 vless://8cf4d179-a921-49e5-934c-dcacd276c620@f2.ev2ma.ir:80??path=%2Fma%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:85ms
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:79ms
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:76ms
