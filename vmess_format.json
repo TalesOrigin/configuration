@@ -53,22 +53,23 @@
         "v": "2"
     },
     {
-        "add": "adelmeli.com",
+        "add": "45.13.227.118",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "89e25562-d0f1-4f54-8afb-6ee374e30fbb",
-        "insecure": "1",
+        "id": "8ce64662-f8b8-4955-bdf2-a55b821bc4aa",
+        "insecure": "0",
         "net": "ws",
-        "path": "",
+        "path": "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
         "port": "80",
-        "ps": "@iProxyChannel 5",
+        "ps": "\ud83c\uddf3\ud83c\uddf1 WS-None | @Express_alaki | src @v2nodes",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "---",
-        "v": "2"
+        "type": "none",
+        "v": "2",
+        "skip-cert-verify": true
     },
     {
         "add": "57.129.132.223",
