@@ -390,39 +390,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e58 330.6KB/s",
-        "add": "turk1.net.net",
-        "port": "80",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
-        "tls": "",
-        "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
-        "test_name": "8"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e515 1.2MB/s",
-        "add": "tr1-smart.adelping.com",
-        "port": "80",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "",
-        "tls": "",
-        "sni": "",
-        "test_name": "15"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e516 4.3MB/s",
+        "ps": "\u672a\u77e52 4.0MB/s",
         "add": "51.79.102.253",
         "port": "80",
         "id": "58fe1542-5290-40ad-815a-77707a81afe5",
@@ -434,12 +402,12 @@
         "path": "/IOebhLMhl1CTbFHbL95myfRX2",
         "tls": "",
         "sni": "",
-        "test_name": "16"
+        "test_name": "2"
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd4 1.1MB/s",
-        "add": "TM_AZARBAYJAB1.SERV.9.pagES.DEV",
+        "ps": "\u672a\u77e510 333.7KB/s",
+        "add": "tr1-smart.adelping.com",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
         "aid": "0",
@@ -447,14 +415,14 @@
         "net": "ws",
         "type": "---",
         "host": "91.341.94.160",
-        "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
+        "path": "",
         "tls": "",
         "sni": "",
-        "test_name": "US\u7f8e\u56fd4"
+        "test_name": "10"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e532 3.6MB/s",
+        "ps": "\u672a\u77e517 1.8MB/s",
         "add": "45.13.227.118",
         "port": "80",
         "id": "8ce64662-f8b8-4955-bdf2-a55b821bc4aa",
@@ -466,7 +434,23 @@
         "path": "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
         "tls": "",
         "sni": "",
-        "test_name": "32"
+        "test_name": "17"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e526",
+        "add": "turk1.net.net",
+        "port": "80",
+        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
+        "tls": "",
+        "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
+        "test_name": "26"
     },
     {
         "add": "57.129.132.223",
