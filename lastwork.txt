@@ -63906,3 +63906,4 @@ vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&secu
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.76ms
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.28ms
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
+vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.07ms
