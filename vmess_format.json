@@ -90,6 +90,23 @@
         "insecure": "0"
     },
     {
+        "add": "wau.alibabaapi6.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "a2f33600-7ff1-46c4-abc9-7deb843e88a3",
+        "net": "ws",
+        "path": "/5e60be4f/",
+        "port": "80",
+        "ps": "\ud83c\udd7f\ufe0f52@oneclickvpnkeys",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "51.79.102.253",
         "aid": "0",
         "alpn": "",
