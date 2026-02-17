@@ -36,6 +36,24 @@
         "v": "2"
     },
     {
+        "add": "45.13.227.118",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "8ce64662-f8b8-4955-bdf2-a55b821bc4aa",
+        "insecure": "0",
+        "net": "ws",
+        "path": "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
+        "port": "80",
+        "ps": "\ud83d\udd38@IRAN_V2RAY1\u269c\ufe0f",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
         "add": "15.235.41.200",
