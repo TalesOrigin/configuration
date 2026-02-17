@@ -36,24 +36,6 @@
         "v": "2"
     },
     {
-        "add": "45.13.227.118",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "8ce64662-f8b8-4955-bdf2-a55b821bc4aa",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
-        "port": "80",
-        "ps": "\ud83d\udd38@IRAN_V2RAY1\u269c\ufe0f",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
         "add": "15.235.41.200",
@@ -250,23 +232,23 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e54",
-        "add": "tr1-smart.adelping.com",
+        "ps": "\u672a\u77e58",
+        "add": "45.13.227.118",
         "port": "80",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+        "id": "8ce64662-f8b8-4955-bdf2-a55b821bc4aa",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
         "type": "---",
         "host": "91.341.94.160",
-        "path": "",
+        "path": "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119",
         "tls": "",
         "sni": "",
-        "test_name": "4"
+        "test_name": "8"
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd21",
+        "ps": "\u672a\u77e511",
         "add": "turk1.net.net",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -278,7 +260,23 @@
         "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
         "tls": "",
         "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
-        "test_name": "US\u7f8e\u56fd21"
+        "test_name": "11"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e524",
+        "add": "tr1-smart.adelping.com",
+        "port": "80",
+        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "",
+        "tls": "",
+        "sni": "",
+        "test_name": "24"
     },
     {
         "v": "2",

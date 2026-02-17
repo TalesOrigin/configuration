@@ -170,8 +170,8 @@ vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80??path=%2Fv
 vless://99032f24-649d-47fe-91b4-1b2299abaea8@u.ssl.fastly.net:80??security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 503
 vless://99032f24-649d-47fe-91b4-1b2299abaea8@ip3-fast.tyryqyserver.ir:80??security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 502
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=91.241.94.160#@Vip_Security join us - 495
-vless://f92f1657-f560-466d-9b75-c784d5d52912@vpnazadie.voicesofiran.org:80??path=%2Fvless-ntls&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%2052%20%40Outline_Vpn
 vless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80??security=none&encryption=none&host=91.241.94.160&type=ws#NetAccount
 vless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80??security=none&encryption=none&host=91.241.94.160&type=ws#NetAccount
