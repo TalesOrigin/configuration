@@ -64224,3 +64224,5 @@ vless://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@chatgpt.com:80??path=%2F%3Fed&secur
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:43.45ms
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80??path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.71ms
 vless://5f1811a9-292a-4d7e-b59f-1a5ff9390647@pq-hungary1.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest🅿️ping:70.05ms
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.01ms
+vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:50.52ms
