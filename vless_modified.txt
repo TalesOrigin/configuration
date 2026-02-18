@@ -32,14 +32,13 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://7d4a519b-d270-434e-a42d-d39624577a92@nodejs.org:80??security=none&type=ws&path=%2F%3Fed&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:73ms
-vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#https://t.me/ConfigX2ray
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#https://t.me/ConfigX2ray
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
-vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@nls.zdshop.ir:80??encryption=none&host=91.241.94.160&path=%2Fed%3D2560&security=none&type=ws#4
+vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.98ms
 vless://896c2efd-252d-4837-b3b7-349faa02956d@199.232.193.10:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
 vless://86ba9842-315c-44b4-bb13-5645139af0b0@ip3.kakeroo.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
-vless://875cb468-a847-489e-bd16-7993a013a73c@ip3.kakeroo.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
+vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#https://t.me/ConfigX2ray
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#https://t.me/ConfigX2ray
+vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@nls.zdshop.ir:80??encryption=none&host=91.241.94.160&path=%2Fed%3D2560&security=none&type=ws#4
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80??path=%2F%3Fed%3D1049&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%2052%20%40Outline_Vpn
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%AE%F0%9F%87%B7%20IR%2035%20%40Outline_Vpn
 vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@nls.zdshop.ir:80??encryption=none&host=91.241.94.160&path=%2Fed%3D2560&security=none&type=ws#4
@@ -168,6 +167,7 @@ vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&secu
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83@151.101.9.81:80??path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%2F%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 519
 vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@nls.zdshop.ir:80??encryption=none&host=91.241.94.160&path=%2Fed%3D2560&security=none&type=ws#4
 vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@nls.zdshop.ir:80??encryption=none&host=91.241.94.160&path=%2Fed%3D2560&security=none&type=ws#4
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
