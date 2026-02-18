@@ -1,4 +1,5 @@
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
+vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#🇩🇪[openproxylist.com]
 vless://58e596b3-e7e6-43c5-9c03-b1e90db428a9@www.speedtest.net:80??path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&host=91.241.94.160&type=ws#%40v2Meli
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80??path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2Meli
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80??path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40v2Meli
