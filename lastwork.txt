@@ -64278,3 +64278,4 @@ vless://13ad36e6-c091-43f2-8505-47d868dd544c@104.21.32.69:80??encryption=none&se
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
 vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.16.250.22:80??host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.88ms
+vless://7d4a519b-d270-434e-a42d-d39624577a92@nodejs.org:80??security=none&type=ws&path=%2F%3Fed&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:73ms
