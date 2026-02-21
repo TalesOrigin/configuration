@@ -114,7 +114,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e5",
+        "ps": "\u672a\u77e510",
         "add": "turk1.net.net",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -126,11 +126,27 @@
         "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
         "tls": "",
         "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
-        "test_name": "\u672a\u77e5"
+        "test_name": "10"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e515 4.1MB/s",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd2",
+        "add": "lop.bb3.indevs.in",
+        "port": "80",
+        "id": "b020865b-7404-4894-ba65-a7414b10cda3",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/boWUVaU0sxrNtFSdOPjqSc7fzeJr",
+        "tls": "",
+        "sni": "lop.bb3.indevs.in",
+        "test_name": "US\u7f8e\u56fd2"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e514",
         "add": "tr1-smart.adelping.com",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -142,11 +158,11 @@
         "path": "",
         "tls": "",
         "sni": "",
-        "test_name": "15"
+        "test_name": "14"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e533",
+        "ps": "\u672a\u77e530",
         "add": "pq-hungary1.09vpn.com",
         "port": "80",
         "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
@@ -158,23 +174,7 @@
         "path": "/vmess/",
         "tls": "",
         "sni": "",
-        "test_name": "33"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e535 1.8MB/s",
-        "add": "51.79.102.253",
-        "port": "80",
-        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-        "tls": "",
-        "sni": "",
-        "test_name": "35"
+        "test_name": "30"
     },
     {
         "add": "45.13.227.118",
