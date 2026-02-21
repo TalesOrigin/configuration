@@ -36,6 +36,23 @@
         "v": "2"
     },
     {
+        "add": "51.79.102.253",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "58fe1542-5290-40ad-815a-77707a81afe5",
+        "net": "ws",
+        "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+        "port": "80",
+        "ps": "[\ud83c\udde8\ud83c\udde6]t.me/ConfigsHub",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "\u06a9\u0627\u0646\u0627\u0644 \u062a\u0644\u06af\u0631\u0627\u0645 : Free_VPN_CH@",
         "add": "tr1-smart.adelping.com",
