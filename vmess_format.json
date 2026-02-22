@@ -115,7 +115,7 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "yyhju.1x6.indevs.in",
+        "add": "bfbg.2nn.ccwu.cc",
         "port": "80",
         "type": "none",
         "id": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
@@ -128,26 +128,13 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.21.23.132",
+        "add": "turk1.net.net",
         "port": "80",
-        "type": "none",
-        "id": "1798b14b-aee0-4008-ba9a-2e53877761b4",
-        "aid": "0",
-        "net": "ws",
-        "path": "/kFK9O5cl8ZycyrxcJWNVFC21",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.26.15.137",
-        "port": "80",
-        "type": "none",
+        "type": "auto",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
         "aid": "0",
         "net": "ws",
-        "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
+        "path": "/",
         "host": "91.341.94.160",
         "tls": ""
     },
