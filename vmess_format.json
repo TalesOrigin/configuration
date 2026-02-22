@@ -36,6 +36,23 @@
         "v": "2"
     },
     {
+        "add": "108.162.192.188",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2ac4e269-1576-4f41-8c0d-6242e3c5fd8c",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "@Hope_Net-join-us-on-Telegram"
+    },
+    {
         "v": "2",
         "ps": "\u06a9\u0627\u0646\u0627\u0644 \u062a\u0644\u06af\u0631\u0627\u0645 : Free_VPN_CH@",
         "add": "tr1-smart.adelping.com",
@@ -153,39 +170,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e520 861.5KB/s",
-        "add": "bfbg.2nn.ccwu.cc",
-        "port": "80",
-        "id": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
-        "tls": "",
-        "sni": "",
-        "test_name": "20"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e523 627.7KB/s",
-        "add": "tr1-smart.adelping.com",
-        "port": "80",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "",
-        "tls": "",
-        "sni": "",
-        "test_name": "23"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e527 749.9KB/s",
+        "ps": "\u672a\u77e523 398.6KB/s",
         "add": "turk1.net.net",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -197,12 +182,12 @@
         "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
         "tls": "",
         "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
-        "test_name": "27"
+        "test_name": "23"
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd24 930.9KB/s",
-        "add": "bnhhy.1ll.ccwu.cc",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd7 2.1MB/s",
+        "add": "bfbg.2nn.ccwu.cc",
         "port": "80",
         "id": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
         "aid": "0",
@@ -213,11 +198,27 @@
         "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
         "tls": "",
         "sni": "",
-        "test_name": "US\u7f8e\u56fd24"
+        "test_name": "US\u7f8e\u56fd7"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e539",
+        "ps": "\u672a\u77e526 411.6KB/s",
+        "add": "tr1-smart.adelping.com",
+        "port": "80",
+        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "",
+        "tls": "",
+        "sni": "",
+        "test_name": "26"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e527 272.5KB/s",
         "add": "pq-hungary1.09vpn.com",
         "port": "80",
         "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
@@ -229,7 +230,7 @@
         "path": "/vmess/",
         "tls": "",
         "sni": "",
-        "test_name": "39"
+        "test_name": "27"
     },
     {
         "add": "turk1.net.net",
