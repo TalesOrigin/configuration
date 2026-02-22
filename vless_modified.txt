@@ -52,7 +52,6 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.21
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2075%20%40Outline_Vpn
 vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@nls.zdshop.ir:80??encryption=none&host=91.241.94.160&path=%2Fed%3D2560&security=none&type=ws#4
 vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@nls.zdshop.ir:80??encryption=none&host=91.241.94.160&path=%2Fed%3D2560&security=none&type=ws#4
-vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
@@ -175,7 +174,6 @@ vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNGکلی کانفیگ قوی براتون گذاشتم ❤️عشق کنید
 vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80??path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&encryption=none&host=91.241.94.160&type=ws#%D8%AC%D9%88%D8%AC%D9%87+%D8%B3%D8%AE%D8%A7%D8%B1%DB%8C+%40freV2rayNG➖➖➖
 vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG@freV2rayNGحجم نامحدودمدت اعتبار چند روز
-vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
@@ -184,7 +182,6 @@ vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&secu
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@nls.zdshop.ir:80??encryption=none&host=91.241.94.160&path=%2Fed%3D2560&security=none&type=ws#4
 vless://bc20990c-a88e-4852-8e3b-f5b3ff4ae56a@nls.zdshop.ir:80??encryption=none&host=91.241.94.160&path=%2Fed%3D2560&security=none&type=ws#4
-vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80??path=%2Fdownload&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
