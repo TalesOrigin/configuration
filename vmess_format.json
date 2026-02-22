@@ -36,23 +36,6 @@
         "v": "2"
     },
     {
-        "add": "108.162.192.188",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "2ac4e269-1576-4f41-8c0d-6242e3c5fd8c",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "scy": "none",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "@Hope_Net-join-us-on-Telegram"
-    },
-    {
         "v": "2",
         "ps": "\u06a9\u0627\u0646\u0627\u0644 \u062a\u0644\u06af\u0631\u0627\u0645 : Free_VPN_CH@",
         "add": "tr1-smart.adelping.com",
