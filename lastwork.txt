@@ -64788,3 +64788,6 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.21
 vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.16.250.22:80??encryption=none&security=none&fp=firefox&type=ws&host=91.241.94.160&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.96ms
 vless://dfb89560-d029-4fa8-b49c-feedfc5078ef@ip1-fast.tyryqyserver.ir:80??path=%2F%3Fed%3D2052&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:77ms
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.94ms
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.17:80??path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.88ms
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.91ms
