@@ -187,6 +187,22 @@
         "test_name": "45"
     },
     {
+        "v": "2",
+        "add": "turk1.net.net",
+        "port": "80",
+        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
+        "tls": "",
+        "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
+        "test_name": "25",
+        "ps": "\u062c\u0627\u0648\u06cc\u062f \u0646\u0627\u0645 \u0645\u06cc\u0644\u0627\u062f \u06af\u0646\u062c\u200c\u062f\u0648\u0633\u062a\ud83c\udf39\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:52ms"
+    },
+    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
