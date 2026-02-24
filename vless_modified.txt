@@ -172,7 +172,6 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 160
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
