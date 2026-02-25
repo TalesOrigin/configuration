@@ -37,22 +37,6 @@
     },
     {
         "v": "2",
-        "add": "turk1.net.net",
-        "port": "80",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "---",
-        "host": "91.341.94.160",
-        "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
-        "tls": "",
-        "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
-        "test_name": "25",
-        "ps": "\u062c\u0627\u0648\u06cc\u062f\u0646\u0627\u0645 \u0628\u0647\u0646\u0627\u0645 \u0645\u06cc\u0631\u0632\u0627\u0626\u06cc \ud83c\udf39\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:73ms"
-    },
-    {
-        "v": "2",
         "ps": "\u06a9\u0627\u0646\u0627\u0644 \u062a\u0644\u06af\u0631\u0627\u0645 : Free_VPN_CH@",
         "add": "tr1-smart.adelping.com",
         "port": "80",
