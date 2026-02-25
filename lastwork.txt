@@ -64800,3 +64800,4 @@ vless://telegram-ArV2ray@151.101.2.216:80??path=%2Ftelegram-ArV2ry%2Ctelegram-Ar
 vless://3ebc00d8-feed-4120-9a42-a936bcdde273@45.80.111.9:80??path=%2Fconnect%2Fde%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:22ms
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.06ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.43.0:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.01ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.88:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.19ms
