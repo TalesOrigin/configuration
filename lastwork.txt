@@ -64794,3 +64794,4 @@ vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??encryption=none&se
 vless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:53.4ms
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.93.33:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.83ms
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?type=ws&headerType=none&host=91.241.94.160&path=%2F%3Fed#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.22ms
+vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2f#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.9ms
