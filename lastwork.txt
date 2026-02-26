@@ -64811,3 +64811,10 @@ vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80??security=none&ty
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@140.248.131.123:80??path=/--Telegram---MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Chicago🅿️ping:21.4ms
 vless://243ff879-b317-4430-894e-767a131db2ca@172.64.69.98:80??security=none&sni=tr1-vless.ctunnel.xyz&type=ws&host=91.241.94.160&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.0ms
 vless://6034088f-b713-40dd-93be-eaea802eafe1@172.67.157.34:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram+channel+%3A+@pandavpntc#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/?ed=2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/?ed=2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.64.156.162:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://91453cf9-57ea-4c51-91b6-2400d16f4589@104.19.255.52:80??security=none&type=ws&host=91.241.94.160&path=%2FSvnTeam%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.115.181:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.219.149:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.103.95:80??security=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
