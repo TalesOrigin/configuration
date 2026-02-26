@@ -324,24 +324,6 @@
         "v": "2"
     },
     {
-        "add": "pq-hungary1.09vpn.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
-        "insecure": "1",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\udded\ud83c\uddfa",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
