@@ -153,7 +153,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e520 272.1KB/s",
+        "ps": "\u672a\u77e5 94.0KB/s",
         "add": "tr1-smart.adelping.com",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -165,27 +165,11 @@
         "path": "",
         "tls": "",
         "sni": "",
-        "test_name": "20"
+        "test_name": "\u672a\u77e5"
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd7 1.1MB/s",
-        "add": "nmki.1yy.ccwu.cc",
-        "port": "80",
-        "id": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
-        "tls": "",
-        "sni": "",
-        "test_name": "US\u7f8e\u56fd7"
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd8 398.4KB/s",
+        "ps": "\u672a\u77e530 183.6KB/s",
         "add": "turk1.net.net",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -197,11 +181,11 @@
         "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
         "tls": "",
         "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
-        "test_name": "US\u7f8e\u56fd8"
+        "test_name": "30"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e523 2.2MB/s",
+        "ps": "\u672a\u77e535",
         "add": "pq-hungary1.09vpn.com",
         "port": "80",
         "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
@@ -213,23 +197,7 @@
         "path": "/vmess/",
         "tls": "",
         "sni": "",
-        "test_name": "23"
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd11 405.7KB/s",
-        "add": "104.26.14.137",
-        "port": "80",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US\u7f8e\u56fd11"
+        "test_name": "35"
     },
     {
         "add": "t65.o1o.indevs.in",
