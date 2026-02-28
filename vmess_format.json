@@ -232,23 +232,6 @@
         "test_name": "US\u7f8e\u56fd11"
     },
     {
-        "add": "pq-hungary1.09vpn.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "\ud83c\udf10 @ConfigX2ray",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
