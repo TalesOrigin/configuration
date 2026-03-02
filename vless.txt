@@ -3353,17 +3353,11 @@ vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F&security=tls&a
 vless://b174b5d5-8cd7-4f2d-927a-f1a5ec309d36@78.157.37.186:2099?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%40SERVERNETTمنطقه ای /ارسالی
 vless://b174b5d5-8cd7-4f2d-927a-f1a5ec309d36@78.157.37.186:2099?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%40SERVERNETT
 vless://b174b5d5-8cd7-4f2d-927a-f1a5ec309d36@78.157.37.186:2099?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%40SERVERNETTمنطقه ای /ارسالی
-vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#NetAccount
-vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#NetAccount
-vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#NetAccount
-vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#NetAccount
 vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#%40filembad
 vless://44de73bc-eb6d-429d-9c2f-ec0a6e4a6681@my.configfast.site:4013?security=none&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#%40filembad
 vless://2fb9335d-6a89-4eed-8246-0d5076fd556e@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#%40filembad
 vless://3aa1e49b-93b5-49eb-b99c-f23a31dfb2f0@my.kiomars.shop:6664?security=reality&encryption=none&headerType=none&fp=safari&type=tcp&sni=play.google.com#%40filembad
 vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#%40filembad
-vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#NetAccount
-vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#NetAccount
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
