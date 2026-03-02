@@ -141,10 +141,6 @@ vless://c921c664-d82d-4317-b4d0-7640cc9aa760@151.101.3.8:80??allowInsecure=0&sni
 vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.28.244:80??security=none&type=ws&host=91.241.94.160&path=%2Fvlws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
 vless://2487c34c-016e-43f3-9460-cb13b1f4c418@151.101.128.155:80??security=none&type=ws&host=91.241.94.160&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BDss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQyLjIwMi40OC4xMDU6MzM4OQ==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80??security=none&type=ws&host=91.241.94.160&path=%2Fvlws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-vless://d9e40483-30ae-4076-8c8d-8d380f46ea33@94.101.191.11:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#vmess_iran
-vless://d9e40483-30ae-4076-8c8d-8d380f46ea33@94.101.191.11:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#vmess_iran
-vless://d9e40483-30ae-4076-8c8d-8d380f46ea33@94.101.191.11:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#AccoTUN
-vless://d9e40483-30ae-4076-8c8d-8d380f46ea33@94.101.191.11:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20t.me%2Facccrd
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws# TELEGRAM @PROXY_MTM
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
