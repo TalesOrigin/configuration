@@ -153,7 +153,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e54",
+        "ps": "\u672a\u77e52",
         "add": "turk1.net.net",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -165,11 +165,11 @@
         "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
         "tls": "",
         "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
-        "test_name": "4"
+        "test_name": "2"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e57",
+        "ps": "\u672a\u77e58",
         "add": "pq-hungary1.09vpn.com",
         "port": "80",
         "id": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
@@ -181,11 +181,11 @@
         "path": "/vmess/",
         "tls": "",
         "sni": "",
-        "test_name": "7"
+        "test_name": "8"
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e528",
+        "ps": "\u672a\u77e526",
         "add": "tr1-smart.adelping.com",
         "port": "80",
         "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
@@ -197,7 +197,7 @@
         "path": "",
         "tls": "",
         "sni": "",
-        "test_name": "28"
+        "test_name": "26"
     },
     {
         "add": "t65.o1o.indevs.in",
