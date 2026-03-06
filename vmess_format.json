@@ -114,19 +114,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "gbnhju.7no.ccwu.cc",
-        "port": "80",
-        "type": "none",
-        "id": "9f9b2ba3-77c1-400f-9b72-76b9b0829e51",
-        "aid": "0",
-        "net": "ws",
-        "path": "/5PVvw26jj0Fy6bojk",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\u672a\u77e55",
         "add": "turk1.net.net",
         "port": "80",
