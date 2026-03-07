@@ -1717,7 +1717,6 @@ vless://8be7dccf-5521-462d-9048-b11725e2d907@dl.iranifarmoon.ir:33553?encryption
 vless://79592b57-605b-49a8-8786-ced7525d985b@de-2-tun.irantehrankhabar.fun:8081?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40vmess_iran
 vless://94b0206c-9117-4f47-b702-749ac3d5763d@www.aparatgame.online:3006?security=&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%40vmess_iran
 vless://5e5d004d-b55b-4184-b3bb-7e99cd58b4da@de-1-tun-single.starping1.fun:8083?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@vmess_iran 👈 کانال تلگرامی ما
-vless://487509a1-ebf6-4488-b837-d753075cedba@STAR-17.starz-net.com:2075?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%8E%40ConfigV2RayNG
 vless://06120d66-16c1-0bb6-6e49-782335153281@titan.socialxxmedia.pro:1937?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40ConfigV2RayNG
 vless://eef39638-45eb-47c1-ba53-708eea36210c@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#%40ConfigV2RayNG
 vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40ConfigV2RayNG
@@ -1861,7 +1860,6 @@ vless://8b7df747-8680-45fe-80a2-934bfe983024@nwugrmnene.ultraserver.store:6274?s
 vless://becd8a5a-775e-4613-beae-4c537721bc60@2.144.22.84:8008?security=&encryption=none&headerType=none&type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
 vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encryption=none&host=reata.ir&headerType=http&type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20ConfigV2RayNG%40
-vless://487509a1-ebf6-4488-b837-d753075cedba@STAR-17.starz-net.com:2075?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%8E%40ConfigV2RayNG
 vless://06120d66-16c1-0bb6-6e49-782335153281@titan.socialxxmedia.pro:1937?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40ConfigV2RayNG
 vless://eef39638-45eb-47c1-ba53-708eea36210c@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#%40ConfigV2RayNG
 vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40ConfigV2RayNG
