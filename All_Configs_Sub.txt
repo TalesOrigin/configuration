@@ -12057,7 +12057,6 @@ vmess://eyJzY3kiOiJhdXRvIiwiaG9zdCI6IiIsImlkIjoiZmMyMmM3NjAtYTAxMC00MDFlLWE4OGQt
 vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encryption=none&host=reata.ir&headerType=http&type=tcp#Trade
 vmess://eyJzY3kiOiJhdXRvIiwiaG9zdCI6IiIsImlkIjoiZmMyMmM3NjAtYTAxMC00MDFlLWE4OGQtMGVhYjk3OTllYTAyIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiIiwiYWRkIjoiYmxvZzIubmRmNDYudG9wIiwicG9ydCI6IjI2MTc5IiwicHMiOiJWbWVzc3Byb3RvY29sJTIwIn0=
 vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encryption=none&host=reata.ir&headerType=http&type=tcp#Trade
-vless://5cdc9b95-1563-4cde-92e7-d31a2eea0f70@drop3.iransport90.ir:3478?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40Beiten%20
 vless://72e84b16-4e55-4a75-a4f9-960971dc256a@vip.xpertservice.shop:22003?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%7C%20%D9%87%D9%84%D9%86%D8%AF-%28%F0%9F%91%A4%3AAmir_Hossein%29
 vless://1de3c813-46ff-4403-9339-5f1d2e1f97dd@194.60.228.73:80?encryption=none&security=none&type=tcp&headerType=http#1%20%7C%20%40Beiten
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?encryption=none&security=none&type=ws&path=%2F#2%20%7C%20%40Beiten
