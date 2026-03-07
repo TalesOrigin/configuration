@@ -40,6 +40,7 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
+vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80??encryption=none&security=none&type=ws&path=%2Fget&host=91.241.94.160#@meliproxyy
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2085%20%40Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2075%20%40Outline_Vpn
@@ -173,10 +174,9 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 672
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80??security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 650
-vless://c4c09531-58b4-43ce-aff3-b7f9d15225cf@mx2.tehrantolidi.ir:80??path=%2Fsite&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 622
-vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 596
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80??security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 623
+vless://c4c09531-58b4-43ce-aff3-b7f9d15225cf@mx2.tehrantolidi.ir:80??path=%2Fsite&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 594
+vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 573
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80??path=%2F%3Fed&security=&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
