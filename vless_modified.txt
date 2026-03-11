@@ -272,9 +272,6 @@ vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80??path=%2F%3Fed%3D2
 vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80??encryption=none&security=none&type=ws&path=%2Fget&host=91.241.94.160#https://t.me/vip_vpn_2022وصله ؟
 vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80??encryption=none&security=none&type=ws&path=%2Fget&host=91.241.94.160#https://t.me/v
 vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80??encryption=none&security=none&type=ws&path=%2Fget&host=91.241.94.160#https://t.me/vip_vpn_2022وصله ؟
-vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#%40YamYamProxy
-vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#%40YamYamProxy
-vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#%40YamYamProxy
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80??path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=none&encryption=none&host=91.241.94.160&type=ws#%40EuServer
