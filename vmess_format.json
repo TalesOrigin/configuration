@@ -114,19 +114,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\udde8\ud83c\uddf3 \u53f0\u6e7e\u7701\u53f0\u5317\u5e02 \u4e2d\u534e\u7535\u4fe1",
-        "add": "abm96f00fby3.jkhkgj.xyz",
-        "port": "80",
-        "type": "none",
-        "id": "0f868002-5230-45fb-be23-0fd0ed9bbdc4",
-        "aid": "0",
-        "net": "ws",
-        "path": "/market/jp1",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\u672a\u77e520",
         "add": "turk1.net.net",
         "port": "80",
