@@ -114,19 +114,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
-        "add": "nmjki.1x8.indevs.in",
-        "port": "80",
-        "type": "none",
-        "id": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
-        "aid": "0",
-        "net": "ws",
-        "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\u672a\u77e520",
         "add": "tr1-smart.adelping.com",
         "port": "80",
