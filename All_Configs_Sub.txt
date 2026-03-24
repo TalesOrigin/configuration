@@ -11689,7 +11689,6 @@ vmess://eyJhZGQiOiJzZWxsdmlwdnBuLm15aXJhbjEucHciLCJhaWQiOiIwIiwiaG9zdCI6InNuYXBw
 vmess://eyJhZGQiOiJzZWxsdmlwdnBuLm15aXJhbjEucHciLCJhaWQiOiIwIiwiaG9zdCI6InNuYXBwLmlyIiwiaWQiOiI4YTkwYzZkNy01OGRhLTQyNDgtZDAyNC01NzRhMWQzZjMyNjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUzIiwicHMiOiJ0ZXN0M0BzZWxsX3ZpcHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.195.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.140.89:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.186.179:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.114.26:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
@@ -11709,6 +11708,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.137.34:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.228.130:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.149:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.165.179:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#%40ConfigV2RayNG%20%F0%9F%87%A9%F0%9F%87%AA
 vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun3.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%40ConfigV2RayNG
 vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun1.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%40ConfigV2RayNG
