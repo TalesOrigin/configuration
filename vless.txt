@@ -3533,7 +3533,6 @@ vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.18.32.47:443?path=%2FeyJqdW5rIj
 vless://5590a2f6-9703-4bd9-8861-6bd5d20d93c1@chatgpt.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ok-7t5.pages.dev&fp=chrome&type=ws&sni=ok-7t5.pages.dev#%40V2rayNG3@V2rayNG3@SERVER444
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.51.154:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.26.183:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.25.182:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.83.28:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
@@ -3552,6 +3551,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.2.6:22224?type=ws&security=tls
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.121.226:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.45.250:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.173.17:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.43.202:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#%40ConfigV2RayNG%20%F0%9F%87%A9%F0%9F%87%AA
 vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun3.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%40ConfigV2RayNG
 vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun1.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%40ConfigV2RayNG
