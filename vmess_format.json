@@ -114,6 +114,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "152.67.8.205",
+        "port": "80",
+        "type": "none",
+        "id": "9db4c708-aef8-4359-821b-38e47990be0d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\u672a\u77e53",
         "add": "pq-hungary1.09vpn.com",
         "port": "80",
