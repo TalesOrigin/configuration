@@ -114,19 +114,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd(yudou789.top \u7389\u8c46\u514d\u8d39\u8282\u70b9)",
-        "add": "hkt.gotochinatown.net",
-        "port": "80",
-        "type": "none",
-        "id": "e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9",
-        "aid": "2",
-        "net": "ws",
-        "path": "/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\u672a\u77e56",
         "add": "turk1.net.net",
         "port": "80",
