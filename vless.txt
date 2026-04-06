@@ -1804,11 +1804,6 @@ vless://52057620-80b4-4727-a677-ca7f87359c64@185.173.107.159:443?security=&encry
 vless://52057620-80b4-4727-a677-ca7f87359c64@185.173.107.159:443?security=&encryption=none&headerType=&type=tcp#https://t.me/vip_vpn_2022با سایفون ترکیب بزنید ❤️
 vless://52057620-80b4-4727-a677-ca7f87359c64@185.173.107.159:443?security=&encryption=none&headerType=&type=tcp#https://t.me/vip_vpn_2022با سایفون ترکیب بزنید ❤️
 vless://c984bf83-d7cb-49d5-98ba-6ed29bf419f0@out1.un1ty.ir:80?path=%2F&security=none&encryption=none&type=ws#https://t.me/vip_vpn_2022test
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.197.183.219:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#@ultrasurf_12
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#@ultrasurf_12
-vless://595db874-accd-4e0c-be21-f90b43c6c56c@null.bache-molavi.sbs:34915?security=none&encryption=none&headerType=none&type=tcp#@ultrasurf_12
-vless://443fd8ea-3cfd-4286-a4e2-91276e41fe51@45.148.117.94:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yZh74kxd_k5PvamyrFDIS_rYRLUhy5xpc4v1lU_Gdk0&security=reality&sid=f085548164eba3de&sni=yandex.ru&type=tcp#@ultrasurf_12
-vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=//%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=TESt-TEsT-TEST-TEsT.pAGes.dEV&amp%3Bfp=randomized&amp%3Btype=ws&amp%3Bsni=test-teSt-tEsT-teSt.pagES.DEv#@ultrasurf_12
 vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&encryption=none&pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=6ba85179e30d4fc2#@ultrasurf_12
 vless://c1e0aa57-6ae8-429d-a304-80cc52eba9c1@185.143.234.200:80?path=%2F&security=none&encryption=none&host=vhb2.parsimas.ir&type=ws#@ultrasurf_12
 vless://8fc836e4-f72f-40d7-8a55-8677324a2079@185.143.234.122:80?path=%2F&security=none&encryption=none&host=S4.koremusic.ir&type=ws#%40@ultrasurf_12
@@ -3368,7 +3363,6 @@ vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.18.32.47:443?path=%2FeyJqdW5rIj
 vless://5590a2f6-9703-4bd9-8861-6bd5d20d93c1@chatgpt.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ok-7t5.pages.dev&fp=chrome&type=ws&sni=ok-7t5.pages.dev#%40V2rayNG3@V2rayNG3@SERVER444
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.250.243:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.235.241:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.109.175:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.154.88:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
@@ -3388,6 +3382,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.97.29:22224?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.46.103:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.29.219:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.121.169:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.177.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://5921e091-fd96-473e-ed51-626e6b61f089@3.127.218.176:443?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8F
 vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#%40ConfigV2RayNG%20%F0%9F%87%A9%F0%9F%87%AA
 vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun3.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%40ConfigV2RayNG
@@ -3774,6 +3769,7 @@ vless://c1e0aa57-6ae8-429d-a304-80cc52eba9c1@185.143.234.200:80?path=%2F&securit
 vless://8fc836e4-f72f-40d7-8a55-8677324a2079@185.143.234.122:80?path=%2F&security=none&encryption=none&host=S4.koremusic.ir&type=ws#%40@ultrasurf_12
 vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&encryption=none&pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=6ba85179e30d4fc2#@ultrasurf_12
 vless://e5933eb3-2aa8-4f20-b622-92677bf618f8@snapp.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=cdn.siilaam.online&fp=chrome&type=ws&allowInsecure=0&sni=info.siilaam.online#@ultrasurf_12
+vless://e5933eb3-2aa8-4f20-b622-92677bf618f8@snapp.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=cdn.siilaam.online&fp=chrome&type=ws&allowInsecure=0&sni=info.siilaam.online#%40ll@ultrasurf_12
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&security=&encryption=none&host=melovy.ir&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&security=&encryption=none&host=melovy.ir&type=ws# https://t.me/V2ray_for_free
