@@ -1800,6 +1800,7 @@ vless://97bd457e-77dd-4895-90dc-633bd51f0e78@snapp.ir:80?path=%2F&security=none&
 vless://b550a10e-5b57-4c6e-8794-4d7b0c410c5b.vianabeauty.ir:41635?security=none&encryption=none&headerType=none&type=tcp#@ultrasurf_12
 vless://eac32a6e-414d-4d09-bf33-edab977fedd8@vip-nightgemshop.sap-tanbol.ir:80?path=%2F&security=none&encryption=none&host=vip-nightgemshop.sap-tanbol.ir&type=ws#@ultrasurf_12
 vless://852a7161-7240-45e3-96fa-5ee2edb08350@video.ir.temas-lomat.ir:80?security=none&encryption=none&headerType=none&type=tcp#%40ultrasurf_12
+vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?path=%2F&security=none&encryption=none&host=dsfr.parsimas.ir&type=ws#%40ultrasurf_12
 vless://%56%50%4E%43%55%53%54%4F%4D%49%5A%45@190.93.247.155:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=%56%50%4E%43%55%53%54%4F%4D%49%5A%45-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws# telegram @proxy_mtm
 vless://%56%50%4E%43%55%53%54%4F%4D%49%5A%45@190.93.247.155:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=%56%50%4E%43%55%53%54%4F%4D%49%5A%45-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws# telegram @proxy_mtm
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80?path=%2Fed%3D2048&security=none&encryption=none&host=%69%70%76%32%72%61%79.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B782.tech&type=ws# TELEGRAM @PROXY_MTM
