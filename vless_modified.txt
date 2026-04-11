@@ -77,7 +77,6 @@ vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80??security=&enc
 vless://c984bf83-d7cb-49d5-98ba-6ed29bf419f0@out1.un1ty.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#https://t.me/vip_vpn_2022test
 vless://a84a171f-b228-4f47-adec-c11737df2ed9@185.143.233.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#%40v
 vless://c984bf83-d7cb-49d5-98ba-6ed29bf419f0@out1.un1ty.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#https://t.me/vip_vpn_2022test
-vless://ef87653e-f1e4-4e47-9202-474557f924e9@acv-76.f-sub.xyz:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40ultrasurf_12%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#%40ultrasurf_12
 vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80??security=&encryption=none&host=91.241.94.160&type=ws#@ultrasurf_12
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws# TELEGRAM @PROXY_MTM
