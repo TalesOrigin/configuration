@@ -84,7 +84,6 @@ vless://97bd457e-77dd-4895-90dc-633bd51f0e78@snapp.ir:80??path=%2F&security=none
 vless://eac32a6e-414d-4d09-bf33-edab977fedd8@vip-nightgemshop.sap-tanbol.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@ultrasurf_12
 vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40ultrasurf_12
 vless://ef87653e-f1e4-4e47-9202-474557f924e9@acv-76.f-sub.xyz:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#%40ultrasurf_12%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/#
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws# TELEGRAM @PROXY_MTM
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
