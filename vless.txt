@@ -3828,6 +3828,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?path=%2F&security
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#vip_vpn_2022
 vless://da7715bd-7051-4194-82e7-9afbeb2665ef@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=&encryption=none&host=live-azd1102.telewebion.ir&type=ws# https://t.me/v
 vless://a84a171f-b228-4f47-adec-c11737df2ed9@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%40v
+vless://afe0b4a9-c389-4a99-b92c-3dbdae2d9243@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@v
 vless://c984bf83-d7cb-49d5-98ba-6ed29bf419f0@out1.un1ty.ir:80?path=%2F&security=none&encryption=none&type=ws#https://t.me/vip_vpn_2022test
 vless://da7715bd-7051-4194-82e7-9afbeb2665ef@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=&encryption=none&host=live-azd1102.telewebion.ir&type=ws# https://t.me/vip_vpn_222ترکیبی با سایفون وصله ✅
 vless://da7715bd-7051-4194-82e7-9afbeb2665ef@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=&encryption=none&host=live-azd1102.telewebion.ir&type=ws# https://t.me/vip_vpn_222ترکیبی با سایفون وصله ✅
