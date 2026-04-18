@@ -64865,3 +64865,5 @@ vless://80ae607d-88e3-4e9b-b508-b8ed45f6d128@185.143.233.217:80??security=none&a
 vless://f2a0ef5b-a5e6-4f3c-bc17-e297c8b17207@abr.superip.ir:80??path=%2FAPI%2Fsuperip&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:78.86ms
 vless://80ae607d-88e3-4e9b-b508-b8ed45f6d128@185.143.233.217:80??path=%2Fws&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:55.76ms
 vless://68ae8dc5-2da7-4219-a729-2ce95594498d@ger1bot-ws.headerip.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:82.73ms
+vless://68ae8dc5-2da7-4219-a729-2ce95594498d@ger1bot-ws.headerip.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:82.07ms
+vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80??path=/?ed=2048&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.9ms
