@@ -64877,3 +64877,5 @@ vless://52dd2455-b2ce-4a04-a075-0b7f2bde9989@snapp.ir:80??path=%2F&security=none
 vless://81d19ba1-0f8d-45ed-87fb-fbe0c74583b8@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:106.25ms
 vless://cfee0059-5510-4934-a728-52728ec227b2@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:106.25ms
 vless://52dd2455-b2ce-4a04-a075-0b7f2bde9989@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:106.25ms
+vless://7e4e3fa6-a6e2-4978-89fa-9db9d0a07d8e@snapp.ir:80??path=%2FFIRELINK&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:105.44ms
+vless://42026dab-fe60-4155-8edb-a917ee5e7dee@link2x11580.temp.veraspeed.ir:80??path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:108.5ms
