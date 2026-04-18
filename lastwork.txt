@@ -64858,3 +64858,4 @@ vless://d69dc89a-ced5-4920-8d51-439cac0ccdcd@snapp.ir:80??path=%2F&security=none
 vless://e9b5e97e-e042-4a0d-ad47-4149352db54f@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:56.5ms
 vless://18905bbd-7e1d-4587-8789-7067e9a77532@185.143.234.235:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:54.02ms
 vless://68ae8dc5-2da7-4219-a729-2ce95594498d@ger1bot-ws.headerip.com:80??encryption=none&type=ws&path=%2F&host=91.241.94.160&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:81.7ms
+vless://c27cf658-8ea9-436b-9c9d-cb2866563cba@arvancloud.ir:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=@TunizoNET#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:77.99ms
