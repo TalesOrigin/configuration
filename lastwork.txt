@@ -64888,3 +64888,5 @@ vless://c5e56203-ad14-409e-bfee-d242e92fa5a2@out1.un1ty.ir:80??path=%2F&security
 vless://2601740f-12a1-4e61-ba12-4e84915f5ed8@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:54.26ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.22ms
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.89ms
+vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.37ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.92ms
