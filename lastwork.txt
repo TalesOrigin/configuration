@@ -64893,3 +64893,4 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80??encryption=none&ho
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.78ms
 vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@vpnpro.eshghiabolfazl2009.workers.dev:80??encryption=none&host=91.241.94.160&path=%F0%9F%94%92&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:50.97ms
 vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80??encryption=none&path=%2Fvless%2F&security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇧🇦®️Bosnia and Herzegovina©️Sarajevo🅿️ping:66.77ms
+vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80??path=/index.html&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.98ms
