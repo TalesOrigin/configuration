@@ -64897,3 +64897,4 @@ vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@104.18.4.130:80??path=/index.html&s
 vless://a185570c-7dbc-4da8-adef-0c2369b4aaa2@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:66.52ms
 vless://a185570c-7dbc-4da8-adef-0c2369b4aaa2@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:70.75ms
 vless://49c55c76-c92f-4274-954e-506390a60fd5@new11.onebook.ir:80??encryption=none&security=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:102.36ms
+vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:34.47ms
