@@ -64920,3 +64920,4 @@ vless://f25f9120-77ed-47a8-9594-1c74131f5657@snapp.ir:80??path=%2FFIRELINK&secur
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??path=%2F%20%40irshum2&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:34.56ms
 vless://7915e3f1-d5bf-45dc-a77f-3442d19190fe@snappfood.ir:80??encryption=none&type=ws&path=%2Fws&host=91.241.94.160&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:106.6ms
 vless://40a1e25a-3d5b-463e-9b4d-df3ecc19db11@r1.madussgameshop.com:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:81.3ms
+vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80??encryption=none&host=91.241.94.160&path=%2FTelegram-XV2ry2&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.92ms
