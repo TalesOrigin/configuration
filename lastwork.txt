@@ -64975,3 +64975,4 @@ vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80??security=none&s
 vless://8c8f0790-e257-9a15-b20c-1acd40d81f82@meli.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:78.03ms
 vless://2d3cb757-5f46-468f-9400-4542fca0ab03@185.143.235.201:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:58.58ms
 vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:21.89ms
+vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.77ms
