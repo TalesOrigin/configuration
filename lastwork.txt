@@ -64947,3 +64947,6 @@ vless://747cd523-cc32-4d7c-9943-fe661c6dc826@185.143.235.253:80??path=%2F&securi
 vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.92ms
 vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:21.94ms
 vless://64d55326-fb18-4a17-8b96-d88fc091db42@185.143.233.5:80??path=%2Fapi%2Fv2&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:55.98ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:47.87ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:47.87ms
+vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:32.08ms
