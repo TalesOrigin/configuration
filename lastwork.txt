@@ -64970,3 +64970,4 @@ vless://800bb7e0-dba1-47ba-9b75-63ff48752a46@qlt.clinicboalisina.ir:80??path=%2F
 vless://9f5e8117-77e9-4c2f-82fd-f9c2fcbd5153@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:101.74ms
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:68.38ms
 vless://afc24d41-9453-010b-7e51-c62d3b3e62cc@meli.masterdadeh.ir:80??encryption=none&security=none&sni=185.226.94.198&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:105.32ms
+vless://d444ab06-7a7f-4f80-b1eb-39308da10180@185.143.235.200:80??path=%2Farvancloud.ir&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:56.19ms
