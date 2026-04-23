@@ -114,32 +114,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddef\ud83c\uddf5 \u65e5\u672c Gaditek\u6570\u636e\u4e2d\u5fc3",
-        "add": "172.111.146.64",
-        "port": "80",
-        "type": "---",
-        "id": "05b8c783-7f59-47f9-9923-06a465679f6a",
-        "aid": "0",
-        "net": "ws",
-        "path": "/vmess/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddef\ud83c\uddf5 \u65e5\u672c Gaditek\u6570\u636e\u4e2d\u5fc3",
-        "add": "172.111.146.64",
-        "port": "80",
-        "type": "none",
-        "id": "05b8c783-7f59-47f9-9923-06a465679f6a",
-        "aid": "0",
-        "net": "ws",
-        "path": "/vmess/",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\u672a\u77e5",
         "add": "tr1-smart.adelping.com",
         "port": "80",
