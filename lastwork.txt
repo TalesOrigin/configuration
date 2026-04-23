@@ -65052,3 +65052,12 @@ vless://b9ffc9c6-aad0-0056-45ee-4f551a0f0b4a@tr.tehranionliine.ir:80??path=%2F&s
 vless://2a8d7a41-0ea9-476e-8432-206190e8a724@arvancloud.ir:80??path=%40TunizoNET&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:161.88ms
 vless://355cbbae-10ac-4715-8790-c8dc57d7d9f6@185.143.233.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:37.38ms
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80??path=%2FgetWorkerUpdates&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:117.54ms
+vless://b73c2d6f-5343-4236-851b-e8552190ef42@185.143.233.235:80??security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:24.95ms
+vless://a464ce63-f009-4dbd-9222-79b80943f118@pg.nexorainnovationhub.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:97.27ms
+vless://0e2dfbdb-94a2-4c1f-8e93-e027912a8d38@185.143.234.235:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:25.32ms
+vless://b9ffc9c6-aad0-0056-45ee-4f551a0f0b4a@tr.tehranionliine.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:87.17ms
+vless://fafd6a83-06eb-4199-bc69-bd447f420e08@arvancloud.ir:80??path=%40TunizoNET&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:52.24ms
+vless://10d15584-fe06-4c78-b106-7a96439e731b@185.143.233.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:24.95ms
+vless://355cbbae-10ac-4715-8790-c8dc57d7d9f6@185.143.233.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:24.95ms
+vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:106.46ms
+vless://2b389638-3a18-4a35-bb00-66dd8e1223d5@arvancloud.ir:80??path=@TunizoNET&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:52.24ms
