@@ -114,6 +114,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CCZZUU.TOP",
+        "add": "jp01.a0a.xyz",
+        "port": "80",
+        "type": "none",
+        "id": "11c3627f-31e8-4695-dfbd-34076e2f1f5d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\u672a\u77e53",
         "add": "pq-hungary1.09vpn.com",
         "port": "80",
