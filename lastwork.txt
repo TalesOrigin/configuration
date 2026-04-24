@@ -65164,3 +65164,9 @@ vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80??security=none&e
 vless://322a470b-2830-4c50-b991-817e786db06d@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:77.2ms
 vless://d688e1f5-eaf1-4f9f-b976-5584c16ed988@Snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:83.62ms
 vless://f9998c34-81b3-481f-b1b5-2858e6ef0b30@185.143.233.5:80??path=%2Fgamescore%3Fed%3D128&security=none&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:36.55ms
+vless://245bf0fd-e3c8-443b-ba1f-9c8ced2d86da@arvancloud.ir:80??path=@TunizoNET&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:133.08ms
+vless://245bf0fd-e3c8-443b-ba1f-9c8ced2d86da@arvancloud.ir:80??path=@Nvp_Hours&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:133.08ms
+vless://1a4b4d41-9c00-4a1f-bec0-1db7a2cb24ad@snapp.ir:80??encryption=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:55.37ms
+vless://245bf0fd-e3c8-443b-ba1f-9c8ced2d86da@arvancloud.ir:80??path=%40TunizoNET&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:133.08ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.2ms
+vless://0e22f876-1022-4805-b7c8-4c3d9b8eba05@arvancloud.ir:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:133.08ms
