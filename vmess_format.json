@@ -161,24 +161,6 @@
         "test_name": "32"
     },
     {
-        "add": "snapp.ir",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "d1f9a9f3-1725-4a55-b90b-a4afe92135a3",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/tak",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddee\ud83c\uddf7\u00ae\ufe0fIran\u00a9\ufe0fTehr\u0101n\ud83c\udd7f\ufe0fping:85.67ms"
-    },
-    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
