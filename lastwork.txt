@@ -65201,3 +65201,6 @@ vless://0f56bfe2-de27-4389-910b-32b7616835b1@Snappfood.ir:80??path=/&security=no
 vless://27c3f9d4-ae71-eb92-7249-0ef4ef46b0b4@sdl.ciliko.ir:80??security=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:51.89ms
 vless://ac5a52a4-3765-4d74-92b1-dc0dd0de931e@snapp.ir:80??encryption=none&type=ws&path=%2F%3Fed%3D1024&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:86.34ms
 vless://0f56bfe2-de27-4389-910b-32b7616835b1@Snappfood.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:54.73ms
+vless://cccfbe3f-04a5-4250-8ba5-649a8e6c05f4@snapp.ir:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:53.08ms
+vless://cccfbe3f-04a5-4250-8ba5-649a8e6c05f4@snapp.ir:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:125.8ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.32ms
