@@ -161,6 +161,23 @@
         "test_name": "27"
     },
     {
+        "add": "38.107.234.57",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "ps": "filembad-383",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
