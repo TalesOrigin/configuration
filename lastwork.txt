@@ -65282,3 +65282,5 @@ vless://2476e8f3-b8fd-4229-907a-30767ba04125@snapp.ir:80??encryption=none&host=9
 vless://35156dde-434f-4602-a175-a3b7d3e9fbf5@varzesh3.com:80??path=%2Fws&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:132.23ms
 vless://847ebd19-b113-4609-8aab-8da7a435f437@arvan1.un1ty.ir:80??encryption=none&host=91.241.94.160&path=%2Fjesuschrist&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:86.23ms
 vless://2476e8f3-b8fd-4229-907a-30767ba04125@snapp.ir:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:158.83ms
+vless://b4a40580-8670-4b44-aa08-7a2c17e35d66@arvancloud.ir:80??encryption=none&host=91.241.94.160&path=/ed=2048&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:152.94ms
+vless://b4a40580-8670-4b44-aa08-7a2c17e35d66@arvancloud.ir:80??path=/ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:152.94ms
