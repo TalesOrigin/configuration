@@ -65328,3 +65328,4 @@ vless://45488c15-cf24-4f8b-8a13-d37c580b8984@s1.tehranionliine.ir:80??path=%2F&s
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.77ms
 vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:43.63ms
 vless://f9df23c0-30cc-4482-a3e3-1090e960af03@varzesh3.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:69.77ms
+vless://7d8212ef-d86b-4f75-9ab9-1f2bdb4e9f41@snapp.ir:80??encryption=none&type=ws&security=none&host=91.241.94.160&path=https://t.me/drvpn7#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:94.41ms
