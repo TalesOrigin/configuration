@@ -40,6 +40,7 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
+vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#https://t.me/ConfigX2ray
 vless://fc7132e6-6943-424c-84bc-adbb60398a93@snapp.ir:80??path=%2Fapp1&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2085%20%40Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2075%20%40Outline_Vpn
@@ -104,8 +105,6 @@ vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80??path=%2FTelegram%3A%40N
 vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG@freV2rayNGحجم نامحدودمدت اعتبار چند روز
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
-vless://c3319fd7-627b-4ac2-a883-0bee53d15757@snapp.ir:80??security=none&type=ws&headerType=&path=%2F&host=91.241.94.160#@Vip_Security join us - 21
-vless://8cadcd46-4873-4667-bd01-c90ebc40e53b@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 14
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2075%20%40Outline_Vpn
@@ -137,9 +136,10 @@ vless://b31e7244-28fd-4975-b534-d1cecd7fc8cd@185.143.233.200:80??path=%2F&securi
 vless://771bc433-feba-4922-a916-e278fc8b7984@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Join ➣ @ultrasurf_12
 vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#Join ➣ @ultrasurf_12ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidXpOY01JMEtBSzJkUVQvYWx1VGEvZXVQT3lkd2Y1TTNOdlg0Zk5LNVFNPQ@2.189.86.97:33735#Join ➣ @ultrasurf_12
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.5.134:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#Join ➣ @ultrasurf_12
-vless://79ed806a-6476-4ca3-9020-0ab9e19425e1@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.66ms
-vless://79ed806a-6476-4ca3-9020-0ab9e19425e1@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.66ms
-vless://79ed806a-6476-4ca3-9020-0ab9e19425e1@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.66ms
+vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#
+vless://79ed806a-6476-4ca3-9020-0ab9e19425e1@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:69.99ms
+vless://79ed806a-6476-4ca3-9020-0ab9e19425e1@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:69.99ms
+vless://79ed806a-6476-4ca3-9020-0ab9e19425e1@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:69.99ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
