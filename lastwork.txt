@@ -65409,3 +65409,6 @@ vless://4e0b5e6f-f790-4236-802a-e9b93803ab9c@snapp.ir:80??security=none&type=ws&
 vless://206de0ba-cd5d-45ec-aa6d-560056d553bf@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:93.81ms
 vless://206de0ba-cd5d-45ec-aa6d-560056d553bf@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:75.09ms
 vless://8f60b55a-7b2d-4c44-ba7e-0879b73e1220@arvancloud.ir:80??path=%40TunizoNET&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.85ms
+vless://53d38bbf-f2c8-41be-9233-8abf41cedbfb@snapp.ir:80??path=%2F%3Fed%3D2080&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.96ms
+vless://b731bde9-dd83-4c0c-8426-8be732c812d6@snapp.ir:80??security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.96ms
+vless://db10973d-b732-67f3-fb0f-93d71881ee1a@sdl.ciliko.ir:80??security=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1125.74ms
