@@ -65398,3 +65398,4 @@ vless://20e152e1-bb9c-48e4-8bc6-da4f9edaabeb@emergency-nightgemshop.lezzasevio.i
 vless://0b96e469-bd3a-451b-98db-5b2df6eefa40@185.143.234.235:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:40.37ms
 vless://0b96e469-bd3a-451b-98db-5b2df6eefa40@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:40.37ms
 vless://3d23b51b-db72-4b4f-b126-a579de7f557b@free.z1q1.cfd:80??encryption=none&host=91.241.94.160&path=%2F24fh6sv00&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:154.71ms
+vless://09dcf904-b9e5-405e-8443-e5ef6d4b704a@snapp.ir:80??path=/&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:102.29ms
