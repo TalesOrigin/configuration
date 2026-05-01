@@ -65421,3 +65421,4 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80??encryption=none&ho
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80??encryption=none&host=91.241.94.160&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:48.08ms
 vless://206de0ba-cd5d-45ec-aa6d-560056d553bf@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:94.77ms
 vless://206de0ba-cd5d-45ec-aa6d-560056d553bf@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:68.16ms
+vless://0d3ad8c0-eda2-4c7f-b356-7377c9fc56ae@varzesh3.com:80??path=%2Fws&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:129.15ms
