@@ -65413,3 +65413,11 @@ vless://53d38bbf-f2c8-41be-9233-8abf41cedbfb@snapp.ir:80??path=%2F%3Fed%3D2080&s
 vless://b731bde9-dd83-4c0c-8426-8be732c812d6@snapp.ir:80??security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.96ms
 vless://db10973d-b732-67f3-fb0f-93d71881ee1a@sdl.ciliko.ir:80??security=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1125.74ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.41ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:42.24ms
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80??encryption=none&host=91.241.94.160&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.32ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80??encryption=none&host=91.241.94.160&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.51ms
+vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:42.15ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:42.2ms
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80??encryption=none&host=91.241.94.160&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:48.08ms
+vless://206de0ba-cd5d-45ec-aa6d-560056d553bf@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:94.77ms
+vless://206de0ba-cd5d-45ec-aa6d-560056d553bf@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:68.16ms
