@@ -65479,3 +65479,4 @@ vless://2594ad85-5278-47d0-8011-212372b9d335@snapp.ir:80??path=/&security=none&e
 vless://6a6ae979-973c-4dbc-88a7-ba67923086b9@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:69.55ms
 vless://5e96af72-1a8d-42e2-abd8-ecd12090cc4a@185.143.233.235:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:40.15ms
 vless://485230b8-48e8-40d0-bdeb-f553f975b64a@snapp.ir:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:69.55ms
+vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80??encryption=none&host=91.241.94.160&path=%2F%40WireXnet&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:42.23ms
