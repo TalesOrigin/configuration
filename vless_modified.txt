@@ -102,6 +102,7 @@ vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fv
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
+vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198&host=91.241.94.160#%40Network_442_%20%20Psiphon
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2075%20%40Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2085%20%40Outline_Vpn
 vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40FreeLand8%20%F0%9F%8D%91
