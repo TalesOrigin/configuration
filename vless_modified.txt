@@ -76,7 +76,6 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allo
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#@vip_vpn_2022 🔤🔤🔤🔠
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#@vip_vpn_2022 🔤🔤🔤🔠
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#@vip_vpn_2022 🔤🔤🔤🔠
-vless://5035cee5-d1e0-48de-a9f4-648b6f8e0a55@snappfood.ir:80??path=%2FRahbaram&security=none&encryption=none&host=91.241.94.160&type=ws#%40Network_442_%20mokhaberat.%20righl
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws# TELEGRAM @PROXY_MTM
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
@@ -128,15 +127,21 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3
 vless://f20de03b-c016-45cd-a6e2-d73713fa1fe0@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9A%A8Emergency-%40proxystore11✅ترکیبی ویتوری و سایفون
 vless://f20de03b-c016-45cd-a6e2-d73713fa1fe0@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9A%A8Emergency-%40proxystore11
 vless://f20de03b-c016-45cd-a6e2-d73713fa1fe0@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9A%A8Emergency-%40proxystore11✅ترکیبی ویتوری و سایفون
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:117.47ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??path=/ @ProxyVPN11&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.94ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.76ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:117.47ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??path=/ @ProxyVPN11&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.94ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.76ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:117.47ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??path=/ @ProxyVPN11&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.94ms
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.76ms
+vless://daf76688-9ac3-4a7b-99d7-a5aa7c83f55d@sahel.kalatkuhestak.com:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1098.54ms
+vless://c594ca1b-9523-641f-ba12-76b130c6d52f@meli.masterdadeh.ir:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://88ef4686-2b30-47e8-9f5b-460b201cb0e3@snapp.ir:80??security=none&type=ws&headerType=&path=/?ed=2080&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:73.78ms
+vless://daf76688-9ac3-4a7b-99d7-a5aa7c83f55d@sahel.kalatkuhestak.com:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1098.54ms
+vless://c594ca1b-9523-641f-ba12-76b130c6d52f@meli.masterdadeh.ir:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://88ef4686-2b30-47e8-9f5b-460b201cb0e3@snapp.ir:80??security=none&type=ws&headerType=&path=/?ed=2080&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:73.78ms
+vless://daf76688-9ac3-4a7b-99d7-a5aa7c83f55d@sahel.kalatkuhestak.com:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1098.54ms
+vless://c594ca1b-9523-641f-ba12-76b130c6d52f@meli.masterdadeh.ir:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://88ef4686-2b30-47e8-9f5b-460b201cb0e3@snapp.ir:80??security=none&type=ws&headerType=&path=/?ed=2080&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:73.78ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free

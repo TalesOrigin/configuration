@@ -65523,3 +65523,7 @@ vless://9fa01d08-ae58-4814-8ab6-3d50824407fa@snapp.ir:80??encryption=none&host=9
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:117.47ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??path=/ @ProxyVPN11&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.94ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.76ms
+vless://daf76688-9ac3-4a7b-99d7-a5aa7c83f55d@sahel.kalatkuhestak.com:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1098.54ms
+vless://c594ca1b-9523-641f-ba12-76b130c6d52f@meli.masterdadeh.ir:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:64.05ms
+vless://88ef4686-2b30-47e8-9f5b-460b201cb0e3@snapp.ir:80??security=none&type=ws&headerType=&path=/?ed=2080&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:73.78ms
