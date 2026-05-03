@@ -40,15 +40,8 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://c777b750-1e0b-4d77-b551-52855c0b77ab@185.143.234.122:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:34.38ms
-vless://c777b750-1e0b-4d77-b551-52855c0b77ab@185.143.234.122:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:43.1ms
-vless://bdf0a5de-a9cb-4262-90f2-e2f2d56af8bf@snappfood.ir:80??path=%2Fws&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.44ms
-vless://225343f5-f9ce-44b4-b6a1-1e31aa185ce3@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.92ms
-vless://225343f5-f9ce-44b4-b6a1-1e31aa185ce3@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:68.04ms
-vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.1ms
-vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:70.78ms
-vless://469b6631-f0ab-4ad7-93af-869dd32535e3@185.143.234.235:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#https://t.me/ConfigX2ray
-vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#https://t.me/ConfigX2ray
+vless://8f5880d1-9f5d-466b-b7c2-49996835c6e1@ss1.elmovipservice.ir:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:144.86ms
+vless://112605c1-0edf-4e84-a5a9-fe4669e53150@sr.novatechsapr.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:232.38ms
 vless://f57c2196-4c99-43c3-95c8-f9a0cf941f98@snapp.ir:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#@meliproxyy
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2085%20%40Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2075%20%40Outline_Vpn
@@ -81,9 +74,6 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??path=%2F%20%40Prox
 vless://2601740f-12a1-4e61-ba12-4e84915f5ed8@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#Join%20us%20%3A%20%40Vmess_iran
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=91.241.94.160&type=ws#%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%DA%A9%D8%A7%D9%86%DA%A9%D8%AA%20%D8%A8%D9%85%D9%88%D9%86%DB%8C%3A%20%40STAPersiaNewsپخش کنید 💥کانفیگ های v2ray & v2box متصل و قوی 🔵🔐برای تمامی اپراطورها وصله 🌍پروکسی پرسرعت 🔥فعال 🟢💎 Channel : @vmess_iranبرای خرید اختصاصی کانفیگ به آیدی زیر مراجعه فرمایید .🔥@akedit_eباهم وصل بشیم https://t.me/+xi1HavMamjBlNTQ0
 vless://2601740f-12a1-4e61-ba12-4e84915f5ed8@185.143.234.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#Join%20us%20%3A%20%40Vmess_iran
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#@vip_vpn_2022 🔤🔤🔤🔠
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#@vip_vpn_2022 🔤🔤🔤🔠
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#@vip_vpn_2022 🔤🔤🔤🔠
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#@vip_vpn_2022 🔤🔤🔤🔠
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40ultrasurf_12
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@185.143.234.235:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40ultrasurf_12
