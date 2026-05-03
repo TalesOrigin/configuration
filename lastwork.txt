@@ -65507,3 +65507,6 @@ vless://898917b6-c95e-4046-9fc7-49f1e6388035@yasinpanel.pointspeed.ir:80??path=/
 vless://8ac570e8-42d2-44de-b224-f637dcce4a2e@185.143.234.122:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:35.58ms
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??encryption=none&host=91.241.94.160&path=/vless/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:36.55ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.01ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??path=/ @ProxyVPN11&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.56ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.85ms
+vless://f46747a6-6797-48c3-9546-9914e0d13f75@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:70.26ms
