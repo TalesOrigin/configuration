@@ -65555,3 +65555,10 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.149.54:80??path=/ @ProxyVPN1
 vless://1e2649a6-1460-4a5e-87a5-7352e4fe1344@arvancloud.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:56.47ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:42.11ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??path=/ @ProxyVPN11&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.71ms
+vless://95bd65a9-7a6e-47d1-b86d-348309476904@pg.nexorainnovationhub.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:63.13ms
+vless://439d4c0b-11f7-441f-a7f4-d5889fb2a440@pg.nexorainnovationhub.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:63.13ms
+vless://439d4c0b-11f7-441f-a7f4-d5889fb2a440@pg.nexorainnovationhub.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:63.13ms
+vless://77d83d45-1fb6-4c90-a9c8-fe5cc3580579@pg.nexorainnovationhub.ir:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:63.13ms
+vless://98e85ab7-5ed2-c5a5-f734-226074d50aa3@sdl.ciliko.ir:80??security=none&allowInsecure=0&encryption=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:100.61ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.25.173:80??encryption=none&host=91.241.94.160&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.78ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.25.173:80??encryption=none&host=91.241.94.160&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.85ms
