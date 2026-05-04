@@ -161,6 +161,23 @@
         "test_name": "35"
     },
     {
+        "add": "185.143.233.235",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ba6d9b39-0bae-4179-9b9b-824b9bb27dc4",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "ProxyMtpVPN-399",
+        "scy": "auto",
+        "sni": "",
+        "tls": "none",
+        "type": "none",
+        "v": "2"
+    },
+    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
