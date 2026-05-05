@@ -65616,3 +65616,11 @@ vless://a3f3a69a-1468-43f3-9f7f-11c05d183dc6@185.143.234.235:80??path=%2F&securi
 vless://933660a8-830a-4ff6-a91f-250bc2176686@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.37ms
 vless://80e05614-399a-4cf7-a4c6-3d95e105d275@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.37ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:42.19ms
+vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80??path=%2Fws&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:39.9ms
+vless://e9453193-9a96-4c47-be25-278988dfc0cf@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:109.72ms
+vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80??path=%2Fws&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:39.09ms
+vless://54aec547-ba57-4ce5-bb92-70480272bc10@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:232.52ms
+vless://e0367939-e49a-4008-a4bd-6ddd2c6e9a17@snapp.ir:80??encryption=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:232.52ms
+vless://75ffa449-d6fd-4d47-93ce-a389756c0045@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:232.52ms
+vless://9d6c05f9-35cd-49f8-9bea-2c8b82ab9c51@line2.gymplusplus.com:80??path=/&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:156.44ms
+vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:153.25ms
