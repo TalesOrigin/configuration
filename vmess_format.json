@@ -161,17 +161,6 @@
         "test_name": "37"
     },
     {
-        "add": "cdn.ip-static.com",
-        "host": "91.341.94.160",
-        "id": "b1f5f8b6-1e52-464c-af7b-ce73b4244a84",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "filembad-350",
-        "scy": "auto",
-        "tls": "none"
-    },
-    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
