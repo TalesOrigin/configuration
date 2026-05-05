@@ -65626,3 +65626,7 @@ vless://9d6c05f9-35cd-49f8-9bea-2c8b82ab9c51@line2.gymplusplus.com:80??path=/&se
 vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:153.25ms
 vless://ce501597-4d24-4a64-8075-bbcb24e49ab7@snapp.ir:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:113.53ms
 vless://ce501597-4d24-4a64-8075-bbcb24e49ab7@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:112.28ms
+vless://ca85b230-f332-4798-afb1-c85f508ffb11@185.143.233.235:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:35.72ms
+vless://08999954-ee15-4c57-91bb-c7dabcbc3243@nl.gxnetshop.ir:80??encryption=none&security=none&type=ws&headerType=none&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.24ms
+vless://ca85b230-f332-4798-afb1-c85f508ffb11@185.143.233.235:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:38.62ms
+vless://c7784e78-ad09-4890-92b7-6feb6742b6b9@185.143.233.235:80??path=%2Fws-dl-echovps&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:38.62ms
