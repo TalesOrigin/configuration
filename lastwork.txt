@@ -65656,3 +65656,11 @@ vless://815cdffb-c802-44d3-b0c8-156d1ed7e3a6@arvancloud.ir:80??path=%2F&security
 vless://8d3dd2f2-0173-48f6-85e5-31db64a3cef7@185.143.233.5:80??path=%2Fxray&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:46.0ms
 vless://b79fb0c7-4d98-4744-8ddb-28ab730d837a@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:74.73ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:111.27ms
+vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80??path=%2Fxray&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:43.21ms
+vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:135.34ms
+vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:73.09ms
+vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80??path=%2Fxray&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:38.36ms
+vless://bfdf840a-66d3-48cb-a8f6-fedbe454a133@plse4.gishevip.xyz:80??path=/xray&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:112.81ms
+vless://7bb415e0-bae6-4157-85d9-a1dc71da574e@arvancloud.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:60.32ms
+vless://a6292be1-c976-4f40-b64d-8aff4ed25472@zeusgg.isfahangaming.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:104.54ms
+vless://7bb415e0-bae6-4157-85d9-a1dc71da574e@arvancloud.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:70.45ms
