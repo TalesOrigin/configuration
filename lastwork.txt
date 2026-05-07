@@ -65717,3 +65717,4 @@ vless://7fc9a955-4910-5b53-f516-0af48ec30de0@meli.masterdadeh.ir:80??path=/&secu
 vless://8edec35f-aa80-4856-a8a2-b123ac5a0274@arvancloud.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:70.37ms
 vless://057890eb-42a4-4904-84ff-853c3bad9030@arvancloud.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:70.37ms
 vless://057890eb-42a4-4904-84ff-853c3bad9030@arvancloud.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.26ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80??encryption=none&host=91.241.94.160&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:54.53ms
