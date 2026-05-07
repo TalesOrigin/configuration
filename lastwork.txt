@@ -65686,3 +65686,13 @@ vless://9d200545-cfe3-4349-8d87-76fb0bf11e12@snapp.ir:80??path=%2FFIRELINKKVPN&s
 vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80??path=%2Fxray&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:35.64ms
 vless://826beb96-4c53-486d-9ddd-c1d09970eb17@yasinpanel.pointspeed.ir:80??path=%2Farvancloud.ir&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:108.28ms
 vless://04fa65ad-5178-49c0-b679-a5442e3bfe78@185.143.234.235:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:38.66ms
+vless://08b4ede0-5db7-48f2-a363-b3b5fc623d18@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:63.94ms
+vless://b9e4aafc-7e82-4303-8160-7207bfca4836@185.143.233.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:39.75ms
+vless://826beb96-4c53-486d-9ddd-c1d09970eb17@yasinpanel.pointspeed.ir:80??path=/arvancloud.ir&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:108.28ms
+vless://9d200545-cfe3-4349-8d87-76fb0bf11e12@snapp.ir:80??path=/FIRELINKKVPN&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:63.94ms
+vless://787b3724-16c8-4e58-a038-2b8013cdc6d9@172.64.155.209:80??encryption=none&host=91.241.94.160&path=%2FeyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.71ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.06ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80??encryption=none&host=91.241.94.160&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.41ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.67ms
+vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1213.72ms
+vless://225ddf30-ea59-49fa-9df9-bcb82ef35d96@snapp.ir:80??encryption=none&type=ws&host=91.241.94.160&path=/&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:85.78ms
