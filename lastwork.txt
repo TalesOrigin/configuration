@@ -65776,3 +65776,11 @@ vless://61a82b8a-dd78-47f8-a9a2-4920d1fa2115@snapp.ir:80??encryption=none&type=w
 vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.85ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.26ms
 vless://555e503e-2e99-4d0d-9eb5-c997d5231245@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:66.74ms
+vless://c6238469-73e1-5c76-e112-fac093331074@salamirani2.radpol.ir:80??host=&path=/&security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:141.01ms
+vless://c6238469-73e1-5c76-e112-fac093331074@salamirani2.radpol.ir:80??host=&path=%2F&security=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:141.01ms
+vless://61c05fb8-3f71-43fb-b498-77826dede5b8@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:66.74ms
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80??encryption=none&host=91.241.94.160&path=%2F%3Fed%253D2048&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:114.02ms
+vless://a40a4e49-1dcf-4666-accf-4e278c894b00@us1bot-ws.headerip.com:80??security=none&type=ws&host=91.241.94.160&headerType=&path=/#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.6ms
+vless://e708da72-58cf-4e52-97be-fc6116c1a8b4@ip.amirenzo.ir:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:263.59ms
+vless://7b048a03-a987-4957-9171-4475094dc7d6@ger1bot-ws.headerip.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:292.06ms
+vless://0e57d84c-d3b0-4399-b6c1-ce634aba0e50@185.143.233.235:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:43.43ms
