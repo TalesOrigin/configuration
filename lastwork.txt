@@ -65854,3 +65854,5 @@ vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80??path=%2F&security=none
 vless://b58a4985-810c-4580-a018-7c1e8b8b7cc3@digipay.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:94.79ms
 vless://5b376078-9561-4587-84c1-cc16a4f6d88a@digipay.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:94.79ms
 vless://d9e03673-3a91-4db5-8218-33e25dbfb285@digipay.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:94.79ms
+vless://7c022260-c8e0-4e8c-a691-db4b4ff8152d@anten.ir:80??path=@TunizoNET&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:296.05ms
+vless://ff0f0a84-9dd1-4920-bf83-cbb2a8aae9b0@digipay.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:79.98ms
