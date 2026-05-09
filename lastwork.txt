@@ -65790,3 +65790,7 @@ vless://6934a482-7a42-44bc-aa37-943471060923@Sid.ir:80??path=%2Fcdn&security=non
 vless://77344400-3bc3-4ed7-8dc3-1dec550f992f@novatechhub.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1131.42ms
 vless://79dbc041-10c4-4594-924d-716737a776f9@ger1bot-ws.headerip.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:232.22ms
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:233.72ms
+vless://c9ab2ccc-0188-4092-83e5-c456f8677a03@snapp.ir:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:167.67ms
+vless://31626633-6532-4065-a132-356361373534@185.143.232.69:80??path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:26.43ms
+vless://d76ff385-7e6e-4b6a-9e6f-fae014e24e4f@digipay.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:103.62ms
+vless://1570db5d-0169-44c5-a37b-e88885610b84@digipay.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:103.62ms
