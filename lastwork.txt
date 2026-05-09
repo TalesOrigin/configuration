@@ -65877,3 +65877,5 @@ vless://23310bd1-ec87-4984-b976-0a6aca2b48c9@digipay.ir:80??path=%2F&security=no
 vless://4316c96a-83bc-4ada-b843-13bf218c9522@digipay.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:96.98ms
 vless://4316c96a-83bc-4ada-b843-13bf218c9522@digipay.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:77.36ms
 vless://bd51a3d6-328c-49d5-9270-6b7c6051d98f@digipay.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:77.36ms
+vless://4316c96a-83bc-4ada-b843-13bf218c9522@digipay.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:100.09ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:110.85ms
