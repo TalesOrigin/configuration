@@ -65918,3 +65918,4 @@ vless://5b834bef-569b-413b-8056-ec16e07706d7@de.tehranionliine.ir:80??path=%2F&s
 vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:44.18ms
 vless://5b834bef-569b-413b-8056-ec16e07706d7@de.tehranionliine.ir:80??path=%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:63.57ms
 vless://d11402f2-af49-484e-9f60-6acaa7e67ace@iman.neticoapp.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.29ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:111.58ms
