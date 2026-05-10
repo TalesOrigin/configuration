@@ -161,6 +161,24 @@
         "test_name": "36"
     },
     {
+        "add": "185.143.234.235",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "3a218876-a085-4acb-b198-aa932e4f21f4",
+        "insecure": "0",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "filembad-363",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
