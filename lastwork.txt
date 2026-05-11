@@ -65948,3 +65948,6 @@ vless://18cab9b5-252d-4680-9191-d398345b6994@snapp.ir:80??encryption=none&type=w
 vless://db4eae55-b4f6-4e9c-ab4c-4a3758c73fd8@po.tehranionliine.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:96.72ms
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80??encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.24ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.04ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Ashburn🅿️ping:110.65ms
+vless://63363831-3663-4331-a439-643831323538@185.143.233.52:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/l/w/aXD2QyDdS6vRQpxs?ed%3D2047#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:43.8ms
+vless://fc84b563-89fc-4555-b18b-b09c59d2947f@space-vip.zenvault.ir:80??path=/&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:82.8ms
