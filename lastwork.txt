@@ -65966,3 +65966,6 @@ vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80??path=%2F
 vless://fc269020-c863-4147-a48d-5b7ccb6b024e@space-vip.zenvault.ir:80??path=/&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:94.06ms
 vless://cd5a3bde-41b9-4c2c-b200-2dc4cc162b36@space-vip.zenvault.ir:80??path=/&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:94.06ms
 vless://960c1b0e-de01-4a6d-bc09-9ca5cd79e0ee@line2.gymplusplus.com:80??security=none&allowInsecure=0&encryption=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:92.64ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:56.16ms
+vless://244f43cb-3e03-4f00-8a27-9422b7259e46@185.143.233.232:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:52.41ms
+vless://244f43cb-3e03-4f00-8a27-9422b7259e46@185.143.233.232:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:53.2ms
