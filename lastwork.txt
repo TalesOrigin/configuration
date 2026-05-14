@@ -66035,3 +66035,7 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allo
 vless://5959524d-dd59-46ba-9ce8-77ce58f6d228@varzesh3.com:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:277.98ms
 vless://b0bcf975-d6ea-4a57-a29e-eebad3006e7a@snapp.ir:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:5113.69ms
 vless://19a32f0f-293e-4625-b5df-bdc2967c1305@nobitex.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:89.96ms
+vless://dc7b8019-893f-4583-b95c-044b1f9696f4@dl4.paycollection.lol:80??encryption=none&type=ws&path=%2Fflutter&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:70.79ms
+vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:42.91ms
+vless://708b0490-3a51-4aa6-aadb-e7c4ba36cfe6@anten.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:355.61ms
+vless://7e2729f0-392a-4513-918f-929408fd9dae@Tapsi.ir:80??path=/cdn&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:100.11ms
