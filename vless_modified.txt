@@ -54,7 +54,6 @@ vless://3d6d89ff-f34d-4ff7-b1b8-71568d89beb8@snapp.ir:80??encryption=none&securi
 vless://b8545bb9-adf4-4bb8-a58b-cb3994cde763@snapp.ir:80??path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.96ms
 vless://36326231-3138-4166-b834-303439306131@185.143.234.96:80??encryption=none&type=ws&path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:40.92ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:54.39ms
-vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#https://t.me/ConfigX2ray
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2085%20%40Outline_Vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80??path=%2F64.181.218.67%3D443&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%9B%A1%20V%2075%20%40Outline_Vpn
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray

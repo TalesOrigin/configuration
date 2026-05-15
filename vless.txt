@@ -502,7 +502,6 @@ vless://3d6d89ff-f34d-4ff7-b1b8-71568d89beb8@snapp.ir:80?encryption=none&securit
 vless://b8545bb9-adf4-4bb8-a58b-cb3994cde763@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=ss9.limitless-cloud.ir&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.96ms
 vless://36326231-3138-4166-b834-303439306131@185.143.234.96:80?encryption=none&type=ws&path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&host=dl.tgmovie.bond#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:40.92ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:54.39ms
-vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?path=%2F&security=none&encryption=none&type=ws#https://t.me/ConfigX2ray
 vless://bc019623-ecae-4ee0-8826-6e96f6942263@lithuania1.labburo.su:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=Md6aue1Va7LhOd3dfKwSV4GnRCJYKyzf1JmGlD-7IH8&sid=3c7dbf0e7bd3d03c&sni=lithuania1.labburo.su&path=&host=#outline_ir
 vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&fp=chrome&type=ws&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#%outline_ir
 vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.189.157:443?path=%2F%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&sni=lk-cdn.deploy-assure.ru#%outline_ir
