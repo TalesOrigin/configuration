@@ -154,6 +154,7 @@ vless://be38206f-131d-4264-b47c-4802ff0b7c83@pg.nexorainnovationhub.ir:80??path=
 vless://08fd1dd7-1122-4fbe-b976-8d9abef5ca13@gift.nazincup.ir:80??path=%2Fapi&security=none&encryption=none&host=91.241.94.160&type=ws#@v2rayng3
 vless://b06bdaac-ca63-4dd9-bcf3-a621ab44e46e@digipay.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@v2rayng3
 vless://50ec2631-7599-48a1-9971-fca270b823d8@varzesh3.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Tarkibi14%20%7C%20%40FreeLand8
+vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#Tarkibi15%20%7C%20%40FreeLand8
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws# TELEGRAM @PROXY_MTM
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
