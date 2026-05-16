@@ -66094,3 +66094,7 @@ vless://2d75ce6e-32ef-40b0-890f-e388b36a7f1f@nobitex.ir:80??path=/&security=none
 vless://ef0cda0f-71b3-4b05-a243-3eaa0fda3f03@nobitex.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:128.29ms
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80??path=/vless/&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:74.27ms
 vless://2d75ce6e-32ef-40b0-890f-e388b36a7f1f@nobitex.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:74.79ms
+vless://63396566-3238-4632-b733-646364653736@185.143.232.2:80??path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:270.59ms
+vless://63396566-3238-4632-b733-646364653736@185.143.232.2:80??path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:385.94ms
+vless://36326231-3138-4166-b834-303439306131@185.143.234.96:80??path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:35.3ms
+vless://37336431-3561-4437-b965-383030373066@185.143.234.152:80??path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:39.73ms
