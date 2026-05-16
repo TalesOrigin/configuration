@@ -66089,3 +66089,5 @@ vless://3d6d89ff-f34d-4ff7-b1b8-71568d89beb8@snapp.ir:80??encryption=none&securi
 vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:97.11ms
 vless://492f46f2-c7f7-4b80-8a35-312728da0829@snapp.ir:80??path=/sh@dow&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:93.9ms
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??encryption=none&host=91.241.94.160&path=/http&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:66.51ms
+vless://da266c2f-2d20-4b38-aba6-01c5c4dbd85e@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.99ms
+vless://2d75ce6e-32ef-40b0-890f-e388b36a7f1f@nobitex.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1207.73ms
