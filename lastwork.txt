@@ -66111,3 +66111,5 @@ vless://e1dc29a6-c301-4562-a139-34aa3e4ef2a9@twt.ghapol.ir:80??path=/&security=n
 vless://d467a747-ad21-497c-aa3f-dc2f3de48d3b@adler-1g.adelshoop.net:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:97.98ms
 vless://7f22dd6d-b7e4-40a0-91dd-f0ade9cb67e8@Sid.ir:80??security=none&type=ws&headerType=&path=%2Fcdn&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:128.87ms
 vless://7f22dd6d-b7e4-40a0-91dd-f0ade9cb67e8@Ikco.ir:80??security=none&type=ws&headerType=&path=%2Fcdn&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:93.99ms
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:58.85ms
+vless://ccb3a745-6086-4319-98d9-edd4b8ebd6e5@varzesh3.com:80??path=/ws&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:58.91ms
