@@ -66091,3 +66091,6 @@ vless://492f46f2-c7f7-4b80-8a35-312728da0829@snapp.ir:80??path=/sh@dow&security=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??encryption=none&host=91.241.94.160&path=/http&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:66.51ms
 vless://da266c2f-2d20-4b38-aba6-01c5c4dbd85e@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.99ms
 vless://2d75ce6e-32ef-40b0-890f-e388b36a7f1f@nobitex.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:1207.73ms
+vless://ef0cda0f-71b3-4b05-a243-3eaa0fda3f03@nobitex.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:128.29ms
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80??path=/vless/&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:74.27ms
+vless://2d75ce6e-32ef-40b0-890f-e388b36a7f1f@nobitex.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:74.79ms
