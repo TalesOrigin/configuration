@@ -66086,3 +66086,5 @@ vless://f4af15b0-8994-48bf-b0d2-117a49f3f503@blubank.sb24.ir:80??encryption=none
 vless://061183f9-a722-4707-9160-3a2ee47209b3@nobitex.ir:80??path=/&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:146.71ms
 vless://b8545bb9-adf4-4bb8-a58b-cb3994cde763@snapp.ir:80??path=/graphql?ed=2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.96ms
 vless://3d6d89ff-f34d-4ff7-b1b8-71568d89beb8@snapp.ir:80??encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.96ms
+vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:97.11ms
+vless://492f46f2-c7f7-4b80-8a35-312728da0829@snapp.ir:80??path=/sh@dow&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:93.9ms
