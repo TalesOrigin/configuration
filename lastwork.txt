@@ -66129,3 +66129,4 @@ vless://fae5bc8f-60fc-4306-8a6e-1471d0d25327@twt.ghapol.ir:80??encryption=none&h
 vless://fae5bc8f-60fc-4306-8a6e-1471d0d25327@twt.ghapol.ir:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:73.85ms
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:37.58ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.62ms
+vless://0122f872-11c9-42e7-a43a-ea51384ad0c8@varzesh3.com:80??path=%2Fws&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:331.58ms
