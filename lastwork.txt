@@ -66125,3 +66125,7 @@ vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80??encryption=none&t
 vless://ad148fcd-aefa-47e8-8c7e-5fc242f9e142@arvancloud.ir:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.15ms
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80??encryption=none&host=91.241.94.160&path=%2F+%40ProxyVPN11&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (South Beach)🅿️ping:44.55ms
 vless://d4a3d8dc-abc6-4744-9060-7dd67b8b6f55@snappfood.ir:80??encryption=none&host=91.241.94.160&path=%2Fmargbaramperialism&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:73.71ms
+vless://fae5bc8f-60fc-4306-8a6e-1471d0d25327@twt.ghapol.ir:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:73.63ms
+vless://fae5bc8f-60fc-4306-8a6e-1471d0d25327@twt.ghapol.ir:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:73.85ms
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:37.58ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.62ms
