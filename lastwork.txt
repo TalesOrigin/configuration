@@ -66165,3 +66165,4 @@ vless://067a441d-7cdf-47cf-8fdd-c09b198a816f@snapp.ir:80??encryption=none&type=w
 vless://77832ed9-47a2-447c-96b3-a3390f2ede1a@nobitex.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:66.13ms
 vless://cb84993b-5d9d-4a82-851d-272a1370d66f@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.83ms
 vless://b940bcd9-4727-40e4-b047-437f2515e168@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.13ms
+vless://46494eb6-390c-4c69-a087-d22c2b8d6e34@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:97.32ms
