@@ -66167,3 +66167,11 @@ vless://cb84993b-5d9d-4a82-851d-272a1370d66f@snapp.ir:80??path=%2F&security=none
 vless://b940bcd9-4727-40e4-b047-437f2515e168@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:72.13ms
 vless://46494eb6-390c-4c69-a087-d22c2b8d6e34@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:97.32ms
 vless://29c5f367-6b0e-41bb-806a-a9f4c6edf1f6@185.143.233.43:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:32.62ms
+vless://671a0833-4b08-4fab-b4cb-1c2be74a79e1@snapp.ir:80??path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:66.98ms
+vless://7170f1df-3b97-470a-bda4-8c4419b7dc4b@185.143.234.44:80??path=%2Fredis&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:39.11ms
+vless://671a0833-4b08-4fab-b4cb-1c2be74a79e1@snapp.ir:80??path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:164.27ms
+vless://7170f1df-3b97-470a-bda4-8c4419b7dc4b@185.143.234.44:80??path=%2Fredis&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:37.4ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.0ms
+vless://95c62e8f-db78-46d9-9a1a-b8c85757f3cf@nobitex.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.12ms
+vless://9a8689c4-d2f2-481c-b9a1-91acc0c0b735@nobitex.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.12ms
+vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80??path=/vless/&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:89.71ms
