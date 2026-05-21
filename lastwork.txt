@@ -66191,3 +66191,6 @@ vless://aaf02eb7-ab39-48a2-ac0a-5464619618ce@snapp.ir:80??encryption=none&securi
 vless://b3a35af2-2859-4c17-be9d-71d0ac4558f2@snapp.ir:80??encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.97ms
 vless://13743436-95a2-4f9f-ac21-8ba8498c439f@snapp.ir:80??encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.97ms
 vless://77a4fe6e-ff9a-40da-9239-bf1a8a1749f2@arvancloud.ir:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/?ed%3D2052#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:66.31ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.42ms
+vless://53c3c47a-4c69-4292-9551-d481def36774@anten.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:329.16ms
+vless://b0e5a169-c30a-4ce5-a03a-dd33566d4ea8@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:75.71ms
