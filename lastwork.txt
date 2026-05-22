@@ -66234,3 +66234,5 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allo
 vless://d212a62b-dc05-4c8f-a039-a34340f15f2d@s3.tehranionliine.ir:80??path=/&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.73ms
 vless://2cadf798-e095-4c0f-9ec0-d9ab95d4b20e@bmi.ir:80??encryption=none&security=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.84ms
 vless://d212a62b-dc05-4c8f-a039-a34340f15f2d@s3.tehranionliine.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.73ms
+vless://d5d36002-2c49-4a16-9cb2-8e240156dfd1@185.143.232.201:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:304.62ms
+vless://11f2f311-e44f-4084-9593-c04cc9e6190e@rfral.aghanami.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:70.97ms
