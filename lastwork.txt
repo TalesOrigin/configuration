@@ -66230,3 +66230,4 @@ vless://d97c3d52-569a-4059-b487-64bee5f79103@snapp.ir:80??path=%2F&security=none
 vless://09fc1b02-c13b-4b54-ab86-21a7786cb38c@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:71.77ms
 vless://d97c3d52-569a-4059-b487-64bee5f79103@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:71.77ms
 vless://2877414f-d5bc-4bcf-8d82-470d92594504@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:71.77ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/%20@ProxyVPN11#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.01ms
