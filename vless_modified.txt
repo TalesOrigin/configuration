@@ -144,6 +144,7 @@ vless://dad8cfaf-a8dc-491b-94ad-1fb57cfc6691@pisronovin.ir:80??path=%2F&security
 vless://dad8cfaf-a8dc-491b-94ad-1fb57cfc6691@pisronovin.ir:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#Kinghooman❤️کانال تلگرامی ما🌐 @ConfigV2rayForFree
 vless://9dc1bebe-e059-4c96-b3a3-46a2936b1a53@Snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Kinghooman❤️کانال تلگرامی ما🌐 @ConfigV2rayForFree
 vless://9dc1bebe-e059-4c96-b3a3-46a2936b1a53@Snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Kinghooman❤️کانال تلگرامی ما🌐 @ConfigV2rayForFree
+vless://a0893888-24f3-4395-a7c8-007ba45dd168@abr.superip.ir:80??path=%2FAPI%2Fsuperip&security=none&encryption=none&host=91.241.94.160&type=ws#Tarkibi17%20%7C%20%40FreeLand8
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws# TELEGRAM @PROXY_MTM
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm
