@@ -66265,3 +66265,6 @@ vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80??path=%2F&securit
 vless://dbec7561-caa1-41bb-9417-6f35a66948bc@snapp.ir:80??path=/graphql?ed=2560&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:68.55ms
 vless://354ca5ba-da34-4fb7-a46a-0cc6d75156c7@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:68.55ms
 vless://17cc254b-9057-4f2e-bc0d-5418fe9a45e8@snapp.ir:80??path=/&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:68.55ms
+vless://e56c9ae0-8d93-4a64-a137-ec4900c56257@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:103.53ms
+vless://006e4730-9370-48fa-a7be-98e49833ca6e@185.143.234.235:80??encryption=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:34.89ms
+vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:95.61ms
