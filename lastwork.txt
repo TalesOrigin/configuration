@@ -66268,3 +66268,4 @@ vless://17cc254b-9057-4f2e-bc0d-5418fe9a45e8@snapp.ir:80??path=/&security=&encry
 vless://e56c9ae0-8d93-4a64-a137-ec4900c56257@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:103.53ms
 vless://006e4730-9370-48fa-a7be-98e49833ca6e@185.143.234.235:80??encryption=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:34.89ms
 vless://9cdf541f-b8a0-4270-8d31-542bb0961485@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:95.61ms
+vless://908a33c1-54b1-48c4-ab64-f46e4590c229@ger1bot-ws.headerip.com:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:63.24ms
