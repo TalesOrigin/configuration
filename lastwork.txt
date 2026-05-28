@@ -66279,3 +66279,4 @@ vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.236:80??path=%2F&securit
 vless://5b6e7300-8fc8-404e-8dc9-40a5393dd881@mkh.olampiavarz.ir:80??path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:88.43ms
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.224:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:48.04ms
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.19ms
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:86.91ms
