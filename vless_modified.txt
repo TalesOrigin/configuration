@@ -21,7 +21,7 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80??path=%2Fsoon&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:73.15ms
+vless://6c7e175b-3f05-445a-b082-635ba182f65e@helixgaming.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40outline_ir
 vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80??path=%2Fsoon&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#%40meliproxyy
 vless://2cdddac1-9a7c-4726-a176-74586c0db6eb@snapp.ir:80??path=%2Fvnet102MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
@@ -50,7 +50,6 @@ vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.21.224.5:80??path=%2F&security=
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.21.227.134:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.21.224.5:80??security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
-vless://6c7e175b-3f05-445a-b082-635ba182f65e@helixgaming.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40outline_ir
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80??path=%2Fdl%2Findex.php&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Pro%2016%20%40Outline_Vpn
