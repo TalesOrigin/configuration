@@ -66296,3 +66296,4 @@ vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80??encryptio
 vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80??path=%2Fsoon&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:87.7ms
 vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80??path=%2Fsoon&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:73.15ms
 vless://b735bc30-3d05-413b-814d-ba67f1554f27@snapp.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:99.41ms
+vless://f5e74012-79da-426d-bf54-10b66b481a36@snapp.ir:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&path=/&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:76.39ms
