@@ -66320,3 +66320,4 @@ vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80??encryption=none&
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=91.241.94.160&path=%2Fws&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:21.35ms
 vless://9168313a-6528-4567-ab18-173c8c86fc26@hd.teleincognito.com:80??encryption=none&host=91.241.94.160&path=%2FtdM8fSnq1aRrgXTanQ7vaHEIH3&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:65.69ms
 vless://af77d53f-a0e4-456e-b977-696bf081dcc8@45.130.125.69:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:43.52ms
+vless://af77d53f-a0e4-456e-b977-696bf081dcc8@185.18.250.245:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:44.25ms
