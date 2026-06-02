@@ -1324,3 +1324,4 @@ vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80??encryptio
 vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80??path=%2Fsoon&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:87.7ms
 vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80??path=%2Fsoon&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:73.15ms
 vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80??encryption=none&host=91.241.94.160&path=%2Fsoon&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:72.43ms
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??encryption=none&host=91.241.94.160&path=%2Fvless%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:35.3ms
