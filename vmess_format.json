@@ -26,19 +26,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 US\u7f8e\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
-        "add": "skk.moe",
-        "port": "80",
-        "type": "none",
-        "id": "65b17c0b-0a52-4b54-9bc9-60e31397b841",
-        "aid": "0",
-        "net": "ws",
-        "path": "/65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
