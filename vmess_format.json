@@ -26,24 +26,6 @@
         "tls": ""
     },
     {
-        "add": "61.245.11.60",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "a3e3a710-79f8-4ae0-b83c-607aab40d197",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\uddf5\ud83c\udded",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "t65.o1o.indevs.in",
         "aid": "0",
         "alpn": "",
