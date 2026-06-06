@@ -66359,3 +66359,4 @@ vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80??path=%2FTelegram--
 vless://1a135182-37b9-4b40-bb1b-34379d697ccb@panel.dibaux.ir:80??path=%2Fstream&security=none&encryption=none&host=91.241.94.160&type=ws&sni=panel.dibaux.ir#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:72.49ms
 vless://d5ce11af-c34d-412e-a29d-d5d729e4500e@anten.ir:80??path=%2Fws&security=&encryption=mlkem768x25519plus.random.0rtt.Pbq_ppp5sZDBncfRD3r81MWVXy8W5F5_Uv_js_abZ0o&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:56.34ms
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@speedtest.net:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:67.92ms
+vless://e3115c84-266b-4c46-b3f2-16cc3263d555@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:61.57ms
