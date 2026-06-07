@@ -66365,3 +66365,8 @@ vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@snapp.ir:80??path=%2Fws&security=no
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.1ms
 vless://d94a5437-c4a6-469f-8d8f-af25a717f1a8@172.67.176.195:80??security=none&type=ws&host=91.241.94.160&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:38.76ms
 vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:71.24ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.97.3:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:35.24ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.97.3:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:35.24ms
+vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:44.21ms
+vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fws&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:34.24ms
+vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@188.114.97.6:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:39.26ms
