@@ -66363,3 +66363,4 @@ vless://e3115c84-266b-4c46-b3f2-16cc3263d555@speedtest.net:80??path=%2F&security
 vless://f5d2c498-ba88-4e3a-b052-a13042a5e9b0@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.97ms
 vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@snapp.ir:80??path=%2Fws&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.28ms
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.1ms
+vless://d94a5437-c4a6-469f-8d8f-af25a717f1a8@172.67.176.195:80??security=none&type=ws&host=91.241.94.160&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:38.76ms
