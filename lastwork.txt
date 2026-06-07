@@ -66361,3 +66361,4 @@ vless://d5ce11af-c34d-412e-a29d-d5d729e4500e@anten.ir:80??path=%2Fws&security=&e
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@speedtest.net:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:67.92ms
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:61.57ms
 vless://f5d2c498-ba88-4e3a-b052-a13042a5e9b0@snapp.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:67.97ms
+vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@snapp.ir:80??path=%2Fws&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:65.28ms
