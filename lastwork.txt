@@ -66372,3 +66372,5 @@ vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80??Telegram=@Gozar
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@188.114.97.6:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:39.26ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80??path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇧🇬®️Bulgaria©️Sandanski🅿️ping:45.06ms
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@188.114.97.6:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:32.26ms
+vless://321be3ae-f91e-4714-b6b9-db3a40e1f962@blubank.ir:80??path=%2F&security=none‌&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:68.39ms
+vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@172.67.135.254:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:37.82ms
