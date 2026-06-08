@@ -66376,3 +66376,4 @@ vless://321be3ae-f91e-4714-b6b9-db3a40e1f962@blubank.ir:80??path=%2F&security=no
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@172.67.135.254:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:37.82ms
 vless://afb3eb91-6ab7-4c70-874e-716e2481cb7d@blubank.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:98.98ms
 vless://ebbeeb9f-0842-5048-89b9-64643d3424e6@172.67.218.206:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless-ws%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:54.46ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.26ms
