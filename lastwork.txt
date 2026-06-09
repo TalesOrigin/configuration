@@ -66385,3 +66385,5 @@ vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80??ed=2048&eh=Sec-We
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:39.16ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:31.9ms
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:50.33ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:41.2ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:39.05ms
