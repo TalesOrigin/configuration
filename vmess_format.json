@@ -26,24 +26,6 @@
         "tls": ""
     },
     {
-        "add": "61.245.11.60",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "a3e3a710-79f8-4ae0-b83c-607aab40d197",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 ",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "none",
-        "v": "2"
-    },
-    {
         "add": "de5.niekotin.de",
         "aid": "0",
         "alpn": "",
@@ -207,7 +189,7 @@
         "net": "ws",
         "path": "/65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess",
         "port": "80",
-        "ps": "@Vip_Security join us - 476\n",
+        "ps": "@Vip_Security join us - 5\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
