@@ -26,6 +26,22 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83c\uddeb\ud83c\uddf7FR\u6cd5\u56fd3 971.3KB/s",
+        "add": "51.254.133.152",
+        "port": "80",
+        "id": "ac8bcf5e-bb58-4e8b-b4e4-5fdea010a6c6",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/vmess",
+        "tls": "",
+        "sni": "",
+        "test_name": "FR\u6cd5\u56fd3"
+    },
+    {
         "add": "61.245.11.60",
         "aid": "0",
         "alpn": "",
@@ -207,7 +223,7 @@
         "net": "ws",
         "path": "/65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess",
         "port": "80",
-        "ps": "@Vip_Security join us - 345\n",
+        "ps": "@Vip_Security join us - 5\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
