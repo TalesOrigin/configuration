@@ -22,14 +22,36 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:33.07ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:49.85ms
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:51.04ms
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:60.31ms
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:41.87ms
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:51.04ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:46.5ms
-vless://00d5352a-96e6-402a-af21-74c85111036e@91.107.135.76:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fv&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:29.16ms
+vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.97.3:80??security=none&encryption=none&type=ws&host=91.241.94.160&path=/I7f6VOnkgtdCosoK?ed=2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:38.22ms
+vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:80??security=none&encryption=none&type=ws&host=91.241.94.160&path=/wtQnVPnbjKOmqP7b?ed=2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:77.97ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=91.241.94.160&path=/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:35.24ms
+vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.96.3:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&type=ws&host=91.241.94.160&path=/c6L2QcfPLGJiqj1c?ed=2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:35.24ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+vless://c357fdf5-1c83-491f-b8d0-237741344fee@blubank.ir:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80??path=%2Fvless&security=&encryption=none&type=ws&host=91.241.94.160#Channel%20id%3A%20%40ShadowProxy66%20
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40outline_ir
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40outline_ir
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#@meliproxyy
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#@meliproxyy
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
@@ -46,25 +68,9 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&securi
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40outline_ir
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40outline_ir
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%24%2076%20%40Outline_Vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2070%20%40Outline_Vpn
 vless://e284098e-7ffd-4fce-a9d3-ea6bc98ce629@162.159.19.202:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2056%20%40Outline_Vpn
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-vless://c357fdf5-1c83-491f-b8d0-237741344fee@blubank.ir:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20
-vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80??path=%2Fvless&security=&encryption=none&type=ws&host=91.241.94.160#Channel%20id%3A%20%40ShadowProxy66%20
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80??path=%2Fdl%2Findex.php&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://e284098e-7ffd-4fce-a9d3-ea6bc98ce629@162.159.19.202:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2056%20%40Outline_Vpn
@@ -253,9 +259,6 @@ vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#telegram+%40proxy_mtm@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNGکلی کانفیگ قوی براتون گذاشتم ❤️عشق کنید
 vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80??path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&encryption=none&host=91.241.94.160&type=ws#%D8%AC%D9%88%D8%AC%D9%87+%D8%B3%D8%AE%D8%A7%D8%B1%DB%8C+%40freV2rayNG➖➖➖
 vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG@freV2rayNGحجم نامحدودمدت اعتبار چند روز
-vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@140.248.159.164:80??path=/containers/fi&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Chicago🅿️ping:32.16ms
-vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@140.248.159.164:80??path=/containers/fi&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Chicago🅿️ping:32.16ms
-vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@140.248.159.164:80??path=/containers/fi&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Chicago🅿️ping:32.16ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80??path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=91.241.94.160&type=ws# https://t.me/V2ray_for_free
