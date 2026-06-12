@@ -66544,3 +66544,4 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80??encryption=none
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:63.44ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:39.33ms
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:34.13ms
+vless://0080c59a-a11d-4788-90b9-7d1f4e8f3089@95.182.99.236:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:57.45ms
