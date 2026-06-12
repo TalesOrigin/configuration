@@ -21,6 +21,30 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80??ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.03ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:72.76ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:42.15ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:34.89ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:39.48ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:41.36ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:29.29ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:64.09ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:35.16ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:29.29ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:42.11ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:46.15ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??encryption=none&type=ws&path=%2F&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:69ms
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.03ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:35ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:35ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:48ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=none&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:44ms
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80??ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.03ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:39ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40outline_ir
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80??encryption=none&type=ws&path=%2Fvless&host=91.241.94.160#@meliproxyy
+vless://0080c59a-a11d-4788-90b9-7d1f4e8f3089@95.182.99.236:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
@@ -50,17 +74,11 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%8F%B3%EF%B8%8F
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%8F%B3%EF%B8%8F
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=&encryption=none&host=91.241.94.160&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%8F%B3%EF%B8%8F
-vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80??encryption=none&type=ws&path=%2Fvless&host=91.241.94.160#@meliproxyy
-vless://0080c59a-a11d-4788-90b9-7d1f4e8f3089@95.182.99.236:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80??path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80??path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#@meliproxyy
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%24%2081%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%24%2084%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%24%2076%20%40Outline_Vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2070%20%40Outline_Vpn
 vless://e284098e-7ffd-4fce-a9d3-ea6bc98ce629@162.159.19.202:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#Free%2056%20%40Outline_Vpn
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40outline_ir
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=91.241.94.160&type=ws#%40vpnfail_bot%20free%v2ray
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
@@ -147,26 +165,22 @@ vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80??path=%2FTelegram%3A%40N
 vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG@freV2rayNGحجم نامحدودمدت اعتبار چند روز
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 700
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 699
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#@Vip_Security join us - 698
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 697
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#@Vip_Security join us - 696
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 695
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 694
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 482
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 481
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 706
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 705
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 704
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#@Vip_Security join us - 703
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 702
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 701
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 481
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 480
-vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80??path=%2Fws&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 469
-vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80??path=%2Fvless&security=&encryption=none&type=ws&host=91.241.94.160#@Vip_Security join us - 446
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.18.41.75:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=91.241.94.160&type=ws&sni=amirvpn.amirhm00100.workers.dev#@Vip_Security join us - 443
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 438
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 434
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 432
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 431
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 430
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 429
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 428
+vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80??path=%2Fws&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 468
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&fp=chrome&type=ws#@Vip_Security join us - 432
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 431
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 430
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 429
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 428
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 427
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??path=%2F&security=&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 426
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??encryption=none&host=91.241.94.160&path=%2F&security=none&type=ws#@Network_442_%20hh34
