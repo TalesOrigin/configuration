@@ -173,8 +173,8 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 355
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 354
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 8
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 7
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
 vless://d4b622b8-f004-4148-ba73-047e85ebccf3@anten.ir:80??path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.-U735OnbTdjZCBje5RuC-pnraoZEL7pO_AxqzddX-Us&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%B7%40FreakConfig
