@@ -44,22 +44,22 @@
         "tls": ""
     },
     {
-        "add": "turk1.net.net",
+        "add": "51.254.133.152",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "43dcdce1-3cea-4193-bc8d-90b92071d779",
-        "insecure": "1",
+        "id": "ac8bcf5e-bb58-4e8b-b4e4-5fdea010a6c6",
+        "insecure": "0",
         "net": "ws",
-        "path": "/",
+        "path": "/vmess",
         "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\uddeb\ud83c\uddf7",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "---",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6\u00ae\ufe0fCanada\u00a9\ufe0fToronto\ud83c\udd7f\ufe0fping:92ms"
+        "type": "auto",
+        "v": "2"
     },
     {
         "v": "2",
@@ -94,24 +94,6 @@
         "sni": "",
         "alpn": "",
         "fp": ""
-    },
-    {
-        "add": "51.254.133.152",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "ac8bcf5e-bb58-4e8b-b4e4-5fdea010a6c6",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\uddeb\ud83c\uddf7",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "auto",
-        "v": "2"
     },
     {
         "add": "152.67.8.205",
