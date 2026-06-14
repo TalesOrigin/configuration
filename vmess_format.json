@@ -44,6 +44,22 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\u672a\u77e512",
+        "add": "myvpshosting.name.ng",
+        "port": "80",
+        "id": "96408f9a-df03-448b-b7e4-ec8e2c216682",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "---",
+        "host": "91.341.94.160",
+        "path": "/vmess",
+        "tls": "",
+        "sni": "",
+        "test_name": "12"
+    },
+    {
         "add": "51.254.133.152",
         "aid": "0",
         "alpn": "",
