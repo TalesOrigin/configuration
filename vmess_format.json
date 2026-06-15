@@ -45,7 +45,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e512",
+        "ps": "\u672a\u77e518",
         "add": "myvpshosting.name.ng",
         "port": "80",
         "id": "96408f9a-df03-448b-b7e4-ec8e2c216682",
@@ -57,7 +57,7 @@
         "path": "/vmess",
         "tls": "",
         "sni": "",
-        "test_name": "12"
+        "test_name": "18"
     },
     {
         "v": "2",
