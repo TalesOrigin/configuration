@@ -1,23 +1,5 @@
 [
     {
-        "add": "myvpshosting.name.ng",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "96408f9a-df03-448b-b7e4-ec8e2c216682",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "ps": "\ud83d\udd35@chillguy_vpn",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "---",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
         "add": "15.235.41.200",
@@ -45,7 +27,7 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e518",
+        "ps": "\u672a\u77e55",
         "add": "myvpshosting.name.ng",
         "port": "80",
         "id": "96408f9a-df03-448b-b7e4-ec8e2c216682",
@@ -57,7 +39,7 @@
         "path": "/vmess",
         "tls": "",
         "sni": "",
-        "test_name": "18"
+        "test_name": "5"
     },
     {
         "add": "51.254.133.152",
