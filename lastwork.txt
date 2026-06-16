@@ -66870,3 +66870,16 @@ vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??path=%2Fvless%2F
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80??encryption=none&type=ws&path=/?ed=3000&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:99.54ms
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@www.speedtest.net:80??encryption=none&type=ws&path=/?ed=3000&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:106.31ms
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80??encryption=none&type=ws&path=/?ed=3000&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:131.64ms
+vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:77.83ms
+vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:74.97ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:69.37ms
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80??path=%2F%3Fed%3D3000&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:127.32ms
+vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:83.94ms
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80??path=/vless/&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:49.0ms
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:51.54ms
+vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:81.44ms
+vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80??encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:83.94ms
+vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:83.94ms
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:49.0ms
+vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80??encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:81.44ms
+vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:204.88ms
