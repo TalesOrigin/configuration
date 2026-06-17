@@ -66923,3 +66923,4 @@ vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80??path=/stream&se
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80??encryption=none&host=91.241.94.160&path=%2Fstream&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:89.07ms
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80??encryption=none&host=91.241.94.160&path=%2Fstream&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:94.57ms
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80??encryption=none&host=91.241.94.160&path=%2Fstream&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:126.32ms
+vless://1e72b01d-4e45-4ba4-b0a5-f9c559350e5f@ez-e25f72.ezaccess1a1794b.workers.dev:80??path=%2F&security=none&encryption=none&insecure=0&host=91.241.94.160&fp=chrome&type=ws&allowInsecure=0&sni=ez-e25f72.ezaccess1a1794b.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:85.43ms
