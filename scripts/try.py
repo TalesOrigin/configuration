@@ -51,7 +51,7 @@ def update_host_in_json(input_path, output_path):
 
         for entry in vmess_data:
             if entry.get('net') == 'ws' and entry.get('port') == '80':
-                entry['host'] = '91.241.94.160'
+                entry['host'] = '172.217.20.225'
                 updated_jsons.append(entry)
 
         write_file(output_path, json.dumps(updated_jsons, indent=4))

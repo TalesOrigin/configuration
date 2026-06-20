@@ -338,7 +338,7 @@ def extract_links(input_file, vmess_file, vless_file):
 def update_host_in_vless_config(input_file, output_file):
     """Update the host in VLESS configurations and save the result to an output file."""
     # Define the new host value
-    new_host = "91.241.94.160"
+    new_host = "172.217.20.225"
     
     try:
         # Read the content of the input file

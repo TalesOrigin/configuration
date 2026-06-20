@@ -156,7 +156,7 @@ def process_vmess_configurations(raw_data):
             try:
                 decoded_data = decode_vmess_data(base64_part)
                 # Modify the host field
-                decoded_data['host'] = '91.241.94.160'
+                decoded_data['host'] = '172.217.20.225'
                 # Encode the modified data
                 encoded_data = encode_vmess_data(decoded_data)
                 modified_configs.append(f"vmess://{encoded_data}")
@@ -578,7 +578,7 @@ def main():
     output_folder = os.path.abspath(os.path.join(os.getcwd(), "..", "subscription"))
     vmess_input_file = os.path.abspath(os.path.join(os.getcwd(), "..", "My_Splitted-By-Protocol", "vmess_raw.txt"))
     vmess_output_file = os.path.join(output_folder, "vmess_subscription.txt")
-    new_host = '91.241.94.160'
+    new_host = '172.217.20.225'
     
     # Ensure output folder exists
     if not os.path.exists(output_folder):

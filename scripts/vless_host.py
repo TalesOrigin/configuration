@@ -6,7 +6,7 @@ output_file = '../vless_modified.txt'  # Replace with your output file path
 
 def update_host_in_vless_config(input_file, output_file):
     # Define the new host value
-    new_host = "91.241.94.160"
+    new_host = "172.217.20.225"
     
     # Read the content of the input file
     with open(input_file, 'r', encoding='utf-8') as file:
