@@ -67242,3 +67242,11 @@ vless://bcf34e48-afca-41d5-93bb-a7085d49f773@ez-60fb07.ezaccess1045bae.workers.d
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80??path=/vless/&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:67.51ms
 vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80??path=/vless&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Berlin🅿️ping:74.97ms
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@188.114.97.6:80??security=&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:42.25ms
+vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fstream&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:66.4ms
+vless://05e3b601-cc07-46dd-9766-d90f7adaa655@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:21.63ms
+vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80??security=none&allowInsecure=0&encryption=none&type=ws&host=91.241.94.160&path=/?ed=2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:48.12ms
+vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:63.5ms
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:80??path=%2F%3Fed%3D3000&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.44ms
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.149.54:80??path=%2F%3Fed%3D3000&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:47.08ms
+vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:55.4ms
+vless://05e3b601-cc07-46dd-9766-d90f7adaa655@65.21.109.91:80??encryption=none&host=91.241.94.160&path=/notbin&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:21.26ms
