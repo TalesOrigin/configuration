@@ -67432,3 +67432,13 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&securi
 vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80??path=%2Fvless&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:59.74ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:69.05ms
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:60.05ms
+vless://1bb9e882-3000-4c40-b4a0-c2dd0d9794e0@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:41.41ms
+vless://3f150e42-18f8-43cb-a4da-cb48ca2a21e1@hentai-cdn.apruxdomain.xyz:80??security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:84.13ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:45.71ms
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80??encryption=none&host=172.217.20.225&path=%2Frutube&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:43.04ms
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??encryption=none&host=172.217.20.225&path=/vless/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:35.51ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:25.97ms
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:35.51ms
+vless://3f150e42-18f8-43cb-a4da-cb48ca2a21e1@hentai-cdn.apruxdomain.xyz:80??security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:89.67ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:25.97ms
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80??encryption=none&host=172.217.20.225&path=/vless/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:74.88ms
