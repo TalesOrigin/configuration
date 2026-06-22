@@ -1,3 +1,5 @@
+vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80??path=%2Fvless&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%B8%F0%9F%87%AC
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80??path=%2Frutube&security=&encryption=none&host=172.217.20.225&type=ws#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%97%BF
 vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80??path=%2Fvless%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
@@ -28,21 +30,10 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:50.77ms
-vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80??path=%2Fvless&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:52.33ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:110ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:39.49ms
-vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80??path=%2Fvless&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.03ms
-vless://6f7299b9-f18b-4b85-bbef-60fe2a0d0715@ez-e7ab47.ezaccess12cb30b.workers.dev:80??path=%2F&security=none&encryption=none&insecure=0&host=172.217.20.225&fp=chrome&type=ws&allowInsecure=0&sni=ez-e7ab47.ezaccess12cb30b.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:65.69ms
-vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@104.16.92.229:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.1ms
-vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@104.16.92.229:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.1ms
-vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@104.16.92.229:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.1ms
-vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@45.130.125.114:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.9ms
-vless://c549264d-5e6f-4c38-ac8d-c4a116635f3e@104.18.175.54:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.97ms
-vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@45.130.125.114:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.9ms
-vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@104.16.92.229:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.1ms
-vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@104.16.92.229:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.1ms
-vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@45.130.125.114:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.9ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=none&type=ws&host=172.217.20.225&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:36.14ms
+vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80??path=%2Fvless&security=none&type=ws&host=172.217.20.225&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.88ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??encryption=none&host=172.217.20.225&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:48.85ms
+vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%40outline_ir
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80??path=%2Fws&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%AD
@@ -56,7 +47,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=no
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80??path=%2Fvless&security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#@meliproxyy
-vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%40outline_ir
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=172.217.20.225&type=ws#%40vpnfail_bot%20free%v2ray
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80??path=%2Fdl%2Findex.php&security=none&encryption=none&host=172.217.20.225&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
@@ -162,7 +152,6 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80??security=none&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 465
 vless://5a802fbb-00ed-4447-bece-3e0faf45e213@newus.mmrknight.app:80??path=%2FTelegram-Raiv2mmr.php&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 451
-vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??encryption=none&host=172.217.20.225&path=%2F&security=none&type=ws#@Network_442_%20%F0%9F%87%BA%F0%9F%87%B2%20MCI%20
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#Free%24%2076%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#Free%24%2081%20%40Outline_Vpn

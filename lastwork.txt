@@ -67364,3 +67364,6 @@ vless://6f7299b9-f18b-4b85-bbef-60fe2a0d0715@ez-e7ab47.ezaccess12cb30b.workers.d
 vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@104.16.92.229:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.1ms
 vless://a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b@45.130.125.114:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇸🇨®️Seychelles©️Victoria🅿️ping:46.9ms
 vless://c549264d-5e6f-4c38-ac8d-c4a116635f3e@104.18.175.54:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.97ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=none&type=ws&host=172.217.20.225&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:36.14ms
+vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80??path=%2Fvless&security=none&type=ws&host=172.217.20.225&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.88ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??encryption=none&host=172.217.20.225&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:48.85ms
