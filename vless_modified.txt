@@ -42,16 +42,19 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://1bb9e882-3000-4c40-b4a0-c2dd0d9794e0@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:41.41ms
-vless://3f150e42-18f8-43cb-a4da-cb48ca2a21e1@hentai-cdn.apruxdomain.xyz:80??security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:84.13ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:45.71ms
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80??encryption=none&host=172.217.20.225&path=%2Frutube&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:43.04ms
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??encryption=none&host=172.217.20.225&path=/vless/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:35.51ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:25.97ms
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:35.51ms
-vless://3f150e42-18f8-43cb-a4da-cb48ca2a21e1@hentai-cdn.apruxdomain.xyz:80??security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:89.67ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:25.97ms
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80??encryption=none&host=172.217.20.225&path=/vless/&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:74.88ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??security=none&allowInsecure=0&encryption=none&type=ws&host=172.217.20.225&path=/#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:59.94ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:66.01ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:45.4ms
+vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80??path=%2Fvless&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:57.88ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??path=/&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:79.77ms
+vless://6f7299b9-f18b-4b85-bbef-60fe2a0d0715@ez-e7ab47.ezaccess12cb30b.workers.dev:80??path=%2F&security=none&encryption=none&insecure=0&host=172.217.20.225&fp=chrome&type=ws&allowInsecure=0&sni=ez-e7ab47.ezaccess12cb30b.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:116.05ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:59.94ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:59.94ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:61.7ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.88ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??security=&type=ws&path=/&host=172.217.20.225&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:66.01ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:49.81ms
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80??path=%2Frutube&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:97.69ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -162,6 +165,12 @@ vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&
 vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80??path=%2Fdownload&security=&encryption=none&host=172.217.20.225&type=ws# https://t.me/V2ray_for_free
 vless://424c2031-1add-4063-8fc0-d57dc8358b21@151.101.0.155:80??path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=172.217.20.225&type=ws#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%40v2ray_ngchanl%20%F0%9F%87%B9%F0%9F%87%B7 #https://t.me/V2ray_for_free
 vless://634e1883-0f11-4ab5-9e41-90d0c0d22463@free.fastly80.hosting-ip.com:80??host=vPnGloBALholanduserland344.com&path=%2F%3Fed%3D1048&security=none&type=ws&host=172.217.20.225#New-7059414778_b7ed#https://t.me/V2ray_for_free
+vless://20fc97f0-819c-4186-9004-33e93333f821@185.147.27.105:80??security=&encryption=none&fp=firefox&type=ws&host=172.217.20.225#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dt.me%2FConfigV2RayNG
+vless://1028a267-929a-45ca-a5d8-13dd180941d5@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#%E2%9C%88%EF%B8%8F%20%40ConfigV2RayNG
+vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dt.me%2FConfigV2RayNG
+vless://20fc97f0-819c-4186-9004-33e93333f821@185.147.27.105:80??security=&encryption=none&fp=firefox&type=ws&host=172.217.20.225#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dt.me%2FConfigV2RayNG
+vless://1028a267-929a-45ca-a5d8-13dd180941d5@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#%E2%9C%88%EF%B8%8F%20%40ConfigV2RayNG
+vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dt.me%2FConfigV2RayNG
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??encryption=none&host=172.217.20.225&path=%2F&security=none&type=ws#@Network_442_%20%F0%9F%87%BA%F0%9F%87%B2%20MCI%20
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=172.217.20.225&type=ws# TELEGRAM @PROXY_MTM
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#telegram+%40proxy_mtm
@@ -240,6 +249,12 @@ vless://2877414f-d5bc-4bcf-8d82-470d92594504@snapp.ir:80??path=%2F&security=none
 vless://84a8c458-72e8-4ad3-a2c3-17a1e3f9e399@snapp.ir:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#@v2rayng3
 vless://04ac1574-583b-408b-a18f-259b62410ee3@199.232.57.91:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%40v2rayng3
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=172.217.20.225#@v2rayng3
+vless://20fc97f0-819c-4186-9004-33e93333f821@185.147.27.105:80??security=&encryption=none&fp=firefox&type=ws&host=172.217.20.225#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dt.me%2FConfigV2RayNG
+vless://1028a267-929a-45ca-a5d8-13dd180941d5@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#%E2%9C%88%EF%B8%8F%20%40ConfigV2RayNG
+vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dt.me%2FConfigV2RayNG
+vless://20fc97f0-819c-4186-9004-33e93333f821@185.147.27.105:80??security=&encryption=none&fp=firefox&type=ws&host=172.217.20.225#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dt.me%2FConfigV2RayNG
+vless://1028a267-929a-45ca-a5d8-13dd180941d5@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#%E2%9C%88%EF%B8%8F%20%40ConfigV2RayNG
+vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dt.me%2FConfigV2RayNG
 vless://-----WS-%69%70%56%32%52%61%79-----@www.speedtest.net:80??path=%2Fed%3D2048&security=none&encryption=none&host=172.217.20.225&type=ws# TELEGRAM @PROXY_MTM
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#telegram+%40proxy_mtm
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#telegram+%40proxy_mtm
