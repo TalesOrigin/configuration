@@ -544,12 +544,8 @@ vless://dd632900-378f-4e2b-ad89-84ea66478e94@185.147.27.105:80??path=%2F&securit
 vless://71788e0b-c27f-4dd2-ba78-aa682ba652b6@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://2e3e24de-b2fe-43ea-a7f0-4ab3379255e3@185.147.27.105:80??security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://871c5149-421e-45d5-8a75-dbbb22eec708@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
-vless://ddf3b0be-a335-492d-a768-49a303832e7c@snapp.ir:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 278
-vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#@Vip_Security join us - 223
-vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80??security=none&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 174
-vless://5a802fbb-00ed-4447-bece-3e0faf45e213@newus.mmrknight.app:80??path=%2FTelegram-Raiv2mmr.php&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 152
-vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#@Vip_Security join us - 96
-vless://1028a267-929a-45ca-a5d8-13dd180941d5@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#@Vip_Security join us - 94
+vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@185.147.27.105:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#@Vip_Security join us - 555
+vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80??security=none&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 508
 vless://5142d845-0105-4f40-a7e8-e2a6c192ffe4@s5.tehranionliine.ir:80??path=%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://311ed715-11a6-48ff-b8a0-a922e326cdad@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
