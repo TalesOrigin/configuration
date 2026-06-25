@@ -90,19 +90,6 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@188.114.97.6:80??path=/nexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:37.77ms
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@mci.nexuschat.fun:80??path=/nexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:153.36ms
-vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@14.102.228.201:80??path=/nexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇿®️Czechia©️Prague🅿️ping:46.93ms
-vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@14.102.228.201:80??path=/nexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇿®️Czechia©️Prague🅿️ping:44.11ms
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:35.47ms
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@mci.nexuschat.fun:80??path=%2Fnexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:75.19ms
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:73.92ms
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@188.114.97.6:80??path=%2Fnexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:32.68ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.241.151:80??path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:38.99ms
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@188.114.97.6:80??path=%2Fnexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44.09ms
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@mci.nexuschat.fun:80??path=%2Fnexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:184.61ms
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@188.114.97.6:80??path=/nexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:32.68ms
-vless://d1e2cc62-a7e0-483d-9553-6511bcdfe727@185.147.27.105:80??encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:49.42ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.118.151:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F#@meliproxyy
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.244.151:80??encryption=none&type=ws&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=172.217.20.225#@meliproxyy
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#@meliproxyy
@@ -110,7 +97,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80??encryption=none&t
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#@meliproxyy
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.118.151:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#@meliproxyy
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.118.151:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%40outline_ir
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.205.151:80??path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=172.217.20.225&type=ws#%40outline_ir
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%40outline_ir
