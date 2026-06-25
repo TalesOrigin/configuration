@@ -67704,3 +67704,6 @@ vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@188.114.97.6:80??path=%2Fnexus&secu
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@mci.nexuschat.fun:80??path=%2Fnexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:184.61ms
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@188.114.97.6:80??path=/nexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:32.68ms
 vless://d1e2cc62-a7e0-483d-9553-6511bcdfe727@185.147.27.105:80??encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:49.42ms
+vless://01bda09b-f79a-4e47-b903-acaae59ebfee@185.147.27.105:80??encryption=none&type=ws&security=none&path=/&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:37.46ms
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80??encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:62.73ms
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:62.73ms
