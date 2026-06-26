@@ -67753,3 +67753,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.137.151:80??host=max-gb1.gl
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.109.107:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=172.217.20.225&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.23ms
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.96.3:80??security=none&encryption=none&type=ws&host=172.217.20.225&path=/c6L2QcfPLGJiqj1c?ed=2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:33.64ms
 vless://311ed715-11a6-48ff-b8a0-a922e326cdad@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:40.88ms
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80??path=%2Frutube&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:68.0ms
+vless://2e3e24de-b2fe-43ea-a7f0-4ab3379255e3@185.147.27.105:80??security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:40.01ms
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:40.2ms
