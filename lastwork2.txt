@@ -1363,3 +1363,4 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.242.151:80??path=%2F%3Fhttp
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80??encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:32.5ms
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:35.47ms
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:73.92ms
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80??encryption=none&path=/vless/&security=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:70.04ms
