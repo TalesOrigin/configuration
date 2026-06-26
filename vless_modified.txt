@@ -681,7 +681,7 @@ vless://71788e0b-c27f-4dd2-ba78-aa682ba652b6@185.147.27.105:80??path=%2F&securit
 vless://2e3e24de-b2fe-43ea-a7f0-4ab3379255e3@185.147.27.105:80??security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://871c5149-421e-45d5-8a75-dbbb22eec708@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-vless://290a1fba-93a3-4004-bd56-0565a956a209@185.143.235.200:80??path=%2Farvancloud.ir&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 12
+vless://290a1fba-93a3-4004-bd56-0565a956a209@185.143.235.200:80??path=%2Farvancloud.ir&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 8
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://311ed715-11a6-48ff-b8a0-a922e326cdad@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
