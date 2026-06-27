@@ -67774,3 +67774,8 @@ vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.132.185:80??path=%2FTelegram
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:62.49ms
 vless://311ed715-11a6-48ff-b8a0-a922e326cdad@185.147.27.105:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:62.49ms
 vless://OwLimbow@31.56.177.68:80??path=%2Fws&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:64.97ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:35.07ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.239.151:80??allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=172.217.20.225&path=/#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo🅿️ping:41.12ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.239.151:80??host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇳🇴®️Norway©️Oslo🅿️ping:41.12ms
+vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80??encryption=none&host=172.217.20.225&path=%2Ftelegram-xv2ry2&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.75ms
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80??ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=172.217.20.225&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.74ms
