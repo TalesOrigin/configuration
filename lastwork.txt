@@ -67801,3 +67801,4 @@ vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80??path=%2Frutube&sec
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80??path=%2Frutube&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:37.89ms
 vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@mci.nexuschat.fun:80??path=/nexus&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:131.91ms
 vless://add92d7a-6167-4230-82ba-22c31019c8f9@zeus-panel-y7oul5.zeus-gjioyx.workers.dev:80??path=%2F&security=&encryption=none&host=172.217.20.225&fp=chrome&type=ws&sni=zeus-panel-y7oul5.zeus-gjioyx.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:66.95ms
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80??path=%2Frutube&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:50.79ms
