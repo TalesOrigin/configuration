@@ -155,8 +155,7 @@ vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80??path=%2FTelegram%3A%40N
 vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&encryption=none&host=172.217.20.225&type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG@freV2rayNGحجم نامحدودمدت اعتبار چند روز
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
-vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 422
-vless://4783d719-6dfc-475a-a6be-d779ecffaf26@185.143.235.200:80??path=%2Farvancloud.ir&security=none&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 403
+vless://4783d719-6dfc-475a-a6be-d779ecffaf26@185.143.235.200:80??path=%2Farvancloud.ir&security=none&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 24
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%24%20133%20%40Outline_Vpn
