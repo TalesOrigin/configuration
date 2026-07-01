@@ -5,14 +5,14 @@ vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80??path=%2Fvl
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%D9%87%D9%84%D9%86%D8%AF
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%202
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%203
-vless://af77d53f-a0e4-456e-b977-696bf081dcc8@accountdb.ir:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#🆔soskeynet%20🔓%20VL-WS-N/A%20🇺🇸%20US%20112ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20❔%20XX%206ms
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.244.151:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20❔%20XX%20108ms
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@108.162.195.230:80??encryption=none&type=ws&path=%2F%3Fed%3D3000&host=172.217.20.225#🆔spotify_porteghali%20🔓%20VL-WS-N/A%20❔%20XX%206ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20❔%20XX%202ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.244.151:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20❔%20XX%20105ms
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#🆔lrnbymaa%20🔓%20VL-WS-N/A%20❔%20XX%20down
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@108.162.195.230:80??encryption=none&type=ws&path=%2F%3Fed%3D3000&host=172.217.20.225#🆔spotify_porteghali%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#🆔spotify_porteghali%20🔓%20VL-WS-N/A%20❔%20XX%20down
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80??encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20down
-vless://61c26331-82fc-4589-80b2-65b29bfee7bf@Cdn-nxmzkzn.serendpiti.ir:80??encryption=none&type=ws&security=none&host=172.217.20.225&path=%2Fmmdoc#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20105ms
-vless://MIMITDL@65.109.212.53:80??path=%2F%3Fed%3D1024&security=none&encryption=none&host=172.217.20.225&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20❔%20XX%20down
+vless://c4beb402-ff66-4f4d-83a3-f68dc6929d10@31.15.17.124:80??encryption=none&type=ws&path=%2Fws&host=172.217.20.225#🆔spotify_porteghali%20🔓%20VL-WS-N/A%20❔%20XX%20down
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80??encryption=none&host=172.217.20.225&path=%2F&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇺🇸%20US%202ms
+vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80??path=%2Fnotbin&security=none&encryption=none&host=172.217.20.225&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇫🇮%20FI%20down
 vless://e927c61f-8a00-45a5-9d43-06ac4f1b8b0e@188.114.96.3:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2FQyAbjEiGvmffRF36%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.96.3%3A80
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.87.230%3A80
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.40.145%3A80
@@ -131,8 +131,8 @@ vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fv
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://53478ba3-11be-4846-a3f2-59cf513f52cc@tun.bytodev.ir:80??path=%2Fws&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
-vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 415
-vless://290a1fba-93a3-4004-bd56-0565a956a209@185.143.235.200:80??path=%2Farvancloud.ir&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 406
+vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 30
+vless://290a1fba-93a3-4004-bd56-0565a956a209@185.143.235.200:80??path=%2Farvancloud.ir&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 17
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://53478ba3-11be-4846-a3f2-59cf513f52cc@tun.bytodev.ir:80??path=%2Fws&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
