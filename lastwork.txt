@@ -67805,3 +67805,4 @@ vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80??path=%2Frutube&sec
 vless://c817e394-7688-4970-f864-2c92b93821aa@82.40.62.46:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fdownload.php&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:36.95ms
 vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80??encryption=none&host=172.217.20.225&path=%2Ftelegram-xv2ry2&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.77ms
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80??path=%2Frutube&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:39.02ms
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:54.33ms
