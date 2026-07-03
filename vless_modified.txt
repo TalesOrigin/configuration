@@ -125,17 +125,18 @@ vless://9b4a2cd4-7d28-4ebe-d701-95723b811aff@ZULA.IR:80??path=%2FTelegram%3A%40N
 vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&encryption=none&host=172.217.20.225&type=ws#%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%87+%D9%85%D8%B1%D8%BA+%40freV2rayNG@freV2rayNGحجم نامحدودمدت اعتبار چند روز
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
-vless://290a1fba-93a3-4004-bd56-0565a956a209@185.143.235.200:80??path=%2Farvancloud.ir&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 415
+vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 440
+vless://290a1fba-93a3-4004-bd56-0565a956a209@185.143.235.200:80??path=%2Farvancloud.ir&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 429
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%24%20133%20%40Outline_Vpn
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%24%20136%20%40Outline_Vpn
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20196%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20200%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20204%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.24.151:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20214%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.118.151:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20221%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20223%20%40Outline_Vpn
+vless://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@72.62.211.211:80??path=%2FtelegramSoonTeam&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20345%20%40Outline_Vpn
 vless://697d71fa-364d-4af0-8ef6-207913344555@javid.purples.ir:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#V2rayNG3
 vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#@V2eayNG3
 vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#V2rayNG3
