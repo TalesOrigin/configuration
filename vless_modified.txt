@@ -138,7 +138,6 @@ vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80??path=%2F&securi
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20196%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20200%20%40Outline_Vpn
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%24Free%20204%20%40Outline_Vpn
