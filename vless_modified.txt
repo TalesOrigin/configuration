@@ -1,10 +1,3 @@
-vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%97%BF
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80??path=%2Fvless%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%D9%87%D9%84%D9%86%D8%AF
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%202
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80??path=%2F&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%203
 vless://f153bc6f-429b-2dba-3c02-c7a32c18c84f@172.67.74.146:80??encryption=none&type=ws&path=%2Fmohsen&host=172.217.20.225#🆔configfa%20🔓%20VL-WS-N/A%20🇺🇸%20US%201ms
 vless://f153bc6f-429b-2dba-3c02-c7a32c18c84f@172.67.74.146:80??encryption=none&type=ws&path=%2Fmohsen&host=172.217.20.225#🆔configfa%20🔓%20VL-WS-N/A%20🇺🇸%20US%202ms
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20❔%20XX%201ms
