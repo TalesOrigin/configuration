@@ -238,6 +238,18 @@
         "v": "2"
     },
     {
+        "add": "38.107.234.57",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "port": "80",
+        "scy": "auto",
+        "v": "2",
+        "net": "ws",
+        "host": "91.341.94.160",
+        "path": "/vmess/",
+        "tls": "none",
+        "ps": "KZ \ud83c\uddf0\ud83c\uddff | @Raydikalx | 3003"
+    },
+    {
         "v": "2",
         "ps": "\u672a\u77e533 863.8KB/s",
         "add": "132.145.80.230",
