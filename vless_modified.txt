@@ -136,7 +136,6 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80??path=%2FTelegram%3
 vless://54f6511e-5ea2-46b8-8475-7adc729ece51@webmail.azinsaraco.ir:80??path=%2FZEUS_PANEL_BOT&security=none&encryption=none&host=172.217.20.225&fp=ios&type=ws&sni=zeus-panel-cxyca3.zeus-butoun#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://f5b2ef1a-6ee5-41bb-827e-37ddcf60aa4a@104.253.74.87:80??path=%2Fassets%2Fjs%2Fapp-v2.8.4-5f9a2b3c.js&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
-vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 500
 vless://54f6511e-5ea2-46b8-8475-7adc729ece51@webmail.azinsaraco.ir:80??path=%2FZEUS_PANEL_BOT&security=none&encryption=none&host=172.217.20.225&fp=ios&type=ws&sni=zeus-panel-cxyca3.zeus-butoun#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://f5b2ef1a-6ee5-41bb-827e-37ddcf60aa4a@104.253.74.87:80??path=%2Fassets%2Fjs%2Fapp-v2.8.4-5f9a2b3c.js&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
