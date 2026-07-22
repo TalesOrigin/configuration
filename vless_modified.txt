@@ -38,7 +38,6 @@ vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80??path=%2Fvless%2F&
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80??path=%2Fhttp&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80??path=%2Fhttp&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%A8
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=&encryption=none&type=ws&host=172.217.20.225#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80??encryption=none&type=ws&path=%2F&host=172.217.20.225#@meliproxyy
 vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=172.217.20.225#@meliproxyy
