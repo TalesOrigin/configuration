@@ -36,15 +36,11 @@ vless://a69d5300-8101-47b5-9448-6730f228af37@167.82.0.1:80??security=&encryption
 vless://a69d5300-8101-47b5-9448-6730f228af37@167.82.0.17:80??security=&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@167.82.0.1:80??security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@151.101.56.7:80??security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
+vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.72.162:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%AD
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20131%20%40Outline_Vpn
 vless://d566d849-ab28-4695-b01f-dcd284b67f5c@91.193.58.166:80??path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20128%20%40Outline_Vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20110%20%40Outline_Vpn
-vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.72.162:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%AD
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@151.101.56.7:80??security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80??path=%2Fhttp&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80??path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=172.217.20.225&type=ws#%40vpnfail_bot%20free%v2ray
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80??path=/vless&security=none&encryption=none&host=172.217.20.225&type=ws#openvpn-ssh.com-Inikoteslab23cz📍For example | Ntls
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80??path=/vless&security=none&encryption=none&host=172.217.20.225&type=ws#openvpn-ssh.com-Inikoteslab23cz
