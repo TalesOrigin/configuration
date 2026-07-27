@@ -34,8 +34,6 @@ vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@167.82.0.17:80??security=&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://a69d5300-8101-47b5-9448-6730f228af37@167.82.0.1:80??security=&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://a69d5300-8101-47b5-9448-6730f228af37@167.82.0.17:80??security=&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@167.82.0.1:80??security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@151.101.56.7:80??security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20131%20%40Outline_Vpn
 vless://d566d849-ab28-4695-b01f-dcd284b67f5c@91.193.58.166:80??path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20128%20%40Outline_Vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20110%20%40Outline_Vpn
@@ -54,6 +52,7 @@ vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.72.162:80??path=%2F&security
 vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@104.16.72.162:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Server%20102✅دوستان لطفا کانفیگ ها را برای دوستان خود هم ارسال کنید تا استفاده کنن🆔 ➠ @v2rayNG_Matsuri✅خرید مستقیم از پشتیبانی🆔 ➠ @Kian_Admin_Supporrt
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80??path=%2Fvless%2F&security=&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80??path=%2Fdl%2Findex.php&security=none&encryption=none&host=172.217.20.225&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+vless://6bd7815d-9fb0-41c6-87ef-ffc713bf6b8f@151.101.193.54:80??security=none&encryption=none&host=172.217.20.225&type=ws#%40FreeLand8%E2%81%B4ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg@coco3.farajet.net:3030#%40FreeLand8%E2%81%B5ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@212.83.51.81:1080#%40FreeLand8%E2%81%B6
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20110%20%40Outline_Vpn
 vless://d566d849-ab28-4695-b01f-dcd284b67f5c@91.193.58.166:80??path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20128%20%40Outline_Vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20131%20%40Outline_Vpn
@@ -130,8 +129,6 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&sec
 vless://d566d849-ab28-4695-b01f-dcd284b67f5c@91.193.58.166:80??path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20128%20%40Outline_Vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20131%20%40Outline_Vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20131%20%40Outline_Vpn
-vless://95de071f-747c-dc07-36ac-5c0854a9e50e@172.67.148.26:80??security=none&type=ws&path=%2Fsync&host=172.217.20.225&packetEncoding=xudp#https://t.me/ShadowsocksM
-vless://95de071f-747c-dc07-36ac-5c0854a9e50e@172.67.148.26:80??security=none&type=ws&path=%2Fsync&host=172.217.20.225&packetEncoding=xudp#https://t.me/ShadowsocksM
 vless://697d71fa-364d-4af0-8ef6-207913344555@javid.purples.ir:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#V2rayNG3
 vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#@V2eayNG3
 vless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#V2rayNG3
