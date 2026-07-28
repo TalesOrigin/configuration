@@ -67816,3 +67816,4 @@ vless://d5a2ab87-c1da-45ee-b9ed-8b62b6f79c47@104.19.228.247:80??path=%2FIn_Panel
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=&encryption=none&host=172.217.20.225&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:39.06ms
 vless://0d5f6432-f6a4-49d3-9322-d651125000d0@104.16.219.230:80??path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=&encryption=none&host=172.217.20.225&fp=ios&type=ws&sni=zeus-panel-hr6yzi.ezaccess11ab3ae.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.22ms
 vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@162.159.133.61:80??security=none&type=ws&host=172.217.20.225&path=%2Fvless-ntls#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.94ms
+vless://993aa8b6-7160-4202-970b-b3139cbc72a6@167.82.0.17:80??encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Dallas🅿️ping:91.93ms
