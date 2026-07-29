@@ -1,7 +1,7 @@
 [
     {
         "v": "2",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 5EC78C",
+        "ps": "PH \ud83c\uddf5\ud83c\udded | @Raydikalx | 5EC78C",
         "add": "61.245.11.60",
         "port": "80",
         "id": "a3e3a710-79f8-4ae0-b83c-607aab40d197",
@@ -78,7 +78,7 @@
         "net": "ws",
         "path": "/vmess/",
         "port": "80",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 941F21",
+        "ps": "PH \ud83c\uddf5\ud83c\udded | @Raydikalx | 941F21",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -109,6 +109,23 @@
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
+        "id": "83361983-a49b-490b-9910-e0de7e8d3a07",
+        "net": "ws",
+        "path": "/RACEVPN",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | CE6712"
+    },
+    {
+        "add": "www.speedtest.net",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
         "id": "cc142606-f36d-4004-bd2d-c5c2aa7efd4d",
         "net": "ws",
         "path": "/RACEVPN",
@@ -118,7 +135,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 7D5D5B"
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 7D5D5B"
     },
     {
         "v": "2",
@@ -139,7 +156,7 @@
     },
     {
         "v": "2",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 255C0A",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 255C0A",
         "add": "104.21.230.51",
         "port": "80",
         "aid": 0,
@@ -154,7 +171,7 @@
     },
     {
         "v": "2",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | A7A803",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | A7A803",
         "add": "104.21.235.76",
         "port": "80",
         "aid": 0,
@@ -168,7 +185,7 @@
     },
     {
         "v": "2",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 768C53",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 768C53",
         "add": "104.21.224.8",
         "port": "80",
         "aid": 0,
@@ -182,7 +199,7 @@
     },
     {
         "v": "2",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 9D66C0",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 9D66C0",
         "add": "104.21.237.65",
         "port": "80",
         "aid": 0,
@@ -196,7 +213,7 @@
     },
     {
         "v": "2",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 83D3FA",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 83D3FA",
         "add": "104.21.224.23",
         "port": "80",
         "type": "none",
@@ -209,7 +226,7 @@
     },
     {
         "v": "2",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 3B0D0B",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 3B0D0B",
         "add": "104.21.228.40",
         "port": "80",
         "id": "7022982f-da4c-48c9-c660-b2315abdcf7e",
@@ -264,7 +281,7 @@
         "net": "ws",
         "host": "91.341.94.160",
         "path": "/hms02.fxiaomi.sbs/link",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 4F2DF2"
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 4F2DF2"
     },
     {
         "add": "69.84.182.49",
@@ -278,7 +295,7 @@
         "path": "/",
         "pcs": "",
         "port": "80",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 73CC67",
+        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 73CC67",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -297,7 +314,7 @@
         "net": "ws",
         "path": "/1awNzxRSwKsdkPVKP0ZQqlHjt10sp",
         "port": "80",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 09B5EA",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 09B5EA",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -384,7 +401,7 @@
         "net": "ws",
         "path": "/vmess/",
         "port": "80",
-        "ps": "Global \ud83c\udf10 | @Raydikalx | 1289B5",
+        "ps": "AL \ud83c\udde6\ud83c\uddf1 | @Raydikalx | 1289B5",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -420,7 +437,7 @@
         "net": "ws",
         "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
         "port": "80",
-        "ps": "TR \ud83c\uddf9\ud83c\uddf7 | @Raydikalx | F3C0ED",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | F3C0ED",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -435,7 +452,7 @@
         "net": "ws",
         "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
         "port": "80",
-        "ps": "TR \ud83c\uddf9\ud83c\uddf7 | @Raydikalx | 6E1D00",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 6E1D00",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -461,6 +478,23 @@
         "v": "2"
     },
     {
+        "add": "www.speedtest.net",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "33ae86a0-473d-11ef-a6cd-1239d0255272",
+        "net": "ws",
+        "path": "/vmws",
+        "port": "80",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 48A894"
+    },
+    {
         "v": "2",
         "ps": "Global \ud83c\udf10 | @Raydikalx | 6CE2F7",
         "add": "us65.netfilx.live",
@@ -481,6 +515,23 @@
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
+        "id": "cc142606-f36d-4004-bd2d-c5c2aa7efd4d",
+        "net": "ws",
+        "path": "/RACEVPN",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | B5054A"
+    },
+    {
+        "add": "www.speedtest.net",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
         "id": "83361983-a49b-490b-9910-e0de7e8d3a07",
         "net": "ws",
         "path": "/RACEVPN",
@@ -490,7 +541,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | D21F9E"
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | D21F9E"
     },
     {
         "v": "2",
