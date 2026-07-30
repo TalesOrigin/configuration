@@ -45,11 +45,11 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80??encryption=none&se
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.112%3A80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.218.90%3A80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.148.184%3A80
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://e7b178da-65e8-45ad-8550-de40eb0a7835@162.159.62.1:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@167.82.0.17:80??encryption=none&type=ws&host=172.217.20.225#@meliproxyy
 vless://470c7664-3262-afbb-2bef-f6f0f5e83815@yas.masterdadeh.ir:80??path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.203&host=172.217.20.225#@meliproxyy
 vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F#@meliproxyy
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80??path=%2Fhttp&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20131%20%40Outline_Vpn
 vless://d566d849-ab28-4695-b01f-dcd284b67f5c@91.193.58.166:80??path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20128%20%40Outline_Vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20110%20%40Outline_Vpn
