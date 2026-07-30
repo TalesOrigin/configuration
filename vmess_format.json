@@ -1,5 +1,19 @@
 [
     {
+        "v": "2",
+        "add": "168.138.43.75",
+        "port": "80",
+        "id": "11c3627f-31e8-4695-dfbd-34076e2f1f5d",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "tls": "",
+        "path": "/cctv13.m3u8",
+        "host": "91.341.94.160",
+        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddef\ud83c\uddf5\u00ae\ufe0fJapan\u00a9\ufe0fMinoh (Saitoaokita)\ud83c\udd7f\ufe0fping:245ms"
+    },
+    {
         "add": "38.107.234.57",
         "aid": "0",
         "alpn": "",
@@ -372,7 +386,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | AAA996"
+        "ps": "SG \ud83c\uddf8\ud83c\uddec | @Raydikalx | AAA996"
     },
     {
         "add": "159.89.29.136",
