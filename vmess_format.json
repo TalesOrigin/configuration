@@ -677,6 +677,23 @@
         "v": "2"
     },
     {
+        "add": "fastly.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "88a34334-3a74-40e2-b1b9-4f8f4aa31f7d",
+        "net": "ws",
+        "path": "ws/?ed=2048",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | A40496"
+    },
+    {
         "add": "heu83ujieiwoeu83j2ewjehuwehu8.dentiscan.ca",
         "aid": "0",
         "alpn": "",
@@ -693,6 +710,19 @@
         "tls": "",
         "type": "---",
         "v": "2"
+    },
+    {
+        "v": "2",
+        "ps": "Global \ud83c\udf10 | @Raydikalx | 64BCCE",
+        "add": "irtr1.ngiftcard.com",
+        "port": "80",
+        "type": "none",
+        "id": "7c7af2de-bb97-429f-ac3c-8ef849717491",
+        "aid": "0",
+        "net": "ws",
+        "path": "/34L4qODA1XwJYopk6e398A",
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "add": "slime-rhinestone-spy.glitch.me",
