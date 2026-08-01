@@ -864,6 +864,19 @@
         "ps": "Global \ud83c\udf10 | @Raydikalx | 2B96DE"
     },
     {
+        "v": "2",
+        "ps": "Global \ud83c\udf10 | @Raydikalx | 8F66E3",
+        "add": "sg02.elizabethgilbert.buzz",
+        "port": "80",
+        "type": "none",
+        "id": "8aa67fc2-83d7-4554-8d66-4f06c63de0da",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "slime-rhinestone-spy.glitch.me",
         "aid": "0",
         "alpn": "",
@@ -878,7 +891,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 8341FA"
+        "ps": "SG \ud83c\uddf8\ud83c\uddec | @Raydikalx | 8341FA"
     },
     {
         "add": "TM_AZARBAYJAB1.SERV.9.pagES.DEV",
