@@ -749,6 +749,20 @@
         "vcn": ""
     },
     {
+        "v": "2",
+        "add": "6ernu3zmhsv7s95fm.lovebaipiao.net",
+        "port": "80",
+        "id": "c43f033c-cb9a-4f28-aae9-ca219c10807b",
+        "aid": "0",
+        "net": "ws",
+        "type": "ws",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "fp": "firefox",
+        "ps": "Global \ud83c\udf10 | @Raydikalx | D0A422"
+    },
+    {
         "add": "blang.kcapsys.com",
         "aid": "0",
         "alpn": "",
