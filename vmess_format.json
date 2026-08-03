@@ -314,6 +314,18 @@
     },
     {
         "v": "2",
+        "add": "104.21.51.208",
+        "port": "80",
+        "id": "cb4fca5f-edf8-415b-aa8f-ac52f415296a",
+        "aid": 0,
+        "scy": "chacha20-poly1305",
+        "net": "ws",
+        "host": "91.341.94.160",
+        "path": "/0fpZFB6IbpNptGAxAtI0QM",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 9F9F88"
+    },
+    {
+        "v": "2",
         "add": "104.26.15.148",
         "port": "80",
         "id": "f1fb28e5-e5b6-450c-972c-13235c94285c",
@@ -789,6 +801,20 @@
         "v": "2",
         "add": "6ernu3zmhsv7s95fm.lovebaipiao.net",
         "port": "80",
+        "id": "6a0a5673-2406-4fd3-b0e9-8ecbd6d16a3a",
+        "aid": "0",
+        "net": "ws",
+        "type": "ws",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "fp": "firefox",
+        "ps": "Global \ud83c\udf10 | @Raydikalx | 67DF16"
+    },
+    {
+        "v": "2",
+        "add": "6ernu3zmhsv7s95fm.lovebaipiao.net",
+        "port": "80",
         "id": "c43f033c-cb9a-4f28-aae9-ca219c10807b",
         "aid": "0",
         "net": "ws",
@@ -942,7 +968,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 8341FA"
+        "ps": "SG \ud83c\uddf8\ud83c\uddec | @Raydikalx | 8341FA"
     },
     {
         "add": "speed.cloudflare.com",
