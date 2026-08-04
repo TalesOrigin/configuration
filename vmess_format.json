@@ -864,6 +864,20 @@
         "ps": "Global \ud83c\udf10 | @Raydikalx | D0A422"
     },
     {
+        "add": "8095978a-4cf8-3668-bdf2-4bf7bd179086.oneplus.pub",
+        "v": 2,
+        "ps": "GB \ud83c\uddec\ud83c\udde7 | @Raydikalx | 14A30F",
+        "port": "80",
+        "id": "46cfcfe1-e450-459d-a3ab-9406011ab3eb",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "tls": "",
+        "path": "/"
+    },
+    {
         "add": "blang.kcapsys.com",
         "aid": "0",
         "alpn": "",
@@ -1755,6 +1769,23 @@
         "tls": "",
         "sni": "",
         "test_name": "117"
+    },
+    {
+        "add": "38.107.234.57",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\uddf0\ud83c\uddff",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "add": "61.245.11.60",
