@@ -1753,23 +1753,6 @@
         "test_name": "119"
     },
     {
-        "add": "38.107.234.57",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\uddf0\ud83c\uddff",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "61.245.11.60",
         "aid": "0",
         "alpn": "",
@@ -1995,6 +1978,24 @@
         "tls": "",
         "sni": "",
         "alpn": ""
+    },
+    {
+        "add": "pro.mzwebm.ir",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "f21d27ae-6412-4d4a-878d-a5edc51cf043",
+        "insecure": "0",
+        "net": "ws",
+        "path": "/vipmax",
+        "port": "80",
+        "ps": "\ud83c\uddfa\ud83c\uddf8@FreakConfig",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
     },
     {
         "add": "pro.mzwebm.ir",
