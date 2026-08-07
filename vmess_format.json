@@ -1074,6 +1074,23 @@
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | ACA26B"
     },
     {
+        "add": "speed.cloudflare.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "83361983-a49b-490b-9910-e0de7e8d3a07",
+        "net": "ws",
+        "path": "/RACEVPN",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | F1CFD2"
+    },
+    {
         "add": "TM_AZARBAYJAB1.SERV.9.pagES.DEV",
         "aid": "0",
         "alpn": "",
@@ -1832,6 +1849,26 @@
         "tls": "",
         "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
         "test_name": "131"
+    },
+    {
+        "add": "61.245.11.60",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "a3e3a710-79f8-4ae0-b83c-607aab40d197",
+        "insecure": "0",
+        "net": "ws",
+        "path": "/vmess/",
+        "pcs": "",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\uddf5\ud83c\udded",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "none",
+        "v": "2",
+        "vcn": ""
     },
     {
         "add": "61.245.11.60",
