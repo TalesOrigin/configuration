@@ -67818,3 +67818,4 @@ vless://0d5f6432-f6a4-49d3-9322-d651125000d0@104.16.219.230:80??path=%2FIn_Panel
 vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@162.159.133.61:80??security=none&type=ws&host=172.217.20.225&path=%2Fvless-ntls#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.94ms
 vless://993aa8b6-7160-4202-970b-b3139cbc72a6@167.82.0.17:80??encryption=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Dallas🅿️ping:91.93ms
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80??encryption=none&path=%2Fvless%2F&security=none&type=ws&host=172.217.20.225#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Gravelines🅿️ping:14.61ms
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80??path=/@v2ray_configs_pools?ed=2560&security=none&encryption=none&host=172.217.20.225&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#[42734][UnResolvedDomains][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
