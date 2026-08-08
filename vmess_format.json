@@ -64,6 +64,32 @@
     },
     {
         "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 9120C5",
+        "add": "104.19.33.86",
+        "port": "80",
+        "type": "none",
+        "id": "596cf967-3824-4a7c-a008-d65b5f9b5382",
+        "aid": "0",
+        "net": "ws",
+        "path": "/ws?ed=2048&Telegram\ud83c\udde8\ud83c\uddf3 @VPNine1",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 810C79",
+        "add": "104.19.33.86",
+        "port": "80",
+        "type": "none",
+        "id": "596cf967-3824-4a7c-a008-d65b5f9b5382",
+        "aid": "0",
+        "net": "ws",
+        "path": "/ws?ed=2048&Telegram\ud83c\udde8\ud83c\uddf3 @WangCai_8",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 513FF1",
         "add": "104.19.35.138",
         "port": "80",
@@ -1054,7 +1080,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 8341FA"
+        "ps": "SG \ud83c\uddf8\ud83c\uddec | @Raydikalx | 8341FA"
     },
     {
         "add": "speed.cloudflare.com",
