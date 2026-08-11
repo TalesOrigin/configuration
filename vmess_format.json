@@ -446,6 +446,21 @@
         "v": "2"
     },
     {
+        "v": "2",
+        "ps": "IN \ud83c\uddee\ud83c\uddf3 | @Raydikalx | 6E025E",
+        "add": "152.67.8.205",
+        "port": "80",
+        "id": "9db4c708-aef8-4359-821b-38e47990be0d",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "fp": "chrome"
+    },
+    {
         "add": "152.67.8.205",
         "aid": "0",
         "alpn": "",
