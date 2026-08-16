@@ -1867,26 +1867,6 @@
         "test_name": "87"
     },
     {
-        "add": "www.true.th",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "a150d554-e962-4632-829f-ee583ada3f95",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/htun",
-        "pcs": "",
-        "port": "80",
-        "ps": "Channel id: @ShadowProxy66 \ud83c\uddf3\ud83c\uddf1",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "vcn": ""
-    },
-    {
         "add": "61.245.11.60",
         "aid": "0",
         "alpn": "",
