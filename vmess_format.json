@@ -1234,7 +1234,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "SG \ud83c\uddf8\ud83c\uddec | @Raydikalx | 8341FA"
+        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 8341FA"
     },
     {
         "add": "speed.cloudflare.com",
@@ -1663,6 +1663,19 @@
         "type": "",
         "v": "2",
         "ps": "IR \ud83c\uddee\ud83c\uddf7 | @Raydikalx | 088EA3"
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd V2CROSS.COM",
+        "add": "www.true.th",
+        "port": "80",
+        "type": "none",
+        "id": "a150d554-e962-4632-829f-ee583ada3f95",
+        "aid": "0",
+        "net": "ws",
+        "path": "/htun",
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "v": "2",
