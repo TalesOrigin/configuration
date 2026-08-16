@@ -1024,6 +1024,23 @@
         "ps": "Global \ud83c\udf10 | @Raydikalx | D0A422"
     },
     {
+        "add": "74.48.28.190",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "4ed58974-48cd-472e-c818-fb847b8c551f",
+        "net": "ws",
+        "path": "/cctv13.m3u8",
+        "port": "80",
+        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | EC80C3",
+        "scy": "aes-128-gcm",
+        "sni": "",
+        "tls": "",
+        "type": "none",
+        "v": "2"
+    },
+    {
         "add": "8095978a-4cf8-3668-bdf2-4bf7bd179086.oneplus.pub",
         "v": 2,
         "ps": "GB \ud83c\uddec\ud83c\udde7 | @Raydikalx | 14A30F",
@@ -1217,7 +1234,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 8341FA"
+        "ps": "SG \ud83c\uddf8\ud83c\uddec | @Raydikalx | 8341FA"
     },
     {
         "add": "speed.cloudflare.com",
