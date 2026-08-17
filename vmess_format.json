@@ -1234,7 +1234,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 8341FA"
+        "ps": "SG \ud83c\uddf8\ud83c\uddec | @Raydikalx | 8341FA"
     },
     {
         "add": "speed.cloudflare.com",
@@ -5728,54 +5728,6 @@
         "tls": "",
         "type": "",
         "v": "2"
-    },
-    {
-        "add": "38.107.234.57",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "test_name": "47",
-        "tls": "",
-        "type": "none",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddff\u00ae\ufe0fKazakhstan\u00a9\ufe0fAlmaty\ud83c\udd7f\ufe0fping:100.01ms"
-    },
-    {
-        "add": "38.107.234.57",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "test_name": "47",
-        "tls": "",
-        "type": "none",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddff\u00ae\ufe0fKazakhstan\u00a9\ufe0fAlmaty\ud83c\udd7f\ufe0fping:100.01ms"
-    },
-    {
-        "add": "38.107.234.57",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
-        "net": "ws",
-        "path": "/vmess/",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "test_name": "47",
-        "tls": "",
-        "type": "none",
-        "v": "2",
-        "ps": "\ud83d\udc49\ud83c\udd94@v2ray_configs_pool\ud83d\udce1\ud83c\uddf0\ud83c\uddff\u00ae\ufe0fKazakhstan\u00a9\ufe0fAlmaty\ud83c\udd7f\ufe0fping:100.01ms"
     },
     {
         "add": "172.67.116.48",
