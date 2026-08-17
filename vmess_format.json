@@ -250,6 +250,24 @@
         "tls": ""
     },
     {
+        "add": "132.145.80.230",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "5155860e-d07d-46c3-9128-3afbd84626c7",
+        "nation": "",
+        "net": "ws",
+        "path": "/cctv13.m3u8",
+        "port": "80",
+        "ps": "KR \ud83c\uddf0\ud83c\uddf7 | @Raydikalx | A99D73",
+        "scy": "auto",
+        "serverPort": 0,
+        "skip-cert-verify": true,
+        "sni": "",
+        "tls": "",
+        "type": "none",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "JP \ud83c\uddef\ud83c\uddf5 | @Raydikalx | 75C7ED",
         "add": "168.138.43.75",
