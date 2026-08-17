@@ -286,6 +286,24 @@
         "insecure": "0"
     },
     {
+        "add": "168.138.43.75",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "11c3627f-31e8-4695-dfbd-34076e2f1f5d",
+        "net": "ws",
+        "path": "/cctv13.m3u8",
+        "port": "80",
+        "ps": "JP \ud83c\uddef\ud83c\uddf5 | @Raydikalx | 1E1C14",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "skip-cert-verify": true
+    },
+    {
         "add": "185.104.189.38",
         "aid": "0",
         "alpn": "",
