@@ -67837,3 +67837,4 @@ vless://c0c56b74-d656-4479-a4cb-99a8dd84703b@65.109.186.63:80??path=%2F&security
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@143.14.11.236:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=%2F#👉🆔@v2ray_configs_pool📡🇹🇭®️Thailand©️Bangkok🅿️ping:200.68ms
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80??security=none&type=ws&path=/&host=172.217.20.225&packetEncoding=xudp&sni=18.239.134.69#👉🆔@v2ray_configs_pool📡🇹🇭®️Thailand©️Bangkok🅿️ping:185.75ms
 vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80??encryption=none&host=172.217.20.225&path=%2F&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:3.27ms
+vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80??ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=172.217.20.225&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:3.22ms
