@@ -535,6 +535,23 @@
         "skip-cert-verify": true
     },
     {
+        "add": "74.48.28.190",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "4ed58974-48cd-472e-c818-fb847b8c551f",
+        "net": "ws",
+        "path": "/cctv13.m3u8",
+        "port": "80",
+        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 3211D4",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "none",
+        "v": "2",
+        "alpn": "",
+        "fp": ""
+    },
+    {
         "add": "heu83ujieiwoeu83j2ewjehuwehu8.dentiscan.ca",
         "aid": "0",
         "alpn": "",
