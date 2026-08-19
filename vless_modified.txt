@@ -1830,8 +1830,6 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80??path=%2Fhttp&secur
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80??path=%2Fvless%2F&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20313%20%40Outline_Vpn
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?type=ws&headerType=none&host=172.217.20.225&path=%2F#🗻🇹🇭TH
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?type=ws&headerType=none&host=172.217.20.225&path=%2F#🗻🇹🇭TH
-vless://04ac1574-583b-408b-a18f-259b62410ee3@199.232.57.91:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#%40v2rayng3
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=172.217.20.225#@v2rayng3
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80??path=/vless&security=none&encryption=none&host=172.217.20.225&type=ws#openvpn-ssh.com-Inikoteslab23cz📍For example | Ntls
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80??path=/vless&security=none&encryption=none&host=172.217.20.225&type=ws#openvpn-ssh.com-Inikoteslab23cz
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80??path=/vless&security=none&encryption=none&host=172.217.20.225&type=ws#openvpn-ssh.com-Inikoteslab23cz📍For example | Ntls

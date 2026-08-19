@@ -694,19 +694,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd V2CROSS.COM",
-        "add": "www.true.th",
-        "port": "80",
-        "type": "none",
-        "id": "a150d554-e962-4632-829f-ee583ada3f95",
-        "aid": "0",
-        "net": "ws",
-        "path": "/htun",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\u672a\u77e55",
         "add": "tr1-smart.adelping.com",
         "port": "80",
