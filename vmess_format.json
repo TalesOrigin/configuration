@@ -3786,26 +3786,6 @@
         "v": "2"
     },
     {
-        "add": "www.true.th",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "a150d554-e962-4632-829f-ee583ada3f95",
-        "insecure": "0",
-        "net": "ws",
-        "path": "/htun",
-        "pcs": "",
-        "port": "80",
-        "ps": "@Vip_Security join us - 476\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "vcn": ""
-    },
-    {
         "add": "172.67.116.48",
         "v": 2,
         "ps": "\ud83c\uddfa\ud83c\uddf8_US_\u7f8e\u56fd_2",
