@@ -1818,6 +1818,7 @@ vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80??encryption=none&
 vless://468d811a-8540-4517-9779-0f542b5150d2@104.24.7.232:80??encryption=none&security=none&type=ws&host=172.217.20.225&path=/?ed=2560#[12226][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=/http&security=&encryption=none&host=172.217.20.225&type=ws#[39080][FR][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80??path=%2F%3Fed%3D2048&security=&encryption=none&host=172.217.20.225&type=ws#[8671][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=172.217.20.225#@Vip_Security join us - 43
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%B7%40ELiV2ray%20%7C%20OVH
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80??path=%2Fvless%2F&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20313%20%40Outline_Vpn
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?type=ws&headerType=none&host=172.217.20.225&path=%2F#🗻🇹🇭TH
