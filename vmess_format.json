@@ -962,6 +962,22 @@
         "test_name": "98"
     },
     {
+        "add": "74.48.28.190",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "4ed58974-48cd-472e-c818-fb847b8c551f",
+        "net": "ws",
+        "path": "/cctv13.m3u8",
+        "port": "80",
+        "ps": "filembad-466",
+        "scy": "aes-128-gcm",
+        "sni": "",
+        "test_name": "US3",
+        "tls": "",
+        "type": "none",
+        "v": "2"
+    },
+    {
         "add": "www.true.th",
         "aid": "0",
         "alpn": "",
