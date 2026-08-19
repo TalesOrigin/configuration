@@ -484,6 +484,24 @@
         "skip-cert-verify": true
     },
     {
+        "v": "2",
+        "ps": "PH \ud83c\uddf5\ud83c\udded | @Raydikalx | A2E6D5",
+        "add": "61.245.11.60",
+        "port": "80",
+        "id": "a3e3a710-79f8-4ae0-b83c-607aab40d197",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/vmess/",
+        "tls": "",
+        "sni": "61.245.11.60",
+        "alpn": "",
+        "fp": "",
+        "name": "PH \ud83c\uddf5\ud83c\udded | @Raydikalx | A2E6D5"
+    },
+    {
         "add": "74.48.28.190",
         "aid": "0",
         "alpn": "",
@@ -4709,7 +4727,7 @@
         "path": "/htun",
         "pcs": "",
         "port": "80",
-        "ps": "@Vip_Security join us - 341\n",
+        "ps": "@Vip_Security join us - 476\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
