@@ -949,19 +949,20 @@
         "test_name": "98"
     },
     {
-        "add": "74.48.28.190",
+        "add": "www.true.th",
         "aid": "0",
+        "alpn": "",
+        "fp": "",
         "host": "91.341.94.160",
-        "id": "4ed58974-48cd-472e-c818-fb847b8c551f",
+        "id": "a150d554-e962-4632-829f-ee583ada3f95",
         "net": "ws",
-        "path": "/cctv13.m3u8",
+        "path": "/htun",
         "port": "80",
-        "ps": "filembad-466",
-        "scy": "aes-128-gcm",
+        "ps": "@meliproxyy \u0633\u0631\u0648\u0631\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631",
+        "scy": "auto",
         "sni": "",
-        "test_name": "US3",
         "tls": "",
-        "type": "none",
+        "type": "",
         "v": "2"
     },
     {
