@@ -286,6 +286,23 @@
         "v": "2"
     },
     {
+        "add": "151.101.193.57",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "b7dae211-7472-48bf-996c-57d6538d1ef4",
+        "net": "ws",
+        "path": "ws/?ed=2048",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | D9640A"
+    },
+    {
         "add": "159.89.29.136",
         "aid": "0",
         "host": "91.341.94.160",
@@ -725,6 +742,19 @@
         "type": "",
         "v": "2",
         "skip-cert-verify": true
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddeb\ud83c\uddee \u82ac\u5170(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
+        "add": "www.true.th",
+        "port": "80",
+        "type": "none",
+        "id": "a150d554-e962-4632-829f-ee583ada3f95",
+        "aid": "0",
+        "net": "ws",
+        "path": "/htun",
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "v": "2",
