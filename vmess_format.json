@@ -694,19 +694,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddf9\ud83c\udded \u6cf0\u56fd(mibei77.com \u7c73\u8d1d\u8282\u70b9\u5206\u4eab)",
-        "add": "www.true.th",
-        "port": "80",
-        "type": "none",
-        "id": "a150d554-e962-4632-829f-ee583ada3f95",
-        "aid": "0",
-        "net": "ws",
-        "path": "/htun",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\u672a\u77e59",
         "add": "188.114.96.145",
         "port": "80",
