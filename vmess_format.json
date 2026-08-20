@@ -517,6 +517,23 @@
         "name": "PH \ud83c\uddf5\ud83c\udded | @Raydikalx | A2E6D5"
     },
     {
+        "add": "61.245.11.60",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "a3e3a710-79f8-4ae0-b83c-607aab40d197",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "ps": "PH \ud83c\uddf5\ud83c\udded | @Raydikalx | F930DC",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "74.48.28.190",
         "aid": "0",
         "alpn": "",
