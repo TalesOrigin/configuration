@@ -528,6 +528,23 @@
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 26009C"
     },
     {
+        "add": "45.131.208.228",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "f491cbe4-7548-446c-8d3e-64008e3b1325",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "BZ \ud83c\udde7\ud83c\uddff | @Raydikalx | CA9ABE"
+    },
+    {
         "add": "45.15.170.237",
         "aid": "0",
         "alpn": "",
