@@ -1144,23 +1144,6 @@
         "test_name": "117"
     },
     {
-        "add": "www.true.th",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "a150d554-e962-4632-829f-ee583ada3f95",
-        "net": "ws",
-        "path": "/htun",
-        "port": "80",
-        "ps": "@meliproxyy \u0633\u0631\u0648\u0631\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "61.245.11.60",
         "aid": "0",
         "alpn": "",
