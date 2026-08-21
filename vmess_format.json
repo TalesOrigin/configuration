@@ -382,6 +382,23 @@
         "ps": "JP \ud83c\uddef\ud83c\uddf5 | @Raydikalx | 23C275"
     },
     {
+        "add": "172.67.171.43",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "b79a6959-6feb-43ba-b3c7-f1afae9ea32c",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | CACDAD",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "185.104.189.38",
         "aid": "0",
         "alpn": "",
@@ -445,6 +462,23 @@
         "tls": "",
         "type": "",
         "v": "2"
+    },
+    {
+        "add": "188.114.96.221",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "310fabb7-2abc-4301-b302-22aa49c954fb",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | DC1A27"
     },
     {
         "add": "188.114.96.42",
