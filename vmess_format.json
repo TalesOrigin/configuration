@@ -697,6 +697,26 @@
         "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 4452C9"
     },
     {
+        "add": "6ernu3zmhsv7s95fm.lovebaipiao.net",
+        "aid": "0",
+        "alpn": "",
+        "fp": "chrome",
+        "host": "91.341.94.160",
+        "id": "8978b84c-6b95-4494-beb6-5246ec82e9ad",
+        "insecure": "0",
+        "net": "ws",
+        "path": "/",
+        "pcs": "",
+        "port": "80",
+        "ps": "Global \ud83c\udf10 | @Raydikalx | 2B5C44",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "ws",
+        "v": "2",
+        "vcn": ""
+    },
+    {
         "add": "74.48.28.190",
         "aid": "0",
         "alpn": "",
