@@ -1,5 +1,22 @@
 [
     {
+        "add": "104.16.53.5",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "5ea4a644-07e9-4ad0-860d-50bd9b6e7f94",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | C71551"
+    },
+    {
         "v": "2",
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | FDA7C6",
         "add": "104.21.224.23",
