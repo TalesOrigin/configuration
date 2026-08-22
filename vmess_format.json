@@ -716,6 +716,22 @@
         "path": "/"
     },
     {
+        "v": "2",
+        "add": "cfcdn3.sanfencdn9.com",
+        "port": "80",
+        "id": "c712c725-149f-414a-a684-1e17d137fe4f",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/video/ibCT6z55",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "ps": "Global \ud83c\udf10 | @Raydikalx | B517AE"
+    },
+    {
         "add": "heu83ujieiwoeu83j2ewjehuwehu8.dentiscan.ca",
         "aid": "0",
         "alpn": "",
