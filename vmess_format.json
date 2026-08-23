@@ -35,6 +35,19 @@
     },
     {
         "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 167FDD",
+        "add": "104.20.239.88",
+        "port": "80",
+        "type": "none",
+        "id": "9ac947aa-de86-41c3-9a60-4c061c7c95f0",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmess",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | FDA7C6",
         "add": "104.21.224.23",
         "port": "80",
@@ -337,6 +350,19 @@
         "v": "2"
     },
     {
+        "v": "2",
+        "ps": "US \ud83c\uddfa\ud83c\uddf8 | @Raydikalx | 2D4470",
+        "add": "141.101.115.61",
+        "port": "80",
+        "type": "auto",
+        "id": "7496e6b1-7eee-49c5-9f74-56428d3b44d4",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "151.101.193.57",
         "aid": "0",
         "alpn": "",
@@ -590,6 +616,23 @@
         "path": "/vmess",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "add": "38.107.234.57",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "net": "ws",
+        "path": "/vmess/",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2",
+        "ps": "KZ \ud83c\uddf0\ud83c\uddff | @Raydikalx | 064060"
     },
     {
         "add": "45.131.208.228",
