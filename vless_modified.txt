@@ -1825,7 +1825,6 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80??path=/JOKERRVPN_B
 vless://44135c6f-cd61-402d-acd4-d9d54db7fa3a@helixgaming.ir:80??Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&path=/&host=172.217.20.225&encryption=none&type=ws#[11747][DE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-22][2026-08-22 00:32]
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.35.208:80??security=none&type=ws&host=172.217.20.225&path=/#[11565][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-22][2026-08-22 00:32]
 vless://fbfd2517-580b-4b48-8e5b-a528e66612ac@Mol1.misaghreserve.ir:80??path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=172.217.20.225&type=ws#[47236][UnResolvedDomains][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-22][2026-08-22 00:32]
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=172.217.20.225#@Vip_Security join us - 4
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#%F0%9F%87%AB%F0%9F%87%B7%40ELiV2ray%20%7C%20OVH
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80??path=%2Fvless%2F&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20313%20%40Outline_Vpn
 vless://9f8e7d6c-5b4a-4321-8b7a-6c5d4e3f2a1b@172.66.47.69:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20x30%20%40Outline_Vpn
