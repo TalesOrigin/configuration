@@ -439,6 +439,23 @@
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | D9640A"
     },
     {
+        "add": "152.67.8.205",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "9db4c708-aef8-4359-821b-38e47990be0d",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "IN \ud83c\uddee\ud83c\uddf3 | @Raydikalx | 00E443",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "159.89.29.136",
         "aid": "0",
         "host": "91.341.94.160",
