@@ -33,8 +33,6 @@ vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80??encryption=none&
 vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#@meliproxyy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??encryption=none&type=ws&host=172.217.20.225&path=/http&security=none#@meliproxyy
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&alpn=http%2F1.1&encryption=none&host=172.217.20.225&fp=chrome&type=ws#@meliproxyy
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80??path=%2F&security=&encryption=none&host=172.217.20.225&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%AD
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80??path=%2Fcontainers%2Ffi&security=none&encryption=none&host=172.217.20.225&type=ws#%40vpnfail_bot%20free%v2ray
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80??path=/vless&security=none&encryption=none&host=172.217.20.225&type=ws#openvpn-ssh.com-Inikoteslab23cz📍For example | Ntls
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80??path=/vless&security=none&encryption=none&host=172.217.20.225&type=ws#openvpn-ssh.com-Inikoteslab23cz
