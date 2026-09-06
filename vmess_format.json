@@ -314,6 +314,23 @@
         "ps": "KE \ud83c\uddf0\ud83c\uddea | @Raydikalx | 94415F"
     },
     {
+        "add": "104.25.228.174",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "5ea4a644-07e9-4ad0-860d-50bd9b6e7f94",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 075885"
+    },
+    {
         "v": "2",
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | C5361A",
         "add": "108.162.192.188",
