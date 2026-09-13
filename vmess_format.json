@@ -989,6 +989,21 @@
     },
     {
         "v": "2",
+        "ps": "GB \ud83c\uddec\ud83c\udde7 | @Raydikalx | A26980",
+        "add": "57.129.132.223",
+        "port": "80",
+        "id": "a25cbf11-2908-4a1b-a3a8-9a571777dca3",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "tls": "",
+        "alpn": "",
+        "path": "/vmess/",
+        "host": "91.341.94.160"
+    },
+    {
+        "v": "2",
         "ps": "PH \ud83c\uddf5\ud83c\udded | @Raydikalx | 957376",
         "add": "61.245.11.60",
         "port": "80",
