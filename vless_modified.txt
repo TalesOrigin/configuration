@@ -1267,8 +1267,8 @@ vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80??encryption=none&s
 vless://d9b9c976-cfcf-4271-9ed6-f19d41b1b978@www.speedtest.net:80??path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=172.217.20.225&type=ws#[31037][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-09-13][2026-09-13 01:45]
 vless://adb05543-e094-4901-91b4-67a8eb0169d9@zula.ir:80??path=%2Fvless&security=none&encryption=none&host=172.217.20.225&type=ws&sni=se1.vless.site#[25594][IR][0][VLESS][None][ext_raw.githubusercontent.com][2026-09-13][2026-09-13 01:45]
 vless://74ed78f1-4095-47e6-b043-094e494fb7e5@45.131.4.115:80??encryption=none&host=172.217.20.225&path=%2FsVnT0vhrV7WAl52Z&security=none&type=ws#[17029][NL][0][VLESS][None][ext_raw.githubusercontent.com][2026-09-13][2026-09-13 01:45]
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 97
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80??path=%2Fvless%2F&security=none&encryption=none&host=172.217.20.225&fp=chrome&type=ws#@Vip_Security join us - 15
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80??path=%2Fhttp&security=none&encryption=none&host=172.217.20.225&type=ws#@Vip_Security join us - 464
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80??path=%2Fvless%2F&security=none&encryption=none&type=ws&host=172.217.20.225#@Vip_Security join us - 371
 vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80??path=%2Fapi%2Fv2%2Fstream&security=none&encryption=none&type=ws&host=172.217.20.225#%F0%9F%87%B3%F0%9F%87%B1%40EliV2ray
 vless://87a4b6b9-d269-4959-bb80-1234b46c8d06@199.232.78.159:80??path=%2F&security=none&encryption=none&host=172.217.20.225&type=ws#Free%20x205%20%40Outline_Vpn
 vless://2415cbdc-e5fc-453e-91ad-0e2e532afb7c@de4.niekotin.de:80??path=/vless&security=none&encryption=none&host=172.217.20.225&type=ws#openvpn-ssh.com-Inikoteslab23cz📍For example | Ntls
