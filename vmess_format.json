@@ -947,6 +947,21 @@
         "host": "91.341.94.160"
     },
     {
+        "v": "2",
+        "ps": "KZ \ud83c\uddf0\ud83c\uddff | @Raydikalx | 6DBA9A",
+        "add": "3h-kazakhstan1.09vpn.com",
+        "port": "80",
+        "id": "567f4be5-12ab-42e1-b8d9-db6fd1fdd31c",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "tls": "",
+        "alpn": "",
+        "path": "/vmess/",
+        "host": "91.341.94.160"
+    },
+    {
         "add": "3h-kazakhstan1.09vpn.com",
         "aid": "0",
         "alpn": "",
