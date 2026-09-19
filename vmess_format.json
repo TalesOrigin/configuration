@@ -637,20 +637,6 @@
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | FC4649"
     },
     {
-        "v": "2",
-        "ps": "JP \ud83c\uddef\ud83c\uddf5 | @Raydikalx | A940D6",
-        "add": "168.138.43.75",
-        "port": "80",
-        "id": "11c3627f-31e8-4695-dfbd-34076e2f1f5d",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "tls": "",
-        "path": "/cctv13.m3u8",
-        "host": "91.341.94.160"
-    },
-    {
         "add": "168.138.43.75",
         "aid": "0",
         "alpn": "",
@@ -669,20 +655,6 @@
         "type": "",
         "v": "2",
         "vcn": ""
-    },
-    {
-        "v": "2",
-        "ps": "JP \ud83c\uddef\ud83c\uddf5 | @Raydikalx | 1E1C14",
-        "add": "168.138.43.75",
-        "port": "80",
-        "id": "11c3627f-31e8-4695-dfbd-34076e2f1f5d",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "tls": "",
-        "path": "/cctv13.m3u8",
-        "host": "91.341.94.160"
     },
     {
         "add": "172.111.146.64",
@@ -3808,7 +3780,7 @@
         "net": "ws",
         "path": "/cctv13.m3u8",
         "port": "80",
-        "ps": "@Vip_Security join us - 328\n",
+        "ps": "@Vip_Security join us - 405\n",
         "scy": "auto",
         "sni": "None",
         "tls": "",
@@ -3825,7 +3797,7 @@
         "net": "ws",
         "path": "/cctv13.m3u8",
         "port": "80",
-        "ps": "@Vip_Security join us - 327\n",
+        "ps": "@Vip_Security join us - 404\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
