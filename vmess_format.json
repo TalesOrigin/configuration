@@ -3720,6 +3720,23 @@
         "v": "2"
     },
     {
+        "add": "188.114.96.19",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "aed88e79-5762-4d2f-86fa-f438f32a7654",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "@Vip_Security join us - 326\n",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "---",
+        "v": "2"
+    },
+    {
         "add": "172.67.116.48",
         "v": 2,
         "ps": "\ud83c\uddfa\ud83c\uddf8_US_\u7f8e\u56fd_2",
