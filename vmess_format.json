@@ -791,6 +791,21 @@
     },
     {
         "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 1D8356",
+        "add": "188.114.96.19",
+        "port": "80",
+        "id": "479526cd-5011-43cf-a788-504da95e07c2",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "tls": "",
+        "alpn": "",
+        "path": "/",
+        "host": "91.341.94.160"
+    },
+    {
+        "v": "2",
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | A18C2A",
         "add": "188.114.96.19",
         "port": "80",
@@ -800,6 +815,7 @@
         "net": "ws",
         "type": "",
         "tls": "",
+        "alpn": "",
         "path": "/",
         "host": "91.341.94.160"
     },
@@ -3405,7 +3421,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 358\n",
+        "ps": "@Vip_Security join us - 326\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
