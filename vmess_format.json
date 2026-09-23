@@ -651,6 +651,20 @@
         "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | FC4649"
     },
     {
+        "v": "2",
+        "ps": "JP \ud83c\uddef\ud83c\uddf5 | @Raydikalx | A940D6",
+        "add": "168.138.43.75",
+        "port": "80",
+        "id": "11c3627f-31e8-4695-dfbd-34076e2f1f5d",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "tls": "",
+        "path": "/cctv13.m3u8",
+        "host": "91.341.94.160"
+    },
+    {
         "add": "168.138.43.75",
         "aid": "0",
         "alpn": "",
@@ -779,6 +793,20 @@
         "tls": "",
         "type": "",
         "v": "2"
+    },
+    {
+        "v": "2",
+        "ps": "CA \ud83c\udde8\ud83c\udde6 | @Raydikalx | 1D8356",
+        "add": "188.114.96.19",
+        "port": "80",
+        "id": "479526cd-5011-43cf-a788-504da95e07c2",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "tls": "",
+        "path": "/",
+        "host": "91.341.94.160"
     },
     {
         "v": "2",
@@ -3427,7 +3455,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 14\n",
+        "ps": "@Vip_Security join us - 326\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
