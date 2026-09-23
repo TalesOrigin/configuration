@@ -5,9 +5,9 @@ on:
   push:
     branches:
       - main
-  schedule:
+  #schedule:
     # Run every 60 minute
-    - cron: "*/60 * * * *"
+    #- cron: "*/60 * * * *"
 
 jobs:
   build:
